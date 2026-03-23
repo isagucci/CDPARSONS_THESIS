@@ -1,27 +1,39 @@
+/* Poster uses light canvas; override dark-theme body from theme.css */
+body.comparison-viz-page {
+  color: #1f2228;
+  background-color: #f6f3ee;
+}
+
 .poster-page {
   max-width: 1440px;
   margin: 0 auto;
   padding: 2rem 1.8rem 3.5rem;
   background: #f6f3ee;
   color: #1f2228;
+  font-family: var(--font-body);
 }
 
 .poster-header h1 {
+  font-family: var(--font-question);
   font-size: clamp(2.2rem, 4.2vw, 4rem);
+  font-weight: var(--type-display-weight, 700);
   line-height: 1.08;
   margin: 0 0 0.4rem;
 }
 
 .poster-kicker {
+  font-family: var(--font-title);
   text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-size: 0.72rem;
+  letter-spacing: var(--type-nav-tracking);
+  font-size: var(--type-kicker-size);
   opacity: 0.62;
   margin-bottom: 0.32rem;
 }
 
 .poster-subtitle {
-  font-size: 1rem;
+  font-family: var(--font-description);
+  font-size: var(--type-description-size);
+  line-height: var(--type-description-line);
   opacity: 0.78;
   max-width: 60rem;
 }
@@ -37,6 +49,7 @@
   display: inline-flex;
   align-items: center;
   gap: 0.45rem;
+  font-family: var(--font-body);
   font-size: 0.82rem;
 }
 
@@ -80,8 +93,9 @@
 
 .comparison-row__takeaway {
   margin: 0;
+  font-family: var(--font-question);
   font-size: clamp(1.15rem, 2.1vw, 1.55rem);
-  font-weight: 700;
+  font-weight: var(--type-display-weight, 700);
   line-height: 1.2;
   letter-spacing: -0.02em;
   color: #111520;

@@ -12,9 +12,10 @@
   <link rel="apple-touch-icon" sizes="128x128" href="assets/buffer_128%20px%20.png" />
   <link rel="stylesheet" href="css/fonts.css" />
   <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/theme.css" />
   <link rel="stylesheet" href="css/layout.css" />
   <link rel="stylesheet" href="css/components.css" />
-  <link rel="stylesheet" href="css/theme.css" />
+  <link rel="stylesheet" href="css/typography.css" />
   <link rel="stylesheet" href="css/ambient-mesh.css" />
   <link rel="stylesheet" href="css/results.css" />
   <link rel="stylesheet" href="css/results-journey.css" />
@@ -209,30 +210,32 @@
               <div class="results-dash-main-row">
                 <!-- Primary: your palette -->
                 <section class="results-dash-hero" aria-labelledby="profile-heading">
-                  <p class="results-dash-hero__eyebrow">Your palette</p>
-                  <h2 id="profile-heading" class="results-dash-hero__title"></h2>
-                  <div class="results-dash-hero__metrics">
-                    <section aria-label="Palette metrics" class="results-metrics results-metrics--hero">
-                      <h4 class="results-metrics__title results-sr-only">Palette metrics</h4>
-                      <div class="results-metrics-grid results-metrics-grid--hero">
-                        <div class="results-metric results-metric--chip">
-                          <p class="results-metric__label">Saturation</p>
-                          <p class="results-metric__value" id="results-metric-sat"></p>
+                  <div class="results-dash-hero__panel">
+                    <p class="results-dash-hero__eyebrow">Your palette</p>
+                    <h2 id="profile-heading" class="results-dash-hero__title"></h2>
+                    <div class="results-dash-hero__metrics">
+                      <section aria-label="Palette metrics" class="results-metrics results-metrics--hero">
+                        <h4 class="results-metrics__title results-sr-only">Palette metrics</h4>
+                        <div class="results-metrics-grid results-metrics-grid--hero">
+                          <div class="results-metric results-metric--chip">
+                            <p class="results-metric__label">Saturation</p>
+                            <p class="results-metric__value" id="results-metric-sat"></p>
+                          </div>
+                          <div class="results-metric results-metric--chip">
+                            <p class="results-metric__label">Brightness</p>
+                            <p class="results-metric__value" id="results-metric-bri"></p>
+                          </div>
+                          <div class="results-metric results-metric--chip">
+                            <p class="results-metric__label" id="results-metric-warm-label">Warm / cool</p>
+                            <p class="results-metric__value" id="results-metric-warm"></p>
+                          </div>
+                          <div class="results-metric results-metric--chip">
+                            <p class="results-metric__label">Neutral</p>
+                            <p class="results-metric__value" id="results-metric-neutral"></p>
+                          </div>
                         </div>
-                        <div class="results-metric results-metric--chip">
-                          <p class="results-metric__label">Brightness</p>
-                          <p class="results-metric__value" id="results-metric-bri"></p>
-                        </div>
-                        <div class="results-metric results-metric--chip">
-                          <p class="results-metric__label" id="results-metric-warm-label">Warm / cool</p>
-                          <p class="results-metric__value" id="results-metric-warm"></p>
-                        </div>
-                        <div class="results-metric results-metric--chip">
-                          <p class="results-metric__label">Neutral</p>
-                          <p class="results-metric__value" id="results-metric-neutral"></p>
-                        </div>
-                      </div>
-                    </section>
+                      </section>
+                    </div>
                   </div>
                   <div id="palette-swatches" class="results-palette__swatches results-dash-hero__swatches" aria-label="Your extracted palette swatches"></div>
                   <p id="profile-text" class="results-dash-hero__lede"></p>

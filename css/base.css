@@ -22,9 +22,10 @@ html {
 body {
   font-family: var(--font-body, var(--font-title, system-ui));
   color: var(--ink-soft);
-  font-size: 18px;
-  line-height: 1.4;
-  letter-spacing: -0.01em;
+  font-size: var(--type-body-lg-size, var(--type-body-size, 1.125rem));
+  font-weight: var(--type-body-lg-weight, var(--type-body-weight, 400));
+  line-height: var(--type-body-lg-line, var(--type-body-line, 1.4));
+  letter-spacing: var(--type-body-lg-tracking, var(--type-body-tracking, -0.01em));
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -41,26 +42,26 @@ h6 {
 
 h1 {
   font-family: var(--font-question, ui-serif);
-  font-size: 48px;
-  line-height: 1.2;
-  font-weight: 700;
-  letter-spacing: 0;
+  font-size: var(--type-h1-size, var(--type-display-size, 3rem));
+  line-height: var(--type-h1-line, var(--type-display-line, 1.2));
+  font-weight: var(--type-h1-weight, var(--type-display-weight, 700));
+  letter-spacing: var(--type-h1-tracking, 0);
 }
 
 h2 {
   font-family: var(--font-question, ui-serif);
-  font-size: 36px;
-  line-height: 1.2;
-  font-weight: 700;
-  letter-spacing: 0;
+  font-size: var(--type-h2-size, var(--type-title-size, 2.25rem));
+  line-height: var(--type-h2-line, var(--type-title-line, 1.2));
+  font-weight: var(--type-h2-weight, var(--type-title-weight, 700));
+  letter-spacing: var(--type-h2-tracking, 0);
 }
 
 h3 {
   font-family: var(--font-h3, system-ui);
-  font-size: 20px;
-  line-height: 1.2;
-  font-weight: 500;
-  letter-spacing: 0;
+  font-size: var(--type-h3-size, var(--type-ui-heading-size, 1.25rem));
+  line-height: var(--type-h3-line, var(--type-ui-heading-line, 1.2));
+  font-weight: var(--type-h3-weight, var(--type-ui-heading-weight, 500));
+  letter-spacing: var(--type-h3-tracking, 0);
 }
 
 p {

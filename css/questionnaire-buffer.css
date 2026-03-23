@@ -101,10 +101,11 @@
 
 .results-buffer-overlay__text {
   margin: 0;
-  font-family: var(--font-description, system-ui, sans-serif);
-  font-size: clamp(1rem, 2.8vw, 1.2rem);
-  font-weight: 500;
-  letter-spacing: 0.04em;
+  font-family: var(--font-body, system-ui, sans-serif);
+  font-size: var(--type-body-lg-size, 1.125rem);
+  font-weight: var(--type-body-lg-weight, 400);
+  line-height: var(--type-body-lg-line, 1.4);
+  letter-spacing: var(--type-body-lg-tracking, -0.01em);
   color: rgba(255, 255, 255, 0.88);
 }
 

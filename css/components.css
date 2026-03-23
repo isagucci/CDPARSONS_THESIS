@@ -5,8 +5,7 @@
     justify-content: center;
     padding: 0.6rem 1.4rem;
     border-radius: 999px;
-    font-size: 0.85rem;
-    letter-spacing: 0.14em;
+    /* font-size / letter-spacing: css/typography.css (Body Small spec) */
     text-transform: uppercase;
     border: 1px solid var(--hairline);
     background-color: transparent;
@@ -39,7 +38,7 @@
   .option-pill {
     border-radius: 999px;
     padding: 0.45rem 1.2rem;
-    font-size: 0.9rem;
+    /* font: typography.css — Body Small */
     border: 1px solid rgba(255, 255, 255, 0.24);
     background-color: transparent;
     color: var(--ink);

@@ -1,0 +1,192 @@
+/**
+ * Text hierarchy — design spec
+ * H1/H2: Freight Display Pro Bold 48/36px · lh 120% · tracking 0
+ * H3: Neue Haas Grotesk Display Pro Medium 20px · lh 120% · tracking 0
+ * Body Large: NH Grotesk Text Roman 18px · lh 140% · -1%
+ * Body Small: NH Grotesk Text Roman 14px · lh 140% · -1%
+ * Description: Freight Text Pro Book 12px · lh 140% · -1%
+ */
+
+/* —— Kickers & nav (Body Small + uppercase) —— */
+.site-header__label,
+.section-kicker {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+  text-transform: uppercase;
+  opacity: 0.6;
+}
+
+.site-nav__link {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+  text-transform: uppercase;
+}
+
+/* —— Section page titles = H2 —— */
+.section-header h2 {
+  font-family: var(--font-question);
+  font-size: var(--type-h2-size);
+  font-weight: var(--type-h2-weight);
+  line-height: var(--type-h2-line);
+  letter-spacing: var(--type-h2-tracking);
+}
+
+/* —— Landing hero = H1 —— */
+.landing-title {
+  font-family: var(--font-question);
+  font-size: var(--type-h1-size);
+  font-weight: var(--type-h1-weight);
+  line-height: var(--type-h1-line);
+  letter-spacing: var(--type-h1-tracking);
+}
+
+/* —— Results main page title = H1 —— */
+.section--results #results-title {
+  font-family: var(--font-question);
+  font-size: var(--type-h1-size);
+  font-weight: var(--type-h1-weight);
+  line-height: var(--type-h1-line);
+  letter-spacing: var(--type-h1-tracking);
+}
+
+/* —— Site header wordmark = Body Large —— */
+.site-header h1 {
+  font-family: var(--font-body);
+  font-size: var(--type-body-lg-size);
+  font-weight: var(--type-body-lg-weight);
+  line-height: var(--type-body-lg-line);
+  letter-spacing: var(--type-body-lg-tracking);
+}
+
+/* —— Supporting lines = Body Large —— */
+.section-note,
+.landing-intro {
+  font-family: var(--font-body);
+  font-size: var(--type-body-lg-size);
+  font-weight: var(--type-body-lg-weight);
+  line-height: var(--type-body-lg-line);
+  letter-spacing: var(--type-body-lg-tracking);
+  opacity: 0.78;
+}
+
+/* —— Editorial / long description = Description —— */
+.method-editorial__intro,
+.method-step__body,
+.results-profile__text {
+  font-family: var(--font-description);
+  font-size: var(--type-description-size);
+  font-weight: var(--type-description-weight);
+  line-height: var(--type-description-line);
+  letter-spacing: var(--type-description-tracking);
+}
+
+.climate-popup__meta {
+  font-family: var(--font-description);
+  font-size: var(--type-description-size);
+  font-weight: var(--type-description-weight);
+  line-height: var(--type-description-line);
+  letter-spacing: var(--type-description-tracking);
+  color: var(--ink-faint);
+}
+
+/* —— Footer = Body Small —— */
+.site-footer {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+  opacity: 0.7;
+}
+
+/* —— Questionnaire prompts = H3 —— */
+.question-text {
+  font-family: var(--font-h3);
+  font-size: var(--type-h3-size);
+  font-weight: var(--type-h3-weight);
+  line-height: var(--type-h3-line);
+  letter-spacing: var(--type-h3-tracking);
+}
+
+/* —— Progress / meta line = Body Small —— */
+.question-progress-text {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+
+/* —— Method step summary title = H3 —— */
+.method-step__title {
+  font-family: var(--font-h3);
+  font-size: var(--type-h3-size);
+  font-weight: var(--type-h3-weight);
+  line-height: var(--type-h3-line);
+  letter-spacing: var(--type-h3-tracking);
+}
+
+/* —— Method table cells = Body Small —— */
+.method-table td {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+}
+
+/* —— Method step index = Body Small —— */
+.method-step__kicker {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+  text-transform: uppercase;
+  opacity: 0.68;
+}
+
+/* —— Buttons = Body Small (NH Text) —— */
+.button {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+}
+
+.option-pill {
+  font-family: var(--font-body);
+  font-size: var(--type-body-sm-size);
+  font-weight: var(--type-body-sm-weight);
+  line-height: var(--type-body-sm-line);
+  letter-spacing: var(--type-body-sm-tracking);
+  text-transform: none;
+}
+
+/* —— Climate popup titles = H1 / H2 scale (responsive, capped at spec) —— */
+.climate-popup__h1 {
+  font-family: var(--font-question);
+  font-size: clamp(1.25rem, 4.4vw, var(--type-h1-size));
+  font-weight: var(--type-h1-weight);
+  line-height: var(--type-h1-line);
+  letter-spacing: var(--type-h1-tracking);
+  color: var(--ink);
+}
+
+.climate-popup__h2 {
+  font-family: var(--font-question);
+  font-size: clamp(1.125rem, 3.6vw, var(--type-h2-size));
+  font-weight: var(--type-h2-weight);
+  line-height: var(--type-h2-line);
+  letter-spacing: var(--type-h2-tracking);
+  color: var(--ink-soft);
+}

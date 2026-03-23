@@ -41,6 +41,73 @@
     --font-body: "neue-haas-grotesk-text-pro", system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
       "Helvetica Neue", Arial, sans-serif;
     --font-description: "freight-text-pro", ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", Times, serif;
+
+    /*
+     * Typography scale — design spec (16px root)
+     * H1/H2: Freight Display Pro Bold 48/36px, 120%, 0
+     * H3: Neue Haas Grotesk Display Pro Medium 20px, 120%, 0
+     * Body Large: NH Grotesk Text Roman 18px, 140%, -1%
+     * Body Small: NH Grotesk Text Roman 14px, 140%, -1%
+     * Description: Freight Text Pro Book 12px, 140%, -1%
+     */
+    --type-h1-size: 3rem; /* 48px */
+    --type-h1-weight: 700;
+    --type-h1-line: 1.2;
+    --type-h1-tracking: 0;
+
+    --type-h2-size: 2.25rem; /* 36px */
+    --type-h2-weight: 700;
+    --type-h2-line: 1.2;
+    --type-h2-tracking: 0;
+
+    --type-h3-size: 1.25rem; /* 20px */
+    --type-h3-weight: 500; /* Medium */
+    --type-h3-line: 1.2;
+    --type-h3-tracking: 0;
+
+    --type-body-lg-size: 1.125rem; /* 18px */
+    --type-body-lg-weight: 400; /* Roman */
+    --type-body-lg-line: 1.4; /* 140% */
+    --type-body-lg-tracking: -0.01em; /* -1% */
+
+    --type-body-sm-size: 0.875rem; /* 14px */
+    --type-body-sm-weight: 400;
+    --type-body-sm-line: 1.4;
+    --type-body-sm-tracking: -0.01em;
+
+    --type-description-size: 0.75rem; /* 12px */
+    --type-description-weight: 400; /* Book */
+    --type-description-line: 1.4;
+    --type-description-tracking: -0.01em;
+
+    /* Aliases (existing selectors / components) */
+    --type-display-size: var(--type-h1-size);
+    --type-display-weight: var(--type-h1-weight);
+    --type-display-line: var(--type-h1-line);
+    --type-title-size: var(--type-h2-size);
+    --type-title-weight: var(--type-h2-weight);
+    --type-title-line: var(--type-h2-line);
+    --type-ui-heading-size: var(--type-h3-size);
+    --type-ui-heading-weight: var(--type-h3-weight);
+    --type-ui-heading-line: var(--type-h3-line);
+    --type-body-size: var(--type-body-lg-size);
+    --type-body-weight: var(--type-body-lg-weight);
+    --type-body-line: var(--type-body-lg-line);
+    --type-body-tracking: var(--type-body-lg-tracking);
+    --type-kicker-size: var(--type-body-sm-size);
+    --type-kicker-weight: var(--type-body-sm-weight);
+    --type-kicker-line: var(--type-body-sm-line);
+    --type-kicker-tracking: var(--type-body-sm-tracking);
+    --type-nav-size: var(--type-body-sm-size);
+    --type-nav-weight: var(--type-body-sm-weight);
+    --type-nav-line: var(--type-body-sm-line);
+    --type-nav-tracking: var(--type-body-sm-tracking);
+    --type-caption-size: var(--type-body-sm-size);
+    --type-compact-title-size: var(--type-body-lg-size);
+    --type-button-size: var(--type-body-sm-size);
+    --type-button-weight: var(--type-body-sm-weight);
+    --type-button-line: var(--type-body-sm-line);
+    --type-button-tracking: var(--type-body-sm-tracking);
   }
   
   body {
