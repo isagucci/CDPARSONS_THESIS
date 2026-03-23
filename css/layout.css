@@ -361,6 +361,24 @@ body {
   .question-refine-view {
     grid-column: 1 / -1;
   }
+
+  /* Tighter stack so 5×3 refine grid fits in the viewport */
+  .question-refine-view:not([hidden]) .question-body {
+    margin-top: 0.35rem;
+  }
+
+  .question-refine-view:not([hidden]) .question-text {
+    margin-bottom: 0.15rem;
+  }
+
+  .question-refine-view__hint {
+    margin-top: 0.2rem;
+    margin-bottom: 0;
+  }
+
+  .question-shell:has(.question-refine-view:not([hidden])) .question-footer {
+    margin-top: 0.65rem;
+  }
   
   .question-text {
     max-width: 40rem;

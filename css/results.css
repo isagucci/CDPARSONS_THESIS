@@ -633,12 +633,15 @@
 /* Matrix-based amplification view */
 .results-matrix {
   margin-top: 0.9rem;
+  margin-inline: auto;
   border-top: 1px solid rgba(255, 255, 255, 0.16);
   padding-top: 0.85rem;
-  padding-left: 38px;
-  padding-right: 1rem;
+  padding-inline: 1rem;
   max-width: min(100%, 1320px);
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* Compact palette info on right side of chart */
@@ -682,6 +685,8 @@
 
 .results-matrix__header {
   margin-bottom: 0.55rem;
+  text-align: center;
+  max-width: 36rem;
 }
 
 .results-matrix__title {
@@ -703,6 +708,9 @@
   grid-template-columns: 118px repeat(var(--matrix-col-count, 1), minmax(58px, 1fr));
   gap: 0.35rem 0.45rem;
   align-items: center;
+  margin-inline: auto;
+  width: max-content;
+  max-width: 100%;
 }
 
 .results-matrix__head {
