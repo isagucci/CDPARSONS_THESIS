@@ -1,0 +1,201 @@
+/* Buttons */
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.6rem 1.4rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    border: 1px solid var(--hairline);
+    background-color: transparent;
+    transition: background-color 180ms ease-out, color 180ms ease-out,
+      border-color 180ms ease-out, transform 140ms ease-out;
+  }
+  
+  .button--primary {
+    background-color: rgba(255, 255, 255, 0.86);
+    color: var(--ink-invert);
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .button--ghost {
+    background-color: transparent;
+    color: var(--ink);
+  }
+  
+  .button:disabled {
+    opacity: 0.38;
+    cursor: default;
+  }
+  
+  .button:not(:disabled):hover {
+    transform: translateY(-1px);
+    border-color: rgba(255, 255, 255, 0.55);
+  }
+  
+  /* Questionnaire options */
+  .option-pill {
+    border-radius: 999px;
+    padding: 0.45rem 1.2rem;
+    font-size: 0.9rem;
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    background-color: transparent;
+    color: var(--ink);
+    transition: background-color 160ms ease-out, border-color 160ms ease-out,
+      color 160ms ease-out;
+  }
+  
+  .option-pill--selected {
+    background-color: rgba(255, 255, 255, 0.86);
+    color: var(--ink-invert);
+    border-color: rgba(255, 255, 255, 0.55);
+  }
+
+  /* Questionnaire image options — 3 per question (one per climate), vertical/portrait rectangle */
+  .option-image {
+    display: block;
+    position: relative;
+    flex: 1 1 140px;
+    max-width: 200px;
+    aspect-ratio: 3 / 4;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 2px solid rgba(255, 255, 255, 0.24);
+    background-color: rgba(255, 255, 255, 0.08);
+    cursor: pointer;
+    box-sizing: border-box;
+    transition:
+      border-color 180ms ease-out,
+      border-width 180ms ease-out,
+      box-shadow 180ms ease-out,
+      transform 140ms ease-out;
+  }
+
+  .option-image:hover {
+    border-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+  }
+
+  /* Selection reads as a thicker stroke (border-width ramps up) */
+  .option-image--selected {
+    border-width: 5px;
+    border-color: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.35), 0 10px 28px rgba(0, 0, 0, 0.22);
+  }
+
+  .option-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: center;
+  }
+
+  /* Refinement grid (15 images, multi-select) */
+  .refine-grid {
+    display: grid;
+    width: 100%;
+    max-width: 40rem; /* match other question bounds */
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    gap: 12px;
+    margin-top: 0.6rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Make refinement selection clearer than normal question options */
+  .refine-grid .option-image {
+    opacity: 0.92;
+    border-width: 2px;
+  }
+
+  .refine-grid .option-image--selected {
+    border-width: 5px;
+    border-color: rgba(255, 255, 255, 0.92);
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.2);
+    opacity: 1;
+  }
+
+  .refine-grid .option-image {
+    max-width: none;
+    width: 100%;
+    aspect-ratio: 3 / 4;
+  }
+
+  /* Subtle motion */
+  .section {
+    transition: opacity 260ms ease-out, transform 260ms ease-out;
+  }
+  
+  .section--entering {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  .section--visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  /* Tiny motion for processing indicator */
+  @keyframes pulse-ring {
+    0% {
+      transform: scale(0.96);
+      border-color: rgba(255, 255, 255, 0.35);
+    }
+    50% {
+      transform: scale(1.04);
+      border-color: rgba(255, 255, 255, 0.7);
+    }
+    100% {
+      transform: scale(0.96);
+      border-color: rgba(255, 255, 255, 0.35);
+    }
+  }
+  
+  .processing-indicator {
+    animation: pulse-ring 1400ms ease-in-out infinite;
+  }
+  
+  /* Results palette swatches (3×2 grid, full width of data breakdown, height proportionate) */
+  .results-palette__swatch {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1;
+    min-height: 0;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    transition: opacity 160ms ease;
+  }
+
+  /* Slightly smaller, quieter treatment for the expected environmental palette swatches */
+  .results-palette.results-palette--environment .results-palette__swatch {
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+
+  .results-palette__swatch:hover {
+    opacity: 0.8;
+  }
+
+  .results-palette__swatch-hex {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    transition: opacity 160ms ease;
+    pointer-events: none;
+  }
+
+  .results-palette__swatch:hover .results-palette__swatch-hex {
+    opacity: 1;
+  }

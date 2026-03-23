@@ -1,0 +1,119 @@
+/* Full-screen buffer between questionnaire and results */
+/* Uses the same stack as html in css/ambient-mesh.css + questionnaire blob anchors (data-ambient-page="questionnaire"). */
+.results-buffer-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1.5rem;
+  box-sizing: border-box;
+
+  /* Questionnaire page mesh anchors — keep in sync with html[data-ambient-page="questionnaire"] */
+  --mesh-ax: 32%;
+  --mesh-ay: 52%;
+  --mesh-bx: 88%;
+  --mesh-by: 18%;
+  --mesh-cx: 12%;
+  --mesh-cy: 86%;
+  --mesh-dx: 78%;
+  --mesh-dy: 40%;
+
+  background-color: var(--mesh-vignette);
+  background-image:
+    var(--ambient-grain),
+    radial-gradient(
+      ellipse 105% 88% at var(--mesh-ax) var(--mesh-ay),
+      color-mix(in srgb, var(--mesh-glow-a) 58%, transparent) 0%,
+      color-mix(in srgb, var(--mesh-magenta) 28%, transparent) 44%,
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 85% 70% at var(--mesh-bx) var(--mesh-by),
+      color-mix(in srgb, var(--mesh-ice) 42%, transparent) 0%,
+      transparent 54%
+    ),
+    radial-gradient(
+      ellipse 70% 85% at var(--mesh-cx) var(--mesh-cy),
+      color-mix(in srgb, var(--mesh-ice-dim) 38%, transparent) 0%,
+      transparent 52%
+    ),
+    radial-gradient(
+      ellipse 65% 55% at var(--mesh-dx) var(--mesh-dy),
+      color-mix(in srgb, var(--mesh-glow-b) 40%, transparent) 0%,
+      transparent 56%
+    ),
+    conic-gradient(
+      from 228deg at 58% 48%,
+      color-mix(in srgb, var(--mesh-magenta) 14%, transparent) 0deg,
+      transparent 55deg,
+      transparent 200deg,
+      color-mix(in srgb, var(--mesh-glow-a) 10%, transparent) 300deg,
+      transparent 360deg
+    ),
+    linear-gradient(to bottom, var(--mesh-l1) 0%, var(--mesh-l2) 32%, var(--mesh-l3) 58%, var(--mesh-l4) 100%);
+  background-size:
+    220px 220px,
+    135% 135%,
+    125% 125%,
+    115% 115%,
+    130% 130%,
+    100% 100%,
+    100% 100%;
+  background-repeat: repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position:
+    0 0,
+    50% 45%,
+    12% 88%,
+    88% 14%,
+    70% 72%,
+    center,
+    center;
+  background-blend-mode: overlay, normal, normal, normal, normal, soft-light, normal;
+
+  /* Same drift as questionnaire route */
+  animation: ambient-mesh-flow-b 40s ease-in-out infinite alternate;
+}
+
+.results-buffer-overlay[hidden] {
+  display: none !important;
+}
+
+.results-buffer-overlay__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.75rem;
+  max-width: min(420px, 100%);
+  text-align: center;
+}
+
+.results-buffer-overlay__gif {
+  display: block;
+  width: min(280px, 72vw);
+  height: auto;
+  max-height: min(50vh, 320px);
+  object-fit: contain;
+  image-rendering: auto;
+  filter: drop-shadow(0 12px 40px rgba(0, 0, 0, 0.45));
+}
+
+.results-buffer-overlay__text {
+  margin: 0;
+  font-family: var(--font-description, system-ui, sans-serif);
+  font-size: clamp(1rem, 2.8vw, 1.2rem);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .results-buffer-overlay {
+    animation: none !important;
+  }
+
+  .results-buffer-overlay__gif {
+    animation: none;
+  }
+}

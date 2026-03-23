@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script src="scripts/ambientMesh.js"></script>
+  <title>Questionnaire — Climate, Color & Advertising</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/buffer_16px%20.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/buffer_32px.png" />
+  <link rel="icon" type="image/png" sizes="48x48" href="assets/buffer_48%20px.png" />
+  <link rel="icon" type="image/png" sizes="128x128" href="assets/buffer_128%20px%20.png" />
+  <link rel="apple-touch-icon" sizes="128x128" href="assets/buffer_128%20px%20.png" />
+  <link rel="stylesheet" href="css/fonts.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/layout.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/theme.css" />
+  <link rel="stylesheet" href="css/ambient-mesh.css" />
+  <link rel="stylesheet" href="css/questionnaire-buffer.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="site-header__title">
+        <span class="site-header__label">Design Thesis</span>
+        <h1>
+          <a href="index.html" style="color: inherit; text-decoration: none;">
+            <span class="site-header__brand">
+              <img class="site-header__brand-mark" src="assets/buffer_32px.png" alt="" width="20" height="20" />
+              <span>Climate, Color & Advertising</span>
+            </span>
+          </a>
+        </h1>
+      </div>
+      <nav class="site-nav" aria-label="Primary">
+        <a class="site-nav__link" href="method.html">Method</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="questionnaire" class="section section--questionnaire" aria-labelledby="questionnaire-title" aria-live="polite">
+      <header class="section-header">
+        <p class="section-kicker">Phase I</p>
+        <h2 id="questionnaire-title">Visual comfort prompts</h2>
+        <p class="section-note">One question at a time. There are only a few.</p>
+      </header>
+
+      <div id="climate-zone-popup" class="climate-popup" role="dialog" aria-labelledby="climate-popup-title" aria-modal="true" hidden>
+        <div class="climate-popup__backdrop"></div>
+        <div class="climate-popup__card">
+          <div class="climate-popup__body">
+            <h1 id="climate-popup-title" class="climate-popup__h1">Climate zone identified</h1>
+            <h2 id="climate-popup-climate-name" class="climate-popup__h2" hidden></h2>
+            <p id="climate-popup-meta" class="climate-popup__meta"></p>
+          </div>
+          <button type="button" id="climate-popup-continue" class="button button--primary">
+            See my results
+          </button>
+        </div>
+      </div>
+
+      <div id="question-shell" class="question-shell" role="form" aria-describedby="question-progress">
+        <div class="question-meta">
+          <span id="question-index" class="question-index">01</span>
+          <span id="question-total" class="question-total">/ 09</span>
+        </div>
+        <div id="question-progress-bar" class="question-progress-bar" aria-hidden="true"></div>
+
+        <div id="question-refine-view" class="question-refine-view" hidden>
+          <div class="question-body">
+            <h3 class="question-text">Let’s refine your results</h3>
+            <p class="section-note" style="margin-top: 0.4rem;">
+              Multiple selection: choose as many images as you prefer.
+            </p>
+          </div>
+          <div id="refine-grid" class="refine-grid" aria-label="Refine your results image grid"></div>
+        </div>
+
+        <div id="questionnaire-city-view" class="questionnaire-city-view" hidden>
+          <div class="question-body">
+            <label for="formative-city" id="questionnaire-city-label" class="question-text questionnaire-city-label">
+              What city did you spend most of your formative years in?
+            </label>
+          </div>
+          <div class="questionnaire-city-field options-list">
+            <input type="text" id="formative-city" class="questionnaire-city-input" placeholder="e.g. Berlin, São Paulo" autocomplete="address-level2" />
+            <p id="city-error" class="questionnaire-city-error" aria-live="polite" hidden></p>
+          </div>
+        </div>
+
+        <div id="question-image-view" class="question-image-view">
+          <div class="question-body">
+            <p id="question-text" class="question-text"></p>
+          </div>
+          <div class="options-list" id="options-list"></div>
+        </div>
+
+        <div class="question-footer">
+          <p id="question-progress" class="question-progress-text"></p>
+          <div class="question-controls">
+            <button id="prev-question" class="button button--ghost" type="button" disabled>Back</button>
+            <button id="next-question" class="button button--primary" type="button" disabled>Next</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Climate, Color & Advertising — Design thesis project.</p>
+  </footer>
+
+  <!-- Shown after “See my results”; GIF path: assets/buffer.gif -->
+  <div
+    id="results-buffer-overlay"
+    class="results-buffer-overlay"
+    hidden
+    aria-hidden="true"
+    role="status"
+    aria-live="polite"
+    aria-busy="true"
+    aria-label="Preparing your results"
+  >
+    <div class="results-buffer-overlay__inner">
+      <img
+        id="results-buffer-gif"
+        class="results-buffer-overlay__gif"
+        src=""
+        alt=""
+        width="280"
+        height="280"
+        decoding="async"
+      />
+      <p class="results-buffer-overlay__text">Preparing your results</p>
+    </div>
+  </div>
+</body>
+<script src="scripts/colorUtils.js"></script>
+<script src="scripts/questionnaire.js"></script>
+</html>

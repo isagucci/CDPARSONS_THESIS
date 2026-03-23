@@ -1,0 +1,283 @@
+/**
+ * Two-page A6 comfort profile card — screen preview + print.
+ * Gradients shift by data-print-climate (tropical | arid | polar).
+ */
+
+.results-print-card {
+  --print-a6-w: 105mm;
+  --print-a6-h: 148mm;
+  --print-frame-inset: 10mm;
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+  max-width: 100%;
+}
+
+/* Keep print card hidden on screen; show only in print layout. */
+@media screen {
+  .results-print-card {
+    display: none !important;
+  }
+}
+
+.comfort-card {
+  width: 100%;
+  max-width: min(100%, 420px);
+  aspect-ratio: 105 / 148;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: var(--font-question, "Georgia", serif);
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.comfort-card__frame {
+  position: absolute;
+  inset: var(--print-frame-inset);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: clamp(0.65rem, 2.5vw, 1.1rem) clamp(0.5rem, 2vw, 0.85rem);
+}
+
+/* —— Front page —— */
+.comfort-card--front .comfort-card__frame {
+  justify-content: flex-start;
+  gap: 0.35rem;
+}
+
+.comfort-card__match {
+  margin: 0;
+  font-size: clamp(0.72rem, 2.8vw, 0.95rem);
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.35;
+}
+
+.comfort-card__title {
+  margin: 0.25rem 0 0.5rem;
+  font-size: clamp(1.35rem, 6vw, 2rem);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+}
+
+.comfort-card__title-line {
+  display: block;
+}
+
+.comfort-card__title-line--italic {
+  font-style: italic;
+  font-weight: 700;
+}
+
+.comfort-card__columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: clamp(0.5rem, 2vw, 0.85rem);
+  width: 100%;
+  margin-top: 0.15rem;
+  text-align: left;
+  flex: 1;
+  min-height: 0;
+  align-content: start;
+}
+
+.comfort-card__label {
+  margin: 0 0 0.35rem;
+  font-family: var(--font-description, var(--font-question, Georgia, serif));
+  font-size: clamp(0.62rem, 2.2vw, 0.78rem);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.95;
+}
+
+.comfort-card__swatches {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  gap: clamp(4px, 1.2vw, 8px);
+  width: 100%;
+  max-width: 9rem;
+}
+
+.comfort-card__swatch {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  box-sizing: border-box;
+}
+
+.comfort-card__data {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-description, Georgia, serif);
+  font-size: clamp(0.62rem, 2.2vw, 0.78rem);
+  line-height: 1.45;
+  display: flex;
+  flex-direction: column;
+  gap: 0.28rem;
+  width: 100%;
+}
+
+.comfort-card__data-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.35rem;
+}
+
+.comfort-card__data-k {
+  font-weight: 400;
+  opacity: 0.92;
+}
+
+.comfort-card__data-v {
+  font-weight: 700;
+  text-align: right;
+}
+
+.comfort-card__footer-brackets {
+  margin: auto 0 0;
+  padding-top: 0.35rem;
+  font-size: clamp(0.65rem, 2.3vw, 0.82rem);
+  font-style: normal;
+  letter-spacing: 0.03em;
+  opacity: 0.95;
+}
+
+/* —— Back page —— */
+.comfort-card--back .comfort-card__frame {
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.comfort-card__back-header {
+  margin: 0;
+  font-size: clamp(0.65rem, 2.4vw, 0.85rem);
+  letter-spacing: 0.04em;
+}
+
+.comfort-card__back-tagline {
+  font-size: clamp(1.1rem, 4.5vw, 1.5rem);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.comfort-card__back-tagline em {
+  font-style: italic;
+  font-weight: 700;
+}
+
+.comfort-card__qr {
+  display: block;
+  width: min(42%, 140px);
+  height: auto;
+  aspect-ratio: 1;
+  margin: 0 auto 0.25rem;
+  background: #fff;
+  padding: 6px;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+/* Climate gradients (front + back use same token) */
+.results-print-card[data-print-climate="tropical"] .comfort-card {
+  background: linear-gradient(
+    180deg,
+    #e6d5b8 0%,
+    #c4a09a 42%,
+    #3d5c48 100%
+  );
+}
+
+.results-print-card[data-print-climate="arid"] .comfort-card {
+  background: linear-gradient(
+    180deg,
+    #edd9b8 0%,
+    #c9956a 45%,
+    #6b4423 100%
+  );
+}
+
+.results-print-card[data-print-climate="polar"] .comfort-card {
+  background: linear-gradient(
+    180deg,
+    #d8e2ea 0%,
+    #9aacb8 48%,
+    #3d4f5c 100%
+  );
+}
+
+.results-print-card:not([data-print-climate]) .comfort-card,
+.results-print-card[data-print-climate=""] .comfort-card {
+  background: linear-gradient(180deg, #e6d5b8 0%, #b5838d 50%, #52735b 100%);
+}
+
+/* —— Print: exact A6, two sheets —— */
+@page {
+  size: A6 portrait;
+  margin: 0;
+}
+
+@media print {
+  body * {
+    visibility: hidden !important;
+  }
+
+  .results-print-card,
+  .results-print-card * {
+    visibility: visible !important;
+  }
+
+  .results-print-card {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 105mm !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: block !important;
+    box-shadow: none !important;
+    background: transparent !important;
+  }
+
+  .comfort-card {
+    width: 105mm !important;
+    height: 148mm !important;
+    max-width: none !important;
+    aspect-ratio: auto !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    page-break-after: always;
+    page-break-inside: avoid;
+    break-after: page;
+  }
+
+  .comfort-card--back {
+    page-break-after: auto;
+    break-after: auto;
+  }
+
+  .comfort-card__frame {
+    inset: 8mm;
+  }
+
+  .comfort-card__qr {
+    width: 38mm !important;
+    max-width: none !important;
+    padding: 2mm;
+  }
+}

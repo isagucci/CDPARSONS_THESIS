@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script src="scripts/ambientMesh.js"></script>
+  <title>Method — Climate, Color & Advertising</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/buffer_16px%20.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/buffer_32px.png" />
+  <link rel="icon" type="image/png" sizes="48x48" href="assets/buffer_48%20px.png" />
+  <link rel="icon" type="image/png" sizes="128x128" href="assets/buffer_128%20px%20.png" />
+  <link rel="apple-touch-icon" sizes="128x128" href="assets/buffer_128%20px%20.png" />
+  <link rel="stylesheet" href="css/fonts.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/layout.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/theme.css" />
+  <link rel="stylesheet" href="css/ambient-mesh.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="site-header__title">
+        <span class="site-header__label">Design Thesis</span>
+        <h1>
+          <a href="index.html" style="color: inherit; text-decoration: none;">
+            <span class="site-header__brand">
+              <img class="site-header__brand-mark" src="assets/buffer_32px.png" alt="" width="20" height="20" />
+              <span>Climate, Color & Advertising</span>
+            </span>
+          </a>
+        </h1>
+      </div>
+      <nav class="site-nav" aria-label="Primary">
+        <a class="site-nav__link" href="index.html">Back to study</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section section--questionnaire" aria-labelledby="method-title">
+      <header class="section-header">
+        <p class="section-kicker">Method</p>
+        <h2 id="method-title">How This Climate &amp; Color Profile Is Built</h2>
+      </header>
+
+      <div class="learn-more-body method-editorial">
+        <p class="method-editorial__intro">
+          The interface compares your image choices to three climate-based color systems. Each system is
+          built from posters and surfaces photographed in Brazil (tropical), Egypt (arid), and Finland
+          (polar / Nordic).
+        </p>
+
+        <details class="method-step" open>
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">01</span>
+            <span class="method-step__title">Source Imagery &amp; Color Extraction</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              For each climate, a set of printed artifacts and environments is photographed. A color
+              analysis script samples thousands of pixels per image and records their hue, saturation,
+              brightness, and temperature (warm / cool / neutral). These samples become the cloud of points
+              in the brightness-saturation map.
+            </p>
+            <div class="method-snapshot" aria-label="Raw extraction data snapshot">
+              <p class="method-snapshot__label">Raw extraction data snapshot</p>
+              <div class="method-snapshot__figures" aria-label="Nature image references by climate">
+                <figure class="method-snapshot__figure">
+                  <img class="method-snapshot__image" src="assets/images_nature_brazil/A-GD11.jpeg" alt="Nature reference image from tropical climate set" loading="lazy" decoding="async" />
+                  <figcaption>Tropical · Brazil</figcaption>
+                </figure>
+                <figure class="method-snapshot__figure">
+                  <img class="method-snapshot__image" src="assets/images_nature_egypt/B-GD11.jpeg" alt="Nature reference image from arid climate set" loading="lazy" decoding="async" />
+                  <figcaption>Arid · Egypt</figcaption>
+                </figure>
+                <figure class="method-snapshot__figure">
+                  <img class="method-snapshot__image" src="assets/images_nature_finland/E-GD1.jpeg" alt="Nature reference image from polar climate set" loading="lazy" decoding="async" />
+                  <figcaption>Polar · Finland</figcaption>
+                </figure>
+              </div>
+              <div class="method-snapshot__figures">
+                <figure class="method-snapshot__figure">
+                  <img
+                    class="method-snapshot__image"
+                    src="assets/extraction_1.svg"
+                    alt="Extraction pipeline snapshot 1"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </figure>
+                <figure class="method-snapshot__figure">
+                  <img
+                    class="method-snapshot__image"
+                    src="assets/extraction_2.svg"
+                    alt="Extraction pipeline snapshot 2"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </figure>
+                <figure class="method-snapshot__figure">
+                  <img
+                    class="method-snapshot__image"
+                    src="assets/extraction_3.svg"
+                    alt="Extraction pipeline snapshot 3"
+                    loading="lazy"
+                    decoding="async"
+                  />
+                </figure>
+              </div>
+              <div class="method-table-wrap">
+                <table class="method-table">
+                  <thead>
+                    <tr>
+                      <th>Image ID</th>
+                      <th>Climate</th>
+                      <th>Top HEX</th>
+                      <th>Sat %</th>
+                      <th>Bri %</th>
+                      <th>Warm %</th>
+                      <th>Neutral %</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr><td>BR_014</td><td>Tropical</td><td>#385848</td><td>51.2</td><td>42.8</td><td>58.4</td><td>24.1</td></tr>
+                    <tr><td>EG_032</td><td>Arid</td><td>#D8C8B8</td><td>24.7</td><td>71.5</td><td>52.0</td><td>33.8</td></tr>
+                    <tr><td>FI_021</td><td>Polar</td><td>#687858</td><td>30.9</td><td>54.2</td><td>34.6</td><td>41.9</td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </details>
+
+        <details class="method-step">
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">06</span>
+            <span class="method-step__title">Metadata Layer</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              Each image also carries metadata tags (for example category, product type, and atmosphere).
+              These tags structure questionnaire rounds, support the refinement stage, and organize outputs
+              such as the matrix columns and interpretive comparisons.
+            </p>
+          </div>
+        </details>
+
+        <details class="method-step">
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">02</span>
+            <span class="method-step__title">Questionnaire Rounds + Refinement Grid</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              In each round you see three images of the <em>same subject</em>&nbsp;&mdash; one from each
+              climate. You pick the one you would rather live with. After these rounds, a refinement grid
+              of unseen images lets you make multiple selections. Together, these steps refine your color
+              statistics (saturation, brightness, warm/cool balance, and neutral share).
+            </p>
+            <div class="method-snapshot" aria-label="Top color extraction snapshot">
+              <p class="method-snapshot__label">Top color extraction snapshot</p>
+              <div class="method-snapshot__swatches">
+                <span style="background:#F8F8F8;" title="#F8F8F8"><i>#F8F8F8</i></span>
+                <span style="background:#D8C8B8;" title="#D8C8B8"><i>#D8C8B8</i></span>
+                <span style="background:#284848;" title="#284848"><i>#284848</i></span>
+                <span style="background:#385848;" title="#385848"><i>#385848</i></span>
+                <span style="background:#687858;" title="#687858"><i>#687858</i></span>
+                <span style="background:#A82838;" title="#A82838"><i>#A82838</i></span>
+              </div>
+            </div>
+          </div>
+        </details>
+
+        <details class="method-step">
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">03</span>
+            <span class="method-step__title">Climate Lookup (Koppen API)</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              After you enter your formative city, the system geocodes that location and queries the Koppen
+              climate API to identify your climate-zone code. That code is mapped to a study band
+              (tropical, arid, or polar) and used as the nature baseline in your results.
+            </p>
+            <p class="method-step__body">
+              The Koppen climate classification is a widely used system that groups regions by long-term
+              temperature and precipitation patterns, using zone codes such as tropical (A), arid (B),
+              temperate (C), continental (D), and polar (E).
+            </p>
+          </div>
+        </details>
+
+        <details class="method-step">
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">04</span>
+            <span class="method-step__title">Matching &amp; Placement</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              Your combined color samples are compared to the three climate datasets. The system looks for
+              the closest overall distribution in brightness, saturation, and temperature. That closest
+              field becomes your climate match, and your point is placed on the brightness-saturation map
+              using your average values.
+            </p>
+          </div>
+        </details>
+
+        <details class="method-step">
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">05</span>
+            <span class="method-step__title">Suggested Palette &amp; Card</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              Finally, the palette rail blends dominant colors from the matched climate with the center
+              of your own color field. The printed card is a snapshot: climate name, match percentage,
+              and a short reading of how your choices sit within that system.
+            </p>
+          </div>
+        </details>
+
+        <details class="method-step">
+          <summary class="method-step__summary">
+            <span class="method-step__kicker">07</span>
+            <span class="method-step__title">Final Visualization Layer (Scatter + Amplification Matrix)</span>
+          </summary>
+          <div class="method-step__content">
+            <p class="method-step__body">
+              The final scatter plot places extracted color samples in brightness-saturation space across
+              nature, advertising, and your selected colors. The amplification matrix then compares
+              color-family behavior by poster category, showing where advertising amplifies colors beyond
+              environmental baselines.
+            </p>
+            <div class="method-snapshot" aria-label="Scatter and amplification snapshots">
+              <p class="method-snapshot__label">Scatter plot snapshot</p>
+              <div class="method-scatter">
+                <span class="method-scatter__dot method-scatter__dot--nature" style="left:16%; top:58%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--nature" style="left:23%; top:49%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--nature" style="left:32%; top:54%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--ads" style="left:58%; top:35%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--ads" style="left:64%; top:42%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--ads" style="left:70%; top:31%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--you" style="left:45%; top:47%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--you" style="left:49%; top:44%;"></span>
+                <span class="method-scatter__dot method-scatter__dot--you" style="left:53%; top:50%;"></span>
+              </div>
+            </div>
+            <div class="method-snapshot" aria-label="Amplification matrix snapshot">
+              <p class="method-snapshot__label">Amplification matrix snapshot</p>
+              <div class="method-matrix">
+                <span class="method-matrix__dot" style="--x:1;--y:1;--s:10;"></span>
+                <span class="method-matrix__dot" style="--x:2;--y:1;--s:6;"></span>
+                <span class="method-matrix__dot" style="--x:3;--y:1;--s:13;"></span>
+                <span class="method-matrix__dot" style="--x:4;--y:1;--s:8;"></span>
+                <span class="method-matrix__dot" style="--x:1;--y:2;--s:7;"></span>
+                <span class="method-matrix__dot" style="--x:2;--y:2;--s:12;"></span>
+                <span class="method-matrix__dot" style="--x:3;--y:2;--s:6;"></span>
+                <span class="method-matrix__dot" style="--x:4;--y:2;--s:11;"></span>
+                <span class="method-matrix__dot" style="--x:1;--y:3;--s:5;"></span>
+                <span class="method-matrix__dot" style="--x:2;--y:3;--s:9;"></span>
+                <span class="method-matrix__dot" style="--x:3;--y:3;--s:14;"></span>
+                <span class="method-matrix__dot" style="--x:4;--y:3;--s:7;"></span>
+              </div>
+            </div>
+          </div>
+        </details>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
+

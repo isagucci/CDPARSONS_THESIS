@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nature to Poster Translation Poster</title>
+  <link rel="stylesheet" href="css/fonts.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/comparison-viz.css" />
+</head>
+<body>
+  <main class="poster-page">
+    <header class="poster-header">
+      <p class="poster-kicker">Color Translation Study</p>
+      <h1>Nature to Poster Transformation</h1>
+      <p class="poster-subtitle">
+        Four semantic categories showing source palette, transformation, and output palette.
+      </p>
+      <section class="poster-controls" aria-label="Filters">
+        <label>
+          Climate
+          <select id="filter-climate">
+            <option value="all">All climates</option>
+            <option value="brazil">Brazil</option>
+            <option value="egypt">Egypt</option>
+            <option value="finland">Finland</option>
+          </select>
+        </label>
+        <label>
+          Poster product
+          <select id="filter-product">
+            <option value="all">All products</option>
+            <option value="drink">Drink</option>
+            <option value="food">Food</option>
+            <option value="cosmetic">Cosmetic</option>
+            <option value="other">Other</option>
+          </select>
+        </label>
+      </section>
+    </header>
+
+    <section id="comparison-rows" class="comparison-rows" aria-label="Before and after category transformations"></section>
+  </main>
+
+  <div id="poster-tooltip" class="poster-tooltip" hidden></div>
+  <script src="scripts/colorUtils.js"></script>
+  <script src="scripts/comparisonViz.js"></script>
+</body>
+</html>

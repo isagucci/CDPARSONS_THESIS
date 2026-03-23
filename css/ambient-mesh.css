@@ -1,0 +1,266 @@
+/**
+ * Ambient mesh — thesis palette; base linear runs dark → light (deep sage on top, cream below).
+ * html[data-ambient-page] shifts blob anchors per route.
+ * html[data-mesh-climate] on results = tropical / arid / polar (same order on the linear).
+ */
+
+/* Fractal noise tile — light touch on a fairly light field */
+:root {
+  --ambient-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.32'/%3E%3C/svg%3E");
+
+  /* Blobs: still read warm/cool; base linear below uses --mesh-l* (dark at top) */
+  --mesh-glow-a: #e1cfa8;
+  --mesh-glow-b: #be8c85;
+  --mesh-ice: #a8c4b4;
+  --mesh-ice-dim: #4e8268;
+  --mesh-magenta: #c4a896;
+  --mesh-vignette: #2a2824;
+
+  /* Base linear: dark at top of viewport → light below */
+  --mesh-l1: #4e8268;
+  --mesh-l2: #5d7d6a;
+  --mesh-l3: #be8c85;
+  --mesh-l4: #e1cfa8;
+
+  --mesh-ax: 48%;
+  --mesh-ay: 40%;
+  --mesh-bx: 10%;
+  --mesh-by: 90%;
+  --mesh-cx: 90%;
+  --mesh-cy: 12%;
+  --mesh-dx: 72%;
+  --mesh-dy: 68%;
+}
+
+html {
+  min-height: 100%;
+  /* Base ink so content stays readable (white type from theme) */
+  background-color: var(--mesh-vignette);
+  background-image:
+    var(--ambient-grain),
+    radial-gradient(
+      ellipse 105% 88% at var(--mesh-ax) var(--mesh-ay),
+      color-mix(in srgb, var(--mesh-glow-a) 58%, transparent) 0%,
+      color-mix(in srgb, var(--mesh-magenta) 28%, transparent) 44%,
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 85% 70% at var(--mesh-bx) var(--mesh-by),
+      color-mix(in srgb, var(--mesh-ice) 42%, transparent) 0%,
+      transparent 54%
+    ),
+    radial-gradient(
+      ellipse 70% 85% at var(--mesh-cx) var(--mesh-cy),
+      color-mix(in srgb, var(--mesh-ice-dim) 38%, transparent) 0%,
+      transparent 52%
+    ),
+    radial-gradient(
+      ellipse 65% 55% at var(--mesh-dx) var(--mesh-dy),
+      color-mix(in srgb, var(--mesh-glow-b) 40%, transparent) 0%,
+      transparent 56%
+    ),
+    conic-gradient(
+      from 228deg at 58% 48%,
+      color-mix(in srgb, var(--mesh-magenta) 14%, transparent) 0deg,
+      transparent 55deg,
+      transparent 200deg,
+      color-mix(in srgb, var(--mesh-glow-a) 10%, transparent) 300deg,
+      transparent 360deg
+    ),
+    linear-gradient(to bottom, var(--mesh-l1) 0%, var(--mesh-l2) 32%, var(--mesh-l3) 58%, var(--mesh-l4) 100%);
+  background-size:
+    220px 220px,
+    135% 135%,
+    125% 125%,
+    115% 115%,
+    130% 130%,
+    100% 100%,
+    100% 100%;
+  background-repeat: repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position:
+    0 0,
+    50% 45%,
+    12% 88%,
+    88% 14%,
+    70% 72%,
+    center,
+    center;
+  background-blend-mode: overlay, normal, normal, normal, normal, soft-light, normal;
+}
+
+/* —— Per-page blob layout (each navigation = different field) —— */
+html[data-ambient-page="index"] {
+  --mesh-ax: 54%;
+  --mesh-ay: 34%;
+  --mesh-bx: 6%;
+  --mesh-by: 92%;
+  --mesh-cx: 86%;
+  --mesh-cy: 8%;
+  --mesh-dx: 62%;
+  --mesh-dy: 78%;
+}
+
+html[data-ambient-page="questionnaire"] {
+  --mesh-ax: 32%;
+  --mesh-ay: 52%;
+  --mesh-bx: 88%;
+  --mesh-by: 18%;
+  --mesh-cx: 12%;
+  --mesh-cy: 86%;
+  --mesh-dx: 78%;
+  --mesh-dy: 40%;
+}
+
+html[data-ambient-page="method"] {
+  --mesh-ax: 70%;
+  --mesh-ay: 28%;
+  --mesh-bx: 14%;
+  --mesh-by: 84%;
+  --mesh-cx: 92%;
+  --mesh-cy: 72%;
+  --mesh-dx: 38%;
+  --mesh-dy: 58%;
+}
+
+html[data-ambient-page="results"] {
+  --mesh-ax: 46%;
+  --mesh-ay: 44%;
+  --mesh-bx: 8%;
+  --mesh-by: 12%;
+  --mesh-cx: 94%;
+  --mesh-cy: 22%;
+  --mesh-dx: 52%;
+  --mesh-dy: 82%;
+}
+
+/* Results: same triples as scripts/results.js RESULTS_GRADIENTS (before mesh) */
+html[data-mesh-climate="tropical"] {
+  --mesh-glow-a: #edc868;
+  --mesh-glow-b: #a18c6d;
+  --mesh-ice: #c5d2b8;
+  --mesh-ice-dim: #4e8268;
+  --mesh-magenta: #c6a66e;
+  --mesh-l1: #4e8268;
+  --mesh-l2: #6f8a6e;
+  --mesh-l3: #a18c6d;
+  --mesh-l4: #edc868;
+}
+
+html[data-mesh-climate="arid"] {
+  --mesh-glow-a: #ecd0c8;
+  --mesh-glow-b: #be8c85;
+  --mesh-ice: #caf4f4;
+  --mesh-ice-dim: #9ec8cc;
+  --mesh-magenta: #d4b8b0;
+  --mesh-l1: #9a7a72;
+  --mesh-l2: #be8c85;
+  --mesh-l3: #ecd0c8;
+  --mesh-l4: #caf4f4;
+}
+
+html[data-mesh-climate="polar"] {
+  --mesh-glow-a: #e1cfa8;
+  --mesh-glow-b: #ccc1ac;
+  --mesh-ice: #a8c0dc;
+  --mesh-ice-dim: #3a7bb2;
+  --mesh-magenta: #b8c0c8;
+  --mesh-l1: #3a7bb2;
+  --mesh-l2: #6e8aad;
+  --mesh-l3: #ccc1ac;
+  --mesh-l4: #e1cfa8;
+}
+
+/* Slow drift: positions shift so the field keeps moving while you read */
+@keyframes ambient-mesh-flow-a {
+  0% {
+    background-position:
+      0 0,
+      48% 42%,
+      10% 88%,
+      90% 12%,
+      68% 70%,
+      center,
+      center;
+  }
+  100% {
+    background-position:
+      36px -24px,
+      56% 48%,
+      4% 92%,
+      96% 20%,
+      76% 64%,
+      center,
+      center;
+  }
+}
+
+@keyframes ambient-mesh-flow-b {
+  0% {
+    background-position:
+      12px 8px,
+      40% 50%,
+      18% 78%,
+      82% 24%,
+      55% 62%,
+      center,
+      center;
+  }
+  100% {
+    background-position:
+      -20px 32px,
+      34% 44%,
+      8% 90%,
+      94% 10%,
+      62% 74%,
+      center,
+      center;
+  }
+}
+
+@keyframes ambient-mesh-flow-c {
+  0% {
+    background-position:
+      -8px 0,
+      52% 38%,
+      6% 90%,
+      88% 16%,
+      70% 58%,
+      center,
+      center;
+  }
+  100% {
+    background-position:
+      28px 18px,
+      44% 46%,
+      14% 82%,
+      92% 28%,
+      58% 68%,
+      center,
+      center;
+  }
+}
+
+html[data-ambient-page="index"],
+html[data-ambient-page="method"] {
+  animation: ambient-mesh-flow-a 46s ease-in-out infinite alternate;
+}
+
+html[data-ambient-page="questionnaire"] {
+  animation: ambient-mesh-flow-b 40s ease-in-out infinite alternate;
+}
+
+html[data-ambient-page="results"] {
+  animation: ambient-mesh-flow-c 34s ease-in-out infinite alternate;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    animation: none !important;
+  }
+}
+
+/* Body: no second gradient stack (mesh lives on html) */
+body {
+  background: transparent;
+  animation: none;
+}

@@ -1,0 +1,5046 @@
+[
+  {
+    "file": "2023_Trindade_and_Martin_Vaz,_Marinha_do_Brasil_18.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/2023_Trindade_and_Martin_Vaz,_Marinha_do_Brasil_18.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#767432",
+        "rgb": [
+          118,
+          116,
+          50
+        ],
+        "percent": 54.1861,
+        "pixel_count": 108188
+      },
+      {
+        "rank": 2,
+        "hex": "#DDE8EB",
+        "rgb": [
+          221,
+          232,
+          235
+        ],
+        "percent": 27.0049,
+        "pixel_count": 53918
+      },
+      {
+        "rank": 3,
+        "hex": "#947F69",
+        "rgb": [
+          148,
+          127,
+          105
+        ],
+        "percent": 18.809,
+        "pixel_count": 37554
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#787632",
+        "rgb": [
+          120,
+          118,
+          50
+        ],
+        "percent": 52.5453,
+        "pixel_count": 104912
+      },
+      {
+        "rank": 2,
+        "hex": "#DDE8EB",
+        "rgb": [
+          221,
+          232,
+          235
+        ],
+        "percent": 27.0049,
+        "pixel_count": 53918
+      },
+      {
+        "rank": 3,
+        "hex": "#947F69",
+        "rgb": [
+          148,
+          127,
+          105
+        ],
+        "percent": 18.809,
+        "pixel_count": 37554
+      },
+      {
+        "rank": 4,
+        "hex": "#313022",
+        "rgb": [
+          49,
+          48,
+          34
+        ],
+        "percent": 1.6408,
+        "pixel_count": 3276
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#767432",
+          "rgb": [
+            118,
+            116,
+            50
+          ],
+          "percent": 54.1861,
+          "pixel_count": 108188
+        },
+        {
+          "rank": 2,
+          "hex": "#DDE8EB",
+          "rgb": [
+            221,
+            232,
+            235
+          ],
+          "percent": 27.0049,
+          "pixel_count": 53918
+        },
+        {
+          "rank": 3,
+          "hex": "#947F69",
+          "rgb": [
+            148,
+            127,
+            105
+          ],
+          "percent": 18.809,
+          "pixel_count": 37554
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "2023_Trindade_and_Martin_Vaz,_Marinha_do_Brasil_65.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/2023_Trindade_and_Martin_Vaz,_Marinha_do_Brasil_65.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#7A9CC6",
+        "rgb": [
+          122,
+          156,
+          198
+        ],
+        "percent": 63.7304,
+        "pixel_count": 127241
+      },
+      {
+        "rank": 2,
+        "hex": "#10244A",
+        "rgb": [
+          16,
+          36,
+          74
+        ],
+        "percent": 34.1745,
+        "pixel_count": 68231
+      },
+      {
+        "rank": 3,
+        "hex": "#948C80",
+        "rgb": [
+          148,
+          140,
+          128
+        ],
+        "percent": 2.0951,
+        "pixel_count": 4183
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A4C8EF",
+        "rgb": [
+          164,
+          200,
+          239
+        ],
+        "percent": 34.3578,
+        "pixel_count": 68597
+      },
+      {
+        "rank": 2,
+        "hex": "#10244A",
+        "rgb": [
+          16,
+          36,
+          74
+        ],
+        "percent": 34.1745,
+        "pixel_count": 68231
+      },
+      {
+        "rank": 3,
+        "hex": "#496995",
+        "rgb": [
+          73,
+          105,
+          149
+        ],
+        "percent": 29.3727,
+        "pixel_count": 58644
+      },
+      {
+        "rank": 4,
+        "hex": "#948C80",
+        "rgb": [
+          148,
+          140,
+          128
+        ],
+        "percent": 2.0951,
+        "pixel_count": 4183
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#7A9CC6",
+          "rgb": [
+            122,
+            156,
+            198
+          ],
+          "percent": 63.7304,
+          "pixel_count": 127241
+        },
+        {
+          "rank": 2,
+          "hex": "#10244A",
+          "rgb": [
+            16,
+            36,
+            74
+          ],
+          "percent": 34.1745,
+          "pixel_count": 68231
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#948C80",
+          "rgb": [
+            148,
+            140,
+            128
+          ],
+          "percent": 2.0951,
+          "pixel_count": 4183
+        }
+      ]
+    }
+  },
+  {
+    "file": "Acapalms.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Acapalms.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#676922",
+        "rgb": [
+          103,
+          105,
+          34
+        ],
+        "percent": 74.5579,
+        "pixel_count": 127494
+      },
+      {
+        "rank": 2,
+        "hex": "#DAE4F2",
+        "rgb": [
+          218,
+          228,
+          242
+        ],
+        "percent": 21.8813,
+        "pixel_count": 37417
+      },
+      {
+        "rank": 3,
+        "hex": "#98A794",
+        "rgb": [
+          152,
+          167,
+          148
+        ],
+        "percent": 3.5608,
+        "pixel_count": 6089
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#697217",
+        "rgb": [
+          105,
+          114,
+          23
+        ],
+        "percent": 31.3865,
+        "pixel_count": 53671
+      },
+      {
+        "rank": 2,
+        "hex": "#4D5122",
+        "rgb": [
+          77,
+          81,
+          34
+        ],
+        "percent": 28.969,
+        "pixel_count": 49537
+      },
+      {
+        "rank": 3,
+        "hex": "#DAE4F2",
+        "rgb": [
+          218,
+          228,
+          242
+        ],
+        "percent": 21.8813,
+        "pixel_count": 37417
+      },
+      {
+        "rank": 4,
+        "hex": "#988439",
+        "rgb": [
+          152,
+          132,
+          57
+        ],
+        "percent": 14.2023,
+        "pixel_count": 24286
+      },
+      {
+        "rank": 5,
+        "hex": "#98A794",
+        "rgb": [
+          152,
+          167,
+          148
+        ],
+        "percent": 3.5608,
+        "pixel_count": 6089
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#676922",
+          "rgb": [
+            103,
+            105,
+            34
+          ],
+          "percent": 74.5579,
+          "pixel_count": 127494
+        },
+        {
+          "rank": 2,
+          "hex": "#DAE4F2",
+          "rgb": [
+            218,
+            228,
+            242
+          ],
+          "percent": 21.8813,
+          "pixel_count": 37417
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#98A794",
+          "rgb": [
+            152,
+            167,
+            148
+          ],
+          "percent": 3.5608,
+          "pixel_count": 6089
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_129245850.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_129245850.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#9F765C",
+        "rgb": [
+          159,
+          118,
+          92
+        ],
+        "percent": 52.0513,
+        "pixel_count": 103923
+      },
+      {
+        "rank": 2,
+        "hex": "#A7A4AD",
+        "rgb": [
+          167,
+          164,
+          173
+        ],
+        "percent": 24.1512,
+        "pixel_count": 48219
+      },
+      {
+        "rank": 3,
+        "hex": "#1D150F",
+        "rgb": [
+          29,
+          21,
+          15
+        ],
+        "percent": 20.6616,
+        "pixel_count": 41252
+      },
+      {
+        "rank": 4,
+        "hex": "#FFC622",
+        "rgb": [
+          255,
+          198,
+          34
+        ],
+        "percent": 3.1359,
+        "pixel_count": 6261
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A1785E",
+        "rgb": [
+          161,
+          120,
+          94
+        ],
+        "percent": 50.6924,
+        "pixel_count": 101210
+      },
+      {
+        "rank": 2,
+        "hex": "#A7A4AD",
+        "rgb": [
+          167,
+          164,
+          173
+        ],
+        "percent": 24.1512,
+        "pixel_count": 48219
+      },
+      {
+        "rank": 3,
+        "hex": "#1D150F",
+        "rgb": [
+          29,
+          21,
+          15
+        ],
+        "percent": 20.6616,
+        "pixel_count": 41252
+      },
+      {
+        "rank": 4,
+        "hex": "#FFD909",
+        "rgb": [
+          255,
+          217,
+          9
+        ],
+        "percent": 1.7115,
+        "pixel_count": 3417
+      },
+      {
+        "rank": 5,
+        "hex": "#FEB041",
+        "rgb": [
+          254,
+          176,
+          65
+        ],
+        "percent": 1.4245,
+        "pixel_count": 2844
+      },
+      {
+        "rank": 6,
+        "hex": "#64301A",
+        "rgb": [
+          100,
+          48,
+          26
+        ],
+        "percent": 1.3588,
+        "pixel_count": 2713
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#9F765C",
+          "rgb": [
+            159,
+            118,
+            92
+          ],
+          "percent": 52.0513,
+          "pixel_count": 103923
+        },
+        {
+          "rank": 2,
+          "hex": "#A7A4AD",
+          "rgb": [
+            167,
+            164,
+            173
+          ],
+          "percent": 24.1512,
+          "pixel_count": 48219
+        },
+        {
+          "rank": 3,
+          "hex": "#1D150F",
+          "rgb": [
+            29,
+            21,
+            15
+          ],
+          "percent": 20.6616,
+          "pixel_count": 41252
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#FFC622",
+          "rgb": [
+            255,
+            198,
+            34
+          ],
+          "percent": 3.1359,
+          "pixel_count": 6261
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_134676572.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_134676572.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#624E40",
+        "rgb": [
+          98,
+          78,
+          64
+        ],
+        "percent": 69.6652,
+        "pixel_count": 139090
+      },
+      {
+        "rank": 2,
+        "hex": "#72707A",
+        "rgb": [
+          114,
+          112,
+          122
+        ],
+        "percent": 25.4389,
+        "pixel_count": 50790
+      },
+      {
+        "rank": 3,
+        "hex": "#F6B86A",
+        "rgb": [
+          246,
+          184,
+          106
+        ],
+        "percent": 4.8959,
+        "pixel_count": 9775
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3A2F26",
+        "rgb": [
+          58,
+          47,
+          38
+        ],
+        "percent": 43.5045,
+        "pixel_count": 86859
+      },
+      {
+        "rank": 2,
+        "hex": "#A4816C",
+        "rgb": [
+          164,
+          129,
+          108
+        ],
+        "percent": 26.1606,
+        "pixel_count": 52231
+      },
+      {
+        "rank": 3,
+        "hex": "#72707A",
+        "rgb": [
+          114,
+          112,
+          122
+        ],
+        "percent": 25.4389,
+        "pixel_count": 50790
+      },
+      {
+        "rank": 4,
+        "hex": "#F6B86A",
+        "rgb": [
+          246,
+          184,
+          106
+        ],
+        "percent": 4.8959,
+        "pixel_count": 9775
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#624E40",
+          "rgb": [
+            98,
+            78,
+            64
+          ],
+          "percent": 69.6652,
+          "pixel_count": 139090
+        },
+        {
+          "rank": 2,
+          "hex": "#72707A",
+          "rgb": [
+            114,
+            112,
+            122
+          ],
+          "percent": 25.4389,
+          "pixel_count": 50790
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#F6B86A",
+          "rgb": [
+            246,
+            184,
+            106
+          ],
+          "percent": 4.8959,
+          "pixel_count": 9775
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_1683731213.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_1683731213.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#4D5E5A",
+        "rgb": [
+          77,
+          94,
+          90
+        ],
+        "percent": 42.916,
+        "pixel_count": 85686
+      },
+      {
+        "rank": 2,
+        "hex": "#0CA1D2",
+        "rgb": [
+          12,
+          161,
+          210
+        ],
+        "percent": 27.7617,
+        "pixel_count": 55429
+      },
+      {
+        "rank": 3,
+        "hex": "#9DCCDB",
+        "rgb": [
+          157,
+          204,
+          219
+        ],
+        "percent": 21.5516,
+        "pixel_count": 43030
+      },
+      {
+        "rank": 4,
+        "hex": "#0D1819",
+        "rgb": [
+          13,
+          24,
+          25
+        ],
+        "percent": 7.7707,
+        "pixel_count": 15515
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#4D5E5A",
+        "rgb": [
+          77,
+          94,
+          90
+        ],
+        "percent": 42.916,
+        "pixel_count": 85686
+      },
+      {
+        "rank": 2,
+        "hex": "#0CA1D2",
+        "rgb": [
+          12,
+          161,
+          210
+        ],
+        "percent": 27.7617,
+        "pixel_count": 55429
+      },
+      {
+        "rank": 3,
+        "hex": "#9DCCDB",
+        "rgb": [
+          157,
+          204,
+          219
+        ],
+        "percent": 21.5516,
+        "pixel_count": 43030
+      },
+      {
+        "rank": 4,
+        "hex": "#0D1819",
+        "rgb": [
+          13,
+          24,
+          25
+        ],
+        "percent": 7.7707,
+        "pixel_count": 15515
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#4D5E5A",
+          "rgb": [
+            77,
+            94,
+            90
+          ],
+          "percent": 42.916,
+          "pixel_count": 85686
+        },
+        {
+          "rank": 2,
+          "hex": "#0CA1D2",
+          "rgb": [
+            12,
+            161,
+            210
+          ],
+          "percent": 27.7617,
+          "pixel_count": 55429
+        },
+        {
+          "rank": 3,
+          "hex": "#9DCCDB",
+          "rgb": [
+            157,
+            204,
+            219
+          ],
+          "percent": 21.5516,
+          "pixel_count": 43030
+        },
+        {
+          "rank": 4,
+          "hex": "#0D1819",
+          "rgb": [
+            13,
+            24,
+            25
+          ],
+          "percent": 7.7707,
+          "pixel_count": 15515
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "AdobeStock_1771110907.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_1771110907.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CABCB5",
+        "rgb": [
+          202,
+          188,
+          181
+        ],
+        "percent": 49.2522,
+        "pixel_count": 98337
+      },
+      {
+        "rank": 2,
+        "hex": "#A39D9D",
+        "rgb": [
+          163,
+          157,
+          157
+        ],
+        "percent": 19.7275,
+        "pixel_count": 39388
+      },
+      {
+        "rank": 3,
+        "hex": "#5D5756",
+        "rgb": [
+          93,
+          87,
+          86
+        ],
+        "percent": 18.9422,
+        "pixel_count": 37820
+      },
+      {
+        "rank": 4,
+        "hex": "#211F1C",
+        "rgb": [
+          33,
+          31,
+          28
+        ],
+        "percent": 12.078,
+        "pixel_count": 24115
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DDD4D0",
+        "rgb": [
+          221,
+          212,
+          208
+        ],
+        "percent": 35.2549,
+        "pixel_count": 70390
+      },
+      {
+        "rank": 2,
+        "hex": "#A39D9D",
+        "rgb": [
+          163,
+          157,
+          157
+        ],
+        "percent": 19.7275,
+        "pixel_count": 39388
+      },
+      {
+        "rank": 3,
+        "hex": "#5D5756",
+        "rgb": [
+          93,
+          87,
+          86
+        ],
+        "percent": 18.9422,
+        "pixel_count": 37820
+      },
+      {
+        "rank": 4,
+        "hex": "#998072",
+        "rgb": [
+          153,
+          128,
+          114
+        ],
+        "percent": 13.9973,
+        "pixel_count": 27947
+      },
+      {
+        "rank": 5,
+        "hex": "#211F1C",
+        "rgb": [
+          33,
+          31,
+          28
+        ],
+        "percent": 12.078,
+        "pixel_count": 24115
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CABCB5",
+          "rgb": [
+            202,
+            188,
+            181
+          ],
+          "percent": 49.2522,
+          "pixel_count": 98337
+        },
+        {
+          "rank": 2,
+          "hex": "#A39D9D",
+          "rgb": [
+            163,
+            157,
+            157
+          ],
+          "percent": 19.7275,
+          "pixel_count": 39388
+        },
+        {
+          "rank": 3,
+          "hex": "#5D5756",
+          "rgb": [
+            93,
+            87,
+            86
+          ],
+          "percent": 18.9422,
+          "pixel_count": 37820
+        },
+        {
+          "rank": 4,
+          "hex": "#211F1C",
+          "rgb": [
+            33,
+            31,
+            28
+          ],
+          "percent": 12.078,
+          "pixel_count": 24115
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "AdobeStock_190095573.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_190095573.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#484C5A",
+        "rgb": [
+          72,
+          76,
+          90
+        ],
+        "percent": 40.1434,
+        "pixel_count": 79384
+      },
+      {
+        "rank": 2,
+        "hex": "#202715",
+        "rgb": [
+          32,
+          39,
+          21
+        ],
+        "percent": 25.2515,
+        "pixel_count": 49935
+      },
+      {
+        "rank": 3,
+        "hex": "#E1A67C",
+        "rgb": [
+          225,
+          166,
+          124
+        ],
+        "percent": 22.9086,
+        "pixel_count": 45302
+      },
+      {
+        "rank": 4,
+        "hex": "#5B83A3",
+        "rgb": [
+          91,
+          131,
+          163
+        ],
+        "percent": 8.7777,
+        "pixel_count": 17358
+      },
+      {
+        "rank": 5,
+        "hex": "#F7F4F2",
+        "rgb": [
+          247,
+          244,
+          242
+        ],
+        "percent": 2.9188,
+        "pixel_count": 5772
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#484C5A",
+        "rgb": [
+          72,
+          76,
+          90
+        ],
+        "percent": 39.7606,
+        "pixel_count": 79384
+      },
+      {
+        "rank": 2,
+        "hex": "#202715",
+        "rgb": [
+          32,
+          39,
+          21
+        ],
+        "percent": 25.0106,
+        "pixel_count": 49935
+      },
+      {
+        "rank": 3,
+        "hex": "#E1A67C",
+        "rgb": [
+          225,
+          166,
+          124
+        ],
+        "percent": 22.6901,
+        "pixel_count": 45302
+      },
+      {
+        "rank": 4,
+        "hex": "#5B83A3",
+        "rgb": [
+          91,
+          131,
+          163
+        ],
+        "percent": 8.694,
+        "pixel_count": 17358
+      },
+      {
+        "rank": 5,
+        "hex": "#F7F4F2",
+        "rgb": [
+          247,
+          244,
+          242
+        ],
+        "percent": 2.891,
+        "pixel_count": 5772
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#484C5A",
+          "rgb": [
+            72,
+            76,
+            90
+          ],
+          "percent": 40.1434,
+          "pixel_count": 79384
+        },
+        {
+          "rank": 2,
+          "hex": "#202715",
+          "rgb": [
+            32,
+            39,
+            21
+          ],
+          "percent": 25.2515,
+          "pixel_count": 49935
+        },
+        {
+          "rank": 3,
+          "hex": "#E1A67C",
+          "rgb": [
+            225,
+            166,
+            124
+          ],
+          "percent": 22.9086,
+          "pixel_count": 45302
+        },
+        {
+          "rank": 4,
+          "hex": "#5B83A3",
+          "rgb": [
+            91,
+            131,
+            163
+          ],
+          "percent": 8.7777,
+          "pixel_count": 17358
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#F7F4F2",
+          "rgb": [
+            247,
+            244,
+            242
+          ],
+          "percent": 2.9188,
+          "pixel_count": 5772
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_312409176.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_312409176.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#88887A",
+        "rgb": [
+          136,
+          136,
+          122
+        ],
+        "percent": 27.8717,
+        "pixel_count": 55633
+      },
+      {
+        "rank": 2,
+        "hex": "#353B2E",
+        "rgb": [
+          53,
+          59,
+          46
+        ],
+        "percent": 25.8106,
+        "pixel_count": 51519
+      },
+      {
+        "rank": 3,
+        "hex": "#5B612F",
+        "rgb": [
+          91,
+          97,
+          47
+        ],
+        "percent": 24.0181,
+        "pixel_count": 47941
+      },
+      {
+        "rank": 4,
+        "hex": "#6F9FC9",
+        "rgb": [
+          111,
+          159,
+          201
+        ],
+        "percent": 18.7752,
+        "pixel_count": 37476
+      },
+      {
+        "rank": 5,
+        "hex": "#0163B1",
+        "rgb": [
+          1,
+          99,
+          177
+        ],
+        "percent": 3.5245,
+        "pixel_count": 7035
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#88887A",
+        "rgb": [
+          136,
+          136,
+          122
+        ],
+        "percent": 27.8717,
+        "pixel_count": 55633
+      },
+      {
+        "rank": 2,
+        "hex": "#353B2E",
+        "rgb": [
+          53,
+          59,
+          46
+        ],
+        "percent": 25.8106,
+        "pixel_count": 51519
+      },
+      {
+        "rank": 3,
+        "hex": "#5B612F",
+        "rgb": [
+          91,
+          97,
+          47
+        ],
+        "percent": 24.0181,
+        "pixel_count": 47941
+      },
+      {
+        "rank": 4,
+        "hex": "#6F9FC9",
+        "rgb": [
+          111,
+          159,
+          201
+        ],
+        "percent": 18.7752,
+        "pixel_count": 37476
+      },
+      {
+        "rank": 5,
+        "hex": "#0163B1",
+        "rgb": [
+          1,
+          99,
+          177
+        ],
+        "percent": 3.5245,
+        "pixel_count": 7035
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#88887A",
+          "rgb": [
+            136,
+            136,
+            122
+          ],
+          "percent": 27.8717,
+          "pixel_count": 55633
+        },
+        {
+          "rank": 2,
+          "hex": "#353B2E",
+          "rgb": [
+            53,
+            59,
+            46
+          ],
+          "percent": 25.8106,
+          "pixel_count": 51519
+        },
+        {
+          "rank": 3,
+          "hex": "#5B612F",
+          "rgb": [
+            91,
+            97,
+            47
+          ],
+          "percent": 24.0181,
+          "pixel_count": 47941
+        },
+        {
+          "rank": 4,
+          "hex": "#6F9FC9",
+          "rgb": [
+            111,
+            159,
+            201
+          ],
+          "percent": 18.7752,
+          "pixel_count": 37476
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#0163B1",
+          "rgb": [
+            1,
+            99,
+            177
+          ],
+          "percent": 3.5245,
+          "pixel_count": 7035
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_314481487.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_314481487.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#128FAC",
+        "rgb": [
+          18,
+          143,
+          172
+        ],
+        "percent": 42.1888,
+        "pixel_count": 84232
+      },
+      {
+        "rank": 2,
+        "hex": "#9ECAF1",
+        "rgb": [
+          158,
+          202,
+          241
+        ],
+        "percent": 20.4132,
+        "pixel_count": 40756
+      },
+      {
+        "rank": 3,
+        "hex": "#9C988F",
+        "rgb": [
+          156,
+          152,
+          143
+        ],
+        "percent": 20.023,
+        "pixel_count": 39977
+      },
+      {
+        "rank": 4,
+        "hex": "#494D4E",
+        "rgb": [
+          73,
+          77,
+          78
+        ],
+        "percent": 17.375,
+        "pixel_count": 34690
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#1094A3",
+        "rgb": [
+          16,
+          148,
+          163
+        ],
+        "percent": 31.9281,
+        "pixel_count": 63746
+      },
+      {
+        "rank": 2,
+        "hex": "#9ECAF1",
+        "rgb": [
+          158,
+          202,
+          241
+        ],
+        "percent": 20.4132,
+        "pixel_count": 40756
+      },
+      {
+        "rank": 3,
+        "hex": "#9C988F",
+        "rgb": [
+          156,
+          152,
+          143
+        ],
+        "percent": 20.023,
+        "pixel_count": 39977
+      },
+      {
+        "rank": 4,
+        "hex": "#494D4E",
+        "rgb": [
+          73,
+          77,
+          78
+        ],
+        "percent": 17.375,
+        "pixel_count": 34690
+      },
+      {
+        "rank": 5,
+        "hex": "#1781C6",
+        "rgb": [
+          23,
+          129,
+          198
+        ],
+        "percent": 10.2607,
+        "pixel_count": 20486
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#128FAC",
+          "rgb": [
+            18,
+            143,
+            172
+          ],
+          "percent": 42.1888,
+          "pixel_count": 84232
+        },
+        {
+          "rank": 2,
+          "hex": "#9ECAF1",
+          "rgb": [
+            158,
+            202,
+            241
+          ],
+          "percent": 20.4132,
+          "pixel_count": 40756
+        },
+        {
+          "rank": 3,
+          "hex": "#9C988F",
+          "rgb": [
+            156,
+            152,
+            143
+          ],
+          "percent": 20.023,
+          "pixel_count": 39977
+        },
+        {
+          "rank": 4,
+          "hex": "#494D4E",
+          "rgb": [
+            73,
+            77,
+            78
+          ],
+          "percent": 17.375,
+          "pixel_count": 34690
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "AdobeStock_441629663.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_441629663.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#7295A9",
+        "rgb": [
+          114,
+          149,
+          169
+        ],
+        "percent": 60.9701,
+        "pixel_count": 121733
+      },
+      {
+        "rank": 2,
+        "hex": "#485349",
+        "rgb": [
+          72,
+          83,
+          73
+        ],
+        "percent": 36.6769,
+        "pixel_count": 73229
+      },
+      {
+        "rank": 3,
+        "hex": "#D4CDAE",
+        "rgb": [
+          212,
+          205,
+          174
+        ],
+        "percent": 2.353,
+        "pixel_count": 4698
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#485349",
+        "rgb": [
+          72,
+          83,
+          73
+        ],
+        "percent": 36.6769,
+        "pixel_count": 73229
+      },
+      {
+        "rank": 2,
+        "hex": "#A6C9D5",
+        "rgb": [
+          166,
+          201,
+          213
+        ],
+        "percent": 34.128,
+        "pixel_count": 68140
+      },
+      {
+        "rank": 3,
+        "hex": "#305472",
+        "rgb": [
+          48,
+          84,
+          114
+        ],
+        "percent": 26.8421,
+        "pixel_count": 53593
+      },
+      {
+        "rank": 4,
+        "hex": "#D4CDAE",
+        "rgb": [
+          212,
+          205,
+          174
+        ],
+        "percent": 2.353,
+        "pixel_count": 4698
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#7295A9",
+          "rgb": [
+            114,
+            149,
+            169
+          ],
+          "percent": 60.9701,
+          "pixel_count": 121733
+        },
+        {
+          "rank": 2,
+          "hex": "#485349",
+          "rgb": [
+            72,
+            83,
+            73
+          ],
+          "percent": 36.6769,
+          "pixel_count": 73229
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#D4CDAE",
+          "rgb": [
+            212,
+            205,
+            174
+          ],
+          "percent": 2.353,
+          "pixel_count": 4698
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_480319867.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_480319867.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#292D1D",
+        "rgb": [
+          41,
+          45,
+          29
+        ],
+        "percent": 47.2328,
+        "pixel_count": 94305
+      },
+      {
+        "rank": 2,
+        "hex": "#6E84A2",
+        "rgb": [
+          110,
+          132,
+          162
+        ],
+        "percent": 36.5576,
+        "pixel_count": 72991
+      },
+      {
+        "rank": 3,
+        "hex": "#B3ABBB",
+        "rgb": [
+          179,
+          171,
+          187
+        ],
+        "percent": 16.2096,
+        "pixel_count": 32364
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#292D1D",
+        "rgb": [
+          41,
+          45,
+          29
+        ],
+        "percent": 47.2328,
+        "pixel_count": 94305
+      },
+      {
+        "rank": 2,
+        "hex": "#88A3C6",
+        "rgb": [
+          136,
+          163,
+          198
+        ],
+        "percent": 19.2612,
+        "pixel_count": 38457
+      },
+      {
+        "rank": 3,
+        "hex": "#52627A",
+        "rgb": [
+          82,
+          98,
+          122
+        ],
+        "percent": 17.2964,
+        "pixel_count": 34534
+      },
+      {
+        "rank": 4,
+        "hex": "#B3ABBB",
+        "rgb": [
+          179,
+          171,
+          187
+        ],
+        "percent": 16.2096,
+        "pixel_count": 32364
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#292D1D",
+          "rgb": [
+            41,
+            45,
+            29
+          ],
+          "percent": 47.2328,
+          "pixel_count": 94305
+        },
+        {
+          "rank": 2,
+          "hex": "#6E84A2",
+          "rgb": [
+            110,
+            132,
+            162
+          ],
+          "percent": 36.5576,
+          "pixel_count": 72991
+        },
+        {
+          "rank": 3,
+          "hex": "#B3ABBB",
+          "rgb": [
+            179,
+            171,
+            187
+          ],
+          "percent": 16.2096,
+          "pixel_count": 32364
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "AdobeStock_483453278.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_483453278.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#98908F",
+        "rgb": [
+          152,
+          144,
+          143
+        ],
+        "percent": 33.1712,
+        "pixel_count": 66228
+      },
+      {
+        "rank": 2,
+        "hex": "#272F26",
+        "rgb": [
+          39,
+          47,
+          38
+        ],
+        "percent": 26.0595,
+        "pixel_count": 52029
+      },
+      {
+        "rank": 3,
+        "hex": "#B1C9DE",
+        "rgb": [
+          177,
+          201,
+          222
+        ],
+        "percent": 20.0045,
+        "pixel_count": 39940
+      },
+      {
+        "rank": 4,
+        "hex": "#DED1C4",
+        "rgb": [
+          222,
+          209,
+          196
+        ],
+        "percent": 17.5182,
+        "pixel_count": 34976
+      },
+      {
+        "rank": 5,
+        "hex": "#EFBC74",
+        "rgb": [
+          239,
+          188,
+          116
+        ],
+        "percent": 3.2466,
+        "pixel_count": 6482
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#98908F",
+        "rgb": [
+          152,
+          144,
+          143
+        ],
+        "percent": 33.1712,
+        "pixel_count": 66228
+      },
+      {
+        "rank": 2,
+        "hex": "#272F26",
+        "rgb": [
+          39,
+          47,
+          38
+        ],
+        "percent": 26.0595,
+        "pixel_count": 52029
+      },
+      {
+        "rank": 3,
+        "hex": "#B1C9DE",
+        "rgb": [
+          177,
+          201,
+          222
+        ],
+        "percent": 20.0045,
+        "pixel_count": 39940
+      },
+      {
+        "rank": 4,
+        "hex": "#DED1C4",
+        "rgb": [
+          222,
+          209,
+          196
+        ],
+        "percent": 17.5182,
+        "pixel_count": 34976
+      },
+      {
+        "rank": 5,
+        "hex": "#EFBC74",
+        "rgb": [
+          239,
+          188,
+          116
+        ],
+        "percent": 3.2466,
+        "pixel_count": 6482
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#98908F",
+          "rgb": [
+            152,
+            144,
+            143
+          ],
+          "percent": 33.1712,
+          "pixel_count": 66228
+        },
+        {
+          "rank": 2,
+          "hex": "#272F26",
+          "rgb": [
+            39,
+            47,
+            38
+          ],
+          "percent": 26.0595,
+          "pixel_count": 52029
+        },
+        {
+          "rank": 3,
+          "hex": "#B1C9DE",
+          "rgb": [
+            177,
+            201,
+            222
+          ],
+          "percent": 20.0045,
+          "pixel_count": 39940
+        },
+        {
+          "rank": 4,
+          "hex": "#DED1C4",
+          "rgb": [
+            222,
+            209,
+            196
+          ],
+          "percent": 17.5182,
+          "pixel_count": 34976
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#EFBC74",
+          "rgb": [
+            239,
+            188,
+            116
+          ],
+          "percent": 3.2466,
+          "pixel_count": 6482
+        }
+      ]
+    }
+  },
+  {
+    "file": "AdobeStock_560565735.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_560565735.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#187886",
+        "rgb": [
+          24,
+          120,
+          134
+        ],
+        "percent": 59.9144,
+        "pixel_count": 119625
+      },
+      {
+        "rank": 2,
+        "hex": "#5B7354",
+        "rgb": [
+          91,
+          115,
+          84
+        ],
+        "percent": 22.1937,
+        "pixel_count": 44312
+      },
+      {
+        "rank": 3,
+        "hex": "#C2B4AA",
+        "rgb": [
+          194,
+          180,
+          170
+        ],
+        "percent": 17.8919,
+        "pixel_count": 35723
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#187A88",
+        "rgb": [
+          24,
+          122,
+          136
+        ],
+        "percent": 58.244,
+        "pixel_count": 116290
+      },
+      {
+        "rank": 2,
+        "hex": "#5B7354",
+        "rgb": [
+          91,
+          115,
+          84
+        ],
+        "percent": 22.1937,
+        "pixel_count": 44312
+      },
+      {
+        "rank": 3,
+        "hex": "#C2B4AA",
+        "rgb": [
+          194,
+          180,
+          170
+        ],
+        "percent": 17.8919,
+        "pixel_count": 35723
+      },
+      {
+        "rank": 4,
+        "hex": "#0C2D3C",
+        "rgb": [
+          12,
+          45,
+          60
+        ],
+        "percent": 1.6703,
+        "pixel_count": 3335
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#187886",
+          "rgb": [
+            24,
+            120,
+            134
+          ],
+          "percent": 59.9144,
+          "pixel_count": 119625
+        },
+        {
+          "rank": 2,
+          "hex": "#5B7354",
+          "rgb": [
+            91,
+            115,
+            84
+          ],
+          "percent": 22.1937,
+          "pixel_count": 44312
+        },
+        {
+          "rank": 3,
+          "hex": "#C2B4AA",
+          "rgb": [
+            194,
+            180,
+            170
+          ],
+          "percent": 17.8919,
+          "pixel_count": 35723
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "AdobeStock_587714004.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_587714004.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#6B7580",
+        "rgb": [
+          107,
+          117,
+          128
+        ],
+        "percent": 100.0,
+        "pixel_count": 195985
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#6A7887",
+        "rgb": [
+          106,
+          120,
+          135
+        ],
+        "percent": 36.0252,
+        "pixel_count": 71928
+      },
+      {
+        "rank": 2,
+        "hex": "#38404A",
+        "rgb": [
+          56,
+          64,
+          74
+        ],
+        "percent": 33.4424,
+        "pixel_count": 66771
+      },
+      {
+        "rank": 3,
+        "hex": "#A6AEB5",
+        "rgb": [
+          166,
+          174,
+          181
+        ],
+        "percent": 28.6918,
+        "pixel_count": 57286
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#6B7580",
+          "rgb": [
+            107,
+            117,
+            128
+          ],
+          "percent": 100.0,
+          "pixel_count": 195985
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "AdobeStock_651362783.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/AdobeStock_651362783.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CBB18A",
+        "rgb": [
+          203,
+          177,
+          138
+        ],
+        "percent": 41.7705,
+        "pixel_count": 83203
+      },
+      {
+        "rank": 2,
+        "hex": "#3B510F",
+        "rgb": [
+          59,
+          81,
+          15
+        ],
+        "percent": 37.7331,
+        "pixel_count": 75161
+      },
+      {
+        "rank": 3,
+        "hex": "#112111",
+        "rgb": [
+          17,
+          33,
+          17
+        ],
+        "percent": 20.4964,
+        "pixel_count": 40827
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C4B192",
+        "rgb": [
+          196,
+          177,
+          146
+        ],
+        "percent": 34.8601,
+        "pixel_count": 69497
+      },
+      {
+        "rank": 2,
+        "hex": "#4B6210",
+        "rgb": [
+          75,
+          98,
+          16
+        ],
+        "percent": 22.7227,
+        "pixel_count": 45300
+      },
+      {
+        "rank": 3,
+        "hex": "#112111",
+        "rgb": [
+          17,
+          33,
+          17
+        ],
+        "percent": 20.479,
+        "pixel_count": 40827
+      },
+      {
+        "rank": 4,
+        "hex": "#22370D",
+        "rgb": [
+          34,
+          55,
+          13
+        ],
+        "percent": 14.9784,
+        "pixel_count": 29861
+      },
+      {
+        "rank": 5,
+        "hex": "#F0B25F",
+        "rgb": [
+          240,
+          178,
+          95
+        ],
+        "percent": 6.875,
+        "pixel_count": 13706
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CBB18A",
+          "rgb": [
+            203,
+            177,
+            138
+          ],
+          "percent": 41.7705,
+          "pixel_count": 83203
+        },
+        {
+          "rank": 2,
+          "hex": "#3B510F",
+          "rgb": [
+            59,
+            81,
+            15
+          ],
+          "percent": 37.7331,
+          "pixel_count": 75161
+        },
+        {
+          "rank": 3,
+          "hex": "#112111",
+          "rgb": [
+            17,
+            33,
+            17
+          ],
+          "percent": 20.4964,
+          "pixel_count": 40827
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Amazon_CIAT_(2).jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Amazon_CIAT_(2).jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#4C512C",
+        "rgb": [
+          76,
+          81,
+          44
+        ],
+        "percent": 47.8225,
+        "pixel_count": 95436
+      },
+      {
+        "rank": 2,
+        "hex": "#8394A7",
+        "rgb": [
+          131,
+          148,
+          167
+        ],
+        "percent": 27.0661,
+        "pixel_count": 54014
+      },
+      {
+        "rank": 3,
+        "hex": "#D0EAEE",
+        "rgb": [
+          208,
+          234,
+          238
+        ],
+        "percent": 25.1114,
+        "pixel_count": 50113
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#D0EAEE",
+        "rgb": [
+          208,
+          234,
+          238
+        ],
+        "percent": 25.1114,
+        "pixel_count": 50113
+      },
+      {
+        "rank": 2,
+        "hex": "#4A522F",
+        "rgb": [
+          74,
+          82,
+          47
+        ],
+        "percent": 18.9163,
+        "pixel_count": 37750
+      },
+      {
+        "rank": 3,
+        "hex": "#727738",
+        "rgb": [
+          114,
+          119,
+          56
+        ],
+        "percent": 15.5369,
+        "pixel_count": 31006
+      },
+      {
+        "rank": 4,
+        "hex": "#96A3AE",
+        "rgb": [
+          150,
+          163,
+          174
+        ],
+        "percent": 13.8172,
+        "pixel_count": 27574
+      },
+      {
+        "rank": 5,
+        "hex": "#21251A",
+        "rgb": [
+          33,
+          37,
+          26
+        ],
+        "percent": 13.3692,
+        "pixel_count": 26680
+      },
+      {
+        "rank": 6,
+        "hex": "#70859F",
+        "rgb": [
+          112,
+          133,
+          159
+        ],
+        "percent": 13.2489,
+        "pixel_count": 26440
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#4C512C",
+          "rgb": [
+            76,
+            81,
+            44
+          ],
+          "percent": 47.8225,
+          "pixel_count": 95436
+        },
+        {
+          "rank": 2,
+          "hex": "#8394A7",
+          "rgb": [
+            131,
+            148,
+            167
+          ],
+          "percent": 27.0661,
+          "pixel_count": 54014
+        },
+        {
+          "rank": 3,
+          "hex": "#D0EAEE",
+          "rgb": [
+            208,
+            234,
+            238
+          ],
+          "percent": 25.1114,
+          "pixel_count": 50113
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Arquip\u00e9lago_de_S\u00e3o_Pedro_e_S\u00e3o_Paulo_-_2016_(53008821154).jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Arquip\u00e9lago_de_S\u00e3o_Pedro_e_S\u00e3o_Paulo_-_2016_(53008821154).jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#29384A",
+        "rgb": [
+          41,
+          56,
+          74
+        ],
+        "percent": 64.7051,
+        "pixel_count": 129218
+      },
+      {
+        "rank": 2,
+        "hex": "#8C989F",
+        "rgb": [
+          140,
+          152,
+          159
+        ],
+        "percent": 35.2949,
+        "pixel_count": 70485
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#34455D",
+        "rgb": [
+          52,
+          69,
+          93
+        ],
+        "percent": 35.6585,
+        "pixel_count": 71211
+      },
+      {
+        "rank": 2,
+        "hex": "#1C2733",
+        "rgb": [
+          28,
+          39,
+          51
+        ],
+        "percent": 29.0466,
+        "pixel_count": 58007
+      },
+      {
+        "rank": 3,
+        "hex": "#AAB4B9",
+        "rgb": [
+          170,
+          180,
+          185
+        ],
+        "percent": 20.205,
+        "pixel_count": 40350
+      },
+      {
+        "rank": 4,
+        "hex": "#64727D",
+        "rgb": [
+          100,
+          114,
+          125
+        ],
+        "percent": 15.0899,
+        "pixel_count": 30135
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#29384A",
+          "rgb": [
+            41,
+            56,
+            74
+          ],
+          "percent": 64.7051,
+          "pixel_count": 129218
+        },
+        {
+          "rank": 2,
+          "hex": "#8C989F",
+          "rgb": [
+            140,
+            152,
+            159
+          ],
+          "percent": 35.2949,
+          "pixel_count": 70485
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Arroz_095.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Arroz_095.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#676C12",
+        "rgb": [
+          103,
+          108,
+          18
+        ],
+        "percent": 68.0903,
+        "pixel_count": 135949
+      },
+      {
+        "rank": 2,
+        "hex": "#F0DA33",
+        "rgb": [
+          240,
+          218,
+          51
+        ],
+        "percent": 19.1095,
+        "pixel_count": 38154
+      },
+      {
+        "rank": 3,
+        "hex": "#C3CFD0",
+        "rgb": [
+          195,
+          207,
+          208
+        ],
+        "percent": 12.8003,
+        "pixel_count": 25557
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3D461A",
+        "rgb": [
+          61,
+          70,
+          26
+        ],
+        "percent": 32.4847,
+        "pixel_count": 64859
+      },
+      {
+        "rank": 2,
+        "hex": "#A4A10D",
+        "rgb": [
+          164,
+          161,
+          13
+        ],
+        "percent": 19.4275,
+        "pixel_count": 38789
+      },
+      {
+        "rank": 3,
+        "hex": "#F0DA33",
+        "rgb": [
+          240,
+          218,
+          51
+        ],
+        "percent": 19.1095,
+        "pixel_count": 38154
+      },
+      {
+        "rank": 4,
+        "hex": "#747707",
+        "rgb": [
+          116,
+          119,
+          7
+        ],
+        "percent": 16.178,
+        "pixel_count": 32301
+      },
+      {
+        "rank": 5,
+        "hex": "#C3CFD0",
+        "rgb": [
+          195,
+          207,
+          208
+        ],
+        "percent": 12.8003,
+        "pixel_count": 25557
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#676C12",
+          "rgb": [
+            103,
+            108,
+            18
+          ],
+          "percent": 68.0903,
+          "pixel_count": 135949
+        },
+        {
+          "rank": 2,
+          "hex": "#F0DA33",
+          "rgb": [
+            240,
+            218,
+            51
+          ],
+          "percent": 19.1095,
+          "pixel_count": 38154
+        },
+        {
+          "rank": 3,
+          "hex": "#C3CFD0",
+          "rgb": [
+            195,
+            207,
+            208
+          ],
+          "percent": 12.8003,
+          "pixel_count": 25557
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "BrunaPrado_Grumari_Rio_de_Janeiro_RJ_(40964015651).jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/BrunaPrado_Grumari_Rio_de_Janeiro_RJ_(40964015651).jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#2E301D",
+        "rgb": [
+          46,
+          48,
+          29
+        ],
+        "percent": 48.1656,
+        "pixel_count": 96165
+      },
+      {
+        "rank": 2,
+        "hex": "#465D84",
+        "rgb": [
+          70,
+          93,
+          132
+        ],
+        "percent": 46.671,
+        "pixel_count": 93181
+      },
+      {
+        "rank": 3,
+        "hex": "#B9AAA3",
+        "rgb": [
+          185,
+          170,
+          163
+        ],
+        "percent": 5.1634,
+        "pixel_count": 10309
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#32341D",
+        "rgb": [
+          50,
+          52,
+          29
+        ],
+        "percent": 35.1717,
+        "pixel_count": 70222
+      },
+      {
+        "rank": 2,
+        "hex": "#2E4969",
+        "rgb": [
+          46,
+          73,
+          105
+        ],
+        "percent": 29.2104,
+        "pixel_count": 58320
+      },
+      {
+        "rank": 3,
+        "hex": "#6E7EB1",
+        "rgb": [
+          110,
+          126,
+          177
+        ],
+        "percent": 17.4606,
+        "pixel_count": 34861
+      },
+      {
+        "rank": 4,
+        "hex": "#22241D",
+        "rgb": [
+          34,
+          36,
+          29
+        ],
+        "percent": 12.9939,
+        "pixel_count": 25943
+      },
+      {
+        "rank": 5,
+        "hex": "#B9AAA3",
+        "rgb": [
+          185,
+          170,
+          163
+        ],
+        "percent": 5.1634,
+        "pixel_count": 10309
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#2E301D",
+          "rgb": [
+            46,
+            48,
+            29
+          ],
+          "percent": 48.1656,
+          "pixel_count": 96165
+        },
+        {
+          "rank": 2,
+          "hex": "#465D84",
+          "rgb": [
+            70,
+            93,
+            132
+          ],
+          "percent": 46.671,
+          "pixel_count": 93181
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#B9AAA3",
+          "rgb": [
+            185,
+            170,
+            163
+          ],
+          "percent": 5.1634,
+          "pixel_count": 10309
+        }
+      ]
+    }
+  },
+  {
+    "file": "Cacao.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Cacao.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#356D3D",
+        "rgb": [
+          53,
+          109,
+          61
+        ],
+        "percent": 80.7717,
+        "pixel_count": 161411
+      },
+      {
+        "rank": 2,
+        "hex": "#0F130D",
+        "rgb": [
+          15,
+          19,
+          13
+        ],
+        "percent": 13.0677,
+        "pixel_count": 26114
+      },
+      {
+        "rank": 3,
+        "hex": "#A9D854",
+        "rgb": [
+          169,
+          216,
+          84
+        ],
+        "percent": 6.1606,
+        "pixel_count": 12311
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3E7C46",
+        "rgb": [
+          62,
+          124,
+          70
+        ],
+        "percent": 64.3828,
+        "pixel_count": 128660
+      },
+      {
+        "rank": 2,
+        "hex": "#10321A",
+        "rgb": [
+          16,
+          50,
+          26
+        ],
+        "percent": 16.3889,
+        "pixel_count": 32751
+      },
+      {
+        "rank": 3,
+        "hex": "#0F130D",
+        "rgb": [
+          15,
+          19,
+          13
+        ],
+        "percent": 13.0677,
+        "pixel_count": 26114
+      },
+      {
+        "rank": 4,
+        "hex": "#A9D854",
+        "rgb": [
+          169,
+          216,
+          84
+        ],
+        "percent": 6.1606,
+        "pixel_count": 12311
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#356D3D",
+          "rgb": [
+            53,
+            109,
+            61
+          ],
+          "percent": 80.7717,
+          "pixel_count": 161411
+        },
+        {
+          "rank": 2,
+          "hex": "#0F130D",
+          "rgb": [
+            15,
+            19,
+            13
+          ],
+          "percent": 13.0677,
+          "pixel_count": 26114
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#A9D854",
+          "rgb": [
+            169,
+            216,
+            84
+          ],
+          "percent": 6.1606,
+          "pixel_count": 12311
+        }
+      ]
+    }
+  },
+  {
+    "file": "Cerrado_-_Parque_Nacional_Chapada_dos_veadeiros.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Cerrado_-_Parque_Nacional_Chapada_dos_veadeiros.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#E1ECF6",
+        "rgb": [
+          225,
+          236,
+          246
+        ],
+        "percent": 51.8675,
+        "pixel_count": 103556
+      },
+      {
+        "rank": 2,
+        "hex": "#3C3C33",
+        "rgb": [
+          60,
+          60,
+          51
+        ],
+        "percent": 48.1325,
+        "pixel_count": 96099
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E1ECF6",
+        "rgb": [
+          225,
+          236,
+          246
+        ],
+        "percent": 51.8675,
+        "pixel_count": 103556
+      },
+      {
+        "rank": 2,
+        "hex": "#3C3C33",
+        "rgb": [
+          60,
+          60,
+          51
+        ],
+        "percent": 48.1325,
+        "pixel_count": 96099
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#E1ECF6",
+          "rgb": [
+            225,
+            236,
+            246
+          ],
+          "percent": 51.8675,
+          "pixel_count": 103556
+        },
+        {
+          "rank": 2,
+          "hex": "#3C3C33",
+          "rgb": [
+            60,
+            60,
+            51
+          ],
+          "percent": 48.1325,
+          "pixel_count": 96099
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Cerrado_-_Parque_Nacional_Chapada_dos_veadeiros_2.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Cerrado_-_Parque_Nacional_Chapada_dos_veadeiros_2.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#584633",
+        "rgb": [
+          88,
+          70,
+          51
+        ],
+        "percent": 77.2868,
+        "pixel_count": 153286
+      },
+      {
+        "rank": 2,
+        "hex": "#9BB5CC",
+        "rgb": [
+          155,
+          181,
+          204
+        ],
+        "percent": 22.7132,
+        "pixel_count": 45048
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#7C6047",
+        "rgb": [
+          124,
+          96,
+          71
+        ],
+        "percent": 40.9612,
+        "pixel_count": 81781
+      },
+      {
+        "rank": 2,
+        "hex": "#9BB5CC",
+        "rgb": [
+          155,
+          181,
+          204
+        ],
+        "percent": 22.5629,
+        "pixel_count": 45048
+      },
+      {
+        "rank": 3,
+        "hex": "#3F3727",
+        "rgb": [
+          63,
+          55,
+          39
+        ],
+        "percent": 21.5562,
+        "pixel_count": 43038
+      },
+      {
+        "rank": 4,
+        "hex": "#14100C",
+        "rgb": [
+          20,
+          16,
+          12
+        ],
+        "percent": 14.2581,
+        "pixel_count": 28467
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#584633",
+          "rgb": [
+            88,
+            70,
+            51
+          ],
+          "percent": 77.2868,
+          "pixel_count": 153286
+        },
+        {
+          "rank": 2,
+          "hex": "#9BB5CC",
+          "rgb": [
+            155,
+            181,
+            204
+          ],
+          "percent": 22.7132,
+          "pixel_count": 45048
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Chapada_dos_Veadeiros_18.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Chapada_dos_Veadeiros_18.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#595C49",
+        "rgb": [
+          89,
+          92,
+          73
+        ],
+        "percent": 77.8633,
+        "pixel_count": 155458
+      },
+      {
+        "rank": 2,
+        "hex": "#1B1E23",
+        "rgb": [
+          27,
+          30,
+          35
+        ],
+        "percent": 17.7166,
+        "pixel_count": 35372
+      },
+      {
+        "rank": 3,
+        "hex": "#E6E4E2",
+        "rgb": [
+          230,
+          228,
+          226
+        ],
+        "percent": 4.4201,
+        "pixel_count": 8825
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#56564D",
+        "rgb": [
+          86,
+          86,
+          77
+        ],
+        "percent": 54.8366,
+        "pixel_count": 109484
+      },
+      {
+        "rank": 2,
+        "hex": "#606B3F",
+        "rgb": [
+          96,
+          107,
+          63
+        ],
+        "percent": 23.0267,
+        "pixel_count": 45974
+      },
+      {
+        "rank": 3,
+        "hex": "#1B1E23",
+        "rgb": [
+          27,
+          30,
+          35
+        ],
+        "percent": 17.7166,
+        "pixel_count": 35372
+      },
+      {
+        "rank": 4,
+        "hex": "#E6E4E2",
+        "rgb": [
+          230,
+          228,
+          226
+        ],
+        "percent": 4.4201,
+        "pixel_count": 8825
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#595C49",
+          "rgb": [
+            89,
+            92,
+            73
+          ],
+          "percent": 77.8633,
+          "pixel_count": 155458
+        },
+        {
+          "rank": 2,
+          "hex": "#1B1E23",
+          "rgb": [
+            27,
+            30,
+            35
+          ],
+          "percent": 17.7166,
+          "pixel_count": 35372
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#E6E4E2",
+          "rgb": [
+            230,
+            228,
+            226
+          ],
+          "percent": 4.4201,
+          "pixel_count": 8825
+        }
+      ]
+    }
+  },
+  {
+    "file": "Faz_S_Sofia_canavial_090607_REFON.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Faz_S_Sofia_canavial_090607_REFON.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8D94C4",
+        "rgb": [
+          141,
+          148,
+          196
+        ],
+        "percent": 44.9015,
+        "pixel_count": 89648
+      },
+      {
+        "rank": 2,
+        "hex": "#7C8A34",
+        "rgb": [
+          124,
+          138,
+          52
+        ],
+        "percent": 42.3511,
+        "pixel_count": 84556
+      },
+      {
+        "rank": 3,
+        "hex": "#393C33",
+        "rgb": [
+          57,
+          60,
+          51
+        ],
+        "percent": 12.7475,
+        "pixel_count": 25451
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8D94C4",
+        "rgb": [
+          141,
+          148,
+          196
+        ],
+        "percent": 44.9015,
+        "pixel_count": 89648
+      },
+      {
+        "rank": 2,
+        "hex": "#7C8A34",
+        "rgb": [
+          124,
+          138,
+          52
+        ],
+        "percent": 42.3511,
+        "pixel_count": 84556
+      },
+      {
+        "rank": 3,
+        "hex": "#393C33",
+        "rgb": [
+          57,
+          60,
+          51
+        ],
+        "percent": 12.7475,
+        "pixel_count": 25451
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8D94C4",
+          "rgb": [
+            141,
+            148,
+            196
+          ],
+          "percent": 44.9015,
+          "pixel_count": 89648
+        },
+        {
+          "rank": 2,
+          "hex": "#7C8A34",
+          "rgb": [
+            124,
+            138,
+            52
+          ],
+          "percent": 42.3511,
+          "pixel_count": 84556
+        },
+        {
+          "rank": 3,
+          "hex": "#393C33",
+          "rgb": [
+            57,
+            60,
+            51
+          ],
+          "percent": 12.7475,
+          "pixel_count": 25451
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Horticulture_in_Almirante_Tamandar\u00e9_countryside.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Horticulture_in_Almirante_Tamandar\u00e9_countryside.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#E9FEFD",
+        "rgb": [
+          233,
+          254,
+          253
+        ],
+        "percent": 35.1021,
+        "pixel_count": 70096
+      },
+      {
+        "rank": 2,
+        "hex": "#1F2529",
+        "rgb": [
+          31,
+          37,
+          41
+        ],
+        "percent": 32.0353,
+        "pixel_count": 63972
+      },
+      {
+        "rank": 3,
+        "hex": "#797C5D",
+        "rgb": [
+          121,
+          124,
+          93
+        ],
+        "percent": 28.9391,
+        "pixel_count": 57789
+      },
+      {
+        "rank": 4,
+        "hex": "#9F6E4A",
+        "rgb": [
+          159,
+          110,
+          74
+        ],
+        "percent": 3.9235,
+        "pixel_count": 7835
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E9FEFD",
+        "rgb": [
+          233,
+          254,
+          253
+        ],
+        "percent": 35.1021,
+        "pixel_count": 70096
+      },
+      {
+        "rank": 2,
+        "hex": "#1F2529",
+        "rgb": [
+          31,
+          37,
+          41
+        ],
+        "percent": 32.0353,
+        "pixel_count": 63972
+      },
+      {
+        "rank": 3,
+        "hex": "#6A6C53",
+        "rgb": [
+          106,
+          108,
+          83
+        ],
+        "percent": 23.1246,
+        "pixel_count": 46178
+      },
+      {
+        "rank": 4,
+        "hex": "#BCBD95",
+        "rgb": [
+          188,
+          189,
+          149
+        ],
+        "percent": 4.4644,
+        "pixel_count": 8915
+      },
+      {
+        "rank": 5,
+        "hex": "#9F6E4A",
+        "rgb": [
+          159,
+          110,
+          74
+        ],
+        "percent": 3.9235,
+        "pixel_count": 7835
+      },
+      {
+        "rank": 6,
+        "hex": "#9EB357",
+        "rgb": [
+          158,
+          179,
+          87
+        ],
+        "percent": 1.3501,
+        "pixel_count": 2696
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#E9FEFD",
+          "rgb": [
+            233,
+            254,
+            253
+          ],
+          "percent": 35.1021,
+          "pixel_count": 70096
+        },
+        {
+          "rank": 2,
+          "hex": "#1F2529",
+          "rgb": [
+            31,
+            37,
+            41
+          ],
+          "percent": 32.0353,
+          "pixel_count": 63972
+        },
+        {
+          "rank": 3,
+          "hex": "#797C5D",
+          "rgb": [
+            121,
+            124,
+            93
+          ],
+          "percent": 28.9391,
+          "pixel_count": 57789
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#9F6E4A",
+          "rgb": [
+            159,
+            110,
+            74
+          ],
+          "percent": 3.9235,
+          "pixel_count": 7835
+        }
+      ]
+    }
+  },
+  {
+    "file": "Laranjal_Cutrale_050806_REFON_3.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Laranjal_Cutrale_050806_REFON_3.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#6A6D3B",
+        "rgb": [
+          106,
+          109,
+          59
+        ],
+        "percent": 47.8762,
+        "pixel_count": 95481
+      },
+      {
+        "rank": 2,
+        "hex": "#96BAF9",
+        "rgb": [
+          150,
+          186,
+          249
+        ],
+        "percent": 37.8047,
+        "pixel_count": 75395
+      },
+      {
+        "rank": 3,
+        "hex": "#2D332A",
+        "rgb": [
+          45,
+          51,
+          42
+        ],
+        "percent": 14.3191,
+        "pixel_count": 28557
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#6A6D3B",
+        "rgb": [
+          106,
+          109,
+          59
+        ],
+        "percent": 47.8762,
+        "pixel_count": 95481
+      },
+      {
+        "rank": 2,
+        "hex": "#96BAF9",
+        "rgb": [
+          150,
+          186,
+          249
+        ],
+        "percent": 37.8047,
+        "pixel_count": 75395
+      },
+      {
+        "rank": 3,
+        "hex": "#2D332A",
+        "rgb": [
+          45,
+          51,
+          42
+        ],
+        "percent": 14.3191,
+        "pixel_count": 28557
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#6A6D3B",
+          "rgb": [
+            106,
+            109,
+            59
+          ],
+          "percent": 47.8762,
+          "pixel_count": 95481
+        },
+        {
+          "rank": 2,
+          "hex": "#96BAF9",
+          "rgb": [
+            150,
+            186,
+            249
+          ],
+          "percent": 37.8047,
+          "pixel_count": 75395
+        },
+        {
+          "rank": 3,
+          "hex": "#2D332A",
+          "rgb": [
+            45,
+            51,
+            42
+          ],
+          "percent": 14.3191,
+          "pixel_count": 28557
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Milharal_novo_Avare_021205_REFON.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Milharal_novo_Avare_021205_REFON.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#D0DCF0",
+        "rgb": [
+          208,
+          220,
+          240
+        ],
+        "percent": 36.2197,
+        "pixel_count": 72380
+      },
+      {
+        "rank": 2,
+        "hex": "#634334",
+        "rgb": [
+          99,
+          67,
+          52
+        ],
+        "percent": 29.5707,
+        "pixel_count": 59093
+      },
+      {
+        "rank": 3,
+        "hex": "#355E32",
+        "rgb": [
+          53,
+          94,
+          50
+        ],
+        "percent": 18.891,
+        "pixel_count": 37751
+      },
+      {
+        "rank": 4,
+        "hex": "#223513",
+        "rgb": [
+          34,
+          53,
+          19
+        ],
+        "percent": 15.3186,
+        "pixel_count": 30612
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#634334",
+        "rgb": [
+          99,
+          67,
+          52
+        ],
+        "percent": 29.5707,
+        "pixel_count": 59093
+      },
+      {
+        "rank": 2,
+        "hex": "#355E32",
+        "rgb": [
+          53,
+          94,
+          50
+        ],
+        "percent": 18.891,
+        "pixel_count": 37751
+      },
+      {
+        "rank": 3,
+        "hex": "#B2C6E2",
+        "rgb": [
+          178,
+          198,
+          226
+        ],
+        "percent": 18.1794,
+        "pixel_count": 36329
+      },
+      {
+        "rank": 4,
+        "hex": "#EEF3FE",
+        "rgb": [
+          238,
+          243,
+          254
+        ],
+        "percent": 18.0403,
+        "pixel_count": 36051
+      },
+      {
+        "rank": 5,
+        "hex": "#223513",
+        "rgb": [
+          34,
+          53,
+          19
+        ],
+        "percent": 15.3186,
+        "pixel_count": 30612
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#D0DCF0",
+          "rgb": [
+            208,
+            220,
+            240
+          ],
+          "percent": 36.2197,
+          "pixel_count": 72380
+        },
+        {
+          "rank": 2,
+          "hex": "#634334",
+          "rgb": [
+            99,
+            67,
+            52
+          ],
+          "percent": 29.5707,
+          "pixel_count": 59093
+        },
+        {
+          "rank": 3,
+          "hex": "#355E32",
+          "rgb": [
+            53,
+            94,
+            50
+          ],
+          "percent": 18.891,
+          "pixel_count": 37751
+        },
+        {
+          "rank": 4,
+          "hex": "#223513",
+          "rgb": [
+            34,
+            53,
+            19
+          ],
+          "percent": 15.3186,
+          "pixel_count": 30612
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Morro_cabeludo_-_Parque_dos_Pireneus_-_Piren\u00f3polis_-_Goi\u00e1s_01.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Morro_cabeludo_-_Parque_dos_Pireneus_-_Piren\u00f3polis_-_Goi\u00e1s_01.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8C90C7",
+        "rgb": [
+          140,
+          144,
+          199
+        ],
+        "percent": 56.8148,
+        "pixel_count": 113266
+      },
+      {
+        "rank": 2,
+        "hex": "#6E5E10",
+        "rgb": [
+          110,
+          94,
+          16
+        ],
+        "percent": 43.1852,
+        "pixel_count": 86094
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#7A670D",
+        "rgb": [
+          122,
+          103,
+          13
+        ],
+        "percent": 34.6248,
+        "pixel_count": 69143
+      },
+      {
+        "rank": 2,
+        "hex": "#A4A3BE",
+        "rgb": [
+          164,
+          163,
+          190
+        ],
+        "percent": 31.6342,
+        "pixel_count": 63171
+      },
+      {
+        "rank": 3,
+        "hex": "#6D79D2",
+        "rgb": [
+          109,
+          121,
+          210
+        ],
+        "percent": 25.0861,
+        "pixel_count": 50095
+      },
+      {
+        "rank": 4,
+        "hex": "#3D381C",
+        "rgb": [
+          61,
+          56,
+          28
+        ],
+        "percent": 8.4886,
+        "pixel_count": 16951
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8C90C7",
+          "rgb": [
+            140,
+            144,
+            199
+          ],
+          "percent": 56.8148,
+          "pixel_count": 113266
+        },
+        {
+          "rank": 2,
+          "hex": "#6E5E10",
+          "rgb": [
+            110,
+            94,
+            16
+          ],
+          "percent": 43.1852,
+          "pixel_count": 86094
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Musa_031.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Musa_031.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#738137",
+        "rgb": [
+          115,
+          129,
+          55
+        ],
+        "percent": 89.3721,
+        "pixel_count": 178469
+      },
+      {
+        "rank": 2,
+        "hex": "#DDE3EF",
+        "rgb": [
+          221,
+          227,
+          239
+        ],
+        "percent": 10.6279,
+        "pixel_count": 21223
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#6C7F2C",
+        "rgb": [
+          108,
+          127,
+          44
+        ],
+        "percent": 27.4598,
+        "pixel_count": 54835
+      },
+      {
+        "rank": 2,
+        "hex": "#3C4E18",
+        "rgb": [
+          60,
+          78,
+          24
+        ],
+        "percent": 23.6038,
+        "pixel_count": 47135
+      },
+      {
+        "rank": 3,
+        "hex": "#A8AF72",
+        "rgb": [
+          168,
+          175,
+          114
+        ],
+        "percent": 20.2261,
+        "pixel_count": 40390
+      },
+      {
+        "rank": 4,
+        "hex": "#9EA736",
+        "rgb": [
+          158,
+          167,
+          54
+        ],
+        "percent": 15.4758,
+        "pixel_count": 30904
+      },
+      {
+        "rank": 5,
+        "hex": "#DDE3EF",
+        "rgb": [
+          221,
+          227,
+          239
+        ],
+        "percent": 10.6279,
+        "pixel_count": 21223
+      },
+      {
+        "rank": 6,
+        "hex": "#101504",
+        "rgb": [
+          16,
+          21,
+          4
+        ],
+        "percent": 2.6065,
+        "pixel_count": 5205
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#738137",
+          "rgb": [
+            115,
+            129,
+            55
+          ],
+          "percent": 89.3721,
+          "pixel_count": 178469
+        },
+        {
+          "rank": 2,
+          "hex": "#DDE3EF",
+          "rgb": [
+            221,
+            227,
+            239
+          ],
+          "percent": 10.6279,
+          "pixel_count": 21223
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Parque_Estadual_do_Cerrado.6.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Parque_Estadual_do_Cerrado.6.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#34451F",
+        "rgb": [
+          52,
+          69,
+          31
+        ],
+        "percent": 44.9793,
+        "pixel_count": 89820
+      },
+      {
+        "rank": 2,
+        "hex": "#E2F2F8",
+        "rgb": [
+          226,
+          242,
+          248
+        ],
+        "percent": 30.7248,
+        "pixel_count": 61355
+      },
+      {
+        "rank": 3,
+        "hex": "#141C12",
+        "rgb": [
+          20,
+          28,
+          18
+        ],
+        "percent": 12.9394,
+        "pixel_count": 25839
+      },
+      {
+        "rank": 4,
+        "hex": "#5B726D",
+        "rgb": [
+          91,
+          114,
+          109
+        ],
+        "percent": 11.3565,
+        "pixel_count": 22678
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E2F2F8",
+        "rgb": [
+          226,
+          242,
+          248
+        ],
+        "percent": 30.7248,
+        "pixel_count": 61355
+      },
+      {
+        "rank": 2,
+        "hex": "#29381D",
+        "rgb": [
+          41,
+          56,
+          29
+        ],
+        "percent": 27.3216,
+        "pixel_count": 54559
+      },
+      {
+        "rank": 3,
+        "hex": "#445A21",
+        "rgb": [
+          68,
+          90,
+          33
+        ],
+        "percent": 17.6577,
+        "pixel_count": 35261
+      },
+      {
+        "rank": 4,
+        "hex": "#141C12",
+        "rgb": [
+          20,
+          28,
+          18
+        ],
+        "percent": 12.9394,
+        "pixel_count": 25839
+      },
+      {
+        "rank": 5,
+        "hex": "#5B726D",
+        "rgb": [
+          91,
+          114,
+          109
+        ],
+        "percent": 11.3565,
+        "pixel_count": 22678
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#34451F",
+          "rgb": [
+            52,
+            69,
+            31
+          ],
+          "percent": 44.9793,
+          "pixel_count": 89820
+        },
+        {
+          "rank": 2,
+          "hex": "#E2F2F8",
+          "rgb": [
+            226,
+            242,
+            248
+          ],
+          "percent": 30.7248,
+          "pixel_count": 61355
+        },
+        {
+          "rank": 3,
+          "hex": "#141C12",
+          "rgb": [
+            20,
+            28,
+            18
+          ],
+          "percent": 12.9394,
+          "pixel_count": 25839
+        },
+        {
+          "rank": 4,
+          "hex": "#5B726D",
+          "rgb": [
+            91,
+            114,
+            109
+          ],
+          "percent": 11.3565,
+          "pixel_count": 22678
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Planta\u00e7\u00e3o_tomate_250306_2.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Planta\u00e7\u00e3o_tomate_250306_2.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#757D51",
+        "rgb": [
+          117,
+          125,
+          81
+        ],
+        "percent": 43.8691,
+        "pixel_count": 87603
+      },
+      {
+        "rank": 2,
+        "hex": "#E0ECF4",
+        "rgb": [
+          224,
+          236,
+          244
+        ],
+        "percent": 36.7611,
+        "pixel_count": 73409
+      },
+      {
+        "rank": 3,
+        "hex": "#794634",
+        "rgb": [
+          121,
+          70,
+          52
+        ],
+        "percent": 19.3698,
+        "pixel_count": 38680
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E0ECF4",
+        "rgb": [
+          224,
+          236,
+          244
+        ],
+        "percent": 36.7611,
+        "pixel_count": 73409
+      },
+      {
+        "rank": 2,
+        "hex": "#868D5B",
+        "rgb": [
+          134,
+          141,
+          91
+        ],
+        "percent": 30.2997,
+        "pixel_count": 60506
+      },
+      {
+        "rank": 3,
+        "hex": "#794634",
+        "rgb": [
+          121,
+          70,
+          52
+        ],
+        "percent": 19.3698,
+        "pixel_count": 38680
+      },
+      {
+        "rank": 4,
+        "hex": "#50583C",
+        "rgb": [
+          80,
+          88,
+          60
+        ],
+        "percent": 13.5694,
+        "pixel_count": 27097
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#757D51",
+          "rgb": [
+            117,
+            125,
+            81
+          ],
+          "percent": 43.8691,
+          "pixel_count": 87603
+        },
+        {
+          "rank": 2,
+          "hex": "#E0ECF4",
+          "rgb": [
+            224,
+            236,
+            244
+          ],
+          "percent": 36.7611,
+          "pixel_count": 73409
+        },
+        {
+          "rank": 3,
+          "hex": "#794634",
+          "rgb": [
+            121,
+            70,
+            52
+          ],
+          "percent": 19.3698,
+          "pixel_count": 38680
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Recife_-_Pernambuco_-_Brasil(2).jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Recife_-_Pernambuco_-_Brasil(2).jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#97C2D5",
+        "rgb": [
+          151,
+          194,
+          213
+        ],
+        "percent": 86.1691,
+        "pixel_count": 172041
+      },
+      {
+        "rank": 2,
+        "hex": "#444A37",
+        "rgb": [
+          68,
+          74,
+          55
+        ],
+        "percent": 13.8309,
+        "pixel_count": 27614
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8DBED3",
+        "rgb": [
+          141,
+          190,
+          211
+        ],
+        "percent": 73.4602,
+        "pixel_count": 146667
+      },
+      {
+        "rank": 2,
+        "hex": "#444A37",
+        "rgb": [
+          68,
+          74,
+          55
+        ],
+        "percent": 13.8309,
+        "pixel_count": 27614
+      },
+      {
+        "rank": 3,
+        "hex": "#D0DCE2",
+        "rgb": [
+          208,
+          220,
+          226
+        ],
+        "percent": 12.7089,
+        "pixel_count": 25374
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#97C2D5",
+          "rgb": [
+            151,
+            194,
+            213
+          ],
+          "percent": 86.1691,
+          "pixel_count": 172041
+        },
+        {
+          "rank": 2,
+          "hex": "#444A37",
+          "rgb": [
+            68,
+            74,
+            55
+          ],
+          "percent": 13.8309,
+          "pixel_count": 27614
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Regolith.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Regolith.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#795C5C",
+        "rgb": [
+          121,
+          92,
+          92
+        ],
+        "percent": 70.6987,
+        "pixel_count": 141150
+      },
+      {
+        "rank": 2,
+        "hex": "#587551",
+        "rgb": [
+          88,
+          117,
+          81
+        ],
+        "percent": 26.7137,
+        "pixel_count": 53334
+      },
+      {
+        "rank": 3,
+        "hex": "#FCFDFA",
+        "rgb": [
+          252,
+          253,
+          250
+        ],
+        "percent": 2.5875,
+        "pixel_count": 5166
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#765756",
+        "rgb": [
+          118,
+          87,
+          86
+        ],
+        "percent": 28.4833,
+        "pixel_count": 56867
+      },
+      {
+        "rank": 2,
+        "hex": "#587551",
+        "rgb": [
+          88,
+          117,
+          81
+        ],
+        "percent": 26.7137,
+        "pixel_count": 53334
+      },
+      {
+        "rank": 3,
+        "hex": "#AC9593",
+        "rgb": [
+          172,
+          149,
+          147
+        ],
+        "percent": 22.5705,
+        "pixel_count": 45062
+      },
+      {
+        "rank": 4,
+        "hex": "#412226",
+        "rgb": [
+          65,
+          34,
+          38
+        ],
+        "percent": 19.6449,
+        "pixel_count": 39221
+      },
+      {
+        "rank": 5,
+        "hex": "#FCFDFA",
+        "rgb": [
+          252,
+          253,
+          250
+        ],
+        "percent": 2.5875,
+        "pixel_count": 5166
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#795C5C",
+          "rgb": [
+            121,
+            92,
+            92
+          ],
+          "percent": 70.6987,
+          "pixel_count": 141150
+        },
+        {
+          "rank": 2,
+          "hex": "#587551",
+          "rgb": [
+            88,
+            117,
+            81
+          ],
+          "percent": 26.7137,
+          "pixel_count": 53334
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#FCFDFA",
+          "rgb": [
+            252,
+            253,
+            250
+          ],
+          "percent": 2.5875,
+          "pixel_count": 5166
+        }
+      ]
+    }
+  },
+  {
+    "file": "Roots_by_cesarpb.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Roots_by_cesarpb.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#767367",
+        "rgb": [
+          118,
+          115,
+          103
+        ],
+        "percent": 100.0,
+        "pixel_count": 199692
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#4B483E",
+        "rgb": [
+          75,
+          72,
+          62
+        ],
+        "percent": 52.6511,
+        "pixel_count": 105140
+      },
+      {
+        "rank": 2,
+        "hex": "#8B8776",
+        "rgb": [
+          139,
+          135,
+          118
+        ],
+        "percent": 28.1769,
+        "pixel_count": 56267
+      },
+      {
+        "rank": 3,
+        "hex": "#CDCAC4",
+        "rgb": [
+          205,
+          202,
+          196
+        ],
+        "percent": 19.172,
+        "pixel_count": 38285
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#767367",
+          "rgb": [
+            118,
+            115,
+            103
+          ],
+          "percent": 100.0,
+          "pixel_count": 199692
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Walking_tree.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/Walking_tree.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#506430",
+        "rgb": [
+          80,
+          100,
+          48
+        ],
+        "percent": 100.0,
+        "pixel_count": 199692
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#242619",
+        "rgb": [
+          36,
+          38,
+          25
+        ],
+        "percent": 34.8797,
+        "pixel_count": 69652
+      },
+      {
+        "rank": 2,
+        "hex": "#5E7F32",
+        "rgb": [
+          94,
+          127,
+          50
+        ],
+        "percent": 27.618,
+        "pixel_count": 55151
+      },
+      {
+        "rank": 3,
+        "hex": "#314617",
+        "rgb": [
+          49,
+          70,
+          23
+        ],
+        "percent": 16.2455,
+        "pixel_count": 32441
+      },
+      {
+        "rank": 4,
+        "hex": "#A2B18C",
+        "rgb": [
+          162,
+          177,
+          140
+        ],
+        "percent": 12.5273,
+        "pixel_count": 25016
+      },
+      {
+        "rank": 5,
+        "hex": "#93CA2B",
+        "rgb": [
+          147,
+          202,
+          43
+        ],
+        "percent": 8.7294,
+        "pixel_count": 17432
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#506430",
+          "rgb": [
+            80,
+            100,
+            48
+          ],
+          "percent": 100.0,
+          "pixel_count": 199692
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "brazilscerra.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/brazilscerra.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8A7041",
+        "rgb": [
+          138,
+          112,
+          65
+        ],
+        "percent": 80.3903,
+        "pixel_count": 160283
+      },
+      {
+        "rank": 2,
+        "hex": "#E4E8EB",
+        "rgb": [
+          228,
+          232,
+          235
+        ],
+        "percent": 19.6097,
+        "pixel_count": 39098
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#9F7D39",
+        "rgb": [
+          159,
+          125,
+          57
+        ],
+        "percent": 32.7564,
+        "pixel_count": 65310
+      },
+      {
+        "rank": 2,
+        "hex": "#564621",
+        "rgb": [
+          86,
+          70,
+          33
+        ],
+        "percent": 26.7102,
+        "pixel_count": 53255
+      },
+      {
+        "rank": 3,
+        "hex": "#AD9078",
+        "rgb": [
+          173,
+          144,
+          120
+        ],
+        "percent": 20.9238,
+        "pixel_count": 41718
+      },
+      {
+        "rank": 4,
+        "hex": "#E4E8EB",
+        "rgb": [
+          228,
+          232,
+          235
+        ],
+        "percent": 19.6097,
+        "pixel_count": 39098
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8A7041",
+          "rgb": [
+            138,
+            112,
+            65
+          ],
+          "percent": 80.3903,
+          "pixel_count": 160283
+        },
+        {
+          "rank": 2,
+          "hex": "#E4E8EB",
+          "rgb": [
+            228,
+            232,
+            235
+          ],
+          "percent": 19.6097,
+          "pixel_count": 39098
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "ing-web-brazilclaygoldearth.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/ing-web-brazilclaygoldearth.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#9A6930",
+        "rgb": [
+          154,
+          105,
+          48
+        ],
+        "percent": 92.7788,
+        "pixel_count": 184292
+      },
+      {
+        "rank": 2,
+        "hex": "#EEEBE3",
+        "rgb": [
+          238,
+          235,
+          227
+        ],
+        "percent": 7.2212,
+        "pixel_count": 14344
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#B67933",
+        "rgb": [
+          182,
+          121,
+          51
+        ],
+        "percent": 64.0997,
+        "pixel_count": 128077
+      },
+      {
+        "rank": 2,
+        "hex": "#59432A",
+        "rgb": [
+          89,
+          67,
+          42
+        ],
+        "percent": 28.1344,
+        "pixel_count": 56215
+      },
+      {
+        "rank": 3,
+        "hex": "#EEEBE3",
+        "rgb": [
+          238,
+          235,
+          227
+        ],
+        "percent": 7.1789,
+        "pixel_count": 14344
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#9A6930",
+          "rgb": [
+            154,
+            105,
+            48
+          ],
+          "percent": 92.7788,
+          "pixel_count": 184292
+        },
+        {
+          "rank": 2,
+          "hex": "#EEEBE3",
+          "rgb": [
+            238,
+            235,
+            227
+          ],
+          "percent": 7.2212,
+          "pixel_count": 14344
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "unnamed (1).jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/unnamed (1).jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#B4684B",
+        "rgb": [
+          180,
+          104,
+          75
+        ],
+        "percent": 54.4447,
+        "pixel_count": 94523
+      },
+      {
+        "rank": 2,
+        "hex": "#DEE6EE",
+        "rgb": [
+          222,
+          230,
+          238
+        ],
+        "percent": 42.301,
+        "pixel_count": 73440
+      },
+      {
+        "rank": 3,
+        "hex": "#9FA067",
+        "rgb": [
+          159,
+          160,
+          103
+        ],
+        "percent": 3.2544,
+        "pixel_count": 5650
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DEE6EE",
+        "rgb": [
+          222,
+          230,
+          238
+        ],
+        "percent": 42.0638,
+        "pixel_count": 73440
+      },
+      {
+        "rank": 2,
+        "hex": "#9B583B",
+        "rgb": [
+          155,
+          88,
+          59
+        ],
+        "percent": 28.5769,
+        "pixel_count": 49893
+      },
+      {
+        "rank": 3,
+        "hex": "#CD7253",
+        "rgb": [
+          205,
+          114,
+          83
+        ],
+        "percent": 22.4363,
+        "pixel_count": 39172
+      },
+      {
+        "rank": 4,
+        "hex": "#9FA067",
+        "rgb": [
+          159,
+          160,
+          103
+        ],
+        "percent": 3.2361,
+        "pixel_count": 5650
+      },
+      {
+        "rank": 5,
+        "hex": "#EDB4A6",
+        "rgb": [
+          237,
+          180,
+          166
+        ],
+        "percent": 3.1261,
+        "pixel_count": 5458
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#B4684B",
+          "rgb": [
+            180,
+            104,
+            75
+          ],
+          "percent": 54.4447,
+          "pixel_count": 94523
+        },
+        {
+          "rank": 2,
+          "hex": "#DEE6EE",
+          "rgb": [
+            222,
+            230,
+            238
+          ],
+          "percent": 42.301,
+          "pixel_count": 73440
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#9FA067",
+          "rgb": [
+            159,
+            160,
+            103
+          ],
+          "percent": 3.2544,
+          "pixel_count": 5650
+        }
+      ]
+    }
+  },
+  {
+    "file": "\u00cdndios_isolados_no_Acre_5.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/brazil nature/\u00cdndios_isolados_no_Acre_5.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#688D5A",
+        "rgb": [
+          104,
+          141,
+          90
+        ],
+        "percent": 64.0259,
+        "pixel_count": 127528
+      },
+      {
+        "rank": 2,
+        "hex": "#314C3C",
+        "rgb": [
+          49,
+          76,
+          60
+        ],
+        "percent": 35.9741,
+        "pixel_count": 71654
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#314C3C",
+        "rgb": [
+          49,
+          76,
+          60
+        ],
+        "percent": 35.9741,
+        "pixel_count": 71654
+      },
+      {
+        "rank": 2,
+        "hex": "#72866A",
+        "rgb": [
+          114,
+          134,
+          106
+        ],
+        "percent": 27.0772,
+        "pixel_count": 53933
+      },
+      {
+        "rank": 3,
+        "hex": "#678E57",
+        "rgb": [
+          103,
+          142,
+          87
+        ],
+        "percent": 18.8772,
+        "pixel_count": 37600
+      },
+      {
+        "rank": 4,
+        "hex": "#599844",
+        "rgb": [
+          89,
+          152,
+          68
+        ],
+        "percent": 18.0714,
+        "pixel_count": 35995
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#688D5A",
+          "rgb": [
+            104,
+            141,
+            90
+          ],
+          "percent": 64.0259,
+          "pixel_count": 127528
+        },
+        {
+          "rank": 2,
+          "hex": "#314C3C",
+          "rgb": [
+            49,
+            76,
+            60
+          ],
+          "percent": 35.9741,
+          "pixel_count": 71654
+        }
+      ],
+      "secondary": []
+    }
+  }
+]

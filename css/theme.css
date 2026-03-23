@@ -1,0 +1,102 @@
+:root {
+    /* Full-page atmosphere: see css/ambient-mesh.css (mesh + grain on html). */
+    --paper: transparent;
+
+    /* Low-opacity white glass (matches .results-profile rail & site buttons) */
+    --glass-white-06: rgba(255, 255, 255, 0.06);
+    --glass-white-08: rgba(255, 255, 255, 0.08);
+    --glass-white-10: rgba(255, 255, 255, 0.1);
+    --glass-white-12: rgba(255, 255, 255, 0.12);
+    --glass-white-14: rgba(255, 255, 255, 0.14);
+    --glass-white-16: rgba(255, 255, 255, 0.16);
+    --glass-white-18: rgba(255, 255, 255, 0.18);
+    --glass-white-22: rgba(255, 255, 255, 0.22);
+    /* Text hierarchy — white-based */
+    --ink: #ffffff;
+    --ink-soft: rgba(255, 255, 255, 1);
+    --ink-faint: rgba(255, 255, 255, 0.68);
+    --ink-invert: #151515;
+    --hairline: rgba(255, 255, 255, 0.28);
+  
+    /* Climate palettes (used only in results) */
+    --tropical-1: #ff8b5a;
+    --tropical-2: #ffbf3c;
+    --tropical-3: #ff5a7a;
+  
+    --arid-1: #f4d59c;
+    --arid-2: #f2c17a;
+    --arid-3: #e6a15d;
+  
+    --polar-1: #c8d7e8;
+    --polar-2: #aebcc8;
+    --polar-3: #8da1b1;
+
+    /* Type (Adobe Fonts kit) */
+    --font-title: "neue-haas-grotesk-text-pro", system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+      "Helvetica Neue", Arial, sans-serif;
+    --font-question: "freight-display-pro", ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino,
+      Georgia, "Times New Roman", Times, serif;
+    --font-h3: "neue-haas-grotesk-display-pro", system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+      "Helvetica Neue", Arial, sans-serif;
+    --font-body: "neue-haas-grotesk-text-pro", system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+      "Helvetica Neue", Arial, sans-serif;
+    --font-description: "freight-text-pro", ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", Times, serif;
+  }
+  
+  body {
+    min-height: 100vh;
+    color: var(--ink-soft);
+  }
+
+  /* Results region — subtle overlay; page gradient shows through */
+  .section--results {
+    background: radial-gradient(
+        circle at top right,
+        rgba(255, 187, 120, 0.12),
+        transparent 55%
+      ),
+      radial-gradient(
+        circle at bottom left,
+        rgba(161, 186, 214, 0.14),
+        transparent 55%
+      );
+  }
+  
+  .results-visual__hint {
+    font-size: 0.8rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-bottom: 24px;
+  }
+  
+  /* Palette swatch theme classes */
+  .swatch--tropical-1 {
+    background-color: var(--tropical-1);
+  }
+  .swatch--tropical-2 {
+    background-color: var(--tropical-2);
+  }
+  .swatch--tropical-3 {
+    background-color: var(--tropical-3);
+  }
+  
+  .swatch--arid-1 {
+    background-color: var(--arid-1);
+  }
+  .swatch--arid-2 {
+    background-color: var(--arid-2);
+  }
+  .swatch--arid-3 {
+    background-color: var(--arid-3);
+  }
+  
+  .swatch--polar-1 {
+    background-color: var(--polar-1);
+  }
+  .swatch--polar-2 {
+    background-color: var(--polar-2);
+  }
+  .swatch--polar-3 {
+    background-color: var(--polar-3);
+  }

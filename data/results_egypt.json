@@ -1,0 +1,9749 @@
+[
+  {
+    "file": "B-GD1.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD1.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#775D4D",
+        "rgb": [
+          119,
+          93,
+          77
+        ],
+        "percent": 60.3128,
+        "pixel_count": 120324
+      },
+      {
+        "rank": 2,
+        "hex": "#616B74",
+        "rgb": [
+          97,
+          107,
+          116
+        ],
+        "percent": 21.1484,
+        "pixel_count": 42191
+      },
+      {
+        "rank": 3,
+        "hex": "#767E7F",
+        "rgb": [
+          118,
+          126,
+          127
+        ],
+        "percent": 18.5388,
+        "pixel_count": 36985
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#967760",
+        "rgb": [
+          150,
+          119,
+          96
+        ],
+        "percent": 36.008,
+        "pixel_count": 71836
+      },
+      {
+        "rank": 2,
+        "hex": "#41302A",
+        "rgb": [
+          65,
+          48,
+          42
+        ],
+        "percent": 21.6045,
+        "pixel_count": 43101
+      },
+      {
+        "rank": 3,
+        "hex": "#616B74",
+        "rgb": [
+          97,
+          107,
+          116
+        ],
+        "percent": 21.1484,
+        "pixel_count": 42191
+      },
+      {
+        "rank": 4,
+        "hex": "#767E7F",
+        "rgb": [
+          118,
+          126,
+          127
+        ],
+        "percent": 18.5388,
+        "pixel_count": 36985
+      },
+      {
+        "rank": 5,
+        "hex": "#754737",
+        "rgb": [
+          117,
+          71,
+          55
+        ],
+        "percent": 1.8602,
+        "pixel_count": 3711
+      },
+      {
+        "rank": 6,
+        "hex": "#D2CCC8",
+        "rgb": [
+          210,
+          204,
+          200
+        ],
+        "percent": 0.8401,
+        "pixel_count": 1676
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#775D4D",
+          "rgb": [
+            119,
+            93,
+            77
+          ],
+          "percent": 60.3128,
+          "pixel_count": 120324
+        },
+        {
+          "rank": 2,
+          "hex": "#616B74",
+          "rgb": [
+            97,
+            107,
+            116
+          ],
+          "percent": 21.1484,
+          "pixel_count": 42191
+        },
+        {
+          "rank": 3,
+          "hex": "#767E7F",
+          "rgb": [
+            118,
+            126,
+            127
+          ],
+          "percent": 18.5388,
+          "pixel_count": 36985
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD10.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD10.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#EFE5C8",
+        "rgb": [
+          239,
+          229,
+          200
+        ],
+        "percent": 76.1394,
+        "pixel_count": 151452
+      },
+      {
+        "rank": 2,
+        "hex": "#B65F2A",
+        "rgb": [
+          182,
+          95,
+          42
+        ],
+        "percent": 10.138,
+        "pixel_count": 20166
+      },
+      {
+        "rank": 3,
+        "hex": "#554E33",
+        "rgb": [
+          85,
+          78,
+          51
+        ],
+        "percent": 8.4428,
+        "pixel_count": 16794
+      },
+      {
+        "rank": 4,
+        "hex": "#909B5A",
+        "rgb": [
+          144,
+          155,
+          90
+        ],
+        "percent": 2.1014,
+        "pixel_count": 4180
+      },
+      {
+        "rank": 5,
+        "hex": "#4D7B32",
+        "rgb": [
+          77,
+          123,
+          50
+        ],
+        "percent": 1.9043,
+        "pixel_count": 3788
+      },
+      {
+        "rank": 6,
+        "hex": "#A193A8",
+        "rgb": [
+          161,
+          147,
+          168
+        ],
+        "percent": 1.2739,
+        "pixel_count": 2534
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F5EED2",
+        "rgb": [
+          245,
+          238,
+          210
+        ],
+        "percent": 66.304,
+        "pixel_count": 132541
+      },
+      {
+        "rank": 2,
+        "hex": "#BF632A",
+        "rgb": [
+          191,
+          99,
+          42
+        ],
+        "percent": 8.4408,
+        "pixel_count": 16873
+      },
+      {
+        "rank": 3,
+        "hex": "#554E33",
+        "rgb": [
+          85,
+          78,
+          51
+        ],
+        "percent": 8.4012,
+        "pixel_count": 16794
+      },
+      {
+        "rank": 4,
+        "hex": "#D7B07B",
+        "rgb": [
+          215,
+          176,
+          123
+        ],
+        "percent": 5.7464,
+        "pixel_count": 11487
+      },
+      {
+        "rank": 5,
+        "hex": "#A39783",
+        "rgb": [
+          163,
+          151,
+          131
+        ],
+        "percent": 3.7139,
+        "pixel_count": 7424
+      },
+      {
+        "rank": 6,
+        "hex": "#909B5A",
+        "rgb": [
+          144,
+          155,
+          90
+        ],
+        "percent": 2.0911,
+        "pixel_count": 4180
+      },
+      {
+        "rank": 7,
+        "hex": "#4D7B32",
+        "rgb": [
+          77,
+          123,
+          50
+        ],
+        "percent": 1.895,
+        "pixel_count": 3788
+      },
+      {
+        "rank": 8,
+        "hex": "#884C2B",
+        "rgb": [
+          136,
+          76,
+          43
+        ],
+        "percent": 1.6473,
+        "pixel_count": 3293
+      },
+      {
+        "rank": 9,
+        "hex": "#A193A8",
+        "rgb": [
+          161,
+          147,
+          168
+        ],
+        "percent": 1.2676,
+        "pixel_count": 2534
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#EFE5C8",
+          "rgb": [
+            239,
+            229,
+            200
+          ],
+          "percent": 76.1394,
+          "pixel_count": 151452
+        },
+        {
+          "rank": 2,
+          "hex": "#B65F2A",
+          "rgb": [
+            182,
+            95,
+            42
+          ],
+          "percent": 10.138,
+          "pixel_count": 20166
+        },
+        {
+          "rank": 3,
+          "hex": "#554E33",
+          "rgb": [
+            85,
+            78,
+            51
+          ],
+          "percent": 8.4428,
+          "pixel_count": 16794
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#909B5A",
+          "rgb": [
+            144,
+            155,
+            90
+          ],
+          "percent": 2.1014,
+          "pixel_count": 4180
+        },
+        {
+          "rank": 2,
+          "hex": "#4D7B32",
+          "rgb": [
+            77,
+            123,
+            50
+          ],
+          "percent": 1.9043,
+          "pixel_count": 3788
+        },
+        {
+          "rank": 3,
+          "hex": "#A193A8",
+          "rgb": [
+            161,
+            147,
+            168
+          ],
+          "percent": 1.2739,
+          "pixel_count": 2534
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD11.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD11.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A3AC5B",
+        "rgb": [
+          163,
+          172,
+          91
+        ],
+        "percent": 55.3688,
+        "pixel_count": 110134
+      },
+      {
+        "rank": 2,
+        "hex": "#D8B581",
+        "rgb": [
+          216,
+          181,
+          129
+        ],
+        "percent": 19.4792,
+        "pixel_count": 38746
+      },
+      {
+        "rank": 3,
+        "hex": "#2C261F",
+        "rgb": [
+          44,
+          38,
+          31
+        ],
+        "percent": 11.9542,
+        "pixel_count": 23778
+      },
+      {
+        "rank": 4,
+        "hex": "#E5C922",
+        "rgb": [
+          229,
+          201,
+          34
+        ],
+        "percent": 7.1605,
+        "pixel_count": 14243
+      },
+      {
+        "rank": 5,
+        "hex": "#A83336",
+        "rgb": [
+          168,
+          51,
+          54
+        ],
+        "percent": 6.0374,
+        "pixel_count": 12009
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A3AC5B",
+        "rgb": [
+          163,
+          172,
+          91
+        ],
+        "percent": 55.1221,
+        "pixel_count": 110134
+      },
+      {
+        "rank": 2,
+        "hex": "#DDBC84",
+        "rgb": [
+          221,
+          188,
+          132
+        ],
+        "percent": 15.5596,
+        "pixel_count": 31088
+      },
+      {
+        "rank": 3,
+        "hex": "#2C261F",
+        "rgb": [
+          44,
+          38,
+          31
+        ],
+        "percent": 11.9009,
+        "pixel_count": 23778
+      },
+      {
+        "rank": 4,
+        "hex": "#E5C922",
+        "rgb": [
+          229,
+          201,
+          34
+        ],
+        "percent": 7.1286,
+        "pixel_count": 14243
+      },
+      {
+        "rank": 5,
+        "hex": "#AE3336",
+        "rgb": [
+          174,
+          51,
+          54
+        ],
+        "percent": 5.3854,
+        "pixel_count": 10760
+      },
+      {
+        "rank": 6,
+        "hex": "#B17D55",
+        "rgb": [
+          177,
+          125,
+          85
+        ],
+        "percent": 2.7422,
+        "pixel_count": 5479
+      },
+      {
+        "rank": 7,
+        "hex": "#F1E5C8",
+        "rgb": [
+          241,
+          229,
+          200
+        ],
+        "percent": 1.0906,
+        "pixel_count": 2179
+      },
+      {
+        "rank": 8,
+        "hex": "#723632",
+        "rgb": [
+          114,
+          54,
+          50
+        ],
+        "percent": 0.6251,
+        "pixel_count": 1249
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A3AC5B",
+          "rgb": [
+            163,
+            172,
+            91
+          ],
+          "percent": 55.3688,
+          "pixel_count": 110134
+        },
+        {
+          "rank": 2,
+          "hex": "#D8B581",
+          "rgb": [
+            216,
+            181,
+            129
+          ],
+          "percent": 19.4792,
+          "pixel_count": 38746
+        },
+        {
+          "rank": 3,
+          "hex": "#2C261F",
+          "rgb": [
+            44,
+            38,
+            31
+          ],
+          "percent": 11.9542,
+          "pixel_count": 23778
+        },
+        {
+          "rank": 4,
+          "hex": "#E5C922",
+          "rgb": [
+            229,
+            201,
+            34
+          ],
+          "percent": 7.1605,
+          "pixel_count": 14243
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#A83336",
+          "rgb": [
+            168,
+            51,
+            54
+          ],
+          "percent": 6.0374,
+          "pixel_count": 12009
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD12.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD12.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#FBFCF6",
+        "rgb": [
+          251,
+          252,
+          246
+        ],
+        "percent": 67.9484,
+        "pixel_count": 135576
+      },
+      {
+        "rank": 2,
+        "hex": "#28A8A4",
+        "rgb": [
+          40,
+          168,
+          164
+        ],
+        "percent": 19.1848,
+        "pixel_count": 38279
+      },
+      {
+        "rank": 3,
+        "hex": "#E1916D",
+        "rgb": [
+          225,
+          145,
+          109
+        ],
+        "percent": 8.1868,
+        "pixel_count": 16335
+      },
+      {
+        "rank": 4,
+        "hex": "#43423E",
+        "rgb": [
+          67,
+          66,
+          62
+        ],
+        "percent": 2.1426,
+        "pixel_count": 4275
+      },
+      {
+        "rank": 5,
+        "hex": "#A6A9A3",
+        "rgb": [
+          166,
+          169,
+          163
+        ],
+        "percent": 1.5847,
+        "pixel_count": 3162
+      },
+      {
+        "rank": 6,
+        "hex": "#A0D2D4",
+        "rgb": [
+          160,
+          210,
+          212
+        ],
+        "percent": 0.9527,
+        "pixel_count": 1901
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#FBFCF6",
+        "rgb": [
+          251,
+          252,
+          246
+        ],
+        "percent": 67.9484,
+        "pixel_count": 135576
+      },
+      {
+        "rank": 2,
+        "hex": "#28A8A4",
+        "rgb": [
+          40,
+          168,
+          164
+        ],
+        "percent": 19.1848,
+        "pixel_count": 38279
+      },
+      {
+        "rank": 3,
+        "hex": "#E9885F",
+        "rgb": [
+          233,
+          136,
+          95
+        ],
+        "percent": 5.73,
+        "pixel_count": 11433
+      },
+      {
+        "rank": 4,
+        "hex": "#CDA58E",
+        "rgb": [
+          205,
+          165,
+          142
+        ],
+        "percent": 2.4568,
+        "pixel_count": 4902
+      },
+      {
+        "rank": 5,
+        "hex": "#43423E",
+        "rgb": [
+          67,
+          66,
+          62
+        ],
+        "percent": 2.1426,
+        "pixel_count": 4275
+      },
+      {
+        "rank": 6,
+        "hex": "#A6A9A3",
+        "rgb": [
+          166,
+          169,
+          163
+        ],
+        "percent": 1.5847,
+        "pixel_count": 3162
+      },
+      {
+        "rank": 7,
+        "hex": "#A0D2D4",
+        "rgb": [
+          160,
+          210,
+          212
+        ],
+        "percent": 0.9527,
+        "pixel_count": 1901
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#FBFCF6",
+          "rgb": [
+            251,
+            252,
+            246
+          ],
+          "percent": 67.9484,
+          "pixel_count": 135576
+        },
+        {
+          "rank": 2,
+          "hex": "#28A8A4",
+          "rgb": [
+            40,
+            168,
+            164
+          ],
+          "percent": 19.1848,
+          "pixel_count": 38279
+        },
+        {
+          "rank": 3,
+          "hex": "#E1916D",
+          "rgb": [
+            225,
+            145,
+            109
+          ],
+          "percent": 8.1868,
+          "pixel_count": 16335
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#43423E",
+          "rgb": [
+            67,
+            66,
+            62
+          ],
+          "percent": 2.1426,
+          "pixel_count": 4275
+        },
+        {
+          "rank": 2,
+          "hex": "#A0D2D4",
+          "rgb": [
+            160,
+            210,
+            212
+          ],
+          "percent": 0.9527,
+          "pixel_count": 1901
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD13.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD13.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C5B2A0",
+        "rgb": [
+          197,
+          178,
+          160
+        ],
+        "percent": 73.7194,
+        "pixel_count": 146869
+      },
+      {
+        "rank": 2,
+        "hex": "#3C373B",
+        "rgb": [
+          60,
+          55,
+          59
+        ],
+        "percent": 10.2812,
+        "pixel_count": 20483
+      },
+      {
+        "rank": 3,
+        "hex": "#687175",
+        "rgb": [
+          104,
+          113,
+          117
+        ],
+        "percent": 8.9079,
+        "pixel_count": 17747
+      },
+      {
+        "rank": 4,
+        "hex": "#A1585E",
+        "rgb": [
+          161,
+          88,
+          94
+        ],
+        "percent": 7.0914,
+        "pixel_count": 14128
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C5B2A0",
+        "rgb": [
+          197,
+          178,
+          160
+        ],
+        "percent": 73.7194,
+        "pixel_count": 146869
+      },
+      {
+        "rank": 2,
+        "hex": "#3C373B",
+        "rgb": [
+          60,
+          55,
+          59
+        ],
+        "percent": 10.2812,
+        "pixel_count": 20483
+      },
+      {
+        "rank": 3,
+        "hex": "#687175",
+        "rgb": [
+          104,
+          113,
+          117
+        ],
+        "percent": 8.9079,
+        "pixel_count": 17747
+      },
+      {
+        "rank": 4,
+        "hex": "#A1585E",
+        "rgb": [
+          161,
+          88,
+          94
+        ],
+        "percent": 7.0914,
+        "pixel_count": 14128
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C5B2A0",
+          "rgb": [
+            197,
+            178,
+            160
+          ],
+          "percent": 73.7194,
+          "pixel_count": 146869
+        },
+        {
+          "rank": 2,
+          "hex": "#3C373B",
+          "rgb": [
+            60,
+            55,
+            59
+          ],
+          "percent": 10.2812,
+          "pixel_count": 20483
+        },
+        {
+          "rank": 3,
+          "hex": "#687175",
+          "rgb": [
+            104,
+            113,
+            117
+          ],
+          "percent": 8.9079,
+          "pixel_count": 17747
+        },
+        {
+          "rank": 4,
+          "hex": "#A1585E",
+          "rgb": [
+            161,
+            88,
+            94
+          ],
+          "percent": 7.0914,
+          "pixel_count": 14128
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD14.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD14.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#EDEBE2",
+        "rgb": [
+          237,
+          235,
+          226
+        ],
+        "percent": 38.9301,
+        "pixel_count": 77687
+      },
+      {
+        "rank": 2,
+        "hex": "#AB282E",
+        "rgb": [
+          171,
+          40,
+          46
+        ],
+        "percent": 21.5304,
+        "pixel_count": 42965
+      },
+      {
+        "rank": 3,
+        "hex": "#3F2A18",
+        "rgb": [
+          63,
+          42,
+          24
+        ],
+        "percent": 18.3899,
+        "pixel_count": 36698
+      },
+      {
+        "rank": 4,
+        "hex": "#AE836D",
+        "rgb": [
+          174,
+          131,
+          109
+        ],
+        "percent": 14.0067,
+        "pixel_count": 27951
+      },
+      {
+        "rank": 5,
+        "hex": "#206588",
+        "rgb": [
+          32,
+          101,
+          136
+        ],
+        "percent": 4.9034,
+        "pixel_count": 9785
+      },
+      {
+        "rank": 6,
+        "hex": "#6B929A",
+        "rgb": [
+          107,
+          146,
+          154
+        ],
+        "percent": 1.6051,
+        "pixel_count": 3203
+      },
+      {
+        "rank": 7,
+        "hex": "#343E3B",
+        "rgb": [
+          52,
+          62,
+          59
+        ],
+        "percent": 0.6344,
+        "pixel_count": 1266
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#EDEBE2",
+        "rgb": [
+          237,
+          235,
+          226
+        ],
+        "percent": 38.9301,
+        "pixel_count": 77687
+      },
+      {
+        "rank": 2,
+        "hex": "#AB282E",
+        "rgb": [
+          171,
+          40,
+          46
+        ],
+        "percent": 21.5304,
+        "pixel_count": 42965
+      },
+      {
+        "rank": 3,
+        "hex": "#3F2A18",
+        "rgb": [
+          63,
+          42,
+          24
+        ],
+        "percent": 18.3899,
+        "pixel_count": 36698
+      },
+      {
+        "rank": 4,
+        "hex": "#A18B80",
+        "rgb": [
+          161,
+          139,
+          128
+        ],
+        "percent": 7.0161,
+        "pixel_count": 14001
+      },
+      {
+        "rank": 5,
+        "hex": "#BB7B5A",
+        "rgb": [
+          187,
+          123,
+          90
+        ],
+        "percent": 6.9906,
+        "pixel_count": 13950
+      },
+      {
+        "rank": 6,
+        "hex": "#206588",
+        "rgb": [
+          32,
+          101,
+          136
+        ],
+        "percent": 4.9034,
+        "pixel_count": 9785
+      },
+      {
+        "rank": 7,
+        "hex": "#6B929A",
+        "rgb": [
+          107,
+          146,
+          154
+        ],
+        "percent": 1.6051,
+        "pixel_count": 3203
+      },
+      {
+        "rank": 8,
+        "hex": "#343E3B",
+        "rgb": [
+          52,
+          62,
+          59
+        ],
+        "percent": 0.6344,
+        "pixel_count": 1266
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#EDEBE2",
+          "rgb": [
+            237,
+            235,
+            226
+          ],
+          "percent": 38.9301,
+          "pixel_count": 77687
+        },
+        {
+          "rank": 2,
+          "hex": "#AB282E",
+          "rgb": [
+            171,
+            40,
+            46
+          ],
+          "percent": 21.5304,
+          "pixel_count": 42965
+        },
+        {
+          "rank": 3,
+          "hex": "#3F2A18",
+          "rgb": [
+            63,
+            42,
+            24
+          ],
+          "percent": 18.3899,
+          "pixel_count": 36698
+        },
+        {
+          "rank": 4,
+          "hex": "#AE836D",
+          "rgb": [
+            174,
+            131,
+            109
+          ],
+          "percent": 14.0067,
+          "pixel_count": 27951
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#206588",
+          "rgb": [
+            32,
+            101,
+            136
+          ],
+          "percent": 4.9034,
+          "pixel_count": 9785
+        },
+        {
+          "rank": 2,
+          "hex": "#6B929A",
+          "rgb": [
+            107,
+            146,
+            154
+          ],
+          "percent": 1.6051,
+          "pixel_count": 3203
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD15.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD15.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CF7C77",
+        "rgb": [
+          207,
+          124,
+          119
+        ],
+        "percent": 47.2281,
+        "pixel_count": 94246
+      },
+      {
+        "rank": 2,
+        "hex": "#ECCC08",
+        "rgb": [
+          236,
+          204,
+          8
+        ],
+        "percent": 28.9003,
+        "pixel_count": 57672
+      },
+      {
+        "rank": 3,
+        "hex": "#E3CBAE",
+        "rgb": [
+          227,
+          203,
+          174
+        ],
+        "percent": 14.6857,
+        "pixel_count": 29306
+      },
+      {
+        "rank": 4,
+        "hex": "#563348",
+        "rgb": [
+          86,
+          51,
+          72
+        ],
+        "percent": 5.5143,
+        "pixel_count": 11004
+      },
+      {
+        "rank": 5,
+        "hex": "#B2BB7B",
+        "rgb": [
+          178,
+          187,
+          123
+        ],
+        "percent": 3.6717,
+        "pixel_count": 7327
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#CF7C77",
+        "rgb": [
+          207,
+          124,
+          119
+        ],
+        "percent": 47.2281,
+        "pixel_count": 94246
+      },
+      {
+        "rank": 2,
+        "hex": "#ECCC08",
+        "rgb": [
+          236,
+          204,
+          8
+        ],
+        "percent": 28.9003,
+        "pixel_count": 57672
+      },
+      {
+        "rank": 3,
+        "hex": "#EAD3BC",
+        "rgb": [
+          234,
+          211,
+          188
+        ],
+        "percent": 11.8373,
+        "pixel_count": 23622
+      },
+      {
+        "rank": 4,
+        "hex": "#563348",
+        "rgb": [
+          86,
+          51,
+          72
+        ],
+        "percent": 5.5143,
+        "pixel_count": 11004
+      },
+      {
+        "rank": 5,
+        "hex": "#B2BB7B",
+        "rgb": [
+          178,
+          187,
+          123
+        ],
+        "percent": 3.6717,
+        "pixel_count": 7327
+      },
+      {
+        "rank": 6,
+        "hex": "#F3DB84",
+        "rgb": [
+          243,
+          219,
+          132
+        ],
+        "percent": 1.4778,
+        "pixel_count": 2949
+      },
+      {
+        "rank": 7,
+        "hex": "#927667",
+        "rgb": [
+          146,
+          118,
+          103
+        ],
+        "percent": 1.3705,
+        "pixel_count": 2735
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CF7C77",
+          "rgb": [
+            207,
+            124,
+            119
+          ],
+          "percent": 47.2281,
+          "pixel_count": 94246
+        },
+        {
+          "rank": 2,
+          "hex": "#ECCC08",
+          "rgb": [
+            236,
+            204,
+            8
+          ],
+          "percent": 28.9003,
+          "pixel_count": 57672
+        },
+        {
+          "rank": 3,
+          "hex": "#E3CBAE",
+          "rgb": [
+            227,
+            203,
+            174
+          ],
+          "percent": 14.6857,
+          "pixel_count": 29306
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#563348",
+          "rgb": [
+            86,
+            51,
+            72
+          ],
+          "percent": 5.5143,
+          "pixel_count": 11004
+        },
+        {
+          "rank": 2,
+          "hex": "#B2BB7B",
+          "rgb": [
+            178,
+            187,
+            123
+          ],
+          "percent": 3.6717,
+          "pixel_count": 7327
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD16.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD16.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#DFAE33",
+        "rgb": [
+          223,
+          174,
+          51
+        ],
+        "percent": 48.6362,
+        "pixel_count": 97070
+      },
+      {
+        "rank": 2,
+        "hex": "#E56B30",
+        "rgb": [
+          229,
+          107,
+          48
+        ],
+        "percent": 27.5328,
+        "pixel_count": 54951
+      },
+      {
+        "rank": 3,
+        "hex": "#076E1E",
+        "rgb": [
+          7,
+          110,
+          30
+        ],
+        "percent": 15.647,
+        "pixel_count": 31229
+      },
+      {
+        "rank": 4,
+        "hex": "#243316",
+        "rgb": [
+          36,
+          51,
+          22
+        ],
+        "percent": 4.2679,
+        "pixel_count": 8518
+      },
+      {
+        "rank": 5,
+        "hex": "#58320C",
+        "rgb": [
+          88,
+          50,
+          12
+        ],
+        "percent": 3.2708,
+        "pixel_count": 6528
+      },
+      {
+        "rank": 6,
+        "hex": "#DD091B",
+        "rgb": [
+          221,
+          9,
+          27
+        ],
+        "percent": 0.6453,
+        "pixel_count": 1288
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F4C03E",
+        "rgb": [
+          244,
+          192,
+          62
+        ],
+        "percent": 28.113,
+        "pixel_count": 56109
+      },
+      {
+        "rank": 2,
+        "hex": "#F37535",
+        "rgb": [
+          243,
+          117,
+          53
+        ],
+        "percent": 23.6447,
+        "pixel_count": 47191
+      },
+      {
+        "rank": 3,
+        "hex": "#C49723",
+        "rgb": [
+          196,
+          151,
+          35
+        ],
+        "percent": 19.8688,
+        "pixel_count": 39655
+      },
+      {
+        "rank": 4,
+        "hex": "#076E1E",
+        "rgb": [
+          7,
+          110,
+          30
+        ],
+        "percent": 15.647,
+        "pixel_count": 31229
+      },
+      {
+        "rank": 5,
+        "hex": "#243316",
+        "rgb": [
+          36,
+          51,
+          22
+        ],
+        "percent": 4.2679,
+        "pixel_count": 8518
+      },
+      {
+        "rank": 6,
+        "hex": "#912F11",
+        "rgb": [
+          145,
+          47,
+          17
+        ],
+        "percent": 3.8881,
+        "pixel_count": 7760
+      },
+      {
+        "rank": 7,
+        "hex": "#58320C",
+        "rgb": [
+          88,
+          50,
+          12
+        ],
+        "percent": 3.2708,
+        "pixel_count": 6528
+      },
+      {
+        "rank": 8,
+        "hex": "#756926",
+        "rgb": [
+          117,
+          105,
+          38
+        ],
+        "percent": 0.6544,
+        "pixel_count": 1306
+      },
+      {
+        "rank": 9,
+        "hex": "#DD091B",
+        "rgb": [
+          221,
+          9,
+          27
+        ],
+        "percent": 0.6453,
+        "pixel_count": 1288
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#DFAE33",
+          "rgb": [
+            223,
+            174,
+            51
+          ],
+          "percent": 48.6362,
+          "pixel_count": 97070
+        },
+        {
+          "rank": 2,
+          "hex": "#E56B30",
+          "rgb": [
+            229,
+            107,
+            48
+          ],
+          "percent": 27.5328,
+          "pixel_count": 54951
+        },
+        {
+          "rank": 3,
+          "hex": "#076E1E",
+          "rgb": [
+            7,
+            110,
+            30
+          ],
+          "percent": 15.647,
+          "pixel_count": 31229
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#243316",
+          "rgb": [
+            36,
+            51,
+            22
+          ],
+          "percent": 4.2679,
+          "pixel_count": 8518
+        },
+        {
+          "rank": 2,
+          "hex": "#58320C",
+          "rgb": [
+            88,
+            50,
+            12
+          ],
+          "percent": 3.2708,
+          "pixel_count": 6528
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD17.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD17.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#76B3CE",
+        "rgb": [
+          118,
+          179,
+          206
+        ],
+        "percent": 38.3795,
+        "pixel_count": 76515
+      },
+      {
+        "rank": 2,
+        "hex": "#134E7B",
+        "rgb": [
+          19,
+          78,
+          123
+        ],
+        "percent": 13.0435,
+        "pixel_count": 26004
+      },
+      {
+        "rank": 3,
+        "hex": "#C94027",
+        "rgb": [
+          201,
+          64,
+          39
+        ],
+        "percent": 11.9676,
+        "pixel_count": 23859
+      },
+      {
+        "rank": 4,
+        "hex": "#D8E7E1",
+        "rgb": [
+          216,
+          231,
+          225
+        ],
+        "percent": 10.3645,
+        "pixel_count": 20663
+      },
+      {
+        "rank": 5,
+        "hex": "#14181F",
+        "rgb": [
+          20,
+          24,
+          31
+        ],
+        "percent": 8.8632,
+        "pixel_count": 17670
+      },
+      {
+        "rank": 6,
+        "hex": "#E9C3A6",
+        "rgb": [
+          233,
+          195,
+          166
+        ],
+        "percent": 4.6834,
+        "pixel_count": 9337
+      },
+      {
+        "rank": 7,
+        "hex": "#6A5C4E",
+        "rgb": [
+          106,
+          92,
+          78
+        ],
+        "percent": 4.2811,
+        "pixel_count": 8535
+      },
+      {
+        "rank": 8,
+        "hex": "#B4B981",
+        "rgb": [
+          180,
+          185,
+          129
+        ],
+        "percent": 2.8942,
+        "pixel_count": 5770
+      },
+      {
+        "rank": 9,
+        "hex": "#3E5F5F",
+        "rgb": [
+          62,
+          95,
+          95
+        ],
+        "percent": 2.8867,
+        "pixel_count": 5755
+      },
+      {
+        "rank": 10,
+        "hex": "#F0E15B",
+        "rgb": [
+          240,
+          225,
+          91
+        ],
+        "percent": 2.6364,
+        "pixel_count": 5256
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#76B3CE",
+        "rgb": [
+          118,
+          179,
+          206
+        ],
+        "percent": 38.3795,
+        "pixel_count": 76515
+      },
+      {
+        "rank": 2,
+        "hex": "#134E7B",
+        "rgb": [
+          19,
+          78,
+          123
+        ],
+        "percent": 13.0435,
+        "pixel_count": 26004
+      },
+      {
+        "rank": 3,
+        "hex": "#DEEBE6",
+        "rgb": [
+          222,
+          235,
+          230
+        ],
+        "percent": 9.8433,
+        "pixel_count": 19624
+      },
+      {
+        "rank": 4,
+        "hex": "#14181F",
+        "rgb": [
+          20,
+          24,
+          31
+        ],
+        "percent": 8.8632,
+        "pixel_count": 17670
+      },
+      {
+        "rank": 5,
+        "hex": "#D92916",
+        "rgb": [
+          217,
+          41,
+          22
+        ],
+        "percent": 6.6145,
+        "pixel_count": 13187
+      },
+      {
+        "rank": 6,
+        "hex": "#6A5C4E",
+        "rgb": [
+          106,
+          92,
+          78
+        ],
+        "percent": 4.2811,
+        "pixel_count": 8535
+      },
+      {
+        "rank": 7,
+        "hex": "#E9C6B1",
+        "rgb": [
+          233,
+          198,
+          177
+        ],
+        "percent": 4.0318,
+        "pixel_count": 8038
+      },
+      {
+        "rank": 8,
+        "hex": "#3E5F5F",
+        "rgb": [
+          62,
+          95,
+          95
+        ],
+        "percent": 2.8867,
+        "pixel_count": 5755
+      },
+      {
+        "rank": 9,
+        "hex": "#D37B4D",
+        "rgb": [
+          211,
+          123,
+          77
+        ],
+        "percent": 2.841,
+        "pixel_count": 5664
+      },
+      {
+        "rank": 10,
+        "hex": "#F0E15B",
+        "rgb": [
+          240,
+          225,
+          91
+        ],
+        "percent": 2.6364,
+        "pixel_count": 5256
+      },
+      {
+        "rank": 11,
+        "hex": "#933B29",
+        "rgb": [
+          147,
+          59,
+          41
+        ],
+        "percent": 2.512,
+        "pixel_count": 5008
+      },
+      {
+        "rank": 12,
+        "hex": "#A2A77D",
+        "rgb": [
+          162,
+          167,
+          125
+        ],
+        "percent": 2.0751,
+        "pixel_count": 4137
+      },
+      {
+        "rank": 13,
+        "hex": "#E1E58C",
+        "rgb": [
+          225,
+          229,
+          140
+        ],
+        "percent": 0.8191,
+        "pixel_count": 1633
+      },
+      {
+        "rank": 14,
+        "hex": "#E8B262",
+        "rgb": [
+          232,
+          178,
+          98
+        ],
+        "percent": 0.6516,
+        "pixel_count": 1299
+      },
+      {
+        "rank": 15,
+        "hex": "#709B87",
+        "rgb": [
+          112,
+          155,
+          135
+        ],
+        "percent": 0.5212,
+        "pixel_count": 1039
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#76B3CE",
+          "rgb": [
+            118,
+            179,
+            206
+          ],
+          "percent": 38.3795,
+          "pixel_count": 76515
+        },
+        {
+          "rank": 2,
+          "hex": "#134E7B",
+          "rgb": [
+            19,
+            78,
+            123
+          ],
+          "percent": 13.0435,
+          "pixel_count": 26004
+        },
+        {
+          "rank": 3,
+          "hex": "#C94027",
+          "rgb": [
+            201,
+            64,
+            39
+          ],
+          "percent": 11.9676,
+          "pixel_count": 23859
+        },
+        {
+          "rank": 4,
+          "hex": "#D8E7E1",
+          "rgb": [
+            216,
+            231,
+            225
+          ],
+          "percent": 10.3645,
+          "pixel_count": 20663
+        },
+        {
+          "rank": 5,
+          "hex": "#14181F",
+          "rgb": [
+            20,
+            24,
+            31
+          ],
+          "percent": 8.8632,
+          "pixel_count": 17670
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#E9C3A6",
+          "rgb": [
+            233,
+            195,
+            166
+          ],
+          "percent": 4.6834,
+          "pixel_count": 9337
+        },
+        {
+          "rank": 2,
+          "hex": "#6A5C4E",
+          "rgb": [
+            106,
+            92,
+            78
+          ],
+          "percent": 4.2811,
+          "pixel_count": 8535
+        },
+        {
+          "rank": 3,
+          "hex": "#B4B981",
+          "rgb": [
+            180,
+            185,
+            129
+          ],
+          "percent": 2.8942,
+          "pixel_count": 5770
+        },
+        {
+          "rank": 4,
+          "hex": "#3E5F5F",
+          "rgb": [
+            62,
+            95,
+            95
+          ],
+          "percent": 2.8867,
+          "pixel_count": 5755
+        },
+        {
+          "rank": 5,
+          "hex": "#F0E15B",
+          "rgb": [
+            240,
+            225,
+            91
+          ],
+          "percent": 2.6364,
+          "pixel_count": 5256
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD18.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD18.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#F9EEC8",
+        "rgb": [
+          249,
+          238,
+          200
+        ],
+        "percent": 64.5515,
+        "pixel_count": 129083
+      },
+      {
+        "rank": 2,
+        "hex": "#DB895A",
+        "rgb": [
+          219,
+          137,
+          90
+        ],
+        "percent": 8.5568,
+        "pixel_count": 17111
+      },
+      {
+        "rank": 3,
+        "hex": "#6A8B88",
+        "rgb": [
+          106,
+          139,
+          136
+        ],
+        "percent": 7.6937,
+        "pixel_count": 15385
+      },
+      {
+        "rank": 4,
+        "hex": "#6F2318",
+        "rgb": [
+          111,
+          35,
+          24
+        ],
+        "percent": 6.8971,
+        "pixel_count": 13792
+      },
+      {
+        "rank": 5,
+        "hex": "#F8CB57",
+        "rgb": [
+          248,
+          203,
+          87
+        ],
+        "percent": 4.7887,
+        "pixel_count": 9576
+      },
+      {
+        "rank": 6,
+        "hex": "#D51A14",
+        "rgb": [
+          213,
+          26,
+          20
+        ],
+        "percent": 3.204,
+        "pixel_count": 6407
+      },
+      {
+        "rank": 7,
+        "hex": "#25728C",
+        "rgb": [
+          37,
+          114,
+          140
+        ],
+        "percent": 3.168,
+        "pixel_count": 6335
+      },
+      {
+        "rank": 8,
+        "hex": "#231317",
+        "rgb": [
+          35,
+          19,
+          23
+        ],
+        "percent": 1.1402,
+        "pixel_count": 2280
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F9EEC8",
+        "rgb": [
+          249,
+          238,
+          200
+        ],
+        "percent": 64.5515,
+        "pixel_count": 129083
+      },
+      {
+        "rank": 2,
+        "hex": "#E68855",
+        "rgb": [
+          230,
+          136,
+          85
+        ],
+        "percent": 6.5745,
+        "pixel_count": 13147
+      },
+      {
+        "rank": 3,
+        "hex": "#83A6A1",
+        "rgb": [
+          131,
+          166,
+          161
+        ],
+        "percent": 4.6327,
+        "pixel_count": 9264
+      },
+      {
+        "rank": 4,
+        "hex": "#521612",
+        "rgb": [
+          82,
+          22,
+          18
+        ],
+        "percent": 4.2977,
+        "pixel_count": 8594
+      },
+      {
+        "rank": 5,
+        "hex": "#F8CA51",
+        "rgb": [
+          248,
+          202,
+          81
+        ],
+        "percent": 4.2292,
+        "pixel_count": 8457
+      },
+      {
+        "rank": 6,
+        "hex": "#D51A14",
+        "rgb": [
+          213,
+          26,
+          20
+        ],
+        "percent": 3.204,
+        "pixel_count": 6407
+      },
+      {
+        "rank": 7,
+        "hex": "#25728C",
+        "rgb": [
+          37,
+          114,
+          140
+        ],
+        "percent": 3.168,
+        "pixel_count": 6335
+      },
+      {
+        "rank": 8,
+        "hex": "#456163",
+        "rgb": [
+          69,
+          97,
+          99
+        ],
+        "percent": 3.061,
+        "pixel_count": 6121
+      },
+      {
+        "rank": 9,
+        "hex": "#9E3823",
+        "rgb": [
+          158,
+          56,
+          35
+        ],
+        "percent": 2.5994,
+        "pixel_count": 5198
+      },
+      {
+        "rank": 10,
+        "hex": "#B58C6B",
+        "rgb": [
+          181,
+          140,
+          107
+        ],
+        "percent": 1.9823,
+        "pixel_count": 3964
+      },
+      {
+        "rank": 11,
+        "hex": "#231317",
+        "rgb": [
+          35,
+          19,
+          23
+        ],
+        "percent": 1.1402,
+        "pixel_count": 2280
+      },
+      {
+        "rank": 12,
+        "hex": "#F6CF88",
+        "rgb": [
+          246,
+          207,
+          136
+        ],
+        "percent": 0.5596,
+        "pixel_count": 1119
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#F9EEC8",
+          "rgb": [
+            249,
+            238,
+            200
+          ],
+          "percent": 64.5515,
+          "pixel_count": 129083
+        },
+        {
+          "rank": 2,
+          "hex": "#DB895A",
+          "rgb": [
+            219,
+            137,
+            90
+          ],
+          "percent": 8.5568,
+          "pixel_count": 17111
+        },
+        {
+          "rank": 3,
+          "hex": "#6A8B88",
+          "rgb": [
+            106,
+            139,
+            136
+          ],
+          "percent": 7.6937,
+          "pixel_count": 15385
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#6F2318",
+          "rgb": [
+            111,
+            35,
+            24
+          ],
+          "percent": 6.8971,
+          "pixel_count": 13792
+        },
+        {
+          "rank": 2,
+          "hex": "#F8CB57",
+          "rgb": [
+            248,
+            203,
+            87
+          ],
+          "percent": 4.7887,
+          "pixel_count": 9576
+        },
+        {
+          "rank": 3,
+          "hex": "#D51A14",
+          "rgb": [
+            213,
+            26,
+            20
+          ],
+          "percent": 3.204,
+          "pixel_count": 6407
+        },
+        {
+          "rank": 4,
+          "hex": "#25728C",
+          "rgb": [
+            37,
+            114,
+            140
+          ],
+          "percent": 3.168,
+          "pixel_count": 6335
+        },
+        {
+          "rank": 5,
+          "hex": "#231317",
+          "rgb": [
+            35,
+            19,
+            23
+          ],
+          "percent": 1.1402,
+          "pixel_count": 2280
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD19.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD19.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#DBB88C",
+        "rgb": [
+          219,
+          184,
+          140
+        ],
+        "percent": 62.5848,
+        "pixel_count": 124888
+      },
+      {
+        "rank": 2,
+        "hex": "#BC695F",
+        "rgb": [
+          188,
+          105,
+          95
+        ],
+        "percent": 19.9048,
+        "pixel_count": 39720
+      },
+      {
+        "rank": 3,
+        "hex": "#4B494A",
+        "rgb": [
+          75,
+          73,
+          74
+        ],
+        "percent": 17.5104,
+        "pixel_count": 34942
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DEB880",
+        "rgb": [
+          222,
+          184,
+          128
+        ],
+        "percent": 31.4442,
+        "pixel_count": 62747
+      },
+      {
+        "rank": 2,
+        "hex": "#DCBA9B",
+        "rgb": [
+          220,
+          186,
+          155
+        ],
+        "percent": 29.2308,
+        "pixel_count": 58330
+      },
+      {
+        "rank": 3,
+        "hex": "#4B494A",
+        "rgb": [
+          75,
+          73,
+          74
+        ],
+        "percent": 17.5104,
+        "pixel_count": 34942
+      },
+      {
+        "rank": 4,
+        "hex": "#BD816F",
+        "rgb": [
+          189,
+          129,
+          111
+        ],
+        "percent": 10.7041,
+        "pixel_count": 21360
+      },
+      {
+        "rank": 5,
+        "hex": "#C14E4E",
+        "rgb": [
+          193,
+          78,
+          78
+        ],
+        "percent": 8.5227,
+        "pixel_count": 17007
+      },
+      {
+        "rank": 6,
+        "hex": "#968A7C",
+        "rgb": [
+          150,
+          138,
+          124
+        ],
+        "percent": 1.9098,
+        "pixel_count": 3811
+      },
+      {
+        "rank": 7,
+        "hex": "#683432",
+        "rgb": [
+          104,
+          52,
+          50
+        ],
+        "percent": 0.678,
+        "pixel_count": 1353
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#DBB88C",
+          "rgb": [
+            219,
+            184,
+            140
+          ],
+          "percent": 62.5848,
+          "pixel_count": 124888
+        },
+        {
+          "rank": 2,
+          "hex": "#BC695F",
+          "rgb": [
+            188,
+            105,
+            95
+          ],
+          "percent": 19.9048,
+          "pixel_count": 39720
+        },
+        {
+          "rank": 3,
+          "hex": "#4B494A",
+          "rgb": [
+            75,
+            73,
+            74
+          ],
+          "percent": 17.5104,
+          "pixel_count": 34942
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD2.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD2.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#E7D5BE",
+        "rgb": [
+          231,
+          213,
+          190
+        ],
+        "percent": 52.9791,
+        "pixel_count": 105892
+      },
+      {
+        "rank": 2,
+        "hex": "#B55E4B",
+        "rgb": [
+          181,
+          94,
+          75
+        ],
+        "percent": 31.5782,
+        "pixel_count": 63117
+      },
+      {
+        "rank": 3,
+        "hex": "#898E7E",
+        "rgb": [
+          137,
+          142,
+          126
+        ],
+        "percent": 7.6783,
+        "pixel_count": 15347
+      },
+      {
+        "rank": 4,
+        "hex": "#575546",
+        "rgb": [
+          87,
+          85,
+          70
+        ],
+        "percent": 5.7386,
+        "pixel_count": 11470
+      },
+      {
+        "rank": 5,
+        "hex": "#16130F",
+        "rgb": [
+          22,
+          19,
+          15
+        ],
+        "percent": 2.0258,
+        "pixel_count": 4049
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#EDDCCB",
+        "rgb": [
+          237,
+          220,
+          203
+        ],
+        "percent": 36.1996,
+        "pixel_count": 72354
+      },
+      {
+        "rank": 2,
+        "hex": "#B7604C",
+        "rgb": [
+          183,
+          96,
+          76
+        ],
+        "percent": 28.7635,
+        "pixel_count": 57491
+      },
+      {
+        "rank": 3,
+        "hex": "#DBC7A1",
+        "rgb": [
+          219,
+          199,
+          161
+        ],
+        "percent": 16.7795,
+        "pixel_count": 33538
+      },
+      {
+        "rank": 4,
+        "hex": "#898E7E",
+        "rgb": [
+          137,
+          142,
+          126
+        ],
+        "percent": 7.6783,
+        "pixel_count": 15347
+      },
+      {
+        "rank": 5,
+        "hex": "#575546",
+        "rgb": [
+          87,
+          85,
+          70
+        ],
+        "percent": 5.7386,
+        "pixel_count": 11470
+      },
+      {
+        "rank": 6,
+        "hex": "#16130F",
+        "rgb": [
+          22,
+          19,
+          15
+        ],
+        "percent": 2.0258,
+        "pixel_count": 4049
+      },
+      {
+        "rank": 7,
+        "hex": "#E14139",
+        "rgb": [
+          225,
+          65,
+          57
+        ],
+        "percent": 1.1547,
+        "pixel_count": 2308
+      },
+      {
+        "rank": 8,
+        "hex": "#56241E",
+        "rgb": [
+          86,
+          36,
+          30
+        ],
+        "percent": 1.0371,
+        "pixel_count": 2073
+      },
+      {
+        "rank": 9,
+        "hex": "#BE9685",
+        "rgb": [
+          190,
+          150,
+          133
+        ],
+        "percent": 0.6229,
+        "pixel_count": 1245
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#E7D5BE",
+          "rgb": [
+            231,
+            213,
+            190
+          ],
+          "percent": 52.9791,
+          "pixel_count": 105892
+        },
+        {
+          "rank": 2,
+          "hex": "#B55E4B",
+          "rgb": [
+            181,
+            94,
+            75
+          ],
+          "percent": 31.5782,
+          "pixel_count": 63117
+        },
+        {
+          "rank": 3,
+          "hex": "#898E7E",
+          "rgb": [
+            137,
+            142,
+            126
+          ],
+          "percent": 7.6783,
+          "pixel_count": 15347
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#575546",
+          "rgb": [
+            87,
+            85,
+            70
+          ],
+          "percent": 5.7386,
+          "pixel_count": 11470
+        },
+        {
+          "rank": 2,
+          "hex": "#16130F",
+          "rgb": [
+            22,
+            19,
+            15
+          ],
+          "percent": 2.0258,
+          "pixel_count": 4049
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD20.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD20.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CBB994",
+        "rgb": [
+          203,
+          185,
+          148
+        ],
+        "percent": 57.5283,
+        "pixel_count": 114678
+      },
+      {
+        "rank": 2,
+        "hex": "#809055",
+        "rgb": [
+          128,
+          144,
+          85
+        ],
+        "percent": 21.6001,
+        "pixel_count": 43058
+      },
+      {
+        "rank": 3,
+        "hex": "#C93425",
+        "rgb": [
+          201,
+          52,
+          37
+        ],
+        "percent": 16.9774,
+        "pixel_count": 33843
+      },
+      {
+        "rank": 4,
+        "hex": "#4C442F",
+        "rgb": [
+          76,
+          68,
+          47
+        ],
+        "percent": 3.8943,
+        "pixel_count": 7763
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#EBDAAD",
+        "rgb": [
+          235,
+          218,
+          173
+        ],
+        "percent": 39.3404,
+        "pixel_count": 78422
+      },
+      {
+        "rank": 2,
+        "hex": "#809055",
+        "rgb": [
+          128,
+          144,
+          85
+        ],
+        "percent": 21.6001,
+        "pixel_count": 43058
+      },
+      {
+        "rank": 3,
+        "hex": "#86725D",
+        "rgb": [
+          134,
+          114,
+          93
+        ],
+        "percent": 18.1878,
+        "pixel_count": 36256
+      },
+      {
+        "rank": 4,
+        "hex": "#C93223",
+        "rgb": [
+          201,
+          50,
+          35
+        ],
+        "percent": 16.3453,
+        "pixel_count": 32583
+      },
+      {
+        "rank": 5,
+        "hex": "#4C442F",
+        "rgb": [
+          76,
+          68,
+          47
+        ],
+        "percent": 3.8943,
+        "pixel_count": 7763
+      },
+      {
+        "rank": 6,
+        "hex": "#C17050",
+        "rgb": [
+          193,
+          112,
+          80
+        ],
+        "percent": 0.6321,
+        "pixel_count": 1260
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CBB994",
+          "rgb": [
+            203,
+            185,
+            148
+          ],
+          "percent": 57.5283,
+          "pixel_count": 114678
+        },
+        {
+          "rank": 2,
+          "hex": "#809055",
+          "rgb": [
+            128,
+            144,
+            85
+          ],
+          "percent": 21.6001,
+          "pixel_count": 43058
+        },
+        {
+          "rank": 3,
+          "hex": "#C93425",
+          "rgb": [
+            201,
+            52,
+            37
+          ],
+          "percent": 16.9774,
+          "pixel_count": 33843
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#4C442F",
+          "rgb": [
+            76,
+            68,
+            47
+          ],
+          "percent": 3.8943,
+          "pixel_count": 7763
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD21.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD21.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#F4E293",
+        "rgb": [
+          244,
+          226,
+          147
+        ],
+        "percent": 29.9639,
+        "pixel_count": 50624
+      },
+      {
+        "rank": 2,
+        "hex": "#EFF1E9",
+        "rgb": [
+          239,
+          241,
+          233
+        ],
+        "percent": 28.377,
+        "pixel_count": 47943
+      },
+      {
+        "rank": 3,
+        "hex": "#AD1627",
+        "rgb": [
+          173,
+          22,
+          39
+        ],
+        "percent": 16.5333,
+        "pixel_count": 27933
+      },
+      {
+        "rank": 4,
+        "hex": "#EFE23F",
+        "rgb": [
+          239,
+          226,
+          63
+        ],
+        "percent": 11.8526,
+        "pixel_count": 20025
+      },
+      {
+        "rank": 5,
+        "hex": "#CA7564",
+        "rgb": [
+          202,
+          117,
+          100
+        ],
+        "percent": 7.5584,
+        "pixel_count": 12770
+      },
+      {
+        "rank": 6,
+        "hex": "#CE9763",
+        "rgb": [
+          206,
+          151,
+          99
+        ],
+        "percent": 4.5617,
+        "pixel_count": 7707
+      },
+      {
+        "rank": 7,
+        "hex": "#3A4032",
+        "rgb": [
+          58,
+          64,
+          50
+        ],
+        "percent": 1.153,
+        "pixel_count": 1948
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F3F5ED",
+        "rgb": [
+          243,
+          245,
+          237
+        ],
+        "percent": 27.1445,
+        "pixel_count": 46010
+      },
+      {
+        "rank": 2,
+        "hex": "#F4E29E",
+        "rgb": [
+          244,
+          226,
+          158
+        ],
+        "percent": 22.774,
+        "pixel_count": 38602
+      },
+      {
+        "rank": 3,
+        "hex": "#BF172C",
+        "rgb": [
+          191,
+          23,
+          44
+        ],
+        "percent": 12.9068,
+        "pixel_count": 21877
+      },
+      {
+        "rank": 4,
+        "hex": "#EFE23F",
+        "rgb": [
+          239,
+          226,
+          63
+        ],
+        "percent": 11.8142,
+        "pixel_count": 20025
+      },
+      {
+        "rank": 5,
+        "hex": "#F6E170",
+        "rgb": [
+          246,
+          225,
+          112
+        ],
+        "percent": 7.0926,
+        "pixel_count": 12022
+      },
+      {
+        "rank": 6,
+        "hex": "#BD604A",
+        "rgb": [
+          189,
+          96,
+          74
+        ],
+        "percent": 5.033,
+        "pixel_count": 8531
+      },
+      {
+        "rank": 7,
+        "hex": "#6E1415",
+        "rgb": [
+          110,
+          20,
+          21
+        ],
+        "percent": 3.5729,
+        "pixel_count": 6056
+      },
+      {
+        "rank": 8,
+        "hex": "#E4A099",
+        "rgb": [
+          228,
+          160,
+          153
+        ],
+        "percent": 2.5009,
+        "pixel_count": 4239
+      },
+      {
+        "rank": 9,
+        "hex": "#DD9350",
+        "rgb": [
+          221,
+          147,
+          80
+        ],
+        "percent": 1.8572,
+        "pixel_count": 3148
+      },
+      {
+        "rank": 10,
+        "hex": "#A3845F",
+        "rgb": [
+          163,
+          132,
+          95
+        ],
+        "percent": 1.5487,
+        "pixel_count": 2625
+      },
+      {
+        "rank": 11,
+        "hex": "#3A4032",
+        "rgb": [
+          58,
+          64,
+          50
+        ],
+        "percent": 1.1493,
+        "pixel_count": 1948
+      },
+      {
+        "rank": 12,
+        "hex": "#EFB687",
+        "rgb": [
+          239,
+          182,
+          135
+        ],
+        "percent": 1.141,
+        "pixel_count": 1934
+      },
+      {
+        "rank": 13,
+        "hex": "#91987F",
+        "rgb": [
+          145,
+          152,
+          127
+        ],
+        "percent": 1.1404,
+        "pixel_count": 1933
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#F4E293",
+          "rgb": [
+            244,
+            226,
+            147
+          ],
+          "percent": 29.9639,
+          "pixel_count": 50624
+        },
+        {
+          "rank": 2,
+          "hex": "#EFF1E9",
+          "rgb": [
+            239,
+            241,
+            233
+          ],
+          "percent": 28.377,
+          "pixel_count": 47943
+        },
+        {
+          "rank": 3,
+          "hex": "#AD1627",
+          "rgb": [
+            173,
+            22,
+            39
+          ],
+          "percent": 16.5333,
+          "pixel_count": 27933
+        },
+        {
+          "rank": 4,
+          "hex": "#EFE23F",
+          "rgb": [
+            239,
+            226,
+            63
+          ],
+          "percent": 11.8526,
+          "pixel_count": 20025
+        },
+        {
+          "rank": 5,
+          "hex": "#CA7564",
+          "rgb": [
+            202,
+            117,
+            100
+          ],
+          "percent": 7.5584,
+          "pixel_count": 12770
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#CE9763",
+          "rgb": [
+            206,
+            151,
+            99
+          ],
+          "percent": 4.5617,
+          "pixel_count": 7707
+        },
+        {
+          "rank": 2,
+          "hex": "#3A4032",
+          "rgb": [
+            58,
+            64,
+            50
+          ],
+          "percent": 1.153,
+          "pixel_count": 1948
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD22.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD22.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#DECFB4",
+        "rgb": [
+          222,
+          207,
+          180
+        ],
+        "percent": 40.9501,
+        "pixel_count": 81718
+      },
+      {
+        "rank": 2,
+        "hex": "#2D1A16",
+        "rgb": [
+          45,
+          26,
+          22
+        ],
+        "percent": 32.4552,
+        "pixel_count": 64766
+      },
+      {
+        "rank": 3,
+        "hex": "#CD6D45",
+        "rgb": [
+          205,
+          109,
+          69
+        ],
+        "percent": 23.7228,
+        "pixel_count": 47340
+      },
+      {
+        "rank": 4,
+        "hex": "#6A9FA0",
+        "rgb": [
+          106,
+          159,
+          160
+        ],
+        "percent": 2.8719,
+        "pixel_count": 5731
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E8D8BC",
+        "rgb": [
+          232,
+          216,
+          188
+        ],
+        "percent": 37.1822,
+        "pixel_count": 74199
+      },
+      {
+        "rank": 2,
+        "hex": "#2D1A16",
+        "rgb": [
+          45,
+          26,
+          22
+        ],
+        "percent": 32.4552,
+        "pixel_count": 64766
+      },
+      {
+        "rank": 3,
+        "hex": "#D96F42",
+        "rgb": [
+          217,
+          111,
+          66
+        ],
+        "percent": 18.1238,
+        "pixel_count": 36167
+      },
+      {
+        "rank": 4,
+        "hex": "#797267",
+        "rgb": [
+          121,
+          114,
+          103
+        ],
+        "percent": 3.7679,
+        "pixel_count": 7519
+      },
+      {
+        "rank": 5,
+        "hex": "#C3896C",
+        "rgb": [
+          195,
+          137,
+          108
+        ],
+        "percent": 3.2577,
+        "pixel_count": 6501
+      },
+      {
+        "rank": 6,
+        "hex": "#6A9FA0",
+        "rgb": [
+          106,
+          159,
+          160
+        ],
+        "percent": 2.8719,
+        "pixel_count": 5731
+      },
+      {
+        "rank": 7,
+        "hex": "#793B24",
+        "rgb": [
+          121,
+          59,
+          36
+        ],
+        "percent": 2.3412,
+        "pixel_count": 4672
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#DECFB4",
+          "rgb": [
+            222,
+            207,
+            180
+          ],
+          "percent": 40.9501,
+          "pixel_count": 81718
+        },
+        {
+          "rank": 2,
+          "hex": "#2D1A16",
+          "rgb": [
+            45,
+            26,
+            22
+          ],
+          "percent": 32.4552,
+          "pixel_count": 64766
+        },
+        {
+          "rank": 3,
+          "hex": "#CD6D45",
+          "rgb": [
+            205,
+            109,
+            69
+          ],
+          "percent": 23.7228,
+          "pixel_count": 47340
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#6A9FA0",
+          "rgb": [
+            106,
+            159,
+            160
+          ],
+          "percent": 2.8719,
+          "pixel_count": 5731
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD23.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD23.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#9D6C6C",
+        "rgb": [
+          157,
+          108,
+          108
+        ],
+        "percent": 68.5973,
+        "pixel_count": 116505
+      },
+      {
+        "rank": 2,
+        "hex": "#51484B",
+        "rgb": [
+          81,
+          72,
+          75
+        ],
+        "percent": 15.0036,
+        "pixel_count": 25482
+      },
+      {
+        "rank": 3,
+        "hex": "#347972",
+        "rgb": [
+          52,
+          121,
+          114
+        ],
+        "percent": 8.7995,
+        "pixel_count": 14945
+      },
+      {
+        "rank": 4,
+        "hex": "#E3B59A",
+        "rgb": [
+          227,
+          181,
+          154
+        ],
+        "percent": 7.5996,
+        "pixel_count": 12907
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8A4E4F",
+        "rgb": [
+          138,
+          78,
+          79
+        ],
+        "percent": 52.1052,
+        "pixel_count": 88495
+      },
+      {
+        "rank": 2,
+        "hex": "#D8CAC6",
+        "rgb": [
+          216,
+          202,
+          198
+        ],
+        "percent": 16.4921,
+        "pixel_count": 28010
+      },
+      {
+        "rank": 3,
+        "hex": "#51484B",
+        "rgb": [
+          81,
+          72,
+          75
+        ],
+        "percent": 15.0036,
+        "pixel_count": 25482
+      },
+      {
+        "rank": 4,
+        "hex": "#E3B59A",
+        "rgb": [
+          227,
+          181,
+          154
+        ],
+        "percent": 7.5996,
+        "pixel_count": 12907
+      },
+      {
+        "rank": 5,
+        "hex": "#257063",
+        "rgb": [
+          37,
+          112,
+          99
+        ],
+        "percent": 6.2842,
+        "pixel_count": 10673
+      },
+      {
+        "rank": 6,
+        "hex": "#5A9198",
+        "rgb": [
+          90,
+          145,
+          152
+        ],
+        "percent": 2.5153,
+        "pixel_count": 4272
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#9D6C6C",
+          "rgb": [
+            157,
+            108,
+            108
+          ],
+          "percent": 68.5973,
+          "pixel_count": 116505
+        },
+        {
+          "rank": 2,
+          "hex": "#51484B",
+          "rgb": [
+            81,
+            72,
+            75
+          ],
+          "percent": 15.0036,
+          "pixel_count": 25482
+        },
+        {
+          "rank": 3,
+          "hex": "#347972",
+          "rgb": [
+            52,
+            121,
+            114
+          ],
+          "percent": 8.7995,
+          "pixel_count": 14945
+        },
+        {
+          "rank": 4,
+          "hex": "#E3B59A",
+          "rgb": [
+            227,
+            181,
+            154
+          ],
+          "percent": 7.5996,
+          "pixel_count": 12907
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD24.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD24.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#BDBCA5",
+        "rgb": [
+          189,
+          188,
+          165
+        ],
+        "percent": 42.3441,
+        "pixel_count": 84451
+      },
+      {
+        "rank": 2,
+        "hex": "#1A140F",
+        "rgb": [
+          26,
+          20,
+          15
+        ],
+        "percent": 24.3687,
+        "pixel_count": 48601
+      },
+      {
+        "rank": 3,
+        "hex": "#4D7E6F",
+        "rgb": [
+          77,
+          126,
+          111
+        ],
+        "percent": 21.1813,
+        "pixel_count": 42244
+      },
+      {
+        "rank": 4,
+        "hex": "#BC8466",
+        "rgb": [
+          188,
+          132,
+          102
+        ],
+        "percent": 7.6223,
+        "pixel_count": 15202
+      },
+      {
+        "rank": 5,
+        "hex": "#676860",
+        "rgb": [
+          103,
+          104,
+          96
+        ],
+        "percent": 4.4836,
+        "pixel_count": 8942
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#BDBCA5",
+        "rgb": [
+          189,
+          188,
+          165
+        ],
+        "percent": 42.3441,
+        "pixel_count": 84451
+      },
+      {
+        "rank": 2,
+        "hex": "#1A140F",
+        "rgb": [
+          26,
+          20,
+          15
+        ],
+        "percent": 24.3687,
+        "pixel_count": 48601
+      },
+      {
+        "rank": 3,
+        "hex": "#4D7E6F",
+        "rgb": [
+          77,
+          126,
+          111
+        ],
+        "percent": 21.1813,
+        "pixel_count": 42244
+      },
+      {
+        "rank": 4,
+        "hex": "#BC8466",
+        "rgb": [
+          188,
+          132,
+          102
+        ],
+        "percent": 7.6223,
+        "pixel_count": 15202
+      },
+      {
+        "rank": 5,
+        "hex": "#676860",
+        "rgb": [
+          103,
+          104,
+          96
+        ],
+        "percent": 4.4836,
+        "pixel_count": 8942
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#BDBCA5",
+          "rgb": [
+            189,
+            188,
+            165
+          ],
+          "percent": 42.3441,
+          "pixel_count": 84451
+        },
+        {
+          "rank": 2,
+          "hex": "#1A140F",
+          "rgb": [
+            26,
+            20,
+            15
+          ],
+          "percent": 24.3687,
+          "pixel_count": 48601
+        },
+        {
+          "rank": 3,
+          "hex": "#4D7E6F",
+          "rgb": [
+            77,
+            126,
+            111
+          ],
+          "percent": 21.1813,
+          "pixel_count": 42244
+        },
+        {
+          "rank": 4,
+          "hex": "#BC8466",
+          "rgb": [
+            188,
+            132,
+            102
+          ],
+          "percent": 7.6223,
+          "pixel_count": 15202
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#676860",
+          "rgb": [
+            103,
+            104,
+            96
+          ],
+          "percent": 4.4836,
+          "pixel_count": 8942
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD25.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD25.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#F9F5EB",
+        "rgb": [
+          249,
+          245,
+          235
+        ],
+        "percent": 76.7828,
+        "pixel_count": 61341
+      },
+      {
+        "rank": 2,
+        "hex": "#C57C74",
+        "rgb": [
+          197,
+          124,
+          116
+        ],
+        "percent": 15.1172,
+        "pixel_count": 12077
+      },
+      {
+        "rank": 3,
+        "hex": "#C1D66E",
+        "rgb": [
+          193,
+          214,
+          110
+        ],
+        "percent": 8.1,
+        "pixel_count": 6471
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F9F5EB",
+        "rgb": [
+          249,
+          245,
+          235
+        ],
+        "percent": 76.6724,
+        "pixel_count": 61341
+      },
+      {
+        "rank": 2,
+        "hex": "#C6726B",
+        "rgb": [
+          198,
+          114,
+          107
+        ],
+        "percent": 11.4332,
+        "pixel_count": 9147
+      },
+      {
+        "rank": 3,
+        "hex": "#C1D66E",
+        "rgb": [
+          193,
+          214,
+          110
+        ],
+        "percent": 8.0883,
+        "pixel_count": 6471
+      },
+      {
+        "rank": 4,
+        "hex": "#D8A59A",
+        "rgb": [
+          216,
+          165,
+          154
+        ],
+        "percent": 1.8412,
+        "pixel_count": 1473
+      },
+      {
+        "rank": 5,
+        "hex": "#AB9085",
+        "rgb": [
+          171,
+          144,
+          133
+        ],
+        "percent": 1.8212,
+        "pixel_count": 1457
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#F9F5EB",
+          "rgb": [
+            249,
+            245,
+            235
+          ],
+          "percent": 76.7828,
+          "pixel_count": 61341
+        },
+        {
+          "rank": 2,
+          "hex": "#C57C74",
+          "rgb": [
+            197,
+            124,
+            116
+          ],
+          "percent": 15.1172,
+          "pixel_count": 12077
+        },
+        {
+          "rank": 3,
+          "hex": "#C1D66E",
+          "rgb": [
+            193,
+            214,
+            110
+          ],
+          "percent": 8.1,
+          "pixel_count": 6471
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD26.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD26.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#ECD0A8",
+        "rgb": [
+          236,
+          208,
+          168
+        ],
+        "percent": 71.4959,
+        "pixel_count": 142387
+      },
+      {
+        "rank": 2,
+        "hex": "#DA3D30",
+        "rgb": [
+          218,
+          61,
+          48
+        ],
+        "percent": 20.3431,
+        "pixel_count": 40514
+      },
+      {
+        "rank": 3,
+        "hex": "#4F433B",
+        "rgb": [
+          79,
+          67,
+          59
+        ],
+        "percent": 6.0315,
+        "pixel_count": 12012
+      },
+      {
+        "rank": 4,
+        "hex": "#509353",
+        "rgb": [
+          80,
+          147,
+          83
+        ],
+        "percent": 2.1295,
+        "pixel_count": 4241
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F7D8AD",
+        "rgb": [
+          247,
+          216,
+          173
+        ],
+        "percent": 61.3361,
+        "pixel_count": 122555
+      },
+      {
+        "rank": 2,
+        "hex": "#DA382C",
+        "rgb": [
+          218,
+          56,
+          44
+        ],
+        "percent": 18.7634,
+        "pixel_count": 37491
+      },
+      {
+        "rank": 3,
+        "hex": "#AAA087",
+        "rgb": [
+          170,
+          160,
+          135
+        ],
+        "percent": 9.9255,
+        "pixel_count": 19832
+      },
+      {
+        "rank": 4,
+        "hex": "#4F433B",
+        "rgb": [
+          79,
+          67,
+          59
+        ],
+        "percent": 6.0117,
+        "pixel_count": 12012
+      },
+      {
+        "rank": 5,
+        "hex": "#509353",
+        "rgb": [
+          80,
+          147,
+          83
+        ],
+        "percent": 2.1225,
+        "pixel_count": 4241
+      },
+      {
+        "rank": 6,
+        "hex": "#DC7C63",
+        "rgb": [
+          220,
+          124,
+          99
+        ],
+        "percent": 1.5129,
+        "pixel_count": 3023
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#ECD0A8",
+          "rgb": [
+            236,
+            208,
+            168
+          ],
+          "percent": 71.4959,
+          "pixel_count": 142387
+        },
+        {
+          "rank": 2,
+          "hex": "#DA3D30",
+          "rgb": [
+            218,
+            61,
+            48
+          ],
+          "percent": 20.3431,
+          "pixel_count": 40514
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#4F433B",
+          "rgb": [
+            79,
+            67,
+            59
+          ],
+          "percent": 6.0315,
+          "pixel_count": 12012
+        },
+        {
+          "rank": 2,
+          "hex": "#509353",
+          "rgb": [
+            80,
+            147,
+            83
+          ],
+          "percent": 2.1295,
+          "pixel_count": 4241
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD27.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD27.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#F3EFE2",
+        "rgb": [
+          243,
+          239,
+          226
+        ],
+        "percent": 62.0499,
+        "pixel_count": 82249
+      },
+      {
+        "rank": 2,
+        "hex": "#72A8B8",
+        "rgb": [
+          114,
+          168,
+          184
+        ],
+        "percent": 15.4444,
+        "pixel_count": 20472
+      },
+      {
+        "rank": 3,
+        "hex": "#2F2F2E",
+        "rgb": [
+          47,
+          47,
+          46
+        ],
+        "percent": 11.065,
+        "pixel_count": 14667
+      },
+      {
+        "rank": 4,
+        "hex": "#19275C",
+        "rgb": [
+          25,
+          39,
+          92
+        ],
+        "percent": 5.1489,
+        "pixel_count": 6825
+      },
+      {
+        "rank": 5,
+        "hex": "#D96E5C",
+        "rgb": [
+          217,
+          110,
+          92
+        ],
+        "percent": 3.9992,
+        "pixel_count": 5301
+      },
+      {
+        "rank": 6,
+        "hex": "#F4E375",
+        "rgb": [
+          244,
+          227,
+          117
+        ],
+        "percent": 2.2927,
+        "pixel_count": 3039
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F8F4E7",
+        "rgb": [
+          248,
+          244,
+          231
+        ],
+        "percent": 59.0,
+        "pixel_count": 78352
+      },
+      {
+        "rank": 2,
+        "hex": "#77AFC0",
+        "rgb": [
+          119,
+          175,
+          192
+        ],
+        "percent": 13.9119,
+        "pixel_count": 18475
+      },
+      {
+        "rank": 3,
+        "hex": "#2F2F2E",
+        "rgb": [
+          47,
+          47,
+          46
+        ],
+        "percent": 11.0444,
+        "pixel_count": 14667
+      },
+      {
+        "rank": 4,
+        "hex": "#19275C",
+        "rgb": [
+          25,
+          39,
+          92
+        ],
+        "percent": 5.1393,
+        "pixel_count": 6825
+      },
+      {
+        "rank": 5,
+        "hex": "#8D8975",
+        "rgb": [
+          141,
+          137,
+          117
+        ],
+        "percent": 2.9345,
+        "pixel_count": 3897
+      },
+      {
+        "rank": 6,
+        "hex": "#F4E375",
+        "rgb": [
+          244,
+          227,
+          117
+        ],
+        "percent": 2.2884,
+        "pixel_count": 3039
+      },
+      {
+        "rank": 7,
+        "hex": "#CE8C6F",
+        "rgb": [
+          206,
+          140,
+          111
+        ],
+        "percent": 2.0459,
+        "pixel_count": 2717
+      },
+      {
+        "rank": 8,
+        "hex": "#E54E48",
+        "rgb": [
+          229,
+          78,
+          72
+        ],
+        "percent": 1.9458,
+        "pixel_count": 2584
+      },
+      {
+        "rank": 9,
+        "hex": "#47666C",
+        "rgb": [
+          71,
+          102,
+          108
+        ],
+        "percent": 1.5038,
+        "pixel_count": 1997
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#F3EFE2",
+          "rgb": [
+            243,
+            239,
+            226
+          ],
+          "percent": 62.0499,
+          "pixel_count": 82249
+        },
+        {
+          "rank": 2,
+          "hex": "#72A8B8",
+          "rgb": [
+            114,
+            168,
+            184
+          ],
+          "percent": 15.4444,
+          "pixel_count": 20472
+        },
+        {
+          "rank": 3,
+          "hex": "#2F2F2E",
+          "rgb": [
+            47,
+            47,
+            46
+          ],
+          "percent": 11.065,
+          "pixel_count": 14667
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#19275C",
+          "rgb": [
+            25,
+            39,
+            92
+          ],
+          "percent": 5.1489,
+          "pixel_count": 6825
+        },
+        {
+          "rank": 2,
+          "hex": "#D96E5C",
+          "rgb": [
+            217,
+            110,
+            92
+          ],
+          "percent": 3.9992,
+          "pixel_count": 5301
+        },
+        {
+          "rank": 3,
+          "hex": "#F4E375",
+          "rgb": [
+            244,
+            227,
+            117
+          ],
+          "percent": 2.2927,
+          "pixel_count": 3039
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD28.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD28.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A7C2D5",
+        "rgb": [
+          167,
+          194,
+          213
+        ],
+        "percent": 34.0772,
+        "pixel_count": 68028
+      },
+      {
+        "rank": 2,
+        "hex": "#85898B",
+        "rgb": [
+          133,
+          137,
+          139
+        ],
+        "percent": 25.3515,
+        "pixel_count": 50609
+      },
+      {
+        "rank": 3,
+        "hex": "#3D7F6C",
+        "rgb": [
+          61,
+          127,
+          108
+        ],
+        "percent": 8.7973,
+        "pixel_count": 17562
+      },
+      {
+        "rank": 4,
+        "hex": "#2F2A3B",
+        "rgb": [
+          47,
+          42,
+          59
+        ],
+        "percent": 7.9993,
+        "pixel_count": 15969
+      },
+      {
+        "rank": 5,
+        "hex": "#D2D9AB",
+        "rgb": [
+          210,
+          217,
+          171
+        ],
+        "percent": 7.9147,
+        "pixel_count": 15800
+      },
+      {
+        "rank": 6,
+        "hex": "#634243",
+        "rgb": [
+          99,
+          66,
+          67
+        ],
+        "percent": 5.4857,
+        "pixel_count": 10951
+      },
+      {
+        "rank": 7,
+        "hex": "#E6CC66",
+        "rgb": [
+          230,
+          204,
+          102
+        ],
+        "percent": 5.0013,
+        "pixel_count": 9984
+      },
+      {
+        "rank": 8,
+        "hex": "#B6835C",
+        "rgb": [
+          182,
+          131,
+          92
+        ],
+        "percent": 4.7643,
+        "pixel_count": 9511
+      },
+      {
+        "rank": 9,
+        "hex": "#B03444",
+        "rgb": [
+          176,
+          52,
+          68
+        ],
+        "percent": 0.6086,
+        "pixel_count": 1215
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#767C86",
+        "rgb": [
+          118,
+          124,
+          134
+        ],
+        "percent": 18.7002,
+        "pixel_count": 37331
+      },
+      {
+        "rank": 2,
+        "hex": "#C8D9DF",
+        "rgb": [
+          200,
+          217,
+          223
+        ],
+        "percent": 18.5444,
+        "pixel_count": 37020
+      },
+      {
+        "rank": 3,
+        "hex": "#80A7CA",
+        "rgb": [
+          128,
+          167,
+          202
+        ],
+        "percent": 15.5328,
+        "pixel_count": 31008
+      },
+      {
+        "rank": 4,
+        "hex": "#3D7F6C",
+        "rgb": [
+          61,
+          127,
+          108
+        ],
+        "percent": 8.7973,
+        "pixel_count": 17562
+      },
+      {
+        "rank": 5,
+        "hex": "#2F2A3B",
+        "rgb": [
+          47,
+          42,
+          59
+        ],
+        "percent": 7.9993,
+        "pixel_count": 15969
+      },
+      {
+        "rank": 6,
+        "hex": "#D2D9AB",
+        "rgb": [
+          210,
+          217,
+          171
+        ],
+        "percent": 7.9147,
+        "pixel_count": 15800
+      },
+      {
+        "rank": 7,
+        "hex": "#AFAD98",
+        "rgb": [
+          175,
+          173,
+          152
+        ],
+        "percent": 6.6513,
+        "pixel_count": 13278
+      },
+      {
+        "rank": 8,
+        "hex": "#634243",
+        "rgb": [
+          99,
+          66,
+          67
+        ],
+        "percent": 5.4857,
+        "pixel_count": 10951
+      },
+      {
+        "rank": 9,
+        "hex": "#E6CC66",
+        "rgb": [
+          230,
+          204,
+          102
+        ],
+        "percent": 5.0013,
+        "pixel_count": 9984
+      },
+      {
+        "rank": 10,
+        "hex": "#B6835C",
+        "rgb": [
+          182,
+          131,
+          92
+        ],
+        "percent": 4.7643,
+        "pixel_count": 9511
+      },
+      {
+        "rank": 11,
+        "hex": "#B03444",
+        "rgb": [
+          176,
+          52,
+          68
+        ],
+        "percent": 0.6086,
+        "pixel_count": 1215
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A7C2D5",
+          "rgb": [
+            167,
+            194,
+            213
+          ],
+          "percent": 34.0772,
+          "pixel_count": 68028
+        },
+        {
+          "rank": 2,
+          "hex": "#85898B",
+          "rgb": [
+            133,
+            137,
+            139
+          ],
+          "percent": 25.3515,
+          "pixel_count": 50609
+        },
+        {
+          "rank": 3,
+          "hex": "#3D7F6C",
+          "rgb": [
+            61,
+            127,
+            108
+          ],
+          "percent": 8.7973,
+          "pixel_count": 17562
+        },
+        {
+          "rank": 4,
+          "hex": "#2F2A3B",
+          "rgb": [
+            47,
+            42,
+            59
+          ],
+          "percent": 7.9993,
+          "pixel_count": 15969
+        },
+        {
+          "rank": 5,
+          "hex": "#D2D9AB",
+          "rgb": [
+            210,
+            217,
+            171
+          ],
+          "percent": 7.9147,
+          "pixel_count": 15800
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#634243",
+          "rgb": [
+            99,
+            66,
+            67
+          ],
+          "percent": 5.4857,
+          "pixel_count": 10951
+        },
+        {
+          "rank": 2,
+          "hex": "#E6CC66",
+          "rgb": [
+            230,
+            204,
+            102
+          ],
+          "percent": 5.0013,
+          "pixel_count": 9984
+        },
+        {
+          "rank": 3,
+          "hex": "#B6835C",
+          "rgb": [
+            182,
+            131,
+            92
+          ],
+          "percent": 4.7643,
+          "pixel_count": 9511
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD29.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD29.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#F8F9F7",
+        "rgb": [
+          248,
+          249,
+          247
+        ],
+        "percent": 45.8483,
+        "pixel_count": 91317
+      },
+      {
+        "rank": 2,
+        "hex": "#677B8B",
+        "rgb": [
+          103,
+          123,
+          139
+        ],
+        "percent": 28.2394,
+        "pixel_count": 56245
+      },
+      {
+        "rank": 3,
+        "hex": "#DCB36F",
+        "rgb": [
+          220,
+          179,
+          111
+        ],
+        "percent": 13.0626,
+        "pixel_count": 26017
+      },
+      {
+        "rank": 4,
+        "hex": "#BF4859",
+        "rgb": [
+          191,
+          72,
+          89
+        ],
+        "percent": 8.5203,
+        "pixel_count": 16970
+      },
+      {
+        "rank": 5,
+        "hex": "#906F87",
+        "rgb": [
+          144,
+          111,
+          135
+        ],
+        "percent": 2.0831,
+        "pixel_count": 4149
+      },
+      {
+        "rank": 6,
+        "hex": "#2E7B95",
+        "rgb": [
+          46,
+          123,
+          149
+        ],
+        "percent": 1.3867,
+        "pixel_count": 2762
+      },
+      {
+        "rank": 7,
+        "hex": "#2A171F",
+        "rgb": [
+          42,
+          23,
+          31
+        ],
+        "percent": 0.8596,
+        "pixel_count": 1712
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F8F9F7",
+        "rgb": [
+          248,
+          249,
+          247
+        ],
+        "percent": 45.7021,
+        "pixel_count": 91317
+      },
+      {
+        "rank": 2,
+        "hex": "#677B8B",
+        "rgb": [
+          103,
+          123,
+          139
+        ],
+        "percent": 28.1494,
+        "pixel_count": 56245
+      },
+      {
+        "rank": 3,
+        "hex": "#DEB36D",
+        "rgb": [
+          222,
+          179,
+          109
+        ],
+        "percent": 12.4013,
+        "pixel_count": 24779
+      },
+      {
+        "rank": 4,
+        "hex": "#BF4859",
+        "rgb": [
+          191,
+          72,
+          89
+        ],
+        "percent": 8.4931,
+        "pixel_count": 16970
+      },
+      {
+        "rank": 5,
+        "hex": "#906F87",
+        "rgb": [
+          144,
+          111,
+          135
+        ],
+        "percent": 2.0765,
+        "pixel_count": 4149
+      },
+      {
+        "rank": 6,
+        "hex": "#2E7B95",
+        "rgb": [
+          46,
+          123,
+          149
+        ],
+        "percent": 1.3823,
+        "pixel_count": 2762
+      },
+      {
+        "rank": 7,
+        "hex": "#2A171F",
+        "rgb": [
+          42,
+          23,
+          31
+        ],
+        "percent": 0.8568,
+        "pixel_count": 1712
+      },
+      {
+        "rank": 8,
+        "hex": "#BCAA8E",
+        "rgb": [
+          188,
+          170,
+          142
+        ],
+        "percent": 0.6196,
+        "pixel_count": 1238
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#F8F9F7",
+          "rgb": [
+            248,
+            249,
+            247
+          ],
+          "percent": 45.8483,
+          "pixel_count": 91317
+        },
+        {
+          "rank": 2,
+          "hex": "#677B8B",
+          "rgb": [
+            103,
+            123,
+            139
+          ],
+          "percent": 28.2394,
+          "pixel_count": 56245
+        },
+        {
+          "rank": 3,
+          "hex": "#DCB36F",
+          "rgb": [
+            220,
+            179,
+            111
+          ],
+          "percent": 13.0626,
+          "pixel_count": 26017
+        },
+        {
+          "rank": 4,
+          "hex": "#BF4859",
+          "rgb": [
+            191,
+            72,
+            89
+          ],
+          "percent": 8.5203,
+          "pixel_count": 16970
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#906F87",
+          "rgb": [
+            144,
+            111,
+            135
+          ],
+          "percent": 2.0831,
+          "pixel_count": 4149
+        },
+        {
+          "rank": 2,
+          "hex": "#2E7B95",
+          "rgb": [
+            46,
+            123,
+            149
+          ],
+          "percent": 1.3867,
+          "pixel_count": 2762
+        },
+        {
+          "rank": 3,
+          "hex": "#2A171F",
+          "rgb": [
+            42,
+            23,
+            31
+          ],
+          "percent": 0.8596,
+          "pixel_count": 1712
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD3.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD3.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C7A583",
+        "rgb": [
+          199,
+          165,
+          131
+        ],
+        "percent": 76.5484,
+        "pixel_count": 152959
+      },
+      {
+        "rank": 2,
+        "hex": "#7A4C46",
+        "rgb": [
+          122,
+          76,
+          70
+        ],
+        "percent": 16.099,
+        "pixel_count": 32169
+      },
+      {
+        "rank": 3,
+        "hex": "#424F47",
+        "rgb": [
+          66,
+          79,
+          71
+        ],
+        "percent": 7.3526,
+        "pixel_count": 14692
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C9A077",
+        "rgb": [
+          201,
+          160,
+          119
+        ],
+        "percent": 42.1444,
+        "pixel_count": 84213
+      },
+      {
+        "rank": 2,
+        "hex": "#C5AB92",
+        "rgb": [
+          197,
+          171,
+          146
+        ],
+        "percent": 34.404,
+        "pixel_count": 68746
+      },
+      {
+        "rank": 3,
+        "hex": "#7A4C46",
+        "rgb": [
+          122,
+          76,
+          70
+        ],
+        "percent": 16.099,
+        "pixel_count": 32169
+      },
+      {
+        "rank": 4,
+        "hex": "#424F47",
+        "rgb": [
+          66,
+          79,
+          71
+        ],
+        "percent": 7.3526,
+        "pixel_count": 14692
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C7A583",
+          "rgb": [
+            199,
+            165,
+            131
+          ],
+          "percent": 76.5484,
+          "pixel_count": 152959
+        },
+        {
+          "rank": 2,
+          "hex": "#7A4C46",
+          "rgb": [
+            122,
+            76,
+            70
+          ],
+          "percent": 16.099,
+          "pixel_count": 32169
+        },
+        {
+          "rank": 3,
+          "hex": "#424F47",
+          "rgb": [
+            66,
+            79,
+            71
+          ],
+          "percent": 7.3526,
+          "pixel_count": 14692
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD30.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD30.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#E7DC59",
+        "rgb": [
+          231,
+          220,
+          89
+        ],
+        "percent": 57.7763,
+        "pixel_count": 102799
+      },
+      {
+        "rank": 2,
+        "hex": "#1C3F52",
+        "rgb": [
+          28,
+          63,
+          82
+        ],
+        "percent": 23.0467,
+        "pixel_count": 41006
+      },
+      {
+        "rank": 3,
+        "hex": "#AD3430",
+        "rgb": [
+          173,
+          52,
+          48
+        ],
+        "percent": 9.4112,
+        "pixel_count": 16745
+      },
+      {
+        "rank": 4,
+        "hex": "#3F7448",
+        "rgb": [
+          63,
+          116,
+          72
+        ],
+        "percent": 6.9518,
+        "pixel_count": 12369
+      },
+      {
+        "rank": 5,
+        "hex": "#4D4314",
+        "rgb": [
+          77,
+          67,
+          20
+        ],
+        "percent": 1.8362,
+        "pixel_count": 3267
+      },
+      {
+        "rank": 6,
+        "hex": "#AB6137",
+        "rgb": [
+          171,
+          97,
+          55
+        ],
+        "percent": 0.9779,
+        "pixel_count": 1740
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E7DB59",
+        "rgb": [
+          231,
+          219,
+          89
+        ],
+        "percent": 27.9594,
+        "pixel_count": 49747
+      },
+      {
+        "rank": 2,
+        "hex": "#F9F14E",
+        "rgb": [
+          249,
+          241,
+          78
+        ],
+        "percent": 19.3878,
+        "pixel_count": 34496
+      },
+      {
+        "rank": 3,
+        "hex": "#122B3E",
+        "rgb": [
+          18,
+          43,
+          62
+        ],
+        "percent": 15.8358,
+        "pixel_count": 28176
+      },
+      {
+        "rank": 4,
+        "hex": "#B73733",
+        "rgb": [
+          183,
+          55,
+          51
+        ],
+        "percent": 8.2512,
+        "pixel_count": 14681
+      },
+      {
+        "rank": 5,
+        "hex": "#B5A963",
+        "rgb": [
+          181,
+          169,
+          99
+        ],
+        "percent": 6.6084,
+        "pixel_count": 11758
+      },
+      {
+        "rank": 6,
+        "hex": "#417A4B",
+        "rgb": [
+          65,
+          122,
+          75
+        ],
+        "percent": 6.3414,
+        "pixel_count": 11283
+      },
+      {
+        "rank": 7,
+        "hex": "#357188",
+        "rgb": [
+          53,
+          113,
+          136
+        ],
+        "percent": 5.9306,
+        "pixel_count": 10552
+      },
+      {
+        "rank": 8,
+        "hex": "#F1F0A7",
+        "rgb": [
+          241,
+          240,
+          167
+        ],
+        "percent": 2.1644,
+        "pixel_count": 3851
+      },
+      {
+        "rank": 9,
+        "hex": "#4D4314",
+        "rgb": [
+          77,
+          67,
+          20
+        ],
+        "percent": 1.8362,
+        "pixel_count": 3267
+      },
+      {
+        "rank": 10,
+        "hex": "#DDB14B",
+        "rgb": [
+          221,
+          177,
+          75
+        ],
+        "percent": 1.6563,
+        "pixel_count": 2947
+      },
+      {
+        "rank": 11,
+        "hex": "#244E55",
+        "rgb": [
+          36,
+          78,
+          85
+        ],
+        "percent": 1.2803,
+        "pixel_count": 2278
+      },
+      {
+        "rank": 12,
+        "hex": "#661F19",
+        "rgb": [
+          102,
+          31,
+          25
+        ],
+        "percent": 1.16,
+        "pixel_count": 2064
+      },
+      {
+        "rank": 13,
+        "hex": "#AB6137",
+        "rgb": [
+          171,
+          97,
+          55
+        ],
+        "percent": 0.9779,
+        "pixel_count": 1740
+      },
+      {
+        "rank": 14,
+        "hex": "#283027",
+        "rgb": [
+          40,
+          48,
+          39
+        ],
+        "percent": 0.6104,
+        "pixel_count": 1086
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#E7DC59",
+          "rgb": [
+            231,
+            220,
+            89
+          ],
+          "percent": 57.7763,
+          "pixel_count": 102799
+        },
+        {
+          "rank": 2,
+          "hex": "#1C3F52",
+          "rgb": [
+            28,
+            63,
+            82
+          ],
+          "percent": 23.0467,
+          "pixel_count": 41006
+        },
+        {
+          "rank": 3,
+          "hex": "#AD3430",
+          "rgb": [
+            173,
+            52,
+            48
+          ],
+          "percent": 9.4112,
+          "pixel_count": 16745
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#3F7448",
+          "rgb": [
+            63,
+            116,
+            72
+          ],
+          "percent": 6.9518,
+          "pixel_count": 12369
+        },
+        {
+          "rank": 2,
+          "hex": "#4D4314",
+          "rgb": [
+            77,
+            67,
+            20
+          ],
+          "percent": 1.8362,
+          "pixel_count": 3267
+        },
+        {
+          "rank": 3,
+          "hex": "#AB6137",
+          "rgb": [
+            171,
+            97,
+            55
+          ],
+          "percent": 0.9779,
+          "pixel_count": 1740
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD31.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD31.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#EEDDD5",
+        "rgb": [
+          238,
+          221,
+          213
+        ],
+        "percent": 44.4941,
+        "pixel_count": 88674
+      },
+      {
+        "rank": 2,
+        "hex": "#E37482",
+        "rgb": [
+          227,
+          116,
+          130
+        ],
+        "percent": 29.9703,
+        "pixel_count": 59729
+      },
+      {
+        "rank": 3,
+        "hex": "#443643",
+        "rgb": [
+          68,
+          54,
+          67
+        ],
+        "percent": 13.5122,
+        "pixel_count": 26929
+      },
+      {
+        "rank": 4,
+        "hex": "#8CB5D7",
+        "rgb": [
+          140,
+          181,
+          215
+        ],
+        "percent": 9.624,
+        "pixel_count": 19180
+      },
+      {
+        "rank": 5,
+        "hex": "#FCDC7C",
+        "rgb": [
+          252,
+          220,
+          124
+        ],
+        "percent": 2.3995,
+        "pixel_count": 4782
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E37482",
+        "rgb": [
+          227,
+          116,
+          130
+        ],
+        "percent": 29.9703,
+        "pixel_count": 59729
+      },
+      {
+        "rank": 2,
+        "hex": "#ECE5E2",
+        "rgb": [
+          236,
+          229,
+          226
+        ],
+        "percent": 25.6475,
+        "pixel_count": 51114
+      },
+      {
+        "rank": 3,
+        "hex": "#F0D2C3",
+        "rgb": [
+          240,
+          210,
+          195
+        ],
+        "percent": 18.8465,
+        "pixel_count": 37560
+      },
+      {
+        "rank": 4,
+        "hex": "#8CB5D7",
+        "rgb": [
+          140,
+          181,
+          215
+        ],
+        "percent": 9.624,
+        "pixel_count": 19180
+      },
+      {
+        "rank": 5,
+        "hex": "#765E74",
+        "rgb": [
+          118,
+          94,
+          116
+        ],
+        "percent": 7.4403,
+        "pixel_count": 14828
+      },
+      {
+        "rank": 6,
+        "hex": "#070507",
+        "rgb": [
+          7,
+          5,
+          7
+        ],
+        "percent": 6.0719,
+        "pixel_count": 12101
+      },
+      {
+        "rank": 7,
+        "hex": "#FCDC7C",
+        "rgb": [
+          252,
+          220,
+          124
+        ],
+        "percent": 2.3995,
+        "pixel_count": 4782
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#EEDDD5",
+          "rgb": [
+            238,
+            221,
+            213
+          ],
+          "percent": 44.4941,
+          "pixel_count": 88674
+        },
+        {
+          "rank": 2,
+          "hex": "#E37482",
+          "rgb": [
+            227,
+            116,
+            130
+          ],
+          "percent": 29.9703,
+          "pixel_count": 59729
+        },
+        {
+          "rank": 3,
+          "hex": "#443643",
+          "rgb": [
+            68,
+            54,
+            67
+          ],
+          "percent": 13.5122,
+          "pixel_count": 26929
+        },
+        {
+          "rank": 4,
+          "hex": "#8CB5D7",
+          "rgb": [
+            140,
+            181,
+            215
+          ],
+          "percent": 9.624,
+          "pixel_count": 19180
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#FCDC7C",
+          "rgb": [
+            252,
+            220,
+            124
+          ],
+          "percent": 2.3995,
+          "pixel_count": 4782
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD32.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD32.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C42F3D",
+        "rgb": [
+          196,
+          47,
+          61
+        ],
+        "percent": 56.0976,
+        "pixel_count": 111821
+      },
+      {
+        "rank": 2,
+        "hex": "#244043",
+        "rgb": [
+          36,
+          64,
+          67
+        ],
+        "percent": 23.4176,
+        "pixel_count": 46679
+      },
+      {
+        "rank": 3,
+        "hex": "#B4CAC3",
+        "rgb": [
+          180,
+          202,
+          195
+        ],
+        "percent": 19.2838,
+        "pixel_count": 38439
+      },
+      {
+        "rank": 4,
+        "hex": "#321E25",
+        "rgb": [
+          50,
+          30,
+          37
+        ],
+        "percent": 1.201,
+        "pixel_count": 2394
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C62F3D",
+        "rgb": [
+          198,
+          47,
+          61
+        ],
+        "percent": 54.6505,
+        "pixel_count": 109113
+      },
+      {
+        "rank": 2,
+        "hex": "#244043",
+        "rgb": [
+          36,
+          64,
+          67
+        ],
+        "percent": 23.3797,
+        "pixel_count": 46679
+      },
+      {
+        "rank": 3,
+        "hex": "#B4CAC3",
+        "rgb": [
+          180,
+          202,
+          195
+        ],
+        "percent": 19.2526,
+        "pixel_count": 38439
+      },
+      {
+        "rank": 4,
+        "hex": "#763138",
+        "rgb": [
+          118,
+          49,
+          56
+        ],
+        "percent": 1.3563,
+        "pixel_count": 2708
+      },
+      {
+        "rank": 5,
+        "hex": "#321E25",
+        "rgb": [
+          50,
+          30,
+          37
+        ],
+        "percent": 1.1991,
+        "pixel_count": 2394
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C42F3D",
+          "rgb": [
+            196,
+            47,
+            61
+          ],
+          "percent": 56.0976,
+          "pixel_count": 111821
+        },
+        {
+          "rank": 2,
+          "hex": "#244043",
+          "rgb": [
+            36,
+            64,
+            67
+          ],
+          "percent": 23.4176,
+          "pixel_count": 46679
+        },
+        {
+          "rank": 3,
+          "hex": "#B4CAC3",
+          "rgb": [
+            180,
+            202,
+            195
+          ],
+          "percent": 19.2838,
+          "pixel_count": 38439
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#321E25",
+          "rgb": [
+            50,
+            30,
+            37
+          ],
+          "percent": 1.201,
+          "pixel_count": 2394
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD33.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD33.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CEB18F",
+        "rgb": [
+          206,
+          177,
+          143
+        ],
+        "percent": 49.5081,
+        "pixel_count": 98840
+      },
+      {
+        "rank": 2,
+        "hex": "#CD291E",
+        "rgb": [
+          205,
+          41,
+          30
+        ],
+        "percent": 32.2514,
+        "pixel_count": 64388
+      },
+      {
+        "rank": 3,
+        "hex": "#311C14",
+        "rgb": [
+          49,
+          28,
+          20
+        ],
+        "percent": 18.2405,
+        "pixel_count": 36416
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#CE281D",
+        "rgb": [
+          206,
+          40,
+          29
+        ],
+        "percent": 31.0938,
+        "pixel_count": 62077
+      },
+      {
+        "rank": 2,
+        "hex": "#ECDEC1",
+        "rgb": [
+          236,
+          222,
+          193
+        ],
+        "percent": 17.0173,
+        "pixel_count": 33974
+      },
+      {
+        "rank": 3,
+        "hex": "#DEBF95",
+        "rgb": [
+          222,
+          191,
+          149
+        ],
+        "percent": 16.5695,
+        "pixel_count": 33080
+      },
+      {
+        "rank": 4,
+        "hex": "#9D7352",
+        "rgb": [
+          157,
+          115,
+          82
+        ],
+        "percent": 15.9213,
+        "pixel_count": 31786
+      },
+      {
+        "rank": 5,
+        "hex": "#261B14",
+        "rgb": [
+          38,
+          27,
+          20
+        ],
+        "percent": 14.2759,
+        "pixel_count": 28501
+      },
+      {
+        "rank": 6,
+        "hex": "#5A2115",
+        "rgb": [
+          90,
+          33,
+          21
+        ],
+        "percent": 3.9646,
+        "pixel_count": 7915
+      },
+      {
+        "rank": 7,
+        "hex": "#94382A",
+        "rgb": [
+          148,
+          56,
+          42
+        ],
+        "percent": 0.5795,
+        "pixel_count": 1157
+      },
+      {
+        "rank": 8,
+        "hex": "#CA6149",
+        "rgb": [
+          202,
+          97,
+          73
+        ],
+        "percent": 0.578,
+        "pixel_count": 1154
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CEB18F",
+          "rgb": [
+            206,
+            177,
+            143
+          ],
+          "percent": 49.5081,
+          "pixel_count": 98840
+        },
+        {
+          "rank": 2,
+          "hex": "#CD291E",
+          "rgb": [
+            205,
+            41,
+            30
+          ],
+          "percent": 32.2514,
+          "pixel_count": 64388
+        },
+        {
+          "rank": 3,
+          "hex": "#311C14",
+          "rgb": [
+            49,
+            28,
+            20
+          ],
+          "percent": 18.2405,
+          "pixel_count": 36416
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD34.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD34.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#327462",
+        "rgb": [
+          50,
+          116,
+          98
+        ],
+        "percent": 50.5483,
+        "pixel_count": 100810
+      },
+      {
+        "rank": 2,
+        "hex": "#F1EAC6",
+        "rgb": [
+          241,
+          234,
+          198
+        ],
+        "percent": 21.3074,
+        "pixel_count": 42494
+      },
+      {
+        "rank": 3,
+        "hex": "#8B5B3F",
+        "rgb": [
+          139,
+          91,
+          63
+        ],
+        "percent": 16.418,
+        "pixel_count": 32743
+      },
+      {
+        "rank": 4,
+        "hex": "#16211A",
+        "rgb": [
+          22,
+          33,
+          26
+        ],
+        "percent": 9.699,
+        "pixel_count": 19343
+      },
+      {
+        "rank": 5,
+        "hex": "#8EAF96",
+        "rgb": [
+          142,
+          175,
+          150
+        ],
+        "percent": 2.0272,
+        "pixel_count": 4043
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#327462",
+        "rgb": [
+          50,
+          116,
+          98
+        ],
+        "percent": 50.5483,
+        "pixel_count": 100810
+      },
+      {
+        "rank": 2,
+        "hex": "#F1EBCA",
+        "rgb": [
+          241,
+          235,
+          202
+        ],
+        "percent": 19.8262,
+        "pixel_count": 39540
+      },
+      {
+        "rank": 3,
+        "hex": "#16211A",
+        "rgb": [
+          22,
+          33,
+          26
+        ],
+        "percent": 9.699,
+        "pixel_count": 19343
+      },
+      {
+        "rank": 4,
+        "hex": "#A57C55",
+        "rgb": [
+          165,
+          124,
+          85
+        ],
+        "percent": 7.9576,
+        "pixel_count": 15870
+      },
+      {
+        "rank": 5,
+        "hex": "#6A3929",
+        "rgb": [
+          106,
+          57,
+          41
+        ],
+        "percent": 7.7424,
+        "pixel_count": 15441
+      },
+      {
+        "rank": 6,
+        "hex": "#8EAF96",
+        "rgb": [
+          142,
+          175,
+          150
+        ],
+        "percent": 2.0272,
+        "pixel_count": 4043
+      },
+      {
+        "rank": 7,
+        "hex": "#F2E295",
+        "rgb": [
+          242,
+          226,
+          149
+        ],
+        "percent": 1.4812,
+        "pixel_count": 2954
+      },
+      {
+        "rank": 8,
+        "hex": "#CF5A42",
+        "rgb": [
+          207,
+          90,
+          66
+        ],
+        "percent": 0.718,
+        "pixel_count": 1432
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#327462",
+          "rgb": [
+            50,
+            116,
+            98
+          ],
+          "percent": 50.5483,
+          "pixel_count": 100810
+        },
+        {
+          "rank": 2,
+          "hex": "#F1EAC6",
+          "rgb": [
+            241,
+            234,
+            198
+          ],
+          "percent": 21.3074,
+          "pixel_count": 42494
+        },
+        {
+          "rank": 3,
+          "hex": "#8B5B3F",
+          "rgb": [
+            139,
+            91,
+            63
+          ],
+          "percent": 16.418,
+          "pixel_count": 32743
+        },
+        {
+          "rank": 4,
+          "hex": "#16211A",
+          "rgb": [
+            22,
+            33,
+            26
+          ],
+          "percent": 9.699,
+          "pixel_count": 19343
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#8EAF96",
+          "rgb": [
+            142,
+            175,
+            150
+          ],
+          "percent": 2.0272,
+          "pixel_count": 4043
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD35.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD35.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8A3D1E",
+        "rgb": [
+          138,
+          61,
+          30
+        ],
+        "percent": 71.3909,
+        "pixel_count": 92070
+      },
+      {
+        "rank": 2,
+        "hex": "#BB9B70",
+        "rgb": [
+          187,
+          155,
+          112
+        ],
+        "percent": 26.6,
+        "pixel_count": 34305
+      },
+      {
+        "rank": 3,
+        "hex": "#1B1406",
+        "rgb": [
+          27,
+          20,
+          6
+        ],
+        "percent": 2.0091,
+        "pixel_count": 2591
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A34023",
+        "rgb": [
+          163,
+          64,
+          35
+        ],
+        "percent": 36.6852,
+        "pixel_count": 47456
+      },
+      {
+        "rank": 2,
+        "hex": "#6F3A18",
+        "rgb": [
+          111,
+          58,
+          24
+        ],
+        "percent": 34.4882,
+        "pixel_count": 44614
+      },
+      {
+        "rank": 3,
+        "hex": "#C2A57B",
+        "rgb": [
+          194,
+          165,
+          123
+        ],
+        "percent": 21.7393,
+        "pixel_count": 28122
+      },
+      {
+        "rank": 4,
+        "hex": "#A27041",
+        "rgb": [
+          162,
+          112,
+          65
+        ],
+        "percent": 4.1473,
+        "pixel_count": 5365
+      },
+      {
+        "rank": 5,
+        "hex": "#1B1406",
+        "rgb": [
+          27,
+          20,
+          6
+        ],
+        "percent": 2.0029,
+        "pixel_count": 2591
+      },
+      {
+        "rank": 6,
+        "hex": "#635932",
+        "rgb": [
+          99,
+          89,
+          50
+        ],
+        "percent": 0.6323,
+        "pixel_count": 818
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8A3D1E",
+          "rgb": [
+            138,
+            61,
+            30
+          ],
+          "percent": 71.3909,
+          "pixel_count": 92070
+        },
+        {
+          "rank": 2,
+          "hex": "#BB9B70",
+          "rgb": [
+            187,
+            155,
+            112
+          ],
+          "percent": 26.6,
+          "pixel_count": 34305
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#1B1406",
+          "rgb": [
+            27,
+            20,
+            6
+          ],
+          "percent": 2.0091,
+          "pixel_count": 2591
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD36.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD36.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#ECD0C8",
+        "rgb": [
+          236,
+          208,
+          200
+        ],
+        "percent": 84.895,
+        "pixel_count": 169340
+      },
+      {
+        "rank": 2,
+        "hex": "#DC4D41",
+        "rgb": [
+          220,
+          77,
+          65
+        ],
+        "percent": 12.9704,
+        "pixel_count": 25872
+      },
+      {
+        "rank": 3,
+        "hex": "#514640",
+        "rgb": [
+          81,
+          70,
+          64
+        ],
+        "percent": 2.1347,
+        "pixel_count": 4258
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F7D9D0",
+        "rgb": [
+          247,
+          217,
+          208
+        ],
+        "percent": 76.3834,
+        "pixel_count": 152362
+      },
+      {
+        "rank": 2,
+        "hex": "#8D807C",
+        "rgb": [
+          141,
+          128,
+          124
+        ],
+        "percent": 8.5116,
+        "pixel_count": 16978
+      },
+      {
+        "rank": 3,
+        "hex": "#EA3131",
+        "rgb": [
+          234,
+          49,
+          49
+        ],
+        "percent": 6.7063,
+        "pixel_count": 13377
+      },
+      {
+        "rank": 4,
+        "hex": "#DE795D",
+        "rgb": [
+          222,
+          121,
+          93
+        ],
+        "percent": 4.7696,
+        "pixel_count": 9514
+      },
+      {
+        "rank": 5,
+        "hex": "#514640",
+        "rgb": [
+          81,
+          70,
+          64
+        ],
+        "percent": 2.1347,
+        "pixel_count": 4258
+      },
+      {
+        "rank": 6,
+        "hex": "#95412F",
+        "rgb": [
+          149,
+          65,
+          47
+        ],
+        "percent": 1.4945,
+        "pixel_count": 2981
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#ECD0C8",
+          "rgb": [
+            236,
+            208,
+            200
+          ],
+          "percent": 84.895,
+          "pixel_count": 169340
+        },
+        {
+          "rank": 2,
+          "hex": "#DC4D41",
+          "rgb": [
+            220,
+            77,
+            65
+          ],
+          "percent": 12.9704,
+          "pixel_count": 25872
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#514640",
+          "rgb": [
+            81,
+            70,
+            64
+          ],
+          "percent": 2.1347,
+          "pixel_count": 4258
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD37.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD37.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#F3EFEB",
+        "rgb": [
+          243,
+          239,
+          235
+        ],
+        "percent": 29.1331,
+        "pixel_count": 57468
+      },
+      {
+        "rank": 2,
+        "hex": "#7996BD",
+        "rgb": [
+          121,
+          150,
+          189
+        ],
+        "percent": 20.8441,
+        "pixel_count": 41117
+      },
+      {
+        "rank": 3,
+        "hex": "#F4BB30",
+        "rgb": [
+          244,
+          187,
+          48
+        ],
+        "percent": 14.7339,
+        "pixel_count": 29064
+      },
+      {
+        "rank": 4,
+        "hex": "#C92B23",
+        "rgb": [
+          201,
+          43,
+          35
+        ],
+        "percent": 12.4202,
+        "pixel_count": 24500
+      },
+      {
+        "rank": 5,
+        "hex": "#69703C",
+        "rgb": [
+          105,
+          112,
+          60
+        ],
+        "percent": 8.1055,
+        "pixel_count": 15989
+      },
+      {
+        "rank": 6,
+        "hex": "#2E2D28",
+        "rgb": [
+          46,
+          45,
+          40
+        ],
+        "percent": 7.8617,
+        "pixel_count": 15508
+      },
+      {
+        "rank": 7,
+        "hex": "#E29A69",
+        "rgb": [
+          226,
+          154,
+          105
+        ],
+        "percent": 5.4451,
+        "pixel_count": 10741
+      },
+      {
+        "rank": 8,
+        "hex": "#5F3823",
+        "rgb": [
+          95,
+          56,
+          35
+        ],
+        "percent": 1.4565,
+        "pixel_count": 2873
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#F3EFEB",
+        "rgb": [
+          243,
+          239,
+          235
+        ],
+        "percent": 28.7852,
+        "pixel_count": 57468
+      },
+      {
+        "rank": 2,
+        "hex": "#7292BF",
+        "rgb": [
+          114,
+          146,
+          191
+        ],
+        "percent": 17.4526,
+        "pixel_count": 34843
+      },
+      {
+        "rank": 3,
+        "hex": "#F5C031",
+        "rgb": [
+          245,
+          192,
+          49
+        ],
+        "percent": 13.3177,
+        "pixel_count": 26588
+      },
+      {
+        "rank": 4,
+        "hex": "#CA2A22",
+        "rgb": [
+          202,
+          42,
+          34
+        ],
+        "percent": 11.7439,
+        "pixel_count": 23446
+      },
+      {
+        "rank": 5,
+        "hex": "#69703C",
+        "rgb": [
+          105,
+          112,
+          60
+        ],
+        "percent": 8.0088,
+        "pixel_count": 15989
+      },
+      {
+        "rank": 6,
+        "hex": "#2E2D28",
+        "rgb": [
+          46,
+          45,
+          40
+        ],
+        "percent": 7.7678,
+        "pixel_count": 15508
+      },
+      {
+        "rank": 7,
+        "hex": "#E29A69",
+        "rgb": [
+          226,
+          154,
+          105
+        ],
+        "percent": 5.3801,
+        "pixel_count": 10741
+      },
+      {
+        "rank": 8,
+        "hex": "#A1AAAF",
+        "rgb": [
+          161,
+          170,
+          175
+        ],
+        "percent": 3.1426,
+        "pixel_count": 6274
+      },
+      {
+        "rank": 9,
+        "hex": "#5F3823",
+        "rgb": [
+          95,
+          56,
+          35
+        ],
+        "percent": 1.4391,
+        "pixel_count": 2873
+      },
+      {
+        "rank": 10,
+        "hex": "#E78123",
+        "rgb": [
+          231,
+          129,
+          35
+        ],
+        "percent": 1.2402,
+        "pixel_count": 2476
+      },
+      {
+        "rank": 11,
+        "hex": "#B24A3F",
+        "rgb": [
+          178,
+          74,
+          63
+        ],
+        "percent": 0.5279,
+        "pixel_count": 1054
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#F3EFEB",
+          "rgb": [
+            243,
+            239,
+            235
+          ],
+          "percent": 29.1331,
+          "pixel_count": 57468
+        },
+        {
+          "rank": 2,
+          "hex": "#7996BD",
+          "rgb": [
+            121,
+            150,
+            189
+          ],
+          "percent": 20.8441,
+          "pixel_count": 41117
+        },
+        {
+          "rank": 3,
+          "hex": "#F4BB30",
+          "rgb": [
+            244,
+            187,
+            48
+          ],
+          "percent": 14.7339,
+          "pixel_count": 29064
+        },
+        {
+          "rank": 4,
+          "hex": "#C92B23",
+          "rgb": [
+            201,
+            43,
+            35
+          ],
+          "percent": 12.4202,
+          "pixel_count": 24500
+        },
+        {
+          "rank": 5,
+          "hex": "#69703C",
+          "rgb": [
+            105,
+            112,
+            60
+          ],
+          "percent": 8.1055,
+          "pixel_count": 15989
+        },
+        {
+          "rank": 6,
+          "hex": "#2E2D28",
+          "rgb": [
+            46,
+            45,
+            40
+          ],
+          "percent": 7.8617,
+          "pixel_count": 15508
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#E29A69",
+          "rgb": [
+            226,
+            154,
+            105
+          ],
+          "percent": 5.4451,
+          "pixel_count": 10741
+        },
+        {
+          "rank": 2,
+          "hex": "#5F3823",
+          "rgb": [
+            95,
+            56,
+            35
+          ],
+          "percent": 1.4565,
+          "pixel_count": 2873
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD38.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD38.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CAF4F4",
+        "rgb": [
+          202,
+          244,
+          244
+        ],
+        "percent": 83.1759,
+        "pixel_count": 165619
+      },
+      {
+        "rank": 2,
+        "hex": "#E09B5F",
+        "rgb": [
+          224,
+          155,
+          95
+        ],
+        "percent": 8.2915,
+        "pixel_count": 16510
+      },
+      {
+        "rank": 3,
+        "hex": "#515B57",
+        "rgb": [
+          81,
+          91,
+          87
+        ],
+        "percent": 3.751,
+        "pixel_count": 7469
+      },
+      {
+        "rank": 4,
+        "hex": "#F2C829",
+        "rgb": [
+          242,
+          200,
+          41
+        ],
+        "percent": 3.3975,
+        "pixel_count": 6765
+      },
+      {
+        "rank": 5,
+        "hex": "#98ABA5",
+        "rgb": [
+          152,
+          171,
+          165
+        ],
+        "percent": 1.3841,
+        "pixel_count": 2756
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#CDF5F4",
+        "rgb": [
+          205,
+          245,
+          244
+        ],
+        "percent": 79.5576,
+        "pixel_count": 158832
+      },
+      {
+        "rank": 2,
+        "hex": "#F0C888",
+        "rgb": [
+          240,
+          200,
+          136
+        ],
+        "percent": 4.3688,
+        "pixel_count": 8722
+      },
+      {
+        "rank": 3,
+        "hex": "#CE6832",
+        "rgb": [
+          206,
+          104,
+          50
+        ],
+        "percent": 3.9009,
+        "pixel_count": 7788
+      },
+      {
+        "rank": 4,
+        "hex": "#515B57",
+        "rgb": [
+          81,
+          91,
+          87
+        ],
+        "percent": 3.7412,
+        "pixel_count": 7469
+      },
+      {
+        "rank": 5,
+        "hex": "#7FE1EC",
+        "rgb": [
+          127,
+          225,
+          236
+        ],
+        "percent": 3.3996,
+        "pixel_count": 6787
+      },
+      {
+        "rank": 6,
+        "hex": "#F2C829",
+        "rgb": [
+          242,
+          200,
+          41
+        ],
+        "percent": 3.3885,
+        "pixel_count": 6765
+      },
+      {
+        "rank": 7,
+        "hex": "#98ABA5",
+        "rgb": [
+          152,
+          171,
+          165
+        ],
+        "percent": 1.3805,
+        "pixel_count": 2756
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CAF4F4",
+          "rgb": [
+            202,
+            244,
+            244
+          ],
+          "percent": 83.1759,
+          "pixel_count": 165619
+        },
+        {
+          "rank": 2,
+          "hex": "#E09B5F",
+          "rgb": [
+            224,
+            155,
+            95
+          ],
+          "percent": 8.2915,
+          "pixel_count": 16510
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#515B57",
+          "rgb": [
+            81,
+            91,
+            87
+          ],
+          "percent": 3.751,
+          "pixel_count": 7469
+        },
+        {
+          "rank": 2,
+          "hex": "#F2C829",
+          "rgb": [
+            242,
+            200,
+            41
+          ],
+          "percent": 3.3975,
+          "pixel_count": 6765
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD39.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD39.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#B48F73",
+        "rgb": [
+          180,
+          143,
+          115
+        ],
+        "percent": 35.904,
+        "pixel_count": 71576
+      },
+      {
+        "rank": 2,
+        "hex": "#BD4838",
+        "rgb": [
+          189,
+          72,
+          56
+        ],
+        "percent": 32.0616,
+        "pixel_count": 63916
+      },
+      {
+        "rank": 3,
+        "hex": "#553D3B",
+        "rgb": [
+          85,
+          61,
+          59
+        ],
+        "percent": 32.0345,
+        "pixel_count": 63862
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#9B7868",
+        "rgb": [
+          155,
+          120,
+          104
+        ],
+        "percent": 23.5571,
+        "pixel_count": 46962
+      },
+      {
+        "rank": 2,
+        "hex": "#D14936",
+        "rgb": [
+          209,
+          73,
+          54
+        ],
+        "percent": 21.2592,
+        "pixel_count": 42381
+      },
+      {
+        "rank": 3,
+        "hex": "#472F2F",
+        "rgb": [
+          71,
+          47,
+          47
+        ],
+        "percent": 19.2893,
+        "pixel_count": 38454
+      },
+      {
+        "rank": 4,
+        "hex": "#69514D",
+        "rgb": [
+          105,
+          81,
+          77
+        ],
+        "percent": 12.7452,
+        "pixel_count": 25408
+      },
+      {
+        "rank": 5,
+        "hex": "#E4BF8C",
+        "rgb": [
+          228,
+          191,
+          140
+        ],
+        "percent": 11.1029,
+        "pixel_count": 22134
+      },
+      {
+        "rank": 6,
+        "hex": "#95473C",
+        "rgb": [
+          149,
+          71,
+          60
+        ],
+        "percent": 10.8024,
+        "pixel_count": 21535
+      },
+      {
+        "rank": 7,
+        "hex": "#E29471",
+        "rgb": [
+          226,
+          148,
+          113
+        ],
+        "percent": 1.244,
+        "pixel_count": 2480
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#B48F73",
+          "rgb": [
+            180,
+            143,
+            115
+          ],
+          "percent": 35.904,
+          "pixel_count": 71576
+        },
+        {
+          "rank": 2,
+          "hex": "#BD4838",
+          "rgb": [
+            189,
+            72,
+            56
+          ],
+          "percent": 32.0616,
+          "pixel_count": 63916
+        },
+        {
+          "rank": 3,
+          "hex": "#553D3B",
+          "rgb": [
+            85,
+            61,
+            59
+          ],
+          "percent": 32.0345,
+          "pixel_count": 63862
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD4.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD4.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A19295",
+        "rgb": [
+          161,
+          146,
+          149
+        ],
+        "percent": 76.9825,
+        "pixel_count": 153617
+      },
+      {
+        "rank": 2,
+        "hex": "#DFDAD8",
+        "rgb": [
+          223,
+          218,
+          216
+        ],
+        "percent": 23.0175,
+        "pixel_count": 45931
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#BBAEB0",
+        "rgb": [
+          187,
+          174,
+          176
+        ],
+        "percent": 44.8393,
+        "pixel_count": 89476
+      },
+      {
+        "rank": 2,
+        "hex": "#7C6A6F",
+        "rgb": [
+          124,
+          106,
+          111
+        ],
+        "percent": 32.1431,
+        "pixel_count": 64141
+      },
+      {
+        "rank": 3,
+        "hex": "#DFDAD8",
+        "rgb": [
+          223,
+          218,
+          216
+        ],
+        "percent": 23.0175,
+        "pixel_count": 45931
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A19295",
+          "rgb": [
+            161,
+            146,
+            149
+          ],
+          "percent": 76.9825,
+          "pixel_count": 153617
+        },
+        {
+          "rank": 2,
+          "hex": "#DFDAD8",
+          "rgb": [
+            223,
+            218,
+            216
+          ],
+          "percent": 23.0175,
+          "pixel_count": 45931
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD40.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD40.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#D4C1AE",
+        "rgb": [
+          212,
+          193,
+          174
+        ],
+        "percent": 76.9907,
+        "pixel_count": 153427
+      },
+      {
+        "rank": 2,
+        "hex": "#4A4342",
+        "rgb": [
+          74,
+          67,
+          66
+        ],
+        "percent": 17.2907,
+        "pixel_count": 34457
+      },
+      {
+        "rank": 3,
+        "hex": "#B94747",
+        "rgb": [
+          185,
+          71,
+          71
+        ],
+        "percent": 5.7186,
+        "pixel_count": 11396
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DECBB8",
+        "rgb": [
+          222,
+          203,
+          184
+        ],
+        "percent": 66.5707,
+        "pixel_count": 132999
+      },
+      {
+        "rank": 2,
+        "hex": "#4A4342",
+        "rgb": [
+          74,
+          67,
+          66
+        ],
+        "percent": 17.247,
+        "pixel_count": 34457
+      },
+      {
+        "rank": 3,
+        "hex": "#95836C",
+        "rgb": [
+          149,
+          131,
+          108
+        ],
+        "percent": 10.2249,
+        "pixel_count": 20428
+      },
+      {
+        "rank": 4,
+        "hex": "#B94747",
+        "rgb": [
+          185,
+          71,
+          71
+        ],
+        "percent": 5.7041,
+        "pixel_count": 11396
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#D4C1AE",
+          "rgb": [
+            212,
+            193,
+            174
+          ],
+          "percent": 76.9907,
+          "pixel_count": 153427
+        },
+        {
+          "rank": 2,
+          "hex": "#4A4342",
+          "rgb": [
+            74,
+            67,
+            66
+          ],
+          "percent": 17.2907,
+          "pixel_count": 34457
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#B94747",
+          "rgb": [
+            185,
+            71,
+            71
+          ],
+          "percent": 5.7186,
+          "pixel_count": 11396
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD41.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD41.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#D5AF87",
+        "rgb": [
+          213,
+          175,
+          135
+        ],
+        "percent": 74.6214,
+        "pixel_count": 148907
+      },
+      {
+        "rank": 2,
+        "hex": "#443C3C",
+        "rgb": [
+          68,
+          60,
+          60
+        ],
+        "percent": 14.011,
+        "pixel_count": 27959
+      },
+      {
+        "rank": 3,
+        "hex": "#BC4C4C",
+        "rgb": [
+          188,
+          76,
+          76
+        ],
+        "percent": 9.0499,
+        "pixel_count": 18059
+      },
+      {
+        "rank": 4,
+        "hex": "#69888F",
+        "rgb": [
+          105,
+          136,
+          143
+        ],
+        "percent": 2.3177,
+        "pixel_count": 4625
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DEB880",
+        "rgb": [
+          222,
+          184,
+          128
+        ],
+        "percent": 31.8632,
+        "pixel_count": 63583
+      },
+      {
+        "rank": 2,
+        "hex": "#DABA9B",
+        "rgb": [
+          218,
+          186,
+          155
+        ],
+        "percent": 29.1771,
+        "pixel_count": 58223
+      },
+      {
+        "rank": 3,
+        "hex": "#443C3C",
+        "rgb": [
+          68,
+          60,
+          60
+        ],
+        "percent": 14.011,
+        "pixel_count": 27959
+      },
+      {
+        "rank": 4,
+        "hex": "#B4816F",
+        "rgb": [
+          180,
+          129,
+          111
+        ],
+        "percent": 13.5811,
+        "pixel_count": 27101
+      },
+      {
+        "rank": 5,
+        "hex": "#C24E4E",
+        "rgb": [
+          194,
+          78,
+          78
+        ],
+        "percent": 8.3969,
+        "pixel_count": 16756
+      },
+      {
+        "rank": 6,
+        "hex": "#69888F",
+        "rgb": [
+          105,
+          136,
+          143
+        ],
+        "percent": 2.3177,
+        "pixel_count": 4625
+      },
+      {
+        "rank": 7,
+        "hex": "#6B3331",
+        "rgb": [
+          107,
+          51,
+          49
+        ],
+        "percent": 0.653,
+        "pixel_count": 1303
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#D5AF87",
+          "rgb": [
+            213,
+            175,
+            135
+          ],
+          "percent": 74.6214,
+          "pixel_count": 148907
+        },
+        {
+          "rank": 2,
+          "hex": "#443C3C",
+          "rgb": [
+            68,
+            60,
+            60
+          ],
+          "percent": 14.011,
+          "pixel_count": 27959
+        },
+        {
+          "rank": 3,
+          "hex": "#BC4C4C",
+          "rgb": [
+            188,
+            76,
+            76
+          ],
+          "percent": 9.0499,
+          "pixel_count": 18059
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#69888F",
+          "rgb": [
+            105,
+            136,
+            143
+          ],
+          "percent": 2.3177,
+          "pixel_count": 4625
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD42.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD42.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#DAD4A5",
+        "rgb": [
+          218,
+          212,
+          165
+        ],
+        "percent": 39.7166,
+        "pixel_count": 79208
+      },
+      {
+        "rank": 2,
+        "hex": "#86A07A",
+        "rgb": [
+          134,
+          160,
+          122
+        ],
+        "percent": 29.0263,
+        "pixel_count": 57888
+      },
+      {
+        "rank": 3,
+        "hex": "#96664D",
+        "rgb": [
+          150,
+          102,
+          77
+        ],
+        "percent": 18.9933,
+        "pixel_count": 37879
+      },
+      {
+        "rank": 4,
+        "hex": "#242028",
+        "rgb": [
+          36,
+          32,
+          40
+        ],
+        "percent": 12.2638,
+        "pixel_count": 24458
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DAD4A5",
+        "rgb": [
+          218,
+          212,
+          165
+        ],
+        "percent": 39.7166,
+        "pixel_count": 79208
+      },
+      {
+        "rank": 2,
+        "hex": "#86A07A",
+        "rgb": [
+          134,
+          160,
+          122
+        ],
+        "percent": 29.0263,
+        "pixel_count": 57888
+      },
+      {
+        "rank": 3,
+        "hex": "#242028",
+        "rgb": [
+          36,
+          32,
+          40
+        ],
+        "percent": 12.2638,
+        "pixel_count": 24458
+      },
+      {
+        "rank": 4,
+        "hex": "#B2654B",
+        "rgb": [
+          178,
+          101,
+          75
+        ],
+        "percent": 7.93,
+        "pixel_count": 15815
+      },
+      {
+        "rank": 5,
+        "hex": "#9C7E5B",
+        "rgb": [
+          156,
+          126,
+          91
+        ],
+        "percent": 6.2938,
+        "pixel_count": 12552
+      },
+      {
+        "rank": 6,
+        "hex": "#61493E",
+        "rgb": [
+          97,
+          73,
+          62
+        ],
+        "percent": 4.7695,
+        "pixel_count": 9512
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#DAD4A5",
+          "rgb": [
+            218,
+            212,
+            165
+          ],
+          "percent": 39.7166,
+          "pixel_count": 79208
+        },
+        {
+          "rank": 2,
+          "hex": "#86A07A",
+          "rgb": [
+            134,
+            160,
+            122
+          ],
+          "percent": 29.0263,
+          "pixel_count": 57888
+        },
+        {
+          "rank": 3,
+          "hex": "#96664D",
+          "rgb": [
+            150,
+            102,
+            77
+          ],
+          "percent": 18.9933,
+          "pixel_count": 37879
+        },
+        {
+          "rank": 4,
+          "hex": "#242028",
+          "rgb": [
+            36,
+            32,
+            40
+          ],
+          "percent": 12.2638,
+          "pixel_count": 24458
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD43.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD43.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#BE8C85",
+        "rgb": [
+          190,
+          140,
+          133
+        ],
+        "percent": 92.5389,
+        "pixel_count": 184393
+      },
+      {
+        "rank": 2,
+        "hex": "#67796F",
+        "rgb": [
+          103,
+          121,
+          111
+        ],
+        "percent": 7.4611,
+        "pixel_count": 14867
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#D08F93",
+        "rgb": [
+          208,
+          143,
+          147
+        ],
+        "percent": 31.5954,
+        "pixel_count": 62957
+      },
+      {
+        "rank": 2,
+        "hex": "#D7AA9F",
+        "rgb": [
+          215,
+          170,
+          159
+        ],
+        "percent": 28.1838,
+        "pixel_count": 56159
+      },
+      {
+        "rank": 3,
+        "hex": "#B08170",
+        "rgb": [
+          176,
+          129,
+          112
+        ],
+        "percent": 21.4815,
+        "pixel_count": 42804
+      },
+      {
+        "rank": 4,
+        "hex": "#674A46",
+        "rgb": [
+          103,
+          74,
+          70
+        ],
+        "percent": 11.2782,
+        "pixel_count": 22473
+      },
+      {
+        "rank": 5,
+        "hex": "#67796F",
+        "rgb": [
+          103,
+          121,
+          111
+        ],
+        "percent": 7.4611,
+        "pixel_count": 14867
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#BE8C85",
+          "rgb": [
+            190,
+            140,
+            133
+          ],
+          "percent": 92.5389,
+          "pixel_count": 184393
+        },
+        {
+          "rank": 2,
+          "hex": "#67796F",
+          "rgb": [
+            103,
+            121,
+            111
+          ],
+          "percent": 7.4611,
+          "pixel_count": 14867
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD44.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD44.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#D9C08E",
+        "rgb": [
+          217,
+          192,
+          142
+        ],
+        "percent": 69.0516,
+        "pixel_count": 137711
+      },
+      {
+        "rank": 2,
+        "hex": "#192219",
+        "rgb": [
+          25,
+          34,
+          25
+        ],
+        "percent": 17.3237,
+        "pixel_count": 34549
+      },
+      {
+        "rank": 3,
+        "hex": "#596746",
+        "rgb": [
+          89,
+          103,
+          70
+        ],
+        "percent": 12.4995,
+        "pixel_count": 24928
+      },
+      {
+        "rank": 4,
+        "hex": "#BB5A48",
+        "rgb": [
+          187,
+          90,
+          72
+        ],
+        "percent": 1.1252,
+        "pixel_count": 2244
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DCC290",
+        "rgb": [
+          220,
+          194,
+          144
+        ],
+        "percent": 66.5184,
+        "pixel_count": 132659
+      },
+      {
+        "rank": 2,
+        "hex": "#192219",
+        "rgb": [
+          25,
+          34,
+          25
+        ],
+        "percent": 17.3237,
+        "pixel_count": 34549
+      },
+      {
+        "rank": 3,
+        "hex": "#4A583B",
+        "rgb": [
+          74,
+          88,
+          59
+        ],
+        "percent": 9.2202,
+        "pixel_count": 18388
+      },
+      {
+        "rank": 4,
+        "hex": "#839065",
+        "rgb": [
+          131,
+          144,
+          101
+        ],
+        "percent": 3.2793,
+        "pixel_count": 6540
+      },
+      {
+        "rank": 5,
+        "hex": "#958965",
+        "rgb": [
+          149,
+          137,
+          101
+        ],
+        "percent": 2.5332,
+        "pixel_count": 5052
+      },
+      {
+        "rank": 6,
+        "hex": "#A43D2E",
+        "rgb": [
+          164,
+          61,
+          46
+        ],
+        "percent": 0.5761,
+        "pixel_count": 1149
+      },
+      {
+        "rank": 7,
+        "hex": "#D47964",
+        "rgb": [
+          212,
+          121,
+          100
+        ],
+        "percent": 0.5491,
+        "pixel_count": 1095
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#D9C08E",
+          "rgb": [
+            217,
+            192,
+            142
+          ],
+          "percent": 69.0516,
+          "pixel_count": 137711
+        },
+        {
+          "rank": 2,
+          "hex": "#192219",
+          "rgb": [
+            25,
+            34,
+            25
+          ],
+          "percent": 17.3237,
+          "pixel_count": 34549
+        },
+        {
+          "rank": 3,
+          "hex": "#596746",
+          "rgb": [
+            89,
+            103,
+            70
+          ],
+          "percent": 12.4995,
+          "pixel_count": 24928
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#BB5A48",
+          "rgb": [
+            187,
+            90,
+            72
+          ],
+          "percent": 1.1252,
+          "pixel_count": 2244
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD45.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD45.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#DECCB8",
+        "rgb": [
+          222,
+          204,
+          184
+        ],
+        "percent": 58.028,
+        "pixel_count": 114726
+      },
+      {
+        "rank": 2,
+        "hex": "#999FA3",
+        "rgb": [
+          153,
+          159,
+          163
+        ],
+        "percent": 32.4999,
+        "pixel_count": 64255
+      },
+      {
+        "rank": 3,
+        "hex": "#3F7486",
+        "rgb": [
+          63,
+          116,
+          134
+        ],
+        "percent": 3.969,
+        "pixel_count": 7847
+      },
+      {
+        "rank": 4,
+        "hex": "#EDDA5C",
+        "rgb": [
+          237,
+          218,
+          92
+        ],
+        "percent": 3.7985,
+        "pixel_count": 7510
+      },
+      {
+        "rank": 5,
+        "hex": "#CB4D4F",
+        "rgb": [
+          203,
+          77,
+          79
+        ],
+        "percent": 1.7045,
+        "pixel_count": 3370
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E3D2C0",
+        "rgb": [
+          227,
+          210,
+          192
+        ],
+        "percent": 51.5144,
+        "pixel_count": 102696
+      },
+      {
+        "rank": 2,
+        "hex": "#999FA3",
+        "rgb": [
+          153,
+          159,
+          163
+        ],
+        "percent": 32.2316,
+        "pixel_count": 64255
+      },
+      {
+        "rank": 3,
+        "hex": "#BB9873",
+        "rgb": [
+          187,
+          152,
+          115
+        ],
+        "percent": 5.5269,
+        "pixel_count": 11018
+      },
+      {
+        "rank": 4,
+        "hex": "#3F7486",
+        "rgb": [
+          63,
+          116,
+          134
+        ],
+        "percent": 3.9362,
+        "pixel_count": 7847
+      },
+      {
+        "rank": 5,
+        "hex": "#EDDA5C",
+        "rgb": [
+          237,
+          218,
+          92
+        ],
+        "percent": 3.7672,
+        "pixel_count": 7510
+      },
+      {
+        "rank": 6,
+        "hex": "#CB4D4F",
+        "rgb": [
+          203,
+          77,
+          79
+        ],
+        "percent": 1.6905,
+        "pixel_count": 3370
+      },
+      {
+        "rank": 7,
+        "hex": "#846A5D",
+        "rgb": [
+          132,
+          106,
+          93
+        ],
+        "percent": 0.5076,
+        "pixel_count": 1012
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#DECCB8",
+          "rgb": [
+            222,
+            204,
+            184
+          ],
+          "percent": 58.028,
+          "pixel_count": 114726
+        },
+        {
+          "rank": 2,
+          "hex": "#999FA3",
+          "rgb": [
+            153,
+            159,
+            163
+          ],
+          "percent": 32.4999,
+          "pixel_count": 64255
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#3F7486",
+          "rgb": [
+            63,
+            116,
+            134
+          ],
+          "percent": 3.969,
+          "pixel_count": 7847
+        },
+        {
+          "rank": 2,
+          "hex": "#EDDA5C",
+          "rgb": [
+            237,
+            218,
+            92
+          ],
+          "percent": 3.7985,
+          "pixel_count": 7510
+        },
+        {
+          "rank": 3,
+          "hex": "#CB4D4F",
+          "rgb": [
+            203,
+            77,
+            79
+          ],
+          "percent": 1.7045,
+          "pixel_count": 3370
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD46.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD46.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#AC966B",
+        "rgb": [
+          172,
+          150,
+          107
+        ],
+        "percent": 74.9275,
+        "pixel_count": 58884
+      },
+      {
+        "rank": 2,
+        "hex": "#B83A38",
+        "rgb": [
+          184,
+          58,
+          56
+        ],
+        "percent": 15.0557,
+        "pixel_count": 11832
+      },
+      {
+        "rank": 3,
+        "hex": "#5E7D87",
+        "rgb": [
+          94,
+          125,
+          135
+        ],
+        "percent": 9.3411,
+        "pixel_count": 7341
+      },
+      {
+        "rank": 4,
+        "hex": "#1E1B14",
+        "rgb": [
+          30,
+          27,
+          20
+        ],
+        "percent": 0.6757,
+        "pixel_count": 531
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#B2A88B",
+        "rgb": [
+          178,
+          168,
+          139
+        ],
+        "percent": 28.8466,
+        "pixel_count": 22670
+      },
+      {
+        "rank": 2,
+        "hex": "#6A573E",
+        "rgb": [
+          106,
+          87,
+          62
+        ],
+        "percent": 17.3792,
+        "pixel_count": 13658
+      },
+      {
+        "rank": 3,
+        "hex": "#D9BA65",
+        "rgb": [
+          217,
+          186,
+          101
+        ],
+        "percent": 17.1349,
+        "pixel_count": 13466
+      },
+      {
+        "rank": 4,
+        "hex": "#B83A38",
+        "rgb": [
+          184,
+          58,
+          56
+        ],
+        "percent": 15.0557,
+        "pixel_count": 11832
+      },
+      {
+        "rank": 5,
+        "hex": "#C69569",
+        "rgb": [
+          198,
+          149,
+          105
+        ],
+        "percent": 11.0131,
+        "pixel_count": 8655
+      },
+      {
+        "rank": 6,
+        "hex": "#5E7D87",
+        "rgb": [
+          94,
+          125,
+          135
+        ],
+        "percent": 9.3411,
+        "pixel_count": 7341
+      },
+      {
+        "rank": 7,
+        "hex": "#1E1B14",
+        "rgb": [
+          30,
+          27,
+          20
+        ],
+        "percent": 0.6757,
+        "pixel_count": 531
+      },
+      {
+        "rank": 8,
+        "hex": "#452512",
+        "rgb": [
+          69,
+          37,
+          18
+        ],
+        "percent": 0.5535,
+        "pixel_count": 435
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#AC966B",
+          "rgb": [
+            172,
+            150,
+            107
+          ],
+          "percent": 74.9275,
+          "pixel_count": 58884
+        },
+        {
+          "rank": 2,
+          "hex": "#B83A38",
+          "rgb": [
+            184,
+            58,
+            56
+          ],
+          "percent": 15.0557,
+          "pixel_count": 11832
+        },
+        {
+          "rank": 3,
+          "hex": "#5E7D87",
+          "rgb": [
+            94,
+            125,
+            135
+          ],
+          "percent": 9.3411,
+          "pixel_count": 7341
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD47.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD47.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#89A07D",
+        "rgb": [
+          137,
+          160,
+          125
+        ],
+        "percent": 55.3265,
+        "pixel_count": 110543
+      },
+      {
+        "rank": 2,
+        "hex": "#D7C2AF",
+        "rgb": [
+          215,
+          194,
+          175
+        ],
+        "percent": 31.6095,
+        "pixel_count": 63156
+      },
+      {
+        "rank": 3,
+        "hex": "#494947",
+        "rgb": [
+          73,
+          73,
+          71
+        ],
+        "percent": 8.1056,
+        "pixel_count": 16195
+      },
+      {
+        "rank": 4,
+        "hex": "#527F89",
+        "rgb": [
+          82,
+          127,
+          137
+        ],
+        "percent": 2.8994,
+        "pixel_count": 5793
+      },
+      {
+        "rank": 5,
+        "hex": "#B53F50",
+        "rgb": [
+          181,
+          63,
+          80
+        ],
+        "percent": 2.059,
+        "pixel_count": 4114
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#89A07D",
+        "rgb": [
+          137,
+          160,
+          125
+        ],
+        "percent": 55.3265,
+        "pixel_count": 110543
+      },
+      {
+        "rank": 2,
+        "hex": "#D7C2AF",
+        "rgb": [
+          215,
+          194,
+          175
+        ],
+        "percent": 31.6095,
+        "pixel_count": 63156
+      },
+      {
+        "rank": 3,
+        "hex": "#494947",
+        "rgb": [
+          73,
+          73,
+          71
+        ],
+        "percent": 8.1056,
+        "pixel_count": 16195
+      },
+      {
+        "rank": 4,
+        "hex": "#527F89",
+        "rgb": [
+          82,
+          127,
+          137
+        ],
+        "percent": 2.8994,
+        "pixel_count": 5793
+      },
+      {
+        "rank": 5,
+        "hex": "#B53F50",
+        "rgb": [
+          181,
+          63,
+          80
+        ],
+        "percent": 2.059,
+        "pixel_count": 4114
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#89A07D",
+          "rgb": [
+            137,
+            160,
+            125
+          ],
+          "percent": 55.3265,
+          "pixel_count": 110543
+        },
+        {
+          "rank": 2,
+          "hex": "#D7C2AF",
+          "rgb": [
+            215,
+            194,
+            175
+          ],
+          "percent": 31.6095,
+          "pixel_count": 63156
+        },
+        {
+          "rank": 3,
+          "hex": "#494947",
+          "rgb": [
+            73,
+            73,
+            71
+          ],
+          "percent": 8.1056,
+          "pixel_count": 16195
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#527F89",
+          "rgb": [
+            82,
+            127,
+            137
+          ],
+          "percent": 2.8994,
+          "pixel_count": 5793
+        },
+        {
+          "rank": 2,
+          "hex": "#B53F50",
+          "rgb": [
+            181,
+            63,
+            80
+          ],
+          "percent": 2.059,
+          "pixel_count": 4114
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD48.png",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD48.png",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#609BB1",
+        "rgb": [
+          96,
+          155,
+          177
+        ],
+        "percent": 46.9684,
+        "pixel_count": 93702
+      },
+      {
+        "rank": 2,
+        "hex": "#DDBD62",
+        "rgb": [
+          221,
+          189,
+          98
+        ],
+        "percent": 21.9363,
+        "pixel_count": 43763
+      },
+      {
+        "rank": 3,
+        "hex": "#377F72",
+        "rgb": [
+          55,
+          127,
+          114
+        ],
+        "percent": 11.2406,
+        "pixel_count": 22425
+      },
+      {
+        "rank": 4,
+        "hex": "#7B5542",
+        "rgb": [
+          123,
+          85,
+          66
+        ],
+        "percent": 7.9198,
+        "pixel_count": 15800
+      },
+      {
+        "rank": 5,
+        "hex": "#C6DED9",
+        "rgb": [
+          198,
+          222,
+          217
+        ],
+        "percent": 5.7965,
+        "pixel_count": 11564
+      },
+      {
+        "rank": 6,
+        "hex": "#471721",
+        "rgb": [
+          71,
+          23,
+          33
+        ],
+        "percent": 3.4536,
+        "pixel_count": 6890
+      },
+      {
+        "rank": 7,
+        "hex": "#769673",
+        "rgb": [
+          118,
+          150,
+          115
+        ],
+        "percent": 2.6847,
+        "pixel_count": 5356
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#66A7BE",
+        "rgb": [
+          102,
+          167,
+          190
+        ],
+        "percent": 41.2807,
+        "pixel_count": 82355
+      },
+      {
+        "rank": 2,
+        "hex": "#377F72",
+        "rgb": [
+          55,
+          127,
+          114
+        ],
+        "percent": 11.2406,
+        "pixel_count": 22425
+      },
+      {
+        "rank": 3,
+        "hex": "#D3B47A",
+        "rgb": [
+          211,
+          180,
+          122
+        ],
+        "percent": 11.0491,
+        "pixel_count": 22043
+      },
+      {
+        "rank": 4,
+        "hex": "#E8CB48",
+        "rgb": [
+          232,
+          203,
+          72
+        ],
+        "percent": 9.7328,
+        "pixel_count": 19417
+      },
+      {
+        "rank": 5,
+        "hex": "#765341",
+        "rgb": [
+          118,
+          83,
+          65
+        ],
+        "percent": 7.2311,
+        "pixel_count": 14426
+      },
+      {
+        "rank": 6,
+        "hex": "#C6DED9",
+        "rgb": [
+          198,
+          222,
+          217
+        ],
+        "percent": 5.7965,
+        "pixel_count": 11564
+      },
+      {
+        "rank": 7,
+        "hex": "#324554",
+        "rgb": [
+          50,
+          69,
+          84
+        ],
+        "percent": 5.6877,
+        "pixel_count": 11347
+      },
+      {
+        "rank": 8,
+        "hex": "#39161F",
+        "rgb": [
+          57,
+          22,
+          31
+        ],
+        "percent": 2.9499,
+        "pixel_count": 5885
+      },
+      {
+        "rank": 9,
+        "hex": "#769673",
+        "rgb": [
+          118,
+          150,
+          115
+        ],
+        "percent": 2.6847,
+        "pixel_count": 5356
+      },
+      {
+        "rank": 10,
+        "hex": "#DA9756",
+        "rgb": [
+          218,
+          151,
+          86
+        ],
+        "percent": 1.1544,
+        "pixel_count": 2303
+      },
+      {
+        "rank": 11,
+        "hex": "#B56F4B",
+        "rgb": [
+          181,
+          111,
+          75
+        ],
+        "percent": 0.6887,
+        "pixel_count": 1374
+      },
+      {
+        "rank": 12,
+        "hex": "#9B1F30",
+        "rgb": [
+          155,
+          31,
+          48
+        ],
+        "percent": 0.5038,
+        "pixel_count": 1005
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#609BB1",
+          "rgb": [
+            96,
+            155,
+            177
+          ],
+          "percent": 46.9684,
+          "pixel_count": 93702
+        },
+        {
+          "rank": 2,
+          "hex": "#DDBD62",
+          "rgb": [
+            221,
+            189,
+            98
+          ],
+          "percent": 21.9363,
+          "pixel_count": 43763
+        },
+        {
+          "rank": 3,
+          "hex": "#377F72",
+          "rgb": [
+            55,
+            127,
+            114
+          ],
+          "percent": 11.2406,
+          "pixel_count": 22425
+        },
+        {
+          "rank": 4,
+          "hex": "#7B5542",
+          "rgb": [
+            123,
+            85,
+            66
+          ],
+          "percent": 7.9198,
+          "pixel_count": 15800
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#C6DED9",
+          "rgb": [
+            198,
+            222,
+            217
+          ],
+          "percent": 5.7965,
+          "pixel_count": 11564
+        },
+        {
+          "rank": 2,
+          "hex": "#471721",
+          "rgb": [
+            71,
+            23,
+            33
+          ],
+          "percent": 3.4536,
+          "pixel_count": 6890
+        },
+        {
+          "rank": 3,
+          "hex": "#769673",
+          "rgb": [
+            118,
+            150,
+            115
+          ],
+          "percent": 2.6847,
+          "pixel_count": 5356
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD49.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD49.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8E8E89",
+        "rgb": [
+          142,
+          142,
+          137
+        ],
+        "percent": 61.2378,
+        "pixel_count": 121625
+      },
+      {
+        "rank": 2,
+        "hex": "#4E6566",
+        "rgb": [
+          78,
+          101,
+          102
+        ],
+        "percent": 19.7456,
+        "pixel_count": 39217
+      },
+      {
+        "rank": 3,
+        "hex": "#444343",
+        "rgb": [
+          68,
+          67,
+          67
+        ],
+        "percent": 15.5737,
+        "pixel_count": 30931
+      },
+      {
+        "rank": 4,
+        "hex": "#CBB79D",
+        "rgb": [
+          203,
+          183,
+          157
+        ],
+        "percent": 1.8544,
+        "pixel_count": 3683
+      },
+      {
+        "rank": 5,
+        "hex": "#B3465E",
+        "rgb": [
+          179,
+          70,
+          94
+        ],
+        "percent": 1.5885,
+        "pixel_count": 3155
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8E8E89",
+        "rgb": [
+          142,
+          142,
+          137
+        ],
+        "percent": 61.0445,
+        "pixel_count": 121625
+      },
+      {
+        "rank": 2,
+        "hex": "#4E6566",
+        "rgb": [
+          78,
+          101,
+          102
+        ],
+        "percent": 19.6833,
+        "pixel_count": 39217
+      },
+      {
+        "rank": 3,
+        "hex": "#444343",
+        "rgb": [
+          68,
+          67,
+          67
+        ],
+        "percent": 15.5245,
+        "pixel_count": 30931
+      },
+      {
+        "rank": 4,
+        "hex": "#CBB79D",
+        "rgb": [
+          203,
+          183,
+          157
+        ],
+        "percent": 1.8485,
+        "pixel_count": 3683
+      },
+      {
+        "rank": 5,
+        "hex": "#B3465E",
+        "rgb": [
+          179,
+          70,
+          94
+        ],
+        "percent": 1.5835,
+        "pixel_count": 3155
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8E8E89",
+          "rgb": [
+            142,
+            142,
+            137
+          ],
+          "percent": 61.2378,
+          "pixel_count": 121625
+        },
+        {
+          "rank": 2,
+          "hex": "#4E6566",
+          "rgb": [
+            78,
+            101,
+            102
+          ],
+          "percent": 19.7456,
+          "pixel_count": 39217
+        },
+        {
+          "rank": 3,
+          "hex": "#444343",
+          "rgb": [
+            68,
+            67,
+            67
+          ],
+          "percent": 15.5737,
+          "pixel_count": 30931
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#CBB79D",
+          "rgb": [
+            203,
+            183,
+            157
+          ],
+          "percent": 1.8544,
+          "pixel_count": 3683
+        },
+        {
+          "rank": 2,
+          "hex": "#B3465E",
+          "rgb": [
+            179,
+            70,
+            94
+          ],
+          "percent": 1.5885,
+          "pixel_count": 3155
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD5.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD5.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C7A471",
+        "rgb": [
+          199,
+          164,
+          113
+        ],
+        "percent": 66.5171,
+        "pixel_count": 132655
+      },
+      {
+        "rank": 2,
+        "hex": "#704745",
+        "rgb": [
+          112,
+          71,
+          69
+        ],
+        "percent": 33.4829,
+        "pixel_count": 66775
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C7A471",
+        "rgb": [
+          199,
+          164,
+          113
+        ],
+        "percent": 66.5171,
+        "pixel_count": 132655
+      },
+      {
+        "rank": 2,
+        "hex": "#694745",
+        "rgb": [
+          105,
+          71,
+          69
+        ],
+        "percent": 30.0963,
+        "pixel_count": 60021
+      },
+      {
+        "rank": 3,
+        "hex": "#B14647",
+        "rgb": [
+          177,
+          70,
+          71
+        ],
+        "percent": 2.7749,
+        "pixel_count": 5534
+      },
+      {
+        "rank": 4,
+        "hex": "#9A5B52",
+        "rgb": [
+          154,
+          91,
+          82
+        ],
+        "percent": 0.6117,
+        "pixel_count": 1220
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C7A471",
+          "rgb": [
+            199,
+            164,
+            113
+          ],
+          "percent": 66.5171,
+          "pixel_count": 132655
+        },
+        {
+          "rank": 2,
+          "hex": "#704745",
+          "rgb": [
+            112,
+            71,
+            69
+          ],
+          "percent": 33.4829,
+          "pixel_count": 66775
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD6.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD6.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A58C61",
+        "rgb": [
+          165,
+          140,
+          97
+        ],
+        "percent": 46.3322,
+        "pixel_count": 88007
+      },
+      {
+        "rank": 2,
+        "hex": "#24624E",
+        "rgb": [
+          36,
+          98,
+          78
+        ],
+        "percent": 37.2997,
+        "pixel_count": 70850
+      },
+      {
+        "rank": 3,
+        "hex": "#B52B1F",
+        "rgb": [
+          181,
+          43,
+          31
+        ],
+        "percent": 11.7901,
+        "pixel_count": 22395
+      },
+      {
+        "rank": 4,
+        "hex": "#7C9262",
+        "rgb": [
+          124,
+          146,
+          98
+        ],
+        "percent": 4.5781,
+        "pixel_count": 8696
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#24624E",
+        "rgb": [
+          36,
+          98,
+          78
+        ],
+        "percent": 37.2703,
+        "pixel_count": 70850
+      },
+      {
+        "rank": 2,
+        "hex": "#C6A978",
+        "rgb": [
+          198,
+          169,
+          120
+        ],
+        "percent": 25.6941,
+        "pixel_count": 48844
+      },
+      {
+        "rank": 3,
+        "hex": "#B52B1F",
+        "rgb": [
+          181,
+          43,
+          31
+        ],
+        "percent": 11.7808,
+        "pixel_count": 22395
+      },
+      {
+        "rank": 4,
+        "hex": "#574E40",
+        "rgb": [
+          87,
+          78,
+          64
+        ],
+        "percent": 10.5961,
+        "pixel_count": 20143
+      },
+      {
+        "rank": 5,
+        "hex": "#A58547",
+        "rgb": [
+          165,
+          133,
+          71
+        ],
+        "percent": 10.0054,
+        "pixel_count": 19020
+      },
+      {
+        "rank": 6,
+        "hex": "#7C9262",
+        "rgb": [
+          124,
+          146,
+          98
+        ],
+        "percent": 4.5745,
+        "pixel_count": 8696
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A58C61",
+          "rgb": [
+            165,
+            140,
+            97
+          ],
+          "percent": 46.3322,
+          "pixel_count": 88007
+        },
+        {
+          "rank": 2,
+          "hex": "#24624E",
+          "rgb": [
+            36,
+            98,
+            78
+          ],
+          "percent": 37.2997,
+          "pixel_count": 70850
+        },
+        {
+          "rank": 3,
+          "hex": "#B52B1F",
+          "rgb": [
+            181,
+            43,
+            31
+          ],
+          "percent": 11.7901,
+          "pixel_count": 22395
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#7C9262",
+          "rgb": [
+            124,
+            146,
+            98
+          ],
+          "percent": 4.5781,
+          "pixel_count": 8696
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD7.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD7.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#D7BA67",
+        "rgb": [
+          215,
+          186,
+          103
+        ],
+        "percent": 58.0749,
+        "pixel_count": 85614
+      },
+      {
+        "rank": 2,
+        "hex": "#69723C",
+        "rgb": [
+          105,
+          114,
+          60
+        ],
+        "percent": 13.7987,
+        "pixel_count": 20342
+      },
+      {
+        "rank": 3,
+        "hex": "#193920",
+        "rgb": [
+          25,
+          57,
+          32
+        ],
+        "percent": 13.6481,
+        "pixel_count": 20120
+      },
+      {
+        "rank": 4,
+        "hex": "#524624",
+        "rgb": [
+          82,
+          70,
+          36
+        ],
+        "percent": 10.7143,
+        "pixel_count": 15795
+      },
+      {
+        "rank": 5,
+        "hex": "#F6F6F0",
+        "rgb": [
+          246,
+          246,
+          240
+        ],
+        "percent": 3.0247,
+        "pixel_count": 4459
+      },
+      {
+        "rank": 6,
+        "hex": "#A11E1C",
+        "rgb": [
+          161,
+          30,
+          28
+        ],
+        "percent": 0.7394,
+        "pixel_count": 1090
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#D2BA75",
+        "rgb": [
+          210,
+          186,
+          117
+        ],
+        "percent": 30.1533,
+        "pixel_count": 44452
+      },
+      {
+        "rank": 2,
+        "hex": "#DDB958",
+        "rgb": [
+          221,
+          185,
+          88
+        ],
+        "percent": 27.9216,
+        "pixel_count": 41162
+      },
+      {
+        "rank": 3,
+        "hex": "#69723C",
+        "rgb": [
+          105,
+          114,
+          60
+        ],
+        "percent": 13.7987,
+        "pixel_count": 20342
+      },
+      {
+        "rank": 4,
+        "hex": "#193920",
+        "rgb": [
+          25,
+          57,
+          32
+        ],
+        "percent": 13.6481,
+        "pixel_count": 20120
+      },
+      {
+        "rank": 5,
+        "hex": "#524624",
+        "rgb": [
+          82,
+          70,
+          36
+        ],
+        "percent": 10.7143,
+        "pixel_count": 15795
+      },
+      {
+        "rank": 6,
+        "hex": "#F6F6F0",
+        "rgb": [
+          246,
+          246,
+          240
+        ],
+        "percent": 3.0247,
+        "pixel_count": 4459
+      },
+      {
+        "rank": 7,
+        "hex": "#A11E1C",
+        "rgb": [
+          161,
+          30,
+          28
+        ],
+        "percent": 0.7394,
+        "pixel_count": 1090
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#D7BA67",
+          "rgb": [
+            215,
+            186,
+            103
+          ],
+          "percent": 58.0749,
+          "pixel_count": 85614
+        },
+        {
+          "rank": 2,
+          "hex": "#69723C",
+          "rgb": [
+            105,
+            114,
+            60
+          ],
+          "percent": 13.7987,
+          "pixel_count": 20342
+        },
+        {
+          "rank": 3,
+          "hex": "#193920",
+          "rgb": [
+            25,
+            57,
+            32
+          ],
+          "percent": 13.6481,
+          "pixel_count": 20120
+        },
+        {
+          "rank": 4,
+          "hex": "#524624",
+          "rgb": [
+            82,
+            70,
+            36
+          ],
+          "percent": 10.7143,
+          "pixel_count": 15795
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#F6F6F0",
+          "rgb": [
+            246,
+            246,
+            240
+          ],
+          "percent": 3.0247,
+          "pixel_count": 4459
+        }
+      ]
+    }
+  },
+  {
+    "file": "B-GD8.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD8.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#DFCCAB",
+        "rgb": [
+          223,
+          204,
+          171
+        ],
+        "percent": 42.1063,
+        "pixel_count": 77004
+      },
+      {
+        "rank": 2,
+        "hex": "#ABBACF",
+        "rgb": [
+          171,
+          186,
+          207
+        ],
+        "percent": 29.6156,
+        "pixel_count": 54161
+      },
+      {
+        "rank": 3,
+        "hex": "#181121",
+        "rgb": [
+          24,
+          17,
+          33
+        ],
+        "percent": 19.0584,
+        "pixel_count": 34854
+      },
+      {
+        "rank": 4,
+        "hex": "#7C5043",
+        "rgb": [
+          124,
+          80,
+          67
+        ],
+        "percent": 9.2197,
+        "pixel_count": 16861
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#B2C1D6",
+        "rgb": [
+          178,
+          193,
+          214
+        ],
+        "percent": 26.6317,
+        "pixel_count": 48704
+      },
+      {
+        "rank": 2,
+        "hex": "#F0E6D5",
+        "rgb": [
+          240,
+          230,
+          213
+        ],
+        "percent": 22.8789,
+        "pixel_count": 41841
+      },
+      {
+        "rank": 3,
+        "hex": "#CBAC7A",
+        "rgb": [
+          203,
+          172,
+          122
+        ],
+        "percent": 19.2274,
+        "pixel_count": 35163
+      },
+      {
+        "rank": 4,
+        "hex": "#181121",
+        "rgb": [
+          24,
+          17,
+          33
+        ],
+        "percent": 19.0584,
+        "pixel_count": 34854
+      },
+      {
+        "rank": 5,
+        "hex": "#735142",
+        "rgb": [
+          115,
+          81,
+          66
+        ],
+        "percent": 7.4338,
+        "pixel_count": 13595
+      },
+      {
+        "rank": 6,
+        "hex": "#6B7B94",
+        "rgb": [
+          107,
+          123,
+          148
+        ],
+        "percent": 2.9839,
+        "pixel_count": 5457
+      },
+      {
+        "rank": 7,
+        "hex": "#A34E46",
+        "rgb": [
+          163,
+          78,
+          70
+        ],
+        "percent": 1.7859,
+        "pixel_count": 3266
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#DFCCAB",
+          "rgb": [
+            223,
+            204,
+            171
+          ],
+          "percent": 42.1063,
+          "pixel_count": 77004
+        },
+        {
+          "rank": 2,
+          "hex": "#ABBACF",
+          "rgb": [
+            171,
+            186,
+            207
+          ],
+          "percent": 29.6156,
+          "pixel_count": 54161
+        },
+        {
+          "rank": 3,
+          "hex": "#181121",
+          "rgb": [
+            24,
+            17,
+            33
+          ],
+          "percent": 19.0584,
+          "pixel_count": 34854
+        },
+        {
+          "rank": 4,
+          "hex": "#7C5043",
+          "rgb": [
+            124,
+            80,
+            67
+          ],
+          "percent": 9.2197,
+          "pixel_count": 16861
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "B-GD9.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/images_egypt/B-GD9.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#BAC89A",
+        "rgb": [
+          186,
+          200,
+          154
+        ],
+        "percent": 43.0283,
+        "pixel_count": 33612
+      },
+      {
+        "rank": 2,
+        "hex": "#9A7850",
+        "rgb": [
+          154,
+          120,
+          80
+        ],
+        "percent": 21.3503,
+        "pixel_count": 16678
+      },
+      {
+        "rank": 3,
+        "hex": "#6F8A62",
+        "rgb": [
+          111,
+          138,
+          98
+        ],
+        "percent": 18.3957,
+        "pixel_count": 14370
+      },
+      {
+        "rank": 4,
+        "hex": "#161718",
+        "rgb": [
+          22,
+          23,
+          24
+        ],
+        "percent": 9.1262,
+        "pixel_count": 7129
+      },
+      {
+        "rank": 5,
+        "hex": "#EDE19B",
+        "rgb": [
+          237,
+          225,
+          155
+        ],
+        "percent": 5.0092,
+        "pixel_count": 3913
+      },
+      {
+        "rank": 6,
+        "hex": "#7A3A28",
+        "rgb": [
+          122,
+          58,
+          40
+        ],
+        "percent": 3.0903,
+        "pixel_count": 2414
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#BAC89A",
+        "rgb": [
+          186,
+          200,
+          154
+        ],
+        "percent": 43.0283,
+        "pixel_count": 33612
+      },
+      {
+        "rank": 2,
+        "hex": "#6F8A62",
+        "rgb": [
+          111,
+          138,
+          98
+        ],
+        "percent": 18.3957,
+        "pixel_count": 14370
+      },
+      {
+        "rank": 3,
+        "hex": "#AA8457",
+        "rgb": [
+          170,
+          132,
+          87
+        ],
+        "percent": 18.2229,
+        "pixel_count": 14235
+      },
+      {
+        "rank": 4,
+        "hex": "#161718",
+        "rgb": [
+          22,
+          23,
+          24
+        ],
+        "percent": 9.1262,
+        "pixel_count": 7129
+      },
+      {
+        "rank": 5,
+        "hex": "#EDE19B",
+        "rgb": [
+          237,
+          225,
+          155
+        ],
+        "percent": 5.0092,
+        "pixel_count": 3913
+      },
+      {
+        "rank": 6,
+        "hex": "#3F3425",
+        "rgb": [
+          63,
+          52,
+          37
+        ],
+        "percent": 3.1274,
+        "pixel_count": 2443
+      },
+      {
+        "rank": 7,
+        "hex": "#7A3A28",
+        "rgb": [
+          122,
+          58,
+          40
+        ],
+        "percent": 3.0903,
+        "pixel_count": 2414
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#BAC89A",
+          "rgb": [
+            186,
+            200,
+            154
+          ],
+          "percent": 43.0283,
+          "pixel_count": 33612
+        },
+        {
+          "rank": 2,
+          "hex": "#9A7850",
+          "rgb": [
+            154,
+            120,
+            80
+          ],
+          "percent": 21.3503,
+          "pixel_count": 16678
+        },
+        {
+          "rank": 3,
+          "hex": "#6F8A62",
+          "rgb": [
+            111,
+            138,
+            98
+          ],
+          "percent": 18.3957,
+          "pixel_count": 14370
+        },
+        {
+          "rank": 4,
+          "hex": "#161718",
+          "rgb": [
+            22,
+            23,
+            24
+          ],
+          "percent": 9.1262,
+          "pixel_count": 7129
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#EDE19B",
+          "rgb": [
+            237,
+            225,
+            155
+          ],
+          "percent": 5.0092,
+          "pixel_count": 3913
+        },
+        {
+          "rank": 2,
+          "hex": "#7A3A28",
+          "rgb": [
+            122,
+            58,
+            40
+          ],
+          "percent": 3.0903,
+          "pixel_count": 2414
+        }
+      ]
+    }
+  }
+]

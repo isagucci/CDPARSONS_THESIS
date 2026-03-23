@@ -1,0 +1,4422 @@
+[
+  {
+    "file": "00trav-Egypt-Desert-04-kcwm-superJumbo.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/00trav-Egypt-Desert-04-kcwm-superJumbo.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CACBCC",
+        "rgb": [
+          202,
+          203,
+          204
+        ],
+        "percent": 89.7961,
+        "pixel_count": 179118
+      },
+      {
+        "rank": 2,
+        "hex": "#C29B72",
+        "rgb": [
+          194,
+          155,
+          114
+        ],
+        "percent": 10.2039,
+        "pixel_count": 20354
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DBDBDB",
+        "rgb": [
+          219,
+          219,
+          219
+        ],
+        "percent": 65.8007,
+        "pixel_count": 131254
+      },
+      {
+        "rank": 2,
+        "hex": "#9C9EA3",
+        "rgb": [
+          156,
+          158,
+          163
+        ],
+        "percent": 23.9953,
+        "pixel_count": 47864
+      },
+      {
+        "rank": 3,
+        "hex": "#C29B72",
+        "rgb": [
+          194,
+          155,
+          114
+        ],
+        "percent": 10.2039,
+        "pixel_count": 20354
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CACBCC",
+          "rgb": [
+            202,
+            203,
+            204
+          ],
+          "percent": 89.7961,
+          "pixel_count": 179118
+        },
+        {
+          "rank": 2,
+          "hex": "#C29B72",
+          "rgb": [
+            194,
+            155,
+            114
+          ],
+          "percent": 10.2039,
+          "pixel_count": 20354
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "00trav-Egypt-Desert-kzpc-superJumbo.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/00trav-Egypt-Desert-kzpc-superJumbo.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#88898E",
+        "rgb": [
+          136,
+          137,
+          142
+        ],
+        "percent": 70.2314,
+        "pixel_count": 140092
+      },
+      {
+        "rank": 2,
+        "hex": "#614C3B",
+        "rgb": [
+          97,
+          76,
+          59
+        ],
+        "percent": 29.7686,
+        "pixel_count": 59380
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#88898E",
+        "rgb": [
+          136,
+          137,
+          142
+        ],
+        "percent": 70.2314,
+        "pixel_count": 140092
+      },
+      {
+        "rank": 2,
+        "hex": "#614C3B",
+        "rgb": [
+          97,
+          76,
+          59
+        ],
+        "percent": 29.7686,
+        "pixel_count": 59380
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#88898E",
+          "rgb": [
+            136,
+            137,
+            142
+          ],
+          "percent": 70.2314,
+          "pixel_count": 140092
+        },
+        {
+          "rank": 2,
+          "hex": "#614C3B",
+          "rgb": [
+            97,
+            76,
+            59
+          ],
+          "percent": 29.7686,
+          "pixel_count": 59380
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "00trav-Egypt-Deserts-02-kfpt-superJumbo.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/00trav-Egypt-Deserts-02-kfpt-superJumbo.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#67584C",
+        "rgb": [
+          103,
+          88,
+          76
+        ],
+        "percent": 67.0004,
+        "pixel_count": 133647
+      },
+      {
+        "rank": 2,
+        "hex": "#50779B",
+        "rgb": [
+          80,
+          119,
+          155
+        ],
+        "percent": 32.9996,
+        "pixel_count": 65825
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#36312D",
+        "rgb": [
+          54,
+          49,
+          45
+        ],
+        "percent": 24.9875,
+        "pixel_count": 49843
+      },
+      {
+        "rank": 2,
+        "hex": "#706255",
+        "rgb": [
+          112,
+          98,
+          85
+        ],
+        "percent": 24.3127,
+        "pixel_count": 48497
+      },
+      {
+        "rank": 3,
+        "hex": "#9E836A",
+        "rgb": [
+          158,
+          131,
+          106
+        ],
+        "percent": 17.7002,
+        "pixel_count": 35307
+      },
+      {
+        "rank": 4,
+        "hex": "#6685A2",
+        "rgb": [
+          102,
+          133,
+          162
+        ],
+        "percent": 17.1658,
+        "pixel_count": 34241
+      },
+      {
+        "rank": 5,
+        "hex": "#396793",
+        "rgb": [
+          57,
+          103,
+          147
+        ],
+        "percent": 15.8338,
+        "pixel_count": 31584
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#67584C",
+          "rgb": [
+            103,
+            88,
+            76
+          ],
+          "percent": 67.0004,
+          "pixel_count": 133647
+        },
+        {
+          "rank": 2,
+          "hex": "#50779B",
+          "rgb": [
+            80,
+            119,
+            155
+          ],
+          "percent": 32.9996,
+          "pixel_count": 65825
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "00trav-egypt-desert-03-pjct-superJumbo.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/00trav-egypt-desert-03-pjct-superJumbo.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A78971",
+        "rgb": [
+          167,
+          137,
+          113
+        ],
+        "percent": 100.0,
+        "pixel_count": 198018
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#AC907A",
+        "rgb": [
+          172,
+          144,
+          122
+        ],
+        "percent": 81.5954,
+        "pixel_count": 162760
+      },
+      {
+        "rank": 2,
+        "hex": "#8F6647",
+        "rgb": [
+          143,
+          102,
+          71
+        ],
+        "percent": 17.6757,
+        "pixel_count": 35258
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A78971",
+          "rgb": [
+            167,
+            137,
+            113
+          ],
+          "percent": 100.0,
+          "pixel_count": 198018
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "00trav-egypt-desert-jfwv-superJumbo.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/00trav-egypt-desert-jfwv-superJumbo.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#4E3E31",
+        "rgb": [
+          78,
+          62,
+          49
+        ],
+        "percent": 75.7224,
+        "pixel_count": 151045
+      },
+      {
+        "rank": 2,
+        "hex": "#C8B29E",
+        "rgb": [
+          200,
+          178,
+          158
+        ],
+        "percent": 24.2776,
+        "pixel_count": 48427
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#715C4B",
+        "rgb": [
+          113,
+          92,
+          75
+        ],
+        "percent": 47.1725,
+        "pixel_count": 94096
+      },
+      {
+        "rank": 2,
+        "hex": "#140C07",
+        "rgb": [
+          20,
+          12,
+          7
+        ],
+        "percent": 28.5499,
+        "pixel_count": 56949
+      },
+      {
+        "rank": 3,
+        "hex": "#C8B29E",
+        "rgb": [
+          200,
+          178,
+          158
+        ],
+        "percent": 24.2776,
+        "pixel_count": 48427
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#4E3E31",
+          "rgb": [
+            78,
+            62,
+            49
+          ],
+          "percent": 75.7224,
+          "pixel_count": 151045
+        },
+        {
+          "rank": 2,
+          "hex": "#C8B29E",
+          "rgb": [
+            200,
+            178,
+            158
+          ],
+          "percent": 24.2776,
+          "pixel_count": 48427
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "13298364-two-trees-on-the-desert-in-egypt.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/13298364-two-trees-on-the-desert-in-egypt.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C0A585",
+        "rgb": [
+          192,
+          165,
+          133
+        ],
+        "percent": 75.8904,
+        "pixel_count": 151519
+      },
+      {
+        "rank": 2,
+        "hex": "#DCE3EA",
+        "rgb": [
+          220,
+          227,
+          234
+        ],
+        "percent": 24.1096,
+        "pixel_count": 48136
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#D1B594",
+        "rgb": [
+          209,
+          181,
+          148
+        ],
+        "percent": 58.7228,
+        "pixel_count": 117243
+      },
+      {
+        "rank": 2,
+        "hex": "#DCE3EA",
+        "rgb": [
+          220,
+          227,
+          234
+        ],
+        "percent": 24.1096,
+        "pixel_count": 48136
+      },
+      {
+        "rank": 3,
+        "hex": "#857050",
+        "rgb": [
+          133,
+          112,
+          80
+        ],
+        "percent": 17.1676,
+        "pixel_count": 34276
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C0A585",
+          "rgb": [
+            192,
+            165,
+            133
+          ],
+          "percent": 75.8904,
+          "pixel_count": 151519
+        },
+        {
+          "rank": 2,
+          "hex": "#DCE3EA",
+          "rgb": [
+            220,
+            227,
+            234
+          ],
+          "percent": 24.1096,
+          "pixel_count": 48136
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "1438010_0.jpeg.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/1438010_0.jpeg.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A9824E",
+        "rgb": [
+          169,
+          130,
+          78
+        ],
+        "percent": 94.5814,
+        "pixel_count": 188809
+      },
+      {
+        "rank": 2,
+        "hex": "#C6C9CC",
+        "rgb": [
+          198,
+          201,
+          204
+        ],
+        "percent": 5.4186,
+        "pixel_count": 10817
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A9824E",
+        "rgb": [
+          169,
+          130,
+          78
+        ],
+        "percent": 94.5814,
+        "pixel_count": 188809
+      },
+      {
+        "rank": 2,
+        "hex": "#C6C9CC",
+        "rgb": [
+          198,
+          201,
+          204
+        ],
+        "percent": 5.4186,
+        "pixel_count": 10817
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A9824E",
+          "rgb": [
+            169,
+            130,
+            78
+          ],
+          "percent": 94.5814,
+          "pixel_count": 188809
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#C6C9CC",
+          "rgb": [
+            198,
+            201,
+            204
+          ],
+          "percent": 5.4186,
+          "pixel_count": 10817
+        }
+      ]
+    }
+  },
+  {
+    "file": "1_zQK4AdFdQ_FNOLqo7JqbGA@2x.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/1_zQK4AdFdQ_FNOLqo7JqbGA@2x.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C1C4BE",
+        "rgb": [
+          193,
+          196,
+          190
+        ],
+        "percent": 53.5221,
+        "pixel_count": 106495
+      },
+      {
+        "rank": 2,
+        "hex": "#35A8BB",
+        "rgb": [
+          53,
+          168,
+          187
+        ],
+        "percent": 42.8991,
+        "pixel_count": 85358
+      },
+      {
+        "rank": 3,
+        "hex": "#986A49",
+        "rgb": [
+          152,
+          106,
+          73
+        ],
+        "percent": 1.7992,
+        "pixel_count": 3580
+      },
+      {
+        "rank": 4,
+        "hex": "#1E1712",
+        "rgb": [
+          30,
+          23,
+          18
+        ],
+        "percent": 1.7796,
+        "pixel_count": 3541
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C1C4BE",
+        "rgb": [
+          193,
+          196,
+          190
+        ],
+        "percent": 53.3395,
+        "pixel_count": 106495
+      },
+      {
+        "rank": 2,
+        "hex": "#35A8BB",
+        "rgb": [
+          53,
+          168,
+          187
+        ],
+        "percent": 42.7527,
+        "pixel_count": 85358
+      },
+      {
+        "rank": 3,
+        "hex": "#986A49",
+        "rgb": [
+          152,
+          106,
+          73
+        ],
+        "percent": 1.7931,
+        "pixel_count": 3580
+      },
+      {
+        "rank": 4,
+        "hex": "#1E1712",
+        "rgb": [
+          30,
+          23,
+          18
+        ],
+        "percent": 1.7736,
+        "pixel_count": 3541
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C1C4BE",
+          "rgb": [
+            193,
+            196,
+            190
+          ],
+          "percent": 53.5221,
+          "pixel_count": 106495
+        },
+        {
+          "rank": 2,
+          "hex": "#35A8BB",
+          "rgb": [
+            53,
+            168,
+            187
+          ],
+          "percent": 42.8991,
+          "pixel_count": 85358
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#986A49",
+          "rgb": [
+            152,
+            106,
+            73
+          ],
+          "percent": 1.7992,
+          "pixel_count": 3580
+        },
+        {
+          "rank": 2,
+          "hex": "#1E1712",
+          "rgb": [
+            30,
+            23,
+            18
+          ],
+          "percent": 1.7796,
+          "pixel_count": 3541
+        }
+      ]
+    }
+  },
+  {
+    "file": "636619978502372033-natural.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/636619978502372033-natural.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#687B4E",
+        "rgb": [
+          104,
+          123,
+          78
+        ],
+        "percent": 100.0,
+        "pixel_count": 199692
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#697E4C",
+        "rgb": [
+          105,
+          126,
+          76
+        ],
+        "percent": 53.6441,
+        "pixel_count": 107123
+      },
+      {
+        "rank": 2,
+        "hex": "#BFCFA0",
+        "rgb": [
+          191,
+          207,
+          160
+        ],
+        "percent": 16.5445,
+        "pixel_count": 33038
+      },
+      {
+        "rank": 3,
+        "hex": "#1C2517",
+        "rgb": [
+          28,
+          37,
+          23
+        ],
+        "percent": 15.9646,
+        "pixel_count": 31880
+      },
+      {
+        "rank": 4,
+        "hex": "#527131",
+        "rgb": [
+          82,
+          113,
+          49
+        ],
+        "percent": 13.8468,
+        "pixel_count": 27651
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#687B4E",
+          "rgb": [
+            104,
+            123,
+            78
+          ],
+          "percent": 100.0,
+          "pixel_count": 199692
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "7174203_orig.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/7174203_orig.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#687687",
+        "rgb": [
+          104,
+          118,
+          135
+        ],
+        "percent": 94.064,
+        "pixel_count": 176370
+      },
+      {
+        "rank": 2,
+        "hex": "#BC8D8D",
+        "rgb": [
+          188,
+          141,
+          141
+        ],
+        "percent": 5.936,
+        "pixel_count": 11130
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8698B0",
+        "rgb": [
+          134,
+          152,
+          176
+        ],
+        "percent": 38.5493,
+        "pixel_count": 72280
+      },
+      {
+        "rank": 2,
+        "hex": "#677A8B",
+        "rgb": [
+          103,
+          122,
+          139
+        ],
+        "percent": 31.3195,
+        "pixel_count": 58724
+      },
+      {
+        "rank": 3,
+        "hex": "#393B42",
+        "rgb": [
+          57,
+          59,
+          66
+        ],
+        "percent": 24.1952,
+        "pixel_count": 45366
+      },
+      {
+        "rank": 4,
+        "hex": "#BC8D8D",
+        "rgb": [
+          188,
+          141,
+          141
+        ],
+        "percent": 5.936,
+        "pixel_count": 11130
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#687687",
+          "rgb": [
+            104,
+            118,
+            135
+          ],
+          "percent": 94.064,
+          "pixel_count": 176370
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#BC8D8D",
+          "rgb": [
+            188,
+            141,
+            141
+          ],
+          "percent": 5.936,
+          "pixel_count": 11130
+        }
+      ]
+    }
+  },
+  {
+    "file": "9852498_orig.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/9852498_orig.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#B97830",
+        "rgb": [
+          185,
+          120,
+          48
+        ],
+        "percent": 57.441,
+        "pixel_count": 114705
+      },
+      {
+        "rank": 2,
+        "hex": "#2C0B01",
+        "rgb": [
+          44,
+          11,
+          1
+        ],
+        "percent": 31.0057,
+        "pixel_count": 61916
+      },
+      {
+        "rank": 3,
+        "hex": "#FEF166",
+        "rgb": [
+          254,
+          241,
+          102
+        ],
+        "percent": 6.7604,
+        "pixel_count": 13500
+      },
+      {
+        "rank": 4,
+        "hex": "#FEFEE1",
+        "rgb": [
+          254,
+          254,
+          225
+        ],
+        "percent": 4.7929,
+        "pixel_count": 9571
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#2C0B01",
+        "rgb": [
+          44,
+          11,
+          1
+        ],
+        "percent": 31.0057,
+        "pixel_count": 61916
+      },
+      {
+        "rank": 2,
+        "hex": "#E99B35",
+        "rgb": [
+          233,
+          155,
+          53
+        ],
+        "percent": 23.4446,
+        "pixel_count": 46817
+      },
+      {
+        "rank": 3,
+        "hex": "#AE6525",
+        "rgb": [
+          174,
+          101,
+          37
+        ],
+        "percent": 18.203,
+        "pixel_count": 36350
+      },
+      {
+        "rank": 4,
+        "hex": "#7F5A36",
+        "rgb": [
+          127,
+          90,
+          54
+        ],
+        "percent": 15.7933,
+        "pixel_count": 31538
+      },
+      {
+        "rank": 5,
+        "hex": "#FEF166",
+        "rgb": [
+          254,
+          241,
+          102
+        ],
+        "percent": 6.7604,
+        "pixel_count": 13500
+      },
+      {
+        "rank": 6,
+        "hex": "#FEFEF9",
+        "rgb": [
+          254,
+          254,
+          249
+        ],
+        "percent": 2.9856,
+        "pixel_count": 5962
+      },
+      {
+        "rank": 7,
+        "hex": "#FEFFBA",
+        "rgb": [
+          254,
+          255,
+          186
+        ],
+        "percent": 1.8073,
+        "pixel_count": 3609
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#B97830",
+          "rgb": [
+            185,
+            120,
+            48
+          ],
+          "percent": 57.441,
+          "pixel_count": 114705
+        },
+        {
+          "rank": 2,
+          "hex": "#2C0B01",
+          "rgb": [
+            44,
+            11,
+            1
+          ],
+          "percent": 31.0057,
+          "pixel_count": 61916
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#FEF166",
+          "rgb": [
+            254,
+            241,
+            102
+          ],
+          "percent": 6.7604,
+          "pixel_count": 13500
+        },
+        {
+          "rank": 2,
+          "hex": "#FEFEE1",
+          "rgb": [
+            254,
+            254,
+            225
+          ],
+          "percent": 4.7929,
+          "pixel_count": 9571
+        }
+      ]
+    }
+  },
+  {
+    "file": "Acacia_tree_at_Dakhla_Oasis_in_Western_Desert_of_Egypt.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Acacia_tree_at_Dakhla_Oasis_in_Western_Desert_of_Egypt.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#202117",
+        "rgb": [
+          32,
+          33,
+          23
+        ],
+        "percent": 46.6228,
+        "pixel_count": 93102
+      },
+      {
+        "rank": 2,
+        "hex": "#5E5442",
+        "rgb": [
+          94,
+          84,
+          66
+        ],
+        "percent": 28.7157,
+        "pixel_count": 57343
+      },
+      {
+        "rank": 3,
+        "hex": "#CED3D7",
+        "rgb": [
+          206,
+          211,
+          215
+        ],
+        "percent": 24.6615,
+        "pixel_count": 49247
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#202117",
+        "rgb": [
+          32,
+          33,
+          23
+        ],
+        "percent": 46.6228,
+        "pixel_count": 93102
+      },
+      {
+        "rank": 2,
+        "hex": "#5E5442",
+        "rgb": [
+          94,
+          84,
+          66
+        ],
+        "percent": 28.7157,
+        "pixel_count": 57343
+      },
+      {
+        "rank": 3,
+        "hex": "#CED3D7",
+        "rgb": [
+          206,
+          211,
+          215
+        ],
+        "percent": 24.6615,
+        "pixel_count": 49247
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#202117",
+          "rgb": [
+            32,
+            33,
+            23
+          ],
+          "percent": 46.6228,
+          "pixel_count": 93102
+        },
+        {
+          "rank": 2,
+          "hex": "#5E5442",
+          "rgb": [
+            94,
+            84,
+            66
+          ],
+          "percent": 28.7157,
+          "pixel_count": 57343
+        },
+        {
+          "rank": 3,
+          "hex": "#CED3D7",
+          "rgb": [
+            206,
+            211,
+            215
+          ],
+          "percent": 24.6615,
+          "pixel_count": 49247
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Aswan_Nile_R09.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Aswan_Nile_R09.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#7AA4C1",
+        "rgb": [
+          122,
+          164,
+          193
+        ],
+        "percent": 38.922,
+        "pixel_count": 77493
+      },
+      {
+        "rank": 2,
+        "hex": "#96925E",
+        "rgb": [
+          150,
+          146,
+          94
+        ],
+        "percent": 33.371,
+        "pixel_count": 66441
+      },
+      {
+        "rank": 3,
+        "hex": "#555B45",
+        "rgb": [
+          85,
+          91,
+          69
+        ],
+        "percent": 27.707,
+        "pixel_count": 55164
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#7AA4C1",
+        "rgb": [
+          122,
+          164,
+          193
+        ],
+        "percent": 38.8234,
+        "pixel_count": 77493
+      },
+      {
+        "rank": 2,
+        "hex": "#96925E",
+        "rgb": [
+          150,
+          146,
+          94
+        ],
+        "percent": 33.2864,
+        "pixel_count": 66441
+      },
+      {
+        "rank": 3,
+        "hex": "#555B45",
+        "rgb": [
+          85,
+          91,
+          69
+        ],
+        "percent": 27.6367,
+        "pixel_count": 55164
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#7AA4C1",
+          "rgb": [
+            122,
+            164,
+            193
+          ],
+          "percent": 38.922,
+          "pixel_count": 77493
+        },
+        {
+          "rank": 2,
+          "hex": "#96925E",
+          "rgb": [
+            150,
+            146,
+            94
+          ],
+          "percent": 33.371,
+          "pixel_count": 66441
+        },
+        {
+          "rank": 3,
+          "hex": "#555B45",
+          "rgb": [
+            85,
+            91,
+            69
+          ],
+          "percent": 27.707,
+          "pixel_count": 55164
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Black_Desert.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Black_Desert.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#968B89",
+        "rgb": [
+          150,
+          139,
+          137
+        ],
+        "percent": 40.0021,
+        "pixel_count": 79881
+      },
+      {
+        "rank": 2,
+        "hex": "#E9F0F5",
+        "rgb": [
+          233,
+          240,
+          245
+        ],
+        "percent": 33.1686,
+        "pixel_count": 66235
+      },
+      {
+        "rank": 3,
+        "hex": "#474145",
+        "rgb": [
+          71,
+          65,
+          69
+        ],
+        "percent": 26.8293,
+        "pixel_count": 53576
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#968B89",
+        "rgb": [
+          150,
+          139,
+          137
+        ],
+        "percent": 40.0021,
+        "pixel_count": 79881
+      },
+      {
+        "rank": 2,
+        "hex": "#E9F0F5",
+        "rgb": [
+          233,
+          240,
+          245
+        ],
+        "percent": 33.1686,
+        "pixel_count": 66235
+      },
+      {
+        "rank": 3,
+        "hex": "#474145",
+        "rgb": [
+          71,
+          65,
+          69
+        ],
+        "percent": 26.8293,
+        "pixel_count": 53576
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#968B89",
+          "rgb": [
+            150,
+            139,
+            137
+          ],
+          "percent": 40.0021,
+          "pixel_count": 79881
+        },
+        {
+          "rank": 2,
+          "hex": "#E9F0F5",
+          "rgb": [
+            233,
+            240,
+            245
+          ],
+          "percent": 33.1686,
+          "pixel_count": 66235
+        },
+        {
+          "rank": 3,
+          "hex": "#474145",
+          "rgb": [
+            71,
+            65,
+            69
+          ],
+          "percent": 26.8293,
+          "pixel_count": 53576
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Desert-of-Merzouga-in-Morocco-with-some-camels.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Desert-of-Merzouga-in-Morocco-with-some-camels.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CD763C",
+        "rgb": [
+          205,
+          118,
+          60
+        ],
+        "percent": 81.5071,
+        "pixel_count": 162733
+      },
+      {
+        "rank": 2,
+        "hex": "#CBCCC8",
+        "rgb": [
+          203,
+          204,
+          200
+        ],
+        "percent": 11.297,
+        "pixel_count": 22555
+      },
+      {
+        "rank": 3,
+        "hex": "#4E3129",
+        "rgb": [
+          78,
+          49,
+          41
+        ],
+        "percent": 7.1959,
+        "pixel_count": 14367
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C06B37",
+        "rgb": [
+          192,
+          107,
+          55
+        ],
+        "percent": 57.126,
+        "pixel_count": 114055
+      },
+      {
+        "rank": 2,
+        "hex": "#ED8F47",
+        "rgb": [
+          237,
+          143,
+          71
+        ],
+        "percent": 24.3811,
+        "pixel_count": 48678
+      },
+      {
+        "rank": 3,
+        "hex": "#CBCCC8",
+        "rgb": [
+          203,
+          204,
+          200
+        ],
+        "percent": 11.297,
+        "pixel_count": 22555
+      },
+      {
+        "rank": 4,
+        "hex": "#4E3129",
+        "rgb": [
+          78,
+          49,
+          41
+        ],
+        "percent": 7.1959,
+        "pixel_count": 14367
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CD763C",
+          "rgb": [
+            205,
+            118,
+            60
+          ],
+          "percent": 81.5071,
+          "pixel_count": 162733
+        },
+        {
+          "rank": 2,
+          "hex": "#CBCCC8",
+          "rgb": [
+            203,
+            204,
+            200
+          ],
+          "percent": 11.297,
+          "pixel_count": 22555
+        },
+        {
+          "rank": 3,
+          "hex": "#4E3129",
+          "rgb": [
+            78,
+            49,
+            41
+          ],
+          "percent": 7.1959,
+          "pixel_count": 14367
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Hietasaari,_Lake_Saimaa.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Hietasaari,_Lake_Saimaa.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8B8D91",
+        "rgb": [
+          139,
+          141,
+          145
+        ],
+        "percent": 31.3541,
+        "pixel_count": 62600
+      },
+      {
+        "rank": 2,
+        "hex": "#947C6A",
+        "rgb": [
+          148,
+          124,
+          106
+        ],
+        "percent": 27.7599,
+        "pixel_count": 55424
+      },
+      {
+        "rank": 3,
+        "hex": "#5A5D31",
+        "rgb": [
+          90,
+          93,
+          49
+        ],
+        "percent": 26.1772,
+        "pixel_count": 52264
+      },
+      {
+        "rank": 4,
+        "hex": "#C3D1D9",
+        "rgb": [
+          195,
+          209,
+          217
+        ],
+        "percent": 14.7089,
+        "pixel_count": 29367
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8B8D91",
+        "rgb": [
+          139,
+          141,
+          145
+        ],
+        "percent": 31.3541,
+        "pixel_count": 62600
+      },
+      {
+        "rank": 2,
+        "hex": "#5A5D31",
+        "rgb": [
+          90,
+          93,
+          49
+        ],
+        "percent": 26.1772,
+        "pixel_count": 52264
+      },
+      {
+        "rank": 3,
+        "hex": "#C3D1D9",
+        "rgb": [
+          195,
+          209,
+          217
+        ],
+        "percent": 14.7089,
+        "pixel_count": 29367
+      },
+      {
+        "rank": 4,
+        "hex": "#7C695B",
+        "rgb": [
+          124,
+          105,
+          91
+        ],
+        "percent": 14.0688,
+        "pixel_count": 28089
+      },
+      {
+        "rank": 5,
+        "hex": "#AD907A",
+        "rgb": [
+          173,
+          144,
+          122
+        ],
+        "percent": 13.6911,
+        "pixel_count": 27335
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8B8D91",
+          "rgb": [
+            139,
+            141,
+            145
+          ],
+          "percent": 31.3541,
+          "pixel_count": 62600
+        },
+        {
+          "rank": 2,
+          "hex": "#947C6A",
+          "rgb": [
+            148,
+            124,
+            106
+          ],
+          "percent": 27.7599,
+          "pixel_count": 55424
+        },
+        {
+          "rank": 3,
+          "hex": "#5A5D31",
+          "rgb": [
+            90,
+            93,
+            49
+          ],
+          "percent": 26.1772,
+          "pixel_count": 52264
+        },
+        {
+          "rank": 4,
+          "hex": "#C3D1D9",
+          "rgb": [
+            195,
+            209,
+            217
+          ],
+          "percent": 14.7089,
+          "pixel_count": 29367
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Hoggar8.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Hoggar8.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#98BDE9",
+        "rgb": [
+          152,
+          189,
+          233
+        ],
+        "percent": 47.5783,
+        "pixel_count": 57094
+      },
+      {
+        "rank": 2,
+        "hex": "#765941",
+        "rgb": [
+          118,
+          89,
+          65
+        ],
+        "percent": 31.745,
+        "pixel_count": 38094
+      },
+      {
+        "rank": 3,
+        "hex": "#2F2C2A",
+        "rgb": [
+          47,
+          44,
+          42
+        ],
+        "percent": 20.6767,
+        "pixel_count": 24812
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8AB3E7",
+        "rgb": [
+          138,
+          179,
+          231
+        ],
+        "percent": 25.925,
+        "pixel_count": 31110
+      },
+      {
+        "rank": 2,
+        "hex": "#A9CAEB",
+        "rgb": [
+          169,
+          202,
+          235
+        ],
+        "percent": 21.6533,
+        "pixel_count": 25984
+      },
+      {
+        "rank": 3,
+        "hex": "#2F2C2A",
+        "rgb": [
+          47,
+          44,
+          42
+        ],
+        "percent": 20.6767,
+        "pixel_count": 24812
+      },
+      {
+        "rank": 4,
+        "hex": "#57412D",
+        "rgb": [
+          87,
+          65,
+          45
+        ],
+        "percent": 16.9058,
+        "pixel_count": 20287
+      },
+      {
+        "rank": 5,
+        "hex": "#997557",
+        "rgb": [
+          153,
+          117,
+          87
+        ],
+        "percent": 14.8392,
+        "pixel_count": 17807
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#98BDE9",
+          "rgb": [
+            152,
+            189,
+            233
+          ],
+          "percent": 47.5783,
+          "pixel_count": 57094
+        },
+        {
+          "rank": 2,
+          "hex": "#765941",
+          "rgb": [
+            118,
+            89,
+            65
+          ],
+          "percent": 31.745,
+          "pixel_count": 38094
+        },
+        {
+          "rank": 3,
+          "hex": "#2F2C2A",
+          "rgb": [
+            47,
+            44,
+            42
+          ],
+          "percent": 20.6767,
+          "pixel_count": 24812
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Kharga-Oasis-Facts-Egypt-Tours-Portal.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Kharga-Oasis-Facts-Egypt-Tours-Portal.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#E5EDE7",
+        "rgb": [
+          229,
+          237,
+          231
+        ],
+        "percent": 35.653,
+        "pixel_count": 71183
+      },
+      {
+        "rank": 2,
+        "hex": "#4F401A",
+        "rgb": [
+          79,
+          64,
+          26
+        ],
+        "percent": 35.4802,
+        "pixel_count": 70838
+      },
+      {
+        "rank": 3,
+        "hex": "#CAB27F",
+        "rgb": [
+          202,
+          178,
+          127
+        ],
+        "percent": 23.3949,
+        "pixel_count": 46709
+      },
+      {
+        "rank": 4,
+        "hex": "#4F584B",
+        "rgb": [
+          79,
+          88,
+          75
+        ],
+        "percent": 5.4719,
+        "pixel_count": 10925
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E5EDE7",
+        "rgb": [
+          229,
+          237,
+          231
+        ],
+        "percent": 35.653,
+        "pixel_count": 71183
+      },
+      {
+        "rank": 2,
+        "hex": "#CAB27F",
+        "rgb": [
+          202,
+          178,
+          127
+        ],
+        "percent": 23.3949,
+        "pixel_count": 46709
+      },
+      {
+        "rank": 3,
+        "hex": "#201C11",
+        "rgb": [
+          32,
+          28,
+          17
+        ],
+        "percent": 18.3737,
+        "pixel_count": 36684
+      },
+      {
+        "rank": 4,
+        "hex": "#816624",
+        "rgb": [
+          129,
+          102,
+          36
+        ],
+        "percent": 17.1065,
+        "pixel_count": 34154
+      },
+      {
+        "rank": 5,
+        "hex": "#4F584B",
+        "rgb": [
+          79,
+          88,
+          75
+        ],
+        "percent": 5.4719,
+        "pixel_count": 10925
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#E5EDE7",
+          "rgb": [
+            229,
+            237,
+            231
+          ],
+          "percent": 35.653,
+          "pixel_count": 71183
+        },
+        {
+          "rank": 2,
+          "hex": "#4F401A",
+          "rgb": [
+            79,
+            64,
+            26
+          ],
+          "percent": 35.4802,
+          "pixel_count": 70838
+        },
+        {
+          "rank": 3,
+          "hex": "#CAB27F",
+          "rgb": [
+            202,
+            178,
+            127
+          ],
+          "percent": 23.3949,
+          "pixel_count": 46709
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#4F584B",
+          "rgb": [
+            79,
+            88,
+            75
+          ],
+          "percent": 5.4719,
+          "pixel_count": 10925
+        }
+      ]
+    }
+  },
+  {
+    "file": "Libya_5391_Ubari_Lakes_Luca_Galuzzi_2007.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Libya_5391_Ubari_Lakes_Luca_Galuzzi_2007.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C5C4C8",
+        "rgb": [
+          197,
+          196,
+          200
+        ],
+        "percent": 40.7738,
+        "pixel_count": 81407
+      },
+      {
+        "rank": 2,
+        "hex": "#5A4B2F",
+        "rgb": [
+          90,
+          75,
+          47
+        ],
+        "percent": 33.3691,
+        "pixel_count": 66623
+      },
+      {
+        "rank": 3,
+        "hex": "#E0B086",
+        "rgb": [
+          224,
+          176,
+          134
+        ],
+        "percent": 25.8571,
+        "pixel_count": 51625
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C5C4C8",
+        "rgb": [
+          197,
+          196,
+          200
+        ],
+        "percent": 40.7738,
+        "pixel_count": 81407
+      },
+      {
+        "rank": 2,
+        "hex": "#5A4B2F",
+        "rgb": [
+          90,
+          75,
+          47
+        ],
+        "percent": 33.3691,
+        "pixel_count": 66623
+      },
+      {
+        "rank": 3,
+        "hex": "#E0B086",
+        "rgb": [
+          224,
+          176,
+          134
+        ],
+        "percent": 25.8571,
+        "pixel_count": 51625
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C5C4C8",
+          "rgb": [
+            197,
+            196,
+            200
+          ],
+          "percent": 40.7738,
+          "pixel_count": 81407
+        },
+        {
+          "rank": 2,
+          "hex": "#5A4B2F",
+          "rgb": [
+            90,
+            75,
+            47
+          ],
+          "percent": 33.3691,
+          "pixel_count": 66623
+        },
+        {
+          "rank": 3,
+          "hex": "#E0B086",
+          "rgb": [
+            224,
+            176,
+            134
+          ],
+          "percent": 25.8571,
+          "pixel_count": 51625
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Marsa-alam-egypt-9-february-2025-traditional-tea-set-awaits-guests-at-a-desert-camp-in-marsa-alam-egypt-as-the-sun-rises-painting-the-sky-with-warm-hues-.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Marsa-alam-egypt-9-february-2025-traditional-tea-set-awaits-guests-at-a-desert-camp-in-marsa-alam-egypt-as-the-sun-rises-painting-the-sky-with-warm-hues-.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#1E150E",
+        "rgb": [
+          30,
+          21,
+          14
+        ],
+        "percent": 41.8697,
+        "pixel_count": 83595
+      },
+      {
+        "rank": 2,
+        "hex": "#ABACAF",
+        "rgb": [
+          171,
+          172,
+          175
+        ],
+        "percent": 39.3809,
+        "pixel_count": 78626
+      },
+      {
+        "rank": 3,
+        "hex": "#5A5050",
+        "rgb": [
+          90,
+          80,
+          80
+        ],
+        "percent": 18.7493,
+        "pixel_count": 37434
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#1E150E",
+        "rgb": [
+          30,
+          21,
+          14
+        ],
+        "percent": 41.8697,
+        "pixel_count": 83595
+      },
+      {
+        "rank": 2,
+        "hex": "#C1BBB5",
+        "rgb": [
+          193,
+          187,
+          181
+        ],
+        "percent": 20.7879,
+        "pixel_count": 41504
+      },
+      {
+        "rank": 3,
+        "hex": "#5A5050",
+        "rgb": [
+          90,
+          80,
+          80
+        ],
+        "percent": 18.7493,
+        "pixel_count": 37434
+      },
+      {
+        "rank": 4,
+        "hex": "#929BA9",
+        "rgb": [
+          146,
+          155,
+          169
+        ],
+        "percent": 18.5931,
+        "pixel_count": 37122
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#1E150E",
+          "rgb": [
+            30,
+            21,
+            14
+          ],
+          "percent": 41.8697,
+          "pixel_count": 83595
+        },
+        {
+          "rank": 2,
+          "hex": "#ABACAF",
+          "rgb": [
+            171,
+            172,
+            175
+          ],
+          "percent": 39.3809,
+          "pixel_count": 78626
+        },
+        {
+          "rank": 3,
+          "hex": "#5A5050",
+          "rgb": [
+            90,
+            80,
+            80
+          ],
+          "percent": 18.7493,
+          "pixel_count": 37434
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Nabq-National-Park-IPA-Egypt-1024x1024.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Nabq-National-Park-IPA-Egypt-1024x1024.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C5B79D",
+        "rgb": [
+          197,
+          183,
+          157
+        ],
+        "percent": 66.4805,
+        "pixel_count": 132834
+      },
+      {
+        "rank": 2,
+        "hex": "#A5ABB6",
+        "rgb": [
+          165,
+          171,
+          182
+        ],
+        "percent": 31.4625,
+        "pixel_count": 62865
+      },
+      {
+        "rank": 3,
+        "hex": "#160E06",
+        "rgb": [
+          22,
+          14,
+          6
+        ],
+        "percent": 2.057,
+        "pixel_count": 4110
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E8DCC6",
+        "rgb": [
+          232,
+          220,
+          198
+        ],
+        "percent": 38.9822,
+        "pixel_count": 77890
+      },
+      {
+        "rank": 2,
+        "hex": "#A5ABB6",
+        "rgb": [
+          165,
+          171,
+          182
+        ],
+        "percent": 31.4625,
+        "pixel_count": 62865
+      },
+      {
+        "rank": 3,
+        "hex": "#948264",
+        "rgb": [
+          148,
+          130,
+          100
+        ],
+        "percent": 27.4983,
+        "pixel_count": 54944
+      },
+      {
+        "rank": 4,
+        "hex": "#160E06",
+        "rgb": [
+          22,
+          14,
+          6
+        ],
+        "percent": 2.057,
+        "pixel_count": 4110
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C5B79D",
+          "rgb": [
+            197,
+            183,
+            157
+          ],
+          "percent": 66.4805,
+          "pixel_count": 132834
+        },
+        {
+          "rank": 2,
+          "hex": "#A5ABB6",
+          "rgb": [
+            165,
+            171,
+            182
+          ],
+          "percent": 31.4625,
+          "pixel_count": 62865
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#160E06",
+          "rgb": [
+            22,
+            14,
+            6
+          ],
+          "percent": 2.057,
+          "pixel_count": 4110
+        }
+      ]
+    }
+  },
+  {
+    "file": "Palms-near-the-Temple-of-Hibis-Kharga-Oasis-Egypt.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Palms-near-the-Temple-of-Hibis-Kharga-Oasis-Egypt.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C3A470",
+        "rgb": [
+          195,
+          164,
+          112
+        ],
+        "percent": 39.7354,
+        "pixel_count": 79261
+      },
+      {
+        "rank": 2,
+        "hex": "#1BA7E2",
+        "rgb": [
+          27,
+          167,
+          226
+        ],
+        "percent": 33.7697,
+        "pixel_count": 67361
+      },
+      {
+        "rank": 3,
+        "hex": "#47533A",
+        "rgb": [
+          71,
+          83,
+          58
+        ],
+        "percent": 26.4949,
+        "pixel_count": 52850
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C3A97D",
+        "rgb": [
+          195,
+          169,
+          125
+        ],
+        "percent": 31.7834,
+        "pixel_count": 63399
+      },
+      {
+        "rank": 2,
+        "hex": "#47533A",
+        "rgb": [
+          71,
+          83,
+          58
+        ],
+        "percent": 26.4949,
+        "pixel_count": 52850
+      },
+      {
+        "rank": 3,
+        "hex": "#019DE2",
+        "rgb": [
+          1,
+          157,
+          226
+        ],
+        "percent": 19.114,
+        "pixel_count": 38127
+      },
+      {
+        "rank": 4,
+        "hex": "#3EB5E3",
+        "rgb": [
+          62,
+          181,
+          227
+        ],
+        "percent": 14.6557,
+        "pixel_count": 29234
+      },
+      {
+        "rank": 5,
+        "hex": "#C1903D",
+        "rgb": [
+          193,
+          144,
+          61
+        ],
+        "percent": 7.952,
+        "pixel_count": 15862
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C3A470",
+          "rgb": [
+            195,
+            164,
+            112
+          ],
+          "percent": 39.7354,
+          "pixel_count": 79261
+        },
+        {
+          "rank": 2,
+          "hex": "#1BA7E2",
+          "rgb": [
+            27,
+            167,
+            226
+          ],
+          "percent": 33.7697,
+          "pixel_count": 67361
+        },
+        {
+          "rank": 3,
+          "hex": "#47533A",
+          "rgb": [
+            71,
+            83,
+            58
+          ],
+          "percent": 26.4949,
+          "pixel_count": 52850
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Panoramic-view-of-the-black-desert-mountains-close-to-Bahariya-Oasis-Egypt-1.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Panoramic-view-of-the-black-desert-mountains-close-to-Bahariya-Oasis-Egypt-1.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#866041",
+        "rgb": [
+          134,
+          96,
+          65
+        ],
+        "percent": 50.4095,
+        "pixel_count": 100645
+      },
+      {
+        "rank": 2,
+        "hex": "#6E9DC7",
+        "rgb": [
+          110,
+          157,
+          199
+        ],
+        "percent": 49.5905,
+        "pixel_count": 99010
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A0734C",
+        "rgb": [
+          160,
+          115,
+          76
+        ],
+        "percent": 34.2315,
+        "pixel_count": 68345
+      },
+      {
+        "rank": 2,
+        "hex": "#8DB2CD",
+        "rgb": [
+          141,
+          178,
+          205
+        ],
+        "percent": 26.1721,
+        "pixel_count": 52254
+      },
+      {
+        "rank": 3,
+        "hex": "#4B86C1",
+        "rgb": [
+          75,
+          134,
+          193
+        ],
+        "percent": 23.4184,
+        "pixel_count": 46756
+      },
+      {
+        "rank": 4,
+        "hex": "#4F382A",
+        "rgb": [
+          79,
+          56,
+          42
+        ],
+        "percent": 16.1779,
+        "pixel_count": 32300
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#866041",
+          "rgb": [
+            134,
+            96,
+            65
+          ],
+          "percent": 50.4095,
+          "pixel_count": 100645
+        },
+        {
+          "rank": 2,
+          "hex": "#6E9DC7",
+          "rgb": [
+            110,
+            157,
+            199
+          ],
+          "percent": 49.5905,
+          "pixel_count": 99010
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Phoenix_dactylifera1.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Phoenix_dactylifera1.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#7F7C5B",
+        "rgb": [
+          127,
+          124,
+          91
+        ],
+        "percent": 89.9776,
+        "pixel_count": 179678
+      },
+      {
+        "rank": 2,
+        "hex": "#F9FEFE",
+        "rgb": [
+          249,
+          254,
+          254
+        ],
+        "percent": 10.0224,
+        "pixel_count": 20014
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#9B9571",
+        "rgb": [
+          155,
+          149,
+          113
+        ],
+        "percent": 63.2759,
+        "pixel_count": 126357
+      },
+      {
+        "rank": 2,
+        "hex": "#3D4026",
+        "rgb": [
+          61,
+          64,
+          38
+        ],
+        "percent": 26.7016,
+        "pixel_count": 53321
+      },
+      {
+        "rank": 3,
+        "hex": "#F9FEFE",
+        "rgb": [
+          249,
+          254,
+          254
+        ],
+        "percent": 10.0224,
+        "pixel_count": 20014
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#7F7C5B",
+          "rgb": [
+            127,
+            124,
+            91
+          ],
+          "percent": 89.9776,
+          "pixel_count": 179678
+        },
+        {
+          "rank": 2,
+          "hex": "#F9FEFE",
+          "rgb": [
+            249,
+            254,
+            254
+          ],
+          "percent": 10.0224,
+          "pixel_count": 20014
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Picture-of-the-Tourist-in-the-White-Desert-Protected-Area-in-the-Sahara-Farafra-Oasis.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Picture-of-the-Tourist-in-the-White-Desert-Protected-Area-in-the-Sahara-Farafra-Oasis.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#B57E43",
+        "rgb": [
+          181,
+          126,
+          67
+        ],
+        "percent": 46.2383,
+        "pixel_count": 92024
+      },
+      {
+        "rank": 2,
+        "hex": "#B8A8A4",
+        "rgb": [
+          184,
+          168,
+          164
+        ],
+        "percent": 26.1083,
+        "pixel_count": 51961
+      },
+      {
+        "rank": 3,
+        "hex": "#154874",
+        "rgb": [
+          21,
+          72,
+          116
+        ],
+        "percent": 15.0627,
+        "pixel_count": 29978
+      },
+      {
+        "rank": 4,
+        "hex": "#9DAFCF",
+        "rgb": [
+          157,
+          175,
+          207
+        ],
+        "percent": 12.5906,
+        "pixel_count": 25058
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#CB8F4B",
+        "rgb": [
+          203,
+          143,
+          75
+        ],
+        "percent": 34.2716,
+        "pixel_count": 68425
+      },
+      {
+        "rank": 2,
+        "hex": "#B8A8A4",
+        "rgb": [
+          184,
+          168,
+          164
+        ],
+        "percent": 26.0254,
+        "pixel_count": 51961
+      },
+      {
+        "rank": 3,
+        "hex": "#154874",
+        "rgb": [
+          21,
+          72,
+          116
+        ],
+        "percent": 15.0149,
+        "pixel_count": 29978
+      },
+      {
+        "rank": 4,
+        "hex": "#9DAFCF",
+        "rgb": [
+          157,
+          175,
+          207
+        ],
+        "percent": 12.5506,
+        "pixel_count": 25058
+      },
+      {
+        "rank": 5,
+        "hex": "#754C2B",
+        "rgb": [
+          117,
+          76,
+          43
+        ],
+        "percent": 11.8199,
+        "pixel_count": 23599
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#B57E43",
+          "rgb": [
+            181,
+            126,
+            67
+          ],
+          "percent": 46.2383,
+          "pixel_count": 92024
+        },
+        {
+          "rank": 2,
+          "hex": "#B8A8A4",
+          "rgb": [
+            184,
+            168,
+            164
+          ],
+          "percent": 26.1083,
+          "pixel_count": 51961
+        },
+        {
+          "rank": 3,
+          "hex": "#154874",
+          "rgb": [
+            21,
+            72,
+            116
+          ],
+          "percent": 15.0627,
+          "pixel_count": 29978
+        },
+        {
+          "rank": 4,
+          "hex": "#9DAFCF",
+          "rgb": [
+            157,
+            175,
+            207
+          ],
+          "percent": 12.5906,
+          "pixel_count": 25058
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Red_sea_stony_beach_taba_egypt.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Red_sea_stony_beach_taba_egypt.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#7E8D9B",
+        "rgb": [
+          126,
+          141,
+          155
+        ],
+        "percent": 62.8097,
+        "pixel_count": 125426
+      },
+      {
+        "rank": 2,
+        "hex": "#675444",
+        "rgb": [
+          103,
+          84,
+          68
+        ],
+        "percent": 37.1903,
+        "pixel_count": 74266
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8C9FB2",
+        "rgb": [
+          140,
+          159,
+          178
+        ],
+        "percent": 44.9878,
+        "pixel_count": 89837
+      },
+      {
+        "rank": 2,
+        "hex": "#52453E",
+        "rgb": [
+          82,
+          69,
+          62
+        ],
+        "percent": 28.603,
+        "pixel_count": 57118
+      },
+      {
+        "rank": 3,
+        "hex": "#5C5F60",
+        "rgb": [
+          92,
+          95,
+          96
+        ],
+        "percent": 17.8219,
+        "pixel_count": 35589
+      },
+      {
+        "rank": 4,
+        "hex": "#AF8456",
+        "rgb": [
+          175,
+          132,
+          86
+        ],
+        "percent": 8.5872,
+        "pixel_count": 17148
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#7E8D9B",
+          "rgb": [
+            126,
+            141,
+            155
+          ],
+          "percent": 62.8097,
+          "pixel_count": 125426
+        },
+        {
+          "rank": 2,
+          "hex": "#675444",
+          "rgb": [
+            103,
+            84,
+            68
+          ],
+          "percent": 37.1903,
+          "pixel_count": 74266
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Reflections-on-the-water-at-the-el-Kharga-Oasis-Egypt-Western-Desert.jpg.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Reflections-on-the-water-at-the-el-Kharga-Oasis-Egypt-Western-Desert.jpg.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#608BB4",
+        "rgb": [
+          96,
+          139,
+          180
+        ],
+        "percent": 40.1527,
+        "pixel_count": 79722
+      },
+      {
+        "rank": 2,
+        "hex": "#0F150A",
+        "rgb": [
+          15,
+          21,
+          10
+        ],
+        "percent": 30.6572,
+        "pixel_count": 60869
+      },
+      {
+        "rank": 3,
+        "hex": "#4C4C14",
+        "rgb": [
+          76,
+          76,
+          20
+        ],
+        "percent": 17.3385,
+        "pixel_count": 34425
+      },
+      {
+        "rank": 4,
+        "hex": "#A57A33",
+        "rgb": [
+          165,
+          122,
+          51
+        ],
+        "percent": 6.3385,
+        "pixel_count": 12585
+      },
+      {
+        "rank": 5,
+        "hex": "#4D625F",
+        "rgb": [
+          77,
+          98,
+          95
+        ],
+        "percent": 5.5131,
+        "pixel_count": 10946
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#0F150A",
+        "rgb": [
+          15,
+          21,
+          10
+        ],
+        "percent": 30.5011,
+        "pixel_count": 60869
+      },
+      {
+        "rank": 2,
+        "hex": "#7DAAD2",
+        "rgb": [
+          125,
+          170,
+          210
+        ],
+        "percent": 21.9976,
+        "pixel_count": 43899
+      },
+      {
+        "rank": 3,
+        "hex": "#3C668F",
+        "rgb": [
+          60,
+          102,
+          143
+        ],
+        "percent": 17.9507,
+        "pixel_count": 35823
+      },
+      {
+        "rank": 4,
+        "hex": "#4C4C14",
+        "rgb": [
+          76,
+          76,
+          20
+        ],
+        "percent": 17.2502,
+        "pixel_count": 34425
+      },
+      {
+        "rank": 5,
+        "hex": "#A57A33",
+        "rgb": [
+          165,
+          122,
+          51
+        ],
+        "percent": 6.3063,
+        "pixel_count": 12585
+      },
+      {
+        "rank": 6,
+        "hex": "#4D625F",
+        "rgb": [
+          77,
+          98,
+          95
+        ],
+        "percent": 5.485,
+        "pixel_count": 10946
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#608BB4",
+          "rgb": [
+            96,
+            139,
+            180
+          ],
+          "percent": 40.1527,
+          "pixel_count": 79722
+        },
+        {
+          "rank": 2,
+          "hex": "#0F150A",
+          "rgb": [
+            15,
+            21,
+            10
+          ],
+          "percent": 30.6572,
+          "pixel_count": 60869
+        },
+        {
+          "rank": 3,
+          "hex": "#4C4C14",
+          "rgb": [
+            76,
+            76,
+            20
+          ],
+          "percent": 17.3385,
+          "pixel_count": 34425
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#A57A33",
+          "rgb": [
+            165,
+            122,
+            51
+          ],
+          "percent": 6.3385,
+          "pixel_count": 12585
+        },
+        {
+          "rank": 2,
+          "hex": "#4D625F",
+          "rgb": [
+            77,
+            98,
+            95
+          ],
+          "percent": 5.5131,
+          "pixel_count": 10946
+        }
+      ]
+    }
+  },
+  {
+    "file": "Sinai_R01.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/Sinai_R01.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A89373",
+        "rgb": [
+          168,
+          147,
+          115
+        ],
+        "percent": 60.0765,
+        "pixel_count": 119968
+      },
+      {
+        "rank": 2,
+        "hex": "#6F8DA7",
+        "rgb": [
+          111,
+          141,
+          167
+        ],
+        "percent": 39.9235,
+        "pixel_count": 79724
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#BEAB8A",
+        "rgb": [
+          190,
+          171,
+          138
+        ],
+        "percent": 36.7281,
+        "pixel_count": 73343
+      },
+      {
+        "rank": 2,
+        "hex": "#866C50",
+        "rgb": [
+          134,
+          108,
+          80
+        ],
+        "percent": 23.3485,
+        "pixel_count": 46625
+      },
+      {
+        "rank": 3,
+        "hex": "#587C9C",
+        "rgb": [
+          88,
+          124,
+          156
+        ],
+        "percent": 23.1987,
+        "pixel_count": 46326
+      },
+      {
+        "rank": 4,
+        "hex": "#8EA4B6",
+        "rgb": [
+          142,
+          164,
+          182
+        ],
+        "percent": 16.7248,
+        "pixel_count": 33398
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A89373",
+          "rgb": [
+            168,
+            147,
+            115
+          ],
+          "percent": 60.0765,
+          "pixel_count": 119968
+        },
+        {
+          "rank": 2,
+          "hex": "#6F8DA7",
+          "rgb": [
+            111,
+            141,
+            167
+          ],
+          "percent": 39.9235,
+          "pixel_count": 79724
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "SiwaSandDunes.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/SiwaSandDunes.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C18C5F",
+        "rgb": [
+          193,
+          140,
+          95
+        ],
+        "percent": 62.2794,
+        "pixel_count": 124344
+      },
+      {
+        "rank": 2,
+        "hex": "#B6BABF",
+        "rgb": [
+          182,
+          186,
+          191
+        ],
+        "percent": 35.4146,
+        "pixel_count": 70707
+      },
+      {
+        "rank": 3,
+        "hex": "#4B3D37",
+        "rgb": [
+          75,
+          61,
+          55
+        ],
+        "percent": 2.306,
+        "pixel_count": 4604
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C18C5F",
+        "rgb": [
+          193,
+          140,
+          95
+        ],
+        "percent": 62.2794,
+        "pixel_count": 124344
+      },
+      {
+        "rank": 2,
+        "hex": "#B6BABF",
+        "rgb": [
+          182,
+          186,
+          191
+        ],
+        "percent": 35.4146,
+        "pixel_count": 70707
+      },
+      {
+        "rank": 3,
+        "hex": "#4B3D37",
+        "rgb": [
+          75,
+          61,
+          55
+        ],
+        "percent": 2.306,
+        "pixel_count": 4604
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C18C5F",
+          "rgb": [
+            193,
+            140,
+            95
+          ],
+          "percent": 62.2794,
+          "pixel_count": 124344
+        },
+        {
+          "rank": 2,
+          "hex": "#B6BABF",
+          "rgb": [
+            182,
+            186,
+            191
+          ],
+          "percent": 35.4146,
+          "pixel_count": 70707
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#4B3D37",
+          "rgb": [
+            75,
+            61,
+            55
+          ],
+          "percent": 2.306,
+          "pixel_count": 4604
+        }
+      ]
+    }
+  },
+  {
+    "file": "default-2024-03-01T081909.915.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/default-2024-03-01T081909.915.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8B714A",
+        "rgb": [
+          139,
+          113,
+          74
+        ],
+        "percent": 57.3405,
+        "pixel_count": 113955
+      },
+      {
+        "rank": 2,
+        "hex": "#36392F",
+        "rgb": [
+          54,
+          57,
+          47
+        ],
+        "percent": 42.6595,
+        "pixel_count": 84779
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#36392F",
+        "rgb": [
+          54,
+          57,
+          47
+        ],
+        "percent": 42.4409,
+        "pixel_count": 84779
+      },
+      {
+        "rank": 2,
+        "hex": "#5A4A2C",
+        "rgb": [
+          90,
+          74,
+          44
+        ],
+        "percent": 23.8549,
+        "pixel_count": 47652
+      },
+      {
+        "rank": 3,
+        "hex": "#927243",
+        "rgb": [
+          146,
+          114,
+          67
+        ],
+        "percent": 17.6248,
+        "pixel_count": 35207
+      },
+      {
+        "rank": 4,
+        "hex": "#CFAD81",
+        "rgb": [
+          207,
+          173,
+          129
+        ],
+        "percent": 15.5668,
+        "pixel_count": 31096
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8B714A",
+          "rgb": [
+            139,
+            113,
+            74
+          ],
+          "percent": 57.3405,
+          "pixel_count": 113955
+        },
+        {
+          "rank": 2,
+          "hex": "#36392F",
+          "rgb": [
+            54,
+            57,
+            47
+          ],
+          "percent": 42.6595,
+          "pixel_count": 84779
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "default-2024-03-01T082128.656-aspect-ratio-12-5.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/default-2024-03-01T082128.656-aspect-ratio-12-5.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8D734C",
+        "rgb": [
+          141,
+          115,
+          76
+        ],
+        "percent": 63.8543,
+        "pixel_count": 127259
+      },
+      {
+        "rank": 2,
+        "hex": "#6B8DAF",
+        "rgb": [
+          107,
+          141,
+          175
+        ],
+        "percent": 36.1457,
+        "pixel_count": 72037
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#6B8DAF",
+        "rgb": [
+          107,
+          141,
+          175
+        ],
+        "percent": 36.1457,
+        "pixel_count": 72037
+      },
+      {
+        "rank": 2,
+        "hex": "#BD9B6E",
+        "rgb": [
+          189,
+          155,
+          110
+        ],
+        "percent": 31.809,
+        "pixel_count": 63394
+      },
+      {
+        "rank": 3,
+        "hex": "#6D5A34",
+        "rgb": [
+          109,
+          90,
+          52
+        ],
+        "percent": 24.019,
+        "pixel_count": 47869
+      },
+      {
+        "rank": 4,
+        "hex": "#2D200E",
+        "rgb": [
+          45,
+          32,
+          14
+        ],
+        "percent": 8.0263,
+        "pixel_count": 15996
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8D734C",
+          "rgb": [
+            141,
+            115,
+            76
+          ],
+          "percent": 63.8543,
+          "pixel_count": 127259
+        },
+        {
+          "rank": 2,
+          "hex": "#6B8DAF",
+          "rgb": [
+            107,
+            141,
+            175
+          ],
+          "percent": 36.1457,
+          "pixel_count": 72037
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "desierto-arena-egipto-sahara.jpg.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/desierto-arena-egipto-sahara.jpg.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#D3A574",
+        "rgb": [
+          211,
+          165,
+          116
+        ],
+        "percent": 82.036,
+        "pixel_count": 163789
+      },
+      {
+        "rank": 2,
+        "hex": "#89929E",
+        "rgb": [
+          137,
+          146,
+          158
+        ],
+        "percent": 17.964,
+        "pixel_count": 35866
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#DCAD7A",
+        "rgb": [
+          220,
+          173,
+          122
+        ],
+        "percent": 65.1734,
+        "pixel_count": 130122
+      },
+      {
+        "rank": 2,
+        "hex": "#89929E",
+        "rgb": [
+          137,
+          146,
+          158
+        ],
+        "percent": 17.964,
+        "pixel_count": 35866
+      },
+      {
+        "rank": 3,
+        "hex": "#AF865F",
+        "rgb": [
+          175,
+          134,
+          95
+        ],
+        "percent": 16.8626,
+        "pixel_count": 33667
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#D3A574",
+          "rgb": [
+            211,
+            165,
+            116
+          ],
+          "percent": 82.036,
+          "pixel_count": 163789
+        },
+        {
+          "rank": 2,
+          "hex": "#89929E",
+          "rgb": [
+            137,
+            146,
+            158
+          ],
+          "percent": 17.964,
+          "pixel_count": 35866
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "experiencia-naturaleza-rio-nilo.jpg.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/experiencia-naturaleza-rio-nilo.jpg.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#453527",
+        "rgb": [
+          69,
+          53,
+          39
+        ],
+        "percent": 76.0712,
+        "pixel_count": 151880
+      },
+      {
+        "rank": 2,
+        "hex": "#BC8041",
+        "rgb": [
+          188,
+          128,
+          65
+        ],
+        "percent": 23.9288,
+        "pixel_count": 47775
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#2D251E",
+        "rgb": [
+          45,
+          37,
+          30
+        ],
+        "percent": 47.2009,
+        "pixel_count": 94239
+      },
+      {
+        "rank": 2,
+        "hex": "#6D4F35",
+        "rgb": [
+          109,
+          79,
+          53
+        ],
+        "percent": 28.8703,
+        "pixel_count": 57641
+      },
+      {
+        "rank": 3,
+        "hex": "#BC8041",
+        "rgb": [
+          188,
+          128,
+          65
+        ],
+        "percent": 23.9288,
+        "pixel_count": 47775
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#453527",
+          "rgb": [
+            69,
+            53,
+            39
+          ],
+          "percent": 76.0712,
+          "pixel_count": 151880
+        },
+        {
+          "rank": 2,
+          "hex": "#BC8041",
+          "rgb": [
+            188,
+            128,
+            65
+          ],
+          "percent": 23.9288,
+          "pixel_count": 47775
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "fit.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/fit.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A68970",
+        "rgb": [
+          166,
+          137,
+          112
+        ],
+        "percent": 73.3771,
+        "pixel_count": 146501
+      },
+      {
+        "rank": 2,
+        "hex": "#B0AAC0",
+        "rgb": [
+          176,
+          170,
+          192
+        ],
+        "percent": 26.6229,
+        "pixel_count": 53154
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#D4AA8E",
+        "rgb": [
+          212,
+          170,
+          142
+        ],
+        "percent": 43.2641,
+        "pixel_count": 86379
+      },
+      {
+        "rank": 2,
+        "hex": "#645A44",
+        "rgb": [
+          100,
+          90,
+          68
+        ],
+        "percent": 30.1129,
+        "pixel_count": 60122
+      },
+      {
+        "rank": 3,
+        "hex": "#B0AAC0",
+        "rgb": [
+          176,
+          170,
+          192
+        ],
+        "percent": 26.6229,
+        "pixel_count": 53154
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A68970",
+          "rgb": [
+            166,
+            137,
+            112
+          ],
+          "percent": 73.3771,
+          "pixel_count": 146501
+        },
+        {
+          "rank": 2,
+          "hex": "#B0AAC0",
+          "rgb": [
+            176,
+            170,
+            192
+          ],
+          "percent": 26.6229,
+          "pixel_count": 53154
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "manantial-natural-siwa.jpg.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/manantial-natural-siwa.jpg.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#87A393",
+        "rgb": [
+          135,
+          163,
+          147
+        ],
+        "percent": 54.805,
+        "pixel_count": 109421
+      },
+      {
+        "rank": 2,
+        "hex": "#62C1EB",
+        "rgb": [
+          98,
+          193,
+          235
+        ],
+        "percent": 45.195,
+        "pixel_count": 90234
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#87A393",
+        "rgb": [
+          135,
+          163,
+          147
+        ],
+        "percent": 54.805,
+        "pixel_count": 109421
+      },
+      {
+        "rank": 2,
+        "hex": "#62C1EB",
+        "rgb": [
+          98,
+          193,
+          235
+        ],
+        "percent": 45.195,
+        "pixel_count": 90234
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#87A393",
+          "rgb": [
+            135,
+            163,
+            147
+          ],
+          "percent": 54.805,
+          "pixel_count": 109421
+        },
+        {
+          "rank": 2,
+          "hex": "#62C1EB",
+          "rgb": [
+            98,
+            193,
+            235
+          ],
+          "percent": 45.195,
+          "pixel_count": 90234
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "samwa-plant.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/samwa-plant.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#737044",
+        "rgb": [
+          115,
+          112,
+          68
+        ],
+        "percent": 70.1411,
+        "pixel_count": 140142
+      },
+      {
+        "rank": 2,
+        "hex": "#B69F83",
+        "rgb": [
+          182,
+          159,
+          131
+        ],
+        "percent": 29.8589,
+        "pixel_count": 59658
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#403D20",
+        "rgb": [
+          64,
+          61,
+          32
+        ],
+        "percent": 30.7528,
+        "pixel_count": 61444
+      },
+      {
+        "rank": 2,
+        "hex": "#B2AD75",
+        "rgb": [
+          178,
+          173,
+          117
+        ],
+        "percent": 22.49,
+        "pixel_count": 44935
+      },
+      {
+        "rank": 3,
+        "hex": "#7C7A46",
+        "rgb": [
+          124,
+          122,
+          70
+        ],
+        "percent": 16.8984,
+        "pixel_count": 33763
+      },
+      {
+        "rank": 4,
+        "hex": "#D9C2A4",
+        "rgb": [
+          217,
+          194,
+          164
+        ],
+        "percent": 16.6211,
+        "pixel_count": 33209
+      },
+      {
+        "rank": 5,
+        "hex": "#897459",
+        "rgb": [
+          137,
+          116,
+          89
+        ],
+        "percent": 13.2377,
+        "pixel_count": 26449
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#737044",
+          "rgb": [
+            115,
+            112,
+            68
+          ],
+          "percent": 70.1411,
+          "pixel_count": 140142
+        },
+        {
+          "rank": 2,
+          "hex": "#B69F83",
+          "rgb": [
+            182,
+            159,
+            131
+          ],
+          "percent": 29.8589,
+          "pixel_count": 59658
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "shutterstock_1182598495.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/shutterstock_1182598495.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#997439",
+        "rgb": [
+          153,
+          116,
+          57
+        ],
+        "percent": 59.423,
+        "pixel_count": 118644
+      },
+      {
+        "rank": 2,
+        "hex": "#403324",
+        "rgb": [
+          64,
+          51,
+          36
+        ],
+        "percent": 32.663,
+        "pixel_count": 65215
+      },
+      {
+        "rank": 3,
+        "hex": "#A6B8C3",
+        "rgb": [
+          166,
+          184,
+          195
+        ],
+        "percent": 7.914,
+        "pixel_count": 15801
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#403324",
+        "rgb": [
+          64,
+          51,
+          36
+        ],
+        "percent": 32.663,
+        "pixel_count": 65215
+      },
+      {
+        "rank": 2,
+        "hex": "#CCA75B",
+        "rgb": [
+          204,
+          167,
+          91
+        ],
+        "percent": 25.3821,
+        "pixel_count": 50678
+      },
+      {
+        "rank": 3,
+        "hex": "#88642B",
+        "rgb": [
+          136,
+          100,
+          43
+        ],
+        "percent": 18.7153,
+        "pixel_count": 37367
+      },
+      {
+        "rank": 4,
+        "hex": "#593512",
+        "rgb": [
+          89,
+          53,
+          18
+        ],
+        "percent": 15.3256,
+        "pixel_count": 30599
+      },
+      {
+        "rank": 5,
+        "hex": "#A6B8C3",
+        "rgb": [
+          166,
+          184,
+          195
+        ],
+        "percent": 7.914,
+        "pixel_count": 15801
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#997439",
+          "rgb": [
+            153,
+            116,
+            57
+          ],
+          "percent": 59.423,
+          "pixel_count": 118644
+        },
+        {
+          "rank": 2,
+          "hex": "#403324",
+          "rgb": [
+            64,
+            51,
+            36
+          ],
+          "percent": 32.663,
+          "pixel_count": 65215
+        },
+        {
+          "rank": 3,
+          "hex": "#A6B8C3",
+          "rgb": [
+            166,
+            184,
+            195
+          ],
+          "percent": 7.914,
+          "pixel_count": 15801
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "springtime-yummies-2.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/springtime-yummies-2.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8C7F69",
+        "rgb": [
+          140,
+          127,
+          105
+        ],
+        "percent": 67.8515,
+        "pixel_count": 135469
+      },
+      {
+        "rank": 2,
+        "hex": "#7DA2DB",
+        "rgb": [
+          125,
+          162,
+          219
+        ],
+        "percent": 24.8388,
+        "pixel_count": 49592
+      },
+      {
+        "rank": 3,
+        "hex": "#251812",
+        "rgb": [
+          37,
+          24,
+          18
+        ],
+        "percent": 7.3096,
+        "pixel_count": 14594
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#746551",
+        "rgb": [
+          116,
+          101,
+          81
+        ],
+        "percent": 41.6078,
+        "pixel_count": 83072
+      },
+      {
+        "rank": 2,
+        "hex": "#B2A790",
+        "rgb": [
+          178,
+          167,
+          144
+        ],
+        "percent": 26.2438,
+        "pixel_count": 52397
+      },
+      {
+        "rank": 3,
+        "hex": "#7DA2DB",
+        "rgb": [
+          125,
+          162,
+          219
+        ],
+        "percent": 24.8388,
+        "pixel_count": 49592
+      },
+      {
+        "rank": 4,
+        "hex": "#251812",
+        "rgb": [
+          37,
+          24,
+          18
+        ],
+        "percent": 7.3096,
+        "pixel_count": 14594
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8C7F69",
+          "rgb": [
+            140,
+            127,
+            105
+          ],
+          "percent": 67.8515,
+          "pixel_count": 135469
+        },
+        {
+          "rank": 2,
+          "hex": "#7DA2DB",
+          "rgb": [
+            125,
+            162,
+            219
+          ],
+          "percent": 24.8388,
+          "pixel_count": 49592
+        },
+        {
+          "rank": 3,
+          "hex": "#251812",
+          "rgb": [
+            37,
+            24,
+            18
+          ],
+          "percent": 7.3096,
+          "pixel_count": 14594
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "stand-sugarcane-west-bank-Nile-River-Dandarah.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature egypt/stand-sugarcane-west-bank-Nile-River-Dandarah.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#505942",
+        "rgb": [
+          80,
+          89,
+          66
+        ],
+        "percent": 45.9742,
+        "pixel_count": 91873
+      },
+      {
+        "rank": 2,
+        "hex": "#C5AD99",
+        "rgb": [
+          197,
+          173,
+          153
+        ],
+        "percent": 20.8741,
+        "pixel_count": 41714
+      },
+      {
+        "rank": 3,
+        "hex": "#31639B",
+        "rgb": [
+          49,
+          99,
+          155
+        ],
+        "percent": 18.1634,
+        "pixel_count": 36297
+      },
+      {
+        "rank": 4,
+        "hex": "#A4B5DA",
+        "rgb": [
+          164,
+          181,
+          218
+        ],
+        "percent": 14.9883,
+        "pixel_count": 29952
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#505942",
+        "rgb": [
+          80,
+          89,
+          66
+        ],
+        "percent": 45.9742,
+        "pixel_count": 91873
+      },
+      {
+        "rank": 2,
+        "hex": "#C5AD99",
+        "rgb": [
+          197,
+          173,
+          153
+        ],
+        "percent": 20.8741,
+        "pixel_count": 41714
+      },
+      {
+        "rank": 3,
+        "hex": "#31639B",
+        "rgb": [
+          49,
+          99,
+          155
+        ],
+        "percent": 18.1634,
+        "pixel_count": 36297
+      },
+      {
+        "rank": 4,
+        "hex": "#A4B5DA",
+        "rgb": [
+          164,
+          181,
+          218
+        ],
+        "percent": 14.9883,
+        "pixel_count": 29952
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#505942",
+          "rgb": [
+            80,
+            89,
+            66
+          ],
+          "percent": 45.9742,
+          "pixel_count": 91873
+        },
+        {
+          "rank": 2,
+          "hex": "#C5AD99",
+          "rgb": [
+            197,
+            173,
+            153
+          ],
+          "percent": 20.8741,
+          "pixel_count": 41714
+        },
+        {
+          "rank": 3,
+          "hex": "#31639B",
+          "rgb": [
+            49,
+            99,
+            155
+          ],
+          "percent": 18.1634,
+          "pixel_count": 36297
+        },
+        {
+          "rank": 4,
+          "hex": "#A4B5DA",
+          "rgb": [
+            164,
+            181,
+            218
+          ],
+          "percent": 14.9883,
+          "pixel_count": 29952
+        }
+      ],
+      "secondary": []
+    }
+  }
+]

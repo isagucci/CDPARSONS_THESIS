@@ -1,0 +1,4624 @@
+[
+  {
+    "file": "1224296.avif",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /1224296.avif",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#625142",
+        "rgb": [
+          98,
+          81,
+          66
+        ],
+        "percent": 76.2089,
+        "pixel_count": 151299
+      },
+      {
+        "rank": 2,
+        "hex": "#F9FBFD",
+        "rgb": [
+          249,
+          251,
+          253
+        ],
+        "percent": 20.9996,
+        "pixel_count": 41691
+      },
+      {
+        "rank": 3,
+        "hex": "#85894E",
+        "rgb": [
+          133,
+          137,
+          78
+        ],
+        "percent": 2.7915,
+        "pixel_count": 5542
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#625142",
+        "rgb": [
+          98,
+          81,
+          66
+        ],
+        "percent": 75.7783,
+        "pixel_count": 151299
+      },
+      {
+        "rank": 2,
+        "hex": "#F9FBFD",
+        "rgb": [
+          249,
+          251,
+          253
+        ],
+        "percent": 20.881,
+        "pixel_count": 41691
+      },
+      {
+        "rank": 3,
+        "hex": "#85894E",
+        "rgb": [
+          133,
+          137,
+          78
+        ],
+        "percent": 2.7757,
+        "pixel_count": 5542
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#625142",
+          "rgb": [
+            98,
+            81,
+            66
+          ],
+          "percent": 76.2089,
+          "pixel_count": 151299
+        },
+        {
+          "rank": 2,
+          "hex": "#F9FBFD",
+          "rgb": [
+            249,
+            251,
+            253
+          ],
+          "percent": 20.9996,
+          "pixel_count": 41691
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#85894E",
+          "rgb": [
+            133,
+            137,
+            78
+          ],
+          "percent": 2.7915,
+          "pixel_count": 5542
+        }
+      ]
+    }
+  },
+  {
+    "file": "13-3-10602828.avif",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /13-3-10602828.avif",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#326CCD",
+        "rgb": [
+          50,
+          108,
+          205
+        ],
+        "percent": 100.0,
+        "pixel_count": 199692
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#2A64C5",
+        "rgb": [
+          42,
+          100,
+          197
+        ],
+        "percent": 81.1615,
+        "pixel_count": 162073
+      },
+      {
+        "rank": 2,
+        "hex": "#5390EF",
+        "rgb": [
+          83,
+          144,
+          239
+        ],
+        "percent": 18.8385,
+        "pixel_count": 37619
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#326CCD",
+          "rgb": [
+            50,
+            108,
+            205
+          ],
+          "percent": 100.0,
+          "pixel_count": 199692
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "13-3-6883603.avif",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /13-3-6883603.avif",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#3846B0",
+        "rgb": [
+          56,
+          70,
+          176
+        ],
+        "percent": 100.0,
+        "pixel_count": 198251
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3340AB",
+        "rgb": [
+          51,
+          64,
+          171
+        ],
+        "percent": 48.0442,
+        "pixel_count": 95925
+      },
+      {
+        "rank": 2,
+        "hex": "#4B60DA",
+        "rgb": [
+          75,
+          96,
+          218
+        ],
+        "percent": 35.5685,
+        "pixel_count": 71016
+      },
+      {
+        "rank": 3,
+        "hex": "#1F1E60",
+        "rgb": [
+          31,
+          30,
+          96
+        ],
+        "percent": 15.6817,
+        "pixel_count": 31310
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#3846B0",
+          "rgb": [
+            56,
+            70,
+            176
+          ],
+          "percent": 100.0,
+          "pixel_count": 198251
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "2_0104_14_35.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /2_0104_14_35.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#145CB6",
+        "rgb": [
+          20,
+          92,
+          182
+        ],
+        "percent": 100.0,
+        "pixel_count": 198395
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#0243A5",
+        "rgb": [
+          2,
+          67,
+          165
+        ],
+        "percent": 48.7842,
+        "pixel_count": 97306
+      },
+      {
+        "rank": 2,
+        "hex": "#1265BF",
+        "rgb": [
+          18,
+          101,
+          191
+        ],
+        "percent": 28.637,
+        "pixel_count": 57120
+      },
+      {
+        "rank": 3,
+        "hex": "#3E89D2",
+        "rgb": [
+          62,
+          137,
+          210
+        ],
+        "percent": 22.0438,
+        "pixel_count": 43969
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#145CB6",
+          "rgb": [
+            20,
+            92,
+            182
+          ],
+          "percent": 100.0,
+          "pixel_count": 198395
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "39-122934465a7dd6c56692.avif",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /39-122934465a7dd6c56692.avif",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#5A8AD6",
+        "rgb": [
+          90,
+          138,
+          214
+        ],
+        "percent": 100.0,
+        "pixel_count": 199614
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#5A8AD6",
+        "rgb": [
+          90,
+          138,
+          214
+        ],
+        "percent": 100.0,
+        "pixel_count": 199614
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#5A8AD6",
+          "rgb": [
+            90,
+            138,
+            214
+          ],
+          "percent": 100.0,
+          "pixel_count": 199614
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "39-12629056602c05badafd.avif",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /39-12629056602c05badafd.avif",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#352E2F",
+        "rgb": [
+          53,
+          46,
+          47
+        ],
+        "percent": 85.3321,
+        "pixel_count": 170374
+      },
+      {
+        "rank": 2,
+        "hex": "#F6D5CA",
+        "rgb": [
+          246,
+          213,
+          202
+        ],
+        "percent": 14.6679,
+        "pixel_count": 29286
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#251F20",
+        "rgb": [
+          37,
+          31,
+          32
+        ],
+        "percent": 57.4457,
+        "pixel_count": 114696
+      },
+      {
+        "rank": 2,
+        "hex": "#564D4E",
+        "rgb": [
+          86,
+          77,
+          78
+        ],
+        "percent": 27.8864,
+        "pixel_count": 55678
+      },
+      {
+        "rank": 3,
+        "hex": "#F6D5CA",
+        "rgb": [
+          246,
+          213,
+          202
+        ],
+        "percent": 14.6679,
+        "pixel_count": 29286
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#352E2F",
+          "rgb": [
+            53,
+            46,
+            47
+          ],
+          "percent": 85.3321,
+          "pixel_count": 170374
+        },
+        {
+          "rank": 2,
+          "hex": "#F6D5CA",
+          "rgb": [
+            246,
+            213,
+            202
+          ],
+          "percent": 14.6679,
+          "pixel_count": 29286
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "39-788240605c666995761.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /39-788240605c666995761.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#5D4C48",
+        "rgb": [
+          93,
+          76,
+          72
+        ],
+        "percent": 91.2646,
+        "pixel_count": 182219
+      },
+      {
+        "rank": 2,
+        "hex": "#FEFEFE",
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "percent": 8.7354,
+        "pixel_count": 17441
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#57443F",
+        "rgb": [
+          87,
+          68,
+          63
+        ],
+        "percent": 47.9961,
+        "pixel_count": 95829
+      },
+      {
+        "rank": 2,
+        "hex": "#82706C",
+        "rgb": [
+          130,
+          112,
+          108
+        ],
+        "percent": 29.3369,
+        "pixel_count": 58574
+      },
+      {
+        "rank": 3,
+        "hex": "#271C19",
+        "rgb": [
+          39,
+          28,
+          25
+        ],
+        "percent": 13.9317,
+        "pixel_count": 27816
+      },
+      {
+        "rank": 4,
+        "hex": "#FEFEFE",
+        "rgb": [
+          254,
+          254,
+          254
+        ],
+        "percent": 8.7354,
+        "pixel_count": 17441
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#5D4C48",
+          "rgb": [
+            93,
+            76,
+            72
+          ],
+          "percent": 91.2646,
+          "pixel_count": 182219
+        },
+        {
+          "rank": 2,
+          "hex": "#FEFEFE",
+          "rgb": [
+            254,
+            254,
+            254
+          ],
+          "percent": 8.7354,
+          "pixel_count": 17441
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "62ce75b743df0.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /62ce75b743df0.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#857E53",
+        "rgb": [
+          133,
+          126,
+          83
+        ],
+        "percent": 85.9031,
+        "pixel_count": 171296
+      },
+      {
+        "rank": 2,
+        "hex": "#8F6838",
+        "rgb": [
+          143,
+          104,
+          56
+        ],
+        "percent": 14.0969,
+        "pixel_count": 28110
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#85804A",
+        "rgb": [
+          133,
+          128,
+          74
+        ],
+        "percent": 41.3684,
+        "pixel_count": 82491
+      },
+      {
+        "rank": 2,
+        "hex": "#55503B",
+        "rgb": [
+          85,
+          80,
+          59
+        ],
+        "percent": 26.6261,
+        "pixel_count": 53094
+      },
+      {
+        "rank": 3,
+        "hex": "#C8B780",
+        "rgb": [
+          200,
+          183,
+          128
+        ],
+        "percent": 15.4935,
+        "pixel_count": 30895
+      },
+      {
+        "rank": 4,
+        "hex": "#8F6838",
+        "rgb": [
+          143,
+          104,
+          56
+        ],
+        "percent": 14.0969,
+        "pixel_count": 28110
+      },
+      {
+        "rank": 5,
+        "hex": "#F4F0DE",
+        "rgb": [
+          244,
+          240,
+          222
+        ],
+        "percent": 2.4152,
+        "pixel_count": 4816
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#857E53",
+          "rgb": [
+            133,
+            126,
+            83
+          ],
+          "percent": 85.9031,
+          "pixel_count": 171296
+        },
+        {
+          "rank": 2,
+          "hex": "#8F6838",
+          "rgb": [
+            143,
+            104,
+            56
+          ],
+          "percent": 14.0969,
+          "pixel_count": 28110
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Beautiful-snowy-Lapland.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Beautiful-snowy-Lapland.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#AB8E7A",
+        "rgb": [
+          171,
+          142,
+          122
+        ],
+        "percent": 40.3842,
+        "pixel_count": 80629
+      },
+      {
+        "rank": 2,
+        "hex": "#463F4E",
+        "rgb": [
+          70,
+          63,
+          78
+        ],
+        "percent": 31.4392,
+        "pixel_count": 62770
+      },
+      {
+        "rank": 3,
+        "hex": "#7992B8",
+        "rgb": [
+          121,
+          146,
+          184
+        ],
+        "percent": 19.1355,
+        "pixel_count": 38205
+      },
+      {
+        "rank": 4,
+        "hex": "#D1D7D9",
+        "rgb": [
+          209,
+          215,
+          217
+        ],
+        "percent": 9.0411,
+        "pixel_count": 18051
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#463F4E",
+        "rgb": [
+          70,
+          63,
+          78
+        ],
+        "percent": 31.4392,
+        "pixel_count": 62770
+      },
+      {
+        "rank": 2,
+        "hex": "#CEAE8D",
+        "rgb": [
+          206,
+          174,
+          141
+        ],
+        "percent": 20.7934,
+        "pixel_count": 41515
+      },
+      {
+        "rank": 3,
+        "hex": "#866D65",
+        "rgb": [
+          134,
+          109,
+          101
+        ],
+        "percent": 19.5908,
+        "pixel_count": 39114
+      },
+      {
+        "rank": 4,
+        "hex": "#7992B8",
+        "rgb": [
+          121,
+          146,
+          184
+        ],
+        "percent": 19.1355,
+        "pixel_count": 38205
+      },
+      {
+        "rank": 5,
+        "hex": "#D1D7D9",
+        "rgb": [
+          209,
+          215,
+          217
+        ],
+        "percent": 9.0411,
+        "pixel_count": 18051
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#AB8E7A",
+          "rgb": [
+            171,
+            142,
+            122
+          ],
+          "percent": 40.3842,
+          "pixel_count": 80629
+        },
+        {
+          "rank": 2,
+          "hex": "#463F4E",
+          "rgb": [
+            70,
+            63,
+            78
+          ],
+          "percent": 31.4392,
+          "pixel_count": 62770
+        },
+        {
+          "rank": 3,
+          "hex": "#7992B8",
+          "rgb": [
+            121,
+            146,
+            184
+          ],
+          "percent": 19.1355,
+          "pixel_count": 38205
+        },
+        {
+          "rank": 4,
+          "hex": "#D1D7D9",
+          "rgb": [
+            209,
+            215,
+            217
+          ],
+          "percent": 9.0411,
+          "pixel_count": 18051
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "DSC_6507.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /DSC_6507.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#928E8B",
+        "rgb": [
+          146,
+          142,
+          139
+        ],
+        "percent": 52.5872,
+        "pixel_count": 104993
+      },
+      {
+        "rank": 2,
+        "hex": "#3E2F1F",
+        "rgb": [
+          62,
+          47,
+          31
+        ],
+        "percent": 47.4128,
+        "pixel_count": 94662
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#A7A6A6",
+        "rgb": [
+          167,
+          166,
+          166
+        ],
+        "percent": 28.4421,
+        "pixel_count": 56786
+      },
+      {
+        "rank": 2,
+        "hex": "#55402B",
+        "rgb": [
+          85,
+          64,
+          43
+        ],
+        "percent": 26.2753,
+        "pixel_count": 52460
+      },
+      {
+        "rank": 3,
+        "hex": "#7A726B",
+        "rgb": [
+          122,
+          114,
+          107
+        ],
+        "percent": 24.1452,
+        "pixel_count": 48207
+      },
+      {
+        "rank": 4,
+        "hex": "#221911",
+        "rgb": [
+          34,
+          25,
+          17
+        ],
+        "percent": 21.1375,
+        "pixel_count": 42202
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#928E8B",
+          "rgb": [
+            146,
+            142,
+            139
+          ],
+          "percent": 52.5872,
+          "pixel_count": 104993
+        },
+        {
+          "rank": 2,
+          "hex": "#3E2F1F",
+          "rgb": [
+            62,
+            47,
+            31
+          ],
+          "percent": 47.4128,
+          "pixel_count": 94662
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Finland-Wikimedia-Commons.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Finland-Wikimedia-Commons.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#212E1E",
+        "rgb": [
+          33,
+          46,
+          30
+        ],
+        "percent": 25.7244,
+        "pixel_count": 51333
+      },
+      {
+        "rank": 2,
+        "hex": "#586748",
+        "rgb": [
+          88,
+          103,
+          72
+        ],
+        "percent": 25.3811,
+        "pixel_count": 50648
+      },
+      {
+        "rank": 3,
+        "hex": "#75686B",
+        "rgb": [
+          117,
+          104,
+          107
+        ],
+        "percent": 22.9827,
+        "pixel_count": 45862
+      },
+      {
+        "rank": 4,
+        "hex": "#D4E0F4",
+        "rgb": [
+          212,
+          224,
+          244
+        ],
+        "percent": 17.2132,
+        "pixel_count": 34349
+      },
+      {
+        "rank": 5,
+        "hex": "#F8EECD",
+        "rgb": [
+          248,
+          238,
+          205
+        ],
+        "percent": 8.6986,
+        "pixel_count": 17358
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#212E1E",
+        "rgb": [
+          33,
+          46,
+          30
+        ],
+        "percent": 25.7244,
+        "pixel_count": 51333
+      },
+      {
+        "rank": 2,
+        "hex": "#586748",
+        "rgb": [
+          88,
+          103,
+          72
+        ],
+        "percent": 25.3811,
+        "pixel_count": 50648
+      },
+      {
+        "rank": 3,
+        "hex": "#75686B",
+        "rgb": [
+          117,
+          104,
+          107
+        ],
+        "percent": 22.9827,
+        "pixel_count": 45862
+      },
+      {
+        "rank": 4,
+        "hex": "#D4E0F4",
+        "rgb": [
+          212,
+          224,
+          244
+        ],
+        "percent": 17.2132,
+        "pixel_count": 34349
+      },
+      {
+        "rank": 5,
+        "hex": "#F8EECD",
+        "rgb": [
+          248,
+          238,
+          205
+        ],
+        "percent": 8.6986,
+        "pixel_count": 17358
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#212E1E",
+          "rgb": [
+            33,
+            46,
+            30
+          ],
+          "percent": 25.7244,
+          "pixel_count": 51333
+        },
+        {
+          "rank": 2,
+          "hex": "#586748",
+          "rgb": [
+            88,
+            103,
+            72
+          ],
+          "percent": 25.3811,
+          "pixel_count": 50648
+        },
+        {
+          "rank": 3,
+          "hex": "#75686B",
+          "rgb": [
+            117,
+            104,
+            107
+          ],
+          "percent": 22.9827,
+          "pixel_count": 45862
+        },
+        {
+          "rank": 4,
+          "hex": "#D4E0F4",
+          "rgb": [
+            212,
+            224,
+            244
+          ],
+          "percent": 17.2132,
+          "pixel_count": 34349
+        },
+        {
+          "rank": 5,
+          "hex": "#F8EECD",
+          "rgb": [
+            248,
+            238,
+            205
+          ],
+          "percent": 8.6986,
+          "pixel_count": 17358
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Finnish-pilot-site-COVER-PHOTO-Kotkanoja_Heikkinen.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Finnish-pilot-site-COVER-PHOTO-Kotkanoja_Heikkinen.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#7D875F",
+        "rgb": [
+          125,
+          135,
+          95
+        ],
+        "percent": 76.8118,
+        "pixel_count": 153387
+      },
+      {
+        "rank": 2,
+        "hex": "#BEAF8C",
+        "rgb": [
+          190,
+          175,
+          140
+        ],
+        "percent": 13.5974,
+        "pixel_count": 27153
+      },
+      {
+        "rank": 3,
+        "hex": "#343D2E",
+        "rgb": [
+          52,
+          61,
+          46
+        ],
+        "percent": 9.5908,
+        "pixel_count": 19152
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#808074",
+        "rgb": [
+          128,
+          128,
+          116
+        ],
+        "percent": 32.9548,
+        "pixel_count": 65808
+      },
+      {
+        "rank": 2,
+        "hex": "#6D7D45",
+        "rgb": [
+          109,
+          125,
+          69
+        ],
+        "percent": 28.9576,
+        "pixel_count": 57826
+      },
+      {
+        "rank": 3,
+        "hex": "#96AC63",
+        "rgb": [
+          150,
+          172,
+          99
+        ],
+        "percent": 14.8994,
+        "pixel_count": 29753
+      },
+      {
+        "rank": 4,
+        "hex": "#BEAF8C",
+        "rgb": [
+          190,
+          175,
+          140
+        ],
+        "percent": 13.5974,
+        "pixel_count": 27153
+      },
+      {
+        "rank": 5,
+        "hex": "#343D2E",
+        "rgb": [
+          52,
+          61,
+          46
+        ],
+        "percent": 9.5908,
+        "pixel_count": 19152
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#7D875F",
+          "rgb": [
+            125,
+            135,
+            95
+          ],
+          "percent": 76.8118,
+          "pixel_count": 153387
+        },
+        {
+          "rank": 2,
+          "hex": "#BEAF8C",
+          "rgb": [
+            190,
+            175,
+            140
+          ],
+          "percent": 13.5974,
+          "pixel_count": 27153
+        },
+        {
+          "rank": 3,
+          "hex": "#343D2E",
+          "rgb": [
+            52,
+            61,
+            46
+          ],
+          "percent": 9.5908,
+          "pixel_count": 19152
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "IIj\u00e4rvi_from_Iivaara_in_winter.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /IIj\u00e4rvi_from_Iivaara_in_winter.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#455771",
+        "rgb": [
+          69,
+          87,
+          113
+        ],
+        "percent": 60.3201,
+        "pixel_count": 120432
+      },
+      {
+        "rank": 2,
+        "hex": "#9D969C",
+        "rgb": [
+          157,
+          150,
+          156
+        ],
+        "percent": 35.2343,
+        "pixel_count": 70347
+      },
+      {
+        "rank": 3,
+        "hex": "#FAE3BC",
+        "rgb": [
+          250,
+          227,
+          188
+        ],
+        "percent": 4.4457,
+        "pixel_count": 8876
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#52627C",
+        "rgb": [
+          82,
+          98,
+          124
+        ],
+        "percent": 43.1695,
+        "pixel_count": 86190
+      },
+      {
+        "rank": 2,
+        "hex": "#9D969C",
+        "rgb": [
+          157,
+          150,
+          156
+        ],
+        "percent": 35.2343,
+        "pixel_count": 70347
+      },
+      {
+        "rank": 3,
+        "hex": "#263A55",
+        "rgb": [
+          38,
+          58,
+          85
+        ],
+        "percent": 17.1506,
+        "pixel_count": 34242
+      },
+      {
+        "rank": 4,
+        "hex": "#FAE3BC",
+        "rgb": [
+          250,
+          227,
+          188
+        ],
+        "percent": 4.4457,
+        "pixel_count": 8876
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#455771",
+          "rgb": [
+            69,
+            87,
+            113
+          ],
+          "percent": 60.3201,
+          "pixel_count": 120432
+        },
+        {
+          "rank": 2,
+          "hex": "#9D969C",
+          "rgb": [
+            157,
+            150,
+            156
+          ],
+          "percent": 35.2343,
+          "pixel_count": 70347
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#FAE3BC",
+          "rgb": [
+            250,
+            227,
+            188
+          ],
+          "percent": 4.4457,
+          "pixel_count": 8876
+        }
+      ]
+    }
+  },
+  {
+    "file": "Isoj\u00e4rvi_panorama_3.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Isoj\u00e4rvi_panorama_3.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#90ABC6",
+        "rgb": [
+          144,
+          171,
+          198
+        ],
+        "percent": 78.3339,
+        "pixel_count": 156342
+      },
+      {
+        "rank": 2,
+        "hex": "#283027",
+        "rgb": [
+          40,
+          48,
+          39
+        ],
+        "percent": 12.6318,
+        "pixel_count": 25211
+      },
+      {
+        "rank": 3,
+        "hex": "#5B6134",
+        "rgb": [
+          91,
+          97,
+          52
+        ],
+        "percent": 9.0343,
+        "pixel_count": 18031
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#90C1EC",
+        "rgb": [
+          144,
+          193,
+          236
+        ],
+        "percent": 22.6281,
+        "pixel_count": 45162
+      },
+      {
+        "rank": 2,
+        "hex": "#CBD6E1",
+        "rgb": [
+          203,
+          214,
+          225
+        ],
+        "percent": 22.2498,
+        "pixel_count": 44407
+      },
+      {
+        "rank": 3,
+        "hex": "#8B97A4",
+        "rgb": [
+          139,
+          151,
+          164
+        ],
+        "percent": 18.0105,
+        "pixel_count": 35946
+      },
+      {
+        "rank": 4,
+        "hex": "#42668E",
+        "rgb": [
+          66,
+          102,
+          142
+        ],
+        "percent": 15.4456,
+        "pixel_count": 30827
+      },
+      {
+        "rank": 5,
+        "hex": "#283027",
+        "rgb": [
+          40,
+          48,
+          39
+        ],
+        "percent": 12.6318,
+        "pixel_count": 25211
+      },
+      {
+        "rank": 6,
+        "hex": "#5B6134",
+        "rgb": [
+          91,
+          97,
+          52
+        ],
+        "percent": 9.0343,
+        "pixel_count": 18031
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#90ABC6",
+          "rgb": [
+            144,
+            171,
+            198
+          ],
+          "percent": 78.3339,
+          "pixel_count": 156342
+        },
+        {
+          "rank": 2,
+          "hex": "#283027",
+          "rgb": [
+            40,
+            48,
+            39
+          ],
+          "percent": 12.6318,
+          "pixel_count": 25211
+        },
+        {
+          "rank": 3,
+          "hex": "#5B6134",
+          "rgb": [
+            91,
+            97,
+            52
+          ],
+          "percent": 9.0343,
+          "pixel_count": 18031
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Lake_Inari.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Lake_Inari.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A8CFED",
+        "rgb": [
+          168,
+          207,
+          237
+        ],
+        "percent": 40.9145,
+        "pixel_count": 81703
+      },
+      {
+        "rank": 2,
+        "hex": "#424B2C",
+        "rgb": [
+          66,
+          75,
+          44
+        ],
+        "percent": 38.2299,
+        "pixel_count": 76342
+      },
+      {
+        "rank": 3,
+        "hex": "#6C7B7A",
+        "rgb": [
+          108,
+          123,
+          122
+        ],
+        "percent": 20.8556,
+        "pixel_count": 41647
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#424B2C",
+        "rgb": [
+          66,
+          75,
+          44
+        ],
+        "percent": 38.2299,
+        "pixel_count": 76342
+      },
+      {
+        "rank": 2,
+        "hex": "#BAD8EE",
+        "rgb": [
+          186,
+          216,
+          238
+        ],
+        "percent": 25.3505,
+        "pixel_count": 50623
+      },
+      {
+        "rank": 3,
+        "hex": "#6C7B7A",
+        "rgb": [
+          108,
+          123,
+          122
+        ],
+        "percent": 20.8556,
+        "pixel_count": 41647
+      },
+      {
+        "rank": 4,
+        "hex": "#8BC1EB",
+        "rgb": [
+          139,
+          193,
+          235
+        ],
+        "percent": 15.564,
+        "pixel_count": 31080
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A8CFED",
+          "rgb": [
+            168,
+            207,
+            237
+          ],
+          "percent": 40.9145,
+          "pixel_count": 81703
+        },
+        {
+          "rank": 2,
+          "hex": "#424B2C",
+          "rgb": [
+            66,
+            75,
+            44
+          ],
+          "percent": 38.2299,
+          "pixel_count": 76342
+        },
+        {
+          "rank": 3,
+          "hex": "#6C7B7A",
+          "rgb": [
+            108,
+            123,
+            122
+          ],
+          "percent": 20.8556,
+          "pixel_count": 41647
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Lapland_Kilpisjarvi_Julia_Kivela\u0308_optimized.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Lapland_Kilpisjarvi_Julia_Kivela\u0308_optimized.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#999497",
+        "rgb": [
+          153,
+          148,
+          151
+        ],
+        "percent": 43.8006,
+        "pixel_count": 87450
+      },
+      {
+        "rank": 2,
+        "hex": "#653611",
+        "rgb": [
+          101,
+          54,
+          17
+        ],
+        "percent": 31.8324,
+        "pixel_count": 63555
+      },
+      {
+        "rank": 3,
+        "hex": "#445364",
+        "rgb": [
+          68,
+          83,
+          100
+        ],
+        "percent": 24.367,
+        "pixel_count": 48650
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#562D10",
+        "rgb": [
+          86,
+          45,
+          16
+        ],
+        "percent": 26.5934,
+        "pixel_count": 53095
+      },
+      {
+        "rank": 2,
+        "hex": "#445364",
+        "rgb": [
+          68,
+          83,
+          100
+        ],
+        "percent": 24.367,
+        "pixel_count": 48650
+      },
+      {
+        "rank": 3,
+        "hex": "#837779",
+        "rgb": [
+          131,
+          119,
+          121
+        ],
+        "percent": 24.0385,
+        "pixel_count": 47994
+      },
+      {
+        "rank": 4,
+        "hex": "#B4B8BB",
+        "rgb": [
+          180,
+          184,
+          187
+        ],
+        "percent": 19.7621,
+        "pixel_count": 39456
+      },
+      {
+        "rank": 5,
+        "hex": "#B26116",
+        "rgb": [
+          178,
+          97,
+          22
+        ],
+        "percent": 5.239,
+        "pixel_count": 10460
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#999497",
+          "rgb": [
+            153,
+            148,
+            151
+          ],
+          "percent": 43.8006,
+          "pixel_count": 87450
+        },
+        {
+          "rank": 2,
+          "hex": "#653611",
+          "rgb": [
+            101,
+            54,
+            17
+          ],
+          "percent": 31.8324,
+          "pixel_count": 63555
+        },
+        {
+          "rank": 3,
+          "hex": "#445364",
+          "rgb": [
+            68,
+            83,
+            100
+          ],
+          "percent": 24.367,
+          "pixel_count": 48650
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Lempisaari,_Naantali,_Finland..jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Lempisaari,_Naantali,_Finland..jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#356490",
+        "rgb": [
+          53,
+          100,
+          144
+        ],
+        "percent": 65.1644,
+        "pixel_count": 129825
+      },
+      {
+        "rank": 2,
+        "hex": "#8B8B88",
+        "rgb": [
+          139,
+          139,
+          136
+        ],
+        "percent": 34.8356,
+        "pixel_count": 69402
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8B8B88",
+        "rgb": [
+          139,
+          139,
+          136
+        ],
+        "percent": 34.8356,
+        "pixel_count": 69402
+      },
+      {
+        "rank": 2,
+        "hex": "#36648F",
+        "rgb": [
+          54,
+          100,
+          143
+        ],
+        "percent": 33.1923,
+        "pixel_count": 66128
+      },
+      {
+        "rank": 3,
+        "hex": "#23445C",
+        "rgb": [
+          35,
+          68,
+          92
+        ],
+        "percent": 18.115,
+        "pixel_count": 36090
+      },
+      {
+        "rank": 4,
+        "hex": "#4B8CD5",
+        "rgb": [
+          75,
+          140,
+          213
+        ],
+        "percent": 13.8571,
+        "pixel_count": 27607
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#356490",
+          "rgb": [
+            53,
+            100,
+            144
+          ],
+          "percent": 65.1644,
+          "pixel_count": 129825
+        },
+        {
+          "rank": 2,
+          "hex": "#8B8B88",
+          "rgb": [
+            139,
+            139,
+            136
+          ],
+          "percent": 34.8356,
+          "pixel_count": 69402
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Maapera\u0308kuva_Museovirasto_JohannaSeppa\u0308_2020_akdg6740_3_1920px.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Maapera\u0308kuva_Museovirasto_JohannaSeppa\u0308_2020_akdg6740_3_1920px.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#3A4340",
+        "rgb": [
+          58,
+          67,
+          64
+        ],
+        "percent": 48.6773,
+        "pixel_count": 97189
+      },
+      {
+        "rank": 2,
+        "hex": "#80807F",
+        "rgb": [
+          128,
+          128,
+          127
+        ],
+        "percent": 39.43,
+        "pixel_count": 78726
+      },
+      {
+        "rank": 3,
+        "hex": "#F9FAFB",
+        "rgb": [
+          249,
+          250,
+          251
+        ],
+        "percent": 7.2148,
+        "pixel_count": 14405
+      },
+      {
+        "rank": 4,
+        "hex": "#72995B",
+        "rgb": [
+          114,
+          153,
+          91
+        ],
+        "percent": 4.678,
+        "pixel_count": 9340
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3A4340",
+        "rgb": [
+          58,
+          67,
+          64
+        ],
+        "percent": 48.6773,
+        "pixel_count": 97189
+      },
+      {
+        "rank": 2,
+        "hex": "#80807F",
+        "rgb": [
+          128,
+          128,
+          127
+        ],
+        "percent": 39.43,
+        "pixel_count": 78726
+      },
+      {
+        "rank": 3,
+        "hex": "#F9FAFB",
+        "rgb": [
+          249,
+          250,
+          251
+        ],
+        "percent": 7.2148,
+        "pixel_count": 14405
+      },
+      {
+        "rank": 4,
+        "hex": "#72995B",
+        "rgb": [
+          114,
+          153,
+          91
+        ],
+        "percent": 4.678,
+        "pixel_count": 9340
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#3A4340",
+          "rgb": [
+            58,
+            67,
+            64
+          ],
+          "percent": 48.6773,
+          "pixel_count": 97189
+        },
+        {
+          "rank": 2,
+          "hex": "#80807F",
+          "rgb": [
+            128,
+            128,
+            127
+          ],
+          "percent": 39.43,
+          "pixel_count": 78726
+        },
+        {
+          "rank": 3,
+          "hex": "#F9FAFB",
+          "rgb": [
+            249,
+            250,
+            251
+          ],
+          "percent": 7.2148,
+          "pixel_count": 14405
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#72995B",
+          "rgb": [
+            114,
+            153,
+            91
+          ],
+          "percent": 4.678,
+          "pixel_count": 9340
+        }
+      ]
+    }
+  },
+  {
+    "file": "Mailchimp image-1 (57).jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Mailchimp image-1 (57).jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#55676D",
+        "rgb": [
+          85,
+          103,
+          109
+        ],
+        "percent": 86.7211,
+        "pixel_count": 173149
+      },
+      {
+        "rank": 2,
+        "hex": "#F7FAFA",
+        "rgb": [
+          247,
+          250,
+          250
+        ],
+        "percent": 13.2789,
+        "pixel_count": 26513
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#263436",
+        "rgb": [
+          38,
+          52,
+          54
+        ],
+        "percent": 33.4846,
+        "pixel_count": 66856
+      },
+      {
+        "rank": 2,
+        "hex": "#546970",
+        "rgb": [
+          84,
+          105,
+          112
+        ],
+        "percent": 31.334,
+        "pixel_count": 62562
+      },
+      {
+        "rank": 3,
+        "hex": "#9FB4BC",
+        "rgb": [
+          159,
+          180,
+          188
+        ],
+        "percent": 21.9025,
+        "pixel_count": 43731
+      },
+      {
+        "rank": 4,
+        "hex": "#F7FAFA",
+        "rgb": [
+          247,
+          250,
+          250
+        ],
+        "percent": 13.2789,
+        "pixel_count": 26513
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#55676D",
+          "rgb": [
+            85,
+            103,
+            109
+          ],
+          "percent": 86.7211,
+          "pixel_count": 173149
+        },
+        {
+          "rank": 2,
+          "hex": "#F7FAFA",
+          "rgb": [
+            247,
+            250,
+            250
+          ],
+          "percent": 13.2789,
+          "pixel_count": 26513
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Midnight+sun_people_swimming_pier+-+Mikko+Nikkinen_optimized.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Midnight+sun_people_swimming_pier+-+Mikko+Nikkinen_optimized.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#EFBE94",
+        "rgb": [
+          239,
+          190,
+          148
+        ],
+        "percent": 84.3184,
+        "pixel_count": 168346
+      },
+      {
+        "rank": 2,
+        "hex": "#704944",
+        "rgb": [
+          112,
+          73,
+          68
+        ],
+        "percent": 15.6816,
+        "pixel_count": 31309
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E9A272",
+        "rgb": [
+          233,
+          162,
+          114
+        ],
+        "percent": 43.75,
+        "pixel_count": 87349
+      },
+      {
+        "rank": 2,
+        "hex": "#F6DCB9",
+        "rgb": [
+          246,
+          220,
+          185
+        ],
+        "percent": 40.5685,
+        "pixel_count": 80997
+      },
+      {
+        "rank": 3,
+        "hex": "#7F5650",
+        "rgb": [
+          127,
+          86,
+          80
+        ],
+        "percent": 12.4199,
+        "pixel_count": 24797
+      },
+      {
+        "rank": 4,
+        "hex": "#361917",
+        "rgb": [
+          54,
+          25,
+          23
+        ],
+        "percent": 3.2616,
+        "pixel_count": 6512
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#EFBE94",
+          "rgb": [
+            239,
+            190,
+            148
+          ],
+          "percent": 84.3184,
+          "pixel_count": 168346
+        },
+        {
+          "rank": 2,
+          "hex": "#704944",
+          "rgb": [
+            112,
+            73,
+            68
+          ],
+          "percent": 15.6816,
+          "pixel_count": 31309
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Paratiisikuru_waterfall.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Paratiisikuru_waterfall.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#645F5E",
+        "rgb": [
+          100,
+          95,
+          94
+        ],
+        "percent": 57.4089,
+        "pixel_count": 114641
+      },
+      {
+        "rank": 2,
+        "hex": "#BCB8B9",
+        "rgb": [
+          188,
+          184,
+          185
+        ],
+        "percent": 30.9026,
+        "pixel_count": 61710
+      },
+      {
+        "rank": 3,
+        "hex": "#7E8557",
+        "rgb": [
+          126,
+          133,
+          87
+        ],
+        "percent": 11.6885,
+        "pixel_count": 23341
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#BCB8B9",
+        "rgb": [
+          188,
+          184,
+          185
+        ],
+        "percent": 30.9026,
+        "pixel_count": 61710
+      },
+      {
+        "rank": 2,
+        "hex": "#4A4642",
+        "rgb": [
+          74,
+          70,
+          66
+        ],
+        "percent": 29.7713,
+        "pixel_count": 59451
+      },
+      {
+        "rank": 3,
+        "hex": "#7F7A7D",
+        "rgb": [
+          127,
+          122,
+          125
+        ],
+        "percent": 27.6376,
+        "pixel_count": 55190
+      },
+      {
+        "rank": 4,
+        "hex": "#7E8557",
+        "rgb": [
+          126,
+          133,
+          87
+        ],
+        "percent": 11.6885,
+        "pixel_count": 23341
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#645F5E",
+          "rgb": [
+            100,
+            95,
+            94
+          ],
+          "percent": 57.4089,
+          "pixel_count": 114641
+        },
+        {
+          "rank": 2,
+          "hex": "#BCB8B9",
+          "rgb": [
+            188,
+            184,
+            185
+          ],
+          "percent": 30.9026,
+          "pixel_count": 61710
+        },
+        {
+          "rank": 3,
+          "hex": "#7E8557",
+          "rgb": [
+            126,
+            133,
+            87
+          ],
+          "percent": 11.6885,
+          "pixel_count": 23341
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Snowy+trees+in+Salla+National+Park_+Eeva+Ma\u0308kinen_optimized.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Snowy+trees+in+Salla+National+Park_+Eeva+Ma\u0308kinen_optimized.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#C7BCC3",
+        "rgb": [
+          199,
+          188,
+          195
+        ],
+        "percent": 57.3427,
+        "pixel_count": 114174
+      },
+      {
+        "rank": 2,
+        "hex": "#8F98AC",
+        "rgb": [
+          143,
+          152,
+          172
+        ],
+        "percent": 42.6573,
+        "pixel_count": 84934
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8F98AC",
+        "rgb": [
+          143,
+          152,
+          172
+        ],
+        "percent": 42.6573,
+        "pixel_count": 84934
+      },
+      {
+        "rank": 2,
+        "hex": "#BCACB6",
+        "rgb": [
+          188,
+          172,
+          182
+        ],
+        "percent": 35.4456,
+        "pixel_count": 70575
+      },
+      {
+        "rank": 3,
+        "hex": "#D8D5D8",
+        "rgb": [
+          216,
+          213,
+          216
+        ],
+        "percent": 21.8972,
+        "pixel_count": 43599
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#C7BCC3",
+          "rgb": [
+            199,
+            188,
+            195
+          ],
+          "percent": 57.3427,
+          "pixel_count": 114174
+        },
+        {
+          "rank": 2,
+          "hex": "#8F98AC",
+          "rgb": [
+            143,
+            152,
+            172
+          ],
+          "percent": 42.6573,
+          "pixel_count": 84934
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Summer-and-midnight-sun-in-Rovaniemi-Lapland-Finland-15-1920x1280.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Summer-and-midnight-sun-in-Rovaniemi-Lapland-Finland-15-1920x1280.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8B4B28",
+        "rgb": [
+          139,
+          75,
+          40
+        ],
+        "percent": 96.7314,
+        "pixel_count": 193129
+      },
+      {
+        "rank": 2,
+        "hex": "#F7F0E2",
+        "rgb": [
+          247,
+          240,
+          226
+        ],
+        "percent": 3.2686,
+        "pixel_count": 6526
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3C1C1B",
+        "rgb": [
+          60,
+          28,
+          27
+        ],
+        "percent": 31.1608,
+        "pixel_count": 62214
+      },
+      {
+        "rank": 2,
+        "hex": "#844026",
+        "rgb": [
+          132,
+          64,
+          38
+        ],
+        "percent": 28.5908,
+        "pixel_count": 57083
+      },
+      {
+        "rank": 3,
+        "hex": "#BC5A20",
+        "rgb": [
+          188,
+          90,
+          32
+        ],
+        "percent": 16.1664,
+        "pixel_count": 32277
+      },
+      {
+        "rank": 4,
+        "hex": "#E1832D",
+        "rgb": [
+          225,
+          131,
+          45
+        ],
+        "percent": 14.5832,
+        "pixel_count": 29116
+      },
+      {
+        "rank": 5,
+        "hex": "#ECC37C",
+        "rgb": [
+          236,
+          195,
+          124
+        ],
+        "percent": 6.2302,
+        "pixel_count": 12439
+      },
+      {
+        "rank": 6,
+        "hex": "#F7F0E2",
+        "rgb": [
+          247,
+          240,
+          226
+        ],
+        "percent": 3.2686,
+        "pixel_count": 6526
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8B4B28",
+          "rgb": [
+            139,
+            75,
+            40
+          ],
+          "percent": 96.7314,
+          "pixel_count": 193129
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#F7F0E2",
+          "rgb": [
+            247,
+            240,
+            226
+          ],
+          "percent": 3.2686,
+          "pixel_count": 6526
+        }
+      ]
+    }
+  },
+  {
+    "file": "Summer-and-midnight-sun-in-Rovaniemi-Lapland-Finland-7.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Summer-and-midnight-sun-in-Rovaniemi-Lapland-Finland-7.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#35260E",
+        "rgb": [
+          53,
+          38,
+          14
+        ],
+        "percent": 48.3061,
+        "pixel_count": 96448
+      },
+      {
+        "rank": 2,
+        "hex": "#F0BA63",
+        "rgb": [
+          240,
+          186,
+          99
+        ],
+        "percent": 27.8584,
+        "pixel_count": 55622
+      },
+      {
+        "rank": 3,
+        "hex": "#917968",
+        "rgb": [
+          145,
+          121,
+          104
+        ],
+        "percent": 23.8355,
+        "pixel_count": 47590
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#35260E",
+        "rgb": [
+          53,
+          38,
+          14
+        ],
+        "percent": 48.3061,
+        "pixel_count": 96448
+      },
+      {
+        "rank": 2,
+        "hex": "#F0BA63",
+        "rgb": [
+          240,
+          186,
+          99
+        ],
+        "percent": 27.8584,
+        "pixel_count": 55622
+      },
+      {
+        "rank": 3,
+        "hex": "#7D6456",
+        "rgb": [
+          125,
+          100,
+          86
+        ],
+        "percent": 17.2749,
+        "pixel_count": 34491
+      },
+      {
+        "rank": 4,
+        "hex": "#C5B098",
+        "rgb": [
+          197,
+          176,
+          152
+        ],
+        "percent": 6.5607,
+        "pixel_count": 13099
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#35260E",
+          "rgb": [
+            53,
+            38,
+            14
+          ],
+          "percent": 48.3061,
+          "pixel_count": 96448
+        },
+        {
+          "rank": 2,
+          "hex": "#F0BA63",
+          "rgb": [
+            240,
+            186,
+            99
+          ],
+          "percent": 27.8584,
+          "pixel_count": 55622
+        },
+        {
+          "rank": 3,
+          "hex": "#917968",
+          "rgb": [
+            145,
+            121,
+            104
+          ],
+          "percent": 23.8355,
+          "pixel_count": 47590
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "Svedjehamnin_n\u00e4k\u00f6torni_04.06.2016.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /Svedjehamnin_n\u00e4k\u00f6torni_04.06.2016.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#514F2B",
+        "rgb": [
+          81,
+          79,
+          43
+        ],
+        "percent": 57.6333,
+        "pixel_count": 115089
+      },
+      {
+        "rank": 2,
+        "hex": "#A2AAB8",
+        "rgb": [
+          162,
+          170,
+          184
+        ],
+        "percent": 39.5975,
+        "pixel_count": 79073
+      },
+      {
+        "rank": 3,
+        "hex": "#629CD5",
+        "rgb": [
+          98,
+          156,
+          213
+        ],
+        "percent": 2.7693,
+        "pixel_count": 5530
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#454623",
+        "rgb": [
+          69,
+          70,
+          35
+        ],
+        "percent": 48.9273,
+        "pixel_count": 97704
+      },
+      {
+        "rank": 2,
+        "hex": "#8791A1",
+        "rgb": [
+          135,
+          145,
+          161
+        ],
+        "percent": 26.8954,
+        "pixel_count": 53708
+      },
+      {
+        "rank": 3,
+        "hex": "#DADEE9",
+        "rgb": [
+          218,
+          222,
+          233
+        ],
+        "percent": 12.7021,
+        "pixel_count": 25365
+      },
+      {
+        "rank": 4,
+        "hex": "#928455",
+        "rgb": [
+          146,
+          132,
+          85
+        ],
+        "percent": 8.7059,
+        "pixel_count": 17385
+      },
+      {
+        "rank": 5,
+        "hex": "#629CD5",
+        "rgb": [
+          98,
+          156,
+          213
+        ],
+        "percent": 2.7693,
+        "pixel_count": 5530
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#514F2B",
+          "rgb": [
+            81,
+            79,
+            43
+          ],
+          "percent": 57.6333,
+          "pixel_count": 115089
+        },
+        {
+          "rank": 2,
+          "hex": "#A2AAB8",
+          "rgb": [
+            162,
+            170,
+            184
+          ],
+          "percent": 39.5975,
+          "pixel_count": 79073
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#629CD5",
+          "rgb": [
+            98,
+            156,
+            213
+          ],
+          "percent": 2.7693,
+          "pixel_count": 5530
+        }
+      ]
+    }
+  },
+  {
+    "file": "clear-cutting_site-luke_report.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /clear-cutting_site-luke_report.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#43392C",
+        "rgb": [
+          67,
+          57,
+          44
+        ],
+        "percent": 97.4165,
+        "pixel_count": 194533
+      },
+      {
+        "rank": 2,
+        "hex": "#F2F4F6",
+        "rgb": [
+          242,
+          244,
+          246
+        ],
+        "percent": 2.5835,
+        "pixel_count": 5159
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#4C4031",
+        "rgb": [
+          76,
+          64,
+          49
+        ],
+        "percent": 62.8067,
+        "pixel_count": 125420
+      },
+      {
+        "rank": 2,
+        "hex": "#2D271B",
+        "rgb": [
+          45,
+          39,
+          27
+        ],
+        "percent": 32.3228,
+        "pixel_count": 64546
+      },
+      {
+        "rank": 3,
+        "hex": "#F2F4F6",
+        "rgb": [
+          242,
+          244,
+          246
+        ],
+        "percent": 2.5835,
+        "pixel_count": 5159
+      },
+      {
+        "rank": 4,
+        "hex": "#8F8981",
+        "rgb": [
+          143,
+          137,
+          129
+        ],
+        "percent": 2.287,
+        "pixel_count": 4567
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#43392C",
+          "rgb": [
+            67,
+            57,
+            44
+          ],
+          "percent": 97.4165,
+          "pixel_count": 194533
+        }
+      ],
+      "secondary": [
+        {
+          "rank": 1,
+          "hex": "#F2F4F6",
+          "rgb": [
+            242,
+            244,
+            246
+          ],
+          "percent": 2.5835,
+          "pixel_count": 5159
+        }
+      ]
+    }
+  },
+  {
+    "file": "evergreen-forest-was-full-of-fog-taken-in-central-finland-v0-wm6aij18clw41.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /evergreen-forest-was-full-of-fog-taken-in-central-finland-v0-wm6aij18clw41.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#343D3E",
+        "rgb": [
+          52,
+          61,
+          62
+        ],
+        "percent": 76.8516,
+        "pixel_count": 153438
+      },
+      {
+        "rank": 2,
+        "hex": "#969BA3",
+        "rgb": [
+          150,
+          155,
+          163
+        ],
+        "percent": 23.1484,
+        "pixel_count": 46217
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#343D3E",
+        "rgb": [
+          52,
+          61,
+          62
+        ],
+        "percent": 76.8516,
+        "pixel_count": 153438
+      },
+      {
+        "rank": 2,
+        "hex": "#969BA3",
+        "rgb": [
+          150,
+          155,
+          163
+        ],
+        "percent": 23.1484,
+        "pixel_count": 46217
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#343D3E",
+          "rgb": [
+            52,
+            61,
+            62
+          ],
+          "percent": 76.8516,
+          "pixel_count": 153438
+        },
+        {
+          "rank": 2,
+          "hex": "#969BA3",
+          "rgb": [
+            150,
+            155,
+            163
+          ],
+          "percent": 23.1484,
+          "pixel_count": 46217
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "images (3).jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /images (3).jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#899FD4",
+        "rgb": [
+          137,
+          159,
+          212
+        ],
+        "percent": 61.0647,
+        "pixel_count": 30845
+      },
+      {
+        "rank": 2,
+        "hex": "#D6B7C9",
+        "rgb": [
+          214,
+          183,
+          201
+        ],
+        "percent": 38.9353,
+        "pixel_count": 19667
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#93ADE2",
+        "rgb": [
+          147,
+          173,
+          226
+        ],
+        "percent": 45.4347,
+        "pixel_count": 22950
+      },
+      {
+        "rank": 2,
+        "hex": "#D6B7C9",
+        "rgb": [
+          214,
+          183,
+          201
+        ],
+        "percent": 38.9353,
+        "pixel_count": 19667
+      },
+      {
+        "rank": 3,
+        "hex": "#6C77AD",
+        "rgb": [
+          108,
+          119,
+          173
+        ],
+        "percent": 15.6299,
+        "pixel_count": 7895
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#899FD4",
+          "rgb": [
+            137,
+            159,
+            212
+          ],
+          "percent": 61.0647,
+          "pixel_count": 30845
+        },
+        {
+          "rank": 2,
+          "hex": "#D6B7C9",
+          "rgb": [
+            214,
+            183,
+            201
+          ],
+          "percent": 38.9353,
+          "pixel_count": 19667
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "images (4).jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /images (4).jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#4A301A",
+        "rgb": [
+          74,
+          48,
+          26
+        ],
+        "percent": 63.8075,
+        "pixel_count": 32159
+      },
+      {
+        "rank": 2,
+        "hex": "#EDB768",
+        "rgb": [
+          237,
+          183,
+          104
+        ],
+        "percent": 36.1925,
+        "pixel_count": 18241
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#68482E",
+        "rgb": [
+          104,
+          72,
+          46
+        ],
+        "percent": 32.9385,
+        "pixel_count": 16601
+      },
+      {
+        "rank": 2,
+        "hex": "#291705",
+        "rgb": [
+          41,
+          23,
+          5
+        ],
+        "percent": 30.869,
+        "pixel_count": 15558
+      },
+      {
+        "rank": 3,
+        "hex": "#F9BA5A",
+        "rgb": [
+          249,
+          186,
+          90
+        ],
+        "percent": 26.5337,
+        "pixel_count": 13373
+      },
+      {
+        "rank": 4,
+        "hex": "#BFA087",
+        "rgb": [
+          191,
+          160,
+          135
+        ],
+        "percent": 7.3571,
+        "pixel_count": 3708
+      },
+      {
+        "rank": 5,
+        "hex": "#FCE3A8",
+        "rgb": [
+          252,
+          227,
+          168
+        ],
+        "percent": 2.3016,
+        "pixel_count": 1160
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#4A301A",
+          "rgb": [
+            74,
+            48,
+            26
+          ],
+          "percent": 63.8075,
+          "pixel_count": 32159
+        },
+        {
+          "rank": 2,
+          "hex": "#EDB768",
+          "rgb": [
+            237,
+            183,
+            104
+          ],
+          "percent": 36.1925,
+          "pixel_count": 18241
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "images (5).jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /images (5).jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#CFCDD8",
+        "rgb": [
+          207,
+          205,
+          216
+        ],
+        "percent": 49.4112,
+        "pixel_count": 24838
+      },
+      {
+        "rank": 2,
+        "hex": "#7485A4",
+        "rgb": [
+          116,
+          133,
+          164
+        ],
+        "percent": 35.3048,
+        "pixel_count": 17747
+      },
+      {
+        "rank": 3,
+        "hex": "#756B3C",
+        "rgb": [
+          117,
+          107,
+          60
+        ],
+        "percent": 15.2841,
+        "pixel_count": 7683
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#CFCDD8",
+        "rgb": [
+          207,
+          205,
+          216
+        ],
+        "percent": 49.4112,
+        "pixel_count": 24838
+      },
+      {
+        "rank": 2,
+        "hex": "#9DA5C1",
+        "rgb": [
+          157,
+          165,
+          193
+        ],
+        "percent": 19.8198,
+        "pixel_count": 9963
+      },
+      {
+        "rank": 3,
+        "hex": "#405D7E",
+        "rgb": [
+          64,
+          93,
+          126
+        ],
+        "percent": 15.485,
+        "pixel_count": 7784
+      },
+      {
+        "rank": 4,
+        "hex": "#8D8249",
+        "rgb": [
+          141,
+          130,
+          73
+        ],
+        "percent": 9.7338,
+        "pixel_count": 4893
+      },
+      {
+        "rank": 5,
+        "hex": "#4A4226",
+        "rgb": [
+          74,
+          66,
+          38
+        ],
+        "percent": 5.5503,
+        "pixel_count": 2790
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#CFCDD8",
+          "rgb": [
+            207,
+            205,
+            216
+          ],
+          "percent": 49.4112,
+          "pixel_count": 24838
+        },
+        {
+          "rank": 2,
+          "hex": "#7485A4",
+          "rgb": [
+            116,
+            133,
+            164
+          ],
+          "percent": 35.3048,
+          "pixel_count": 17747
+        },
+        {
+          "rank": 3,
+          "hex": "#756B3C",
+          "rgb": [
+            117,
+            107,
+            60
+          ],
+          "percent": 15.2841,
+          "pixel_count": 7683
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "images (6).jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /images (6).jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#434B58",
+        "rgb": [
+          67,
+          75,
+          88
+        ],
+        "percent": 45.1883,
+        "pixel_count": 22741
+      },
+      {
+        "rank": 2,
+        "hex": "#C7C4BF",
+        "rgb": [
+          199,
+          196,
+          191
+        ],
+        "percent": 35.8251,
+        "pixel_count": 18029
+      },
+      {
+        "rank": 3,
+        "hex": "#97C4F6",
+        "rgb": [
+          151,
+          196,
+          246
+        ],
+        "percent": 18.9866,
+        "pixel_count": 9555
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#C7C4BF",
+        "rgb": [
+          199,
+          196,
+          191
+        ],
+        "percent": 35.8251,
+        "pixel_count": 18029
+      },
+      {
+        "rank": 2,
+        "hex": "#2A3444",
+        "rgb": [
+          42,
+          52,
+          68
+        ],
+        "percent": 24.8385,
+        "pixel_count": 12500
+      },
+      {
+        "rank": 3,
+        "hex": "#616671",
+        "rgb": [
+          97,
+          102,
+          113
+        ],
+        "percent": 20.3497,
+        "pixel_count": 10241
+      },
+      {
+        "rank": 4,
+        "hex": "#97C4F6",
+        "rgb": [
+          151,
+          196,
+          246
+        ],
+        "percent": 18.9866,
+        "pixel_count": 9555
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#434B58",
+          "rgb": [
+            67,
+            75,
+            88
+          ],
+          "percent": 45.1883,
+          "pixel_count": 22741
+        },
+        {
+          "rank": 2,
+          "hex": "#C7C4BF",
+          "rgb": [
+            199,
+            196,
+            191
+          ],
+          "percent": 35.8251,
+          "pixel_count": 18029
+        },
+        {
+          "rank": 3,
+          "hex": "#97C4F6",
+          "rgb": [
+            151,
+            196,
+            246
+          ],
+          "percent": 18.9866,
+          "pixel_count": 9555
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "metsa-1-6-1030x553.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /metsa-1-6-1030x553.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8A8B86",
+        "rgb": [
+          138,
+          139,
+          134
+        ],
+        "percent": 36.0656,
+        "pixel_count": 71940
+      },
+      {
+        "rank": 2,
+        "hex": "#3E3F3A",
+        "rgb": [
+          62,
+          63,
+          58
+        ],
+        "percent": 33.6246,
+        "pixel_count": 67071
+      },
+      {
+        "rank": 3,
+        "hex": "#535322",
+        "rgb": [
+          83,
+          83,
+          34
+        ],
+        "percent": 30.3098,
+        "pixel_count": 60459
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#8A8B86",
+        "rgb": [
+          138,
+          139,
+          134
+        ],
+        "percent": 36.0656,
+        "pixel_count": 71940
+      },
+      {
+        "rank": 2,
+        "hex": "#3E3F3A",
+        "rgb": [
+          62,
+          63,
+          58
+        ],
+        "percent": 33.6246,
+        "pixel_count": 67071
+      },
+      {
+        "rank": 3,
+        "hex": "#535322",
+        "rgb": [
+          83,
+          83,
+          34
+        ],
+        "percent": 30.3098,
+        "pixel_count": 60459
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8A8B86",
+          "rgb": [
+            138,
+            139,
+            134
+          ],
+          "percent": 36.0656,
+          "pixel_count": 71940
+        },
+        {
+          "rank": 2,
+          "hex": "#3E3F3A",
+          "rgb": [
+            62,
+            63,
+            58
+          ],
+          "percent": 33.6246,
+          "pixel_count": 67071
+        },
+        {
+          "rank": 3,
+          "hex": "#535322",
+          "rgb": [
+            83,
+            83,
+            34
+          ],
+          "percent": 30.3098,
+          "pixel_count": 60459
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "mk150819-dji-peat-finland-bogs-0141.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /mk150819-dji-peat-finland-bogs-0141.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#453429",
+        "rgb": [
+          69,
+          52,
+          41
+        ],
+        "percent": 67.548,
+        "pixel_count": 134888
+      },
+      {
+        "rank": 2,
+        "hex": "#657345",
+        "rgb": [
+          101,
+          115,
+          69
+        ],
+        "percent": 18.9602,
+        "pixel_count": 37862
+      },
+      {
+        "rank": 3,
+        "hex": "#A9BBC4",
+        "rgb": [
+          169,
+          187,
+          196
+        ],
+        "percent": 13.4918,
+        "pixel_count": 26942
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#4E3A2E",
+        "rgb": [
+          78,
+          58,
+          46
+        ],
+        "percent": 50.012,
+        "pixel_count": 99870
+      },
+      {
+        "rank": 2,
+        "hex": "#657345",
+        "rgb": [
+          101,
+          115,
+          69
+        ],
+        "percent": 18.9602,
+        "pixel_count": 37862
+      },
+      {
+        "rank": 3,
+        "hex": "#2C231C",
+        "rgb": [
+          44,
+          35,
+          28
+        ],
+        "percent": 17.536,
+        "pixel_count": 35018
+      },
+      {
+        "rank": 4,
+        "hex": "#A9BBC4",
+        "rgb": [
+          169,
+          187,
+          196
+        ],
+        "percent": 13.4918,
+        "pixel_count": 26942
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#453429",
+          "rgb": [
+            69,
+            52,
+            41
+          ],
+          "percent": 67.548,
+          "pixel_count": 134888
+        },
+        {
+          "rank": 2,
+          "hex": "#657345",
+          "rgb": [
+            101,
+            115,
+            69
+          ],
+          "percent": 18.9602,
+          "pixel_count": 37862
+        },
+        {
+          "rank": 3,
+          "hex": "#A9BBC4",
+          "rgb": [
+            169,
+            187,
+            196
+          ],
+          "percent": 13.4918,
+          "pixel_count": 26942
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "nature10.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /nature10.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#44473D",
+        "rgb": [
+          68,
+          71,
+          61
+        ],
+        "percent": 33.3973,
+        "pixel_count": 49565
+      },
+      {
+        "rank": 2,
+        "hex": "#1C1E21",
+        "rgb": [
+          28,
+          30,
+          33
+        ],
+        "percent": 25.2598,
+        "pixel_count": 37488
+      },
+      {
+        "rank": 3,
+        "hex": "#737377",
+        "rgb": [
+          115,
+          115,
+          119
+        ],
+        "percent": 16.9631,
+        "pixel_count": 25175
+      },
+      {
+        "rank": 4,
+        "hex": "#C6E4FC",
+        "rgb": [
+          198,
+          228,
+          252
+        ],
+        "percent": 14.9148,
+        "pixel_count": 22135
+      },
+      {
+        "rank": 5,
+        "hex": "#233E81",
+        "rgb": [
+          35,
+          62,
+          129
+        ],
+        "percent": 9.465,
+        "pixel_count": 14047
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#44473D",
+        "rgb": [
+          68,
+          71,
+          61
+        ],
+        "percent": 33.3973,
+        "pixel_count": 49565
+      },
+      {
+        "rank": 2,
+        "hex": "#1C1E21",
+        "rgb": [
+          28,
+          30,
+          33
+        ],
+        "percent": 25.2598,
+        "pixel_count": 37488
+      },
+      {
+        "rank": 3,
+        "hex": "#737377",
+        "rgb": [
+          115,
+          115,
+          119
+        ],
+        "percent": 16.9631,
+        "pixel_count": 25175
+      },
+      {
+        "rank": 4,
+        "hex": "#C6E4FC",
+        "rgb": [
+          198,
+          228,
+          252
+        ],
+        "percent": 14.9148,
+        "pixel_count": 22135
+      },
+      {
+        "rank": 5,
+        "hex": "#233E81",
+        "rgb": [
+          35,
+          62,
+          129
+        ],
+        "percent": 9.465,
+        "pixel_count": 14047
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#44473D",
+          "rgb": [
+            68,
+            71,
+            61
+          ],
+          "percent": 33.3973,
+          "pixel_count": 49565
+        },
+        {
+          "rank": 2,
+          "hex": "#1C1E21",
+          "rgb": [
+            28,
+            30,
+            33
+          ],
+          "percent": 25.2598,
+          "pixel_count": 37488
+        },
+        {
+          "rank": 3,
+          "hex": "#737377",
+          "rgb": [
+            115,
+            115,
+            119
+          ],
+          "percent": 16.9631,
+          "pixel_count": 25175
+        },
+        {
+          "rank": 4,
+          "hex": "#C6E4FC",
+          "rgb": [
+            198,
+            228,
+            252
+          ],
+          "percent": 14.9148,
+          "pixel_count": 22135
+        },
+        {
+          "rank": 5,
+          "hex": "#233E81",
+          "rgb": [
+            35,
+            62,
+            129
+          ],
+          "percent": 9.465,
+          "pixel_count": 14047
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "nature6_b.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /nature6_b.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#4D3C29",
+        "rgb": [
+          77,
+          60,
+          41
+        ],
+        "percent": 53.2262,
+        "pixel_count": 105300
+      },
+      {
+        "rank": 2,
+        "hex": "#858738",
+        "rgb": [
+          133,
+          135,
+          56
+        ],
+        "percent": 46.7738,
+        "pixel_count": 92535
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#3B2A1B",
+        "rgb": [
+          59,
+          42,
+          27
+        ],
+        "percent": 34.9508,
+        "pixel_count": 69703
+      },
+      {
+        "rank": 2,
+        "hex": "#94973E",
+        "rgb": [
+          148,
+          151,
+          62
+        ],
+        "percent": 32.8879,
+        "pixel_count": 65589
+      },
+      {
+        "rank": 3,
+        "hex": "#706044",
+        "rgb": [
+          112,
+          96,
+          68
+        ],
+        "percent": 17.8492,
+        "pixel_count": 35597
+      },
+      {
+        "rank": 4,
+        "hex": "#616128",
+        "rgb": [
+          97,
+          97,
+          40
+        ],
+        "percent": 13.5114,
+        "pixel_count": 26946
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#4D3C29",
+          "rgb": [
+            77,
+            60,
+            41
+          ],
+          "percent": 53.2262,
+          "pixel_count": 105300
+        },
+        {
+          "rank": 2,
+          "hex": "#858738",
+          "rgb": [
+            133,
+            135,
+            56
+          ],
+          "percent": 46.7738,
+          "pixel_count": 92535
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "nature9.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /nature9.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#95A3AE",
+        "rgb": [
+          149,
+          163,
+          174
+        ],
+        "percent": 38.1913,
+        "pixel_count": 55511
+      },
+      {
+        "rank": 2,
+        "hex": "#112D3D",
+        "rgb": [
+          17,
+          45,
+          61
+        ],
+        "percent": 31.526,
+        "pixel_count": 45823
+      },
+      {
+        "rank": 3,
+        "hex": "#106EB4",
+        "rgb": [
+          16,
+          110,
+          180
+        ],
+        "percent": 17.8177,
+        "pixel_count": 25898
+      },
+      {
+        "rank": 4,
+        "hex": "#639CCA",
+        "rgb": [
+          99,
+          156,
+          202
+        ],
+        "percent": 12.4651,
+        "pixel_count": 18118
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#748694",
+        "rgb": [
+          116,
+          134,
+          148
+        ],
+        "percent": 22.9315,
+        "pixel_count": 33331
+      },
+      {
+        "rank": 2,
+        "hex": "#0C202B",
+        "rgb": [
+          12,
+          32,
+          43
+        ],
+        "percent": 22.0275,
+        "pixel_count": 32017
+      },
+      {
+        "rank": 3,
+        "hex": "#106EB4",
+        "rgb": [
+          16,
+          110,
+          180
+        ],
+        "percent": 17.8177,
+        "pixel_count": 25898
+      },
+      {
+        "rank": 4,
+        "hex": "#C7CFD6",
+        "rgb": [
+          199,
+          207,
+          214
+        ],
+        "percent": 15.2597,
+        "pixel_count": 22180
+      },
+      {
+        "rank": 5,
+        "hex": "#639CCA",
+        "rgb": [
+          99,
+          156,
+          202
+        ],
+        "percent": 12.4651,
+        "pixel_count": 18118
+      },
+      {
+        "rank": 6,
+        "hex": "#1E4C67",
+        "rgb": [
+          30,
+          76,
+          103
+        ],
+        "percent": 9.4985,
+        "pixel_count": 13806
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#95A3AE",
+          "rgb": [
+            149,
+            163,
+            174
+          ],
+          "percent": 38.1913,
+          "pixel_count": 55511
+        },
+        {
+          "rank": 2,
+          "hex": "#112D3D",
+          "rgb": [
+            17,
+            45,
+            61
+          ],
+          "percent": 31.526,
+          "pixel_count": 45823
+        },
+        {
+          "rank": 3,
+          "hex": "#106EB4",
+          "rgb": [
+            16,
+            110,
+            180
+          ],
+          "percent": 17.8177,
+          "pixel_count": 25898
+        },
+        {
+          "rank": 4,
+          "hex": "#639CCA",
+          "rgb": [
+            99,
+            156,
+            202
+          ],
+          "percent": 12.4651,
+          "pixel_count": 18118
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "p0jq33ky.jpg.webp",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /p0jq33ky.jpg.webp",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#6D625C",
+        "rgb": [
+          109,
+          98,
+          92
+        ],
+        "percent": 65.8966,
+        "pixel_count": 85402
+      },
+      {
+        "rank": 2,
+        "hex": "#CEE4F5",
+        "rgb": [
+          206,
+          228,
+          245
+        ],
+        "percent": 34.1034,
+        "pixel_count": 44198
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#CEE4F5",
+        "rgb": [
+          206,
+          228,
+          245
+        ],
+        "percent": 34.1034,
+        "pixel_count": 44198
+      },
+      {
+        "rank": 2,
+        "hex": "#776A61",
+        "rgb": [
+          119,
+          106,
+          97
+        ],
+        "percent": 32.7809,
+        "pixel_count": 42484
+      },
+      {
+        "rank": 3,
+        "hex": "#38302D",
+        "rgb": [
+          56,
+          48,
+          45
+        ],
+        "percent": 20.159,
+        "pixel_count": 26126
+      },
+      {
+        "rank": 4,
+        "hex": "#A89E98",
+        "rgb": [
+          168,
+          158,
+          152
+        ],
+        "percent": 12.9568,
+        "pixel_count": 16792
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#6D625C",
+          "rgb": [
+            109,
+            98,
+            92
+          ],
+          "percent": 65.8966,
+          "pixel_count": 85402
+        },
+        {
+          "rank": 2,
+          "hex": "#CEE4F5",
+          "rgb": [
+            206,
+            228,
+            245
+          ],
+          "percent": 34.1034,
+          "pixel_count": 44198
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "pexels-jan-kroon-1000057.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /pexels-jan-kroon-1000057.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#50483F",
+        "rgb": [
+          80,
+          72,
+          63
+        ],
+        "percent": 63.1094,
+        "pixel_count": 126001
+      },
+      {
+        "rank": 2,
+        "hex": "#E9F7FC",
+        "rgb": [
+          233,
+          247,
+          252
+        ],
+        "percent": 36.8906,
+        "pixel_count": 73654
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#E9F7FC",
+        "rgb": [
+          233,
+          247,
+          252
+        ],
+        "percent": 36.8906,
+        "pixel_count": 73654
+      },
+      {
+        "rank": 2,
+        "hex": "#74695C",
+        "rgb": [
+          116,
+          105,
+          92
+        ],
+        "percent": 32.4825,
+        "pixel_count": 64853
+      },
+      {
+        "rank": 3,
+        "hex": "#292621",
+        "rgb": [
+          41,
+          38,
+          33
+        ],
+        "percent": 30.6268,
+        "pixel_count": 61148
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#50483F",
+          "rgb": [
+            80,
+            72,
+            63
+          ],
+          "percent": 63.1094,
+          "pixel_count": 126001
+        },
+        {
+          "rank": 2,
+          "hex": "#E9F7FC",
+          "rgb": [
+            233,
+            247,
+            252
+          ],
+          "percent": 36.8906,
+          "pixel_count": 73654
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "rukatunturiwinter-finnishlapland.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /rukatunturiwinter-finnishlapland.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#8FA2BC",
+        "rgb": [
+          143,
+          162,
+          188
+        ],
+        "percent": 100.0,
+        "pixel_count": 199660
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#89A1BF",
+        "rgb": [
+          137,
+          161,
+          191
+        ],
+        "percent": 42.0124,
+        "pixel_count": 83882
+      },
+      {
+        "rank": 2,
+        "hex": "#5A7595",
+        "rgb": [
+          90,
+          117,
+          149
+        ],
+        "percent": 29.413,
+        "pixel_count": 58726
+      },
+      {
+        "rank": 3,
+        "hex": "#CDD3DE",
+        "rgb": [
+          205,
+          211,
+          222
+        ],
+        "percent": 28.5746,
+        "pixel_count": 57052
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#8FA2BC",
+          "rgb": [
+            143,
+            162,
+            188
+          ],
+          "percent": 100.0,
+          "pixel_count": 199660
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "this_is_finland_tuusulanjarvi_-300dpi_srgb-_mg_7331-0005_-c-sami_heiskanen-700x467.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /this_is_finland_tuusulanjarvi_-300dpi_srgb-_mg_7331-0005_-c-sami_heiskanen-700x467.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#A1A8B6",
+        "rgb": [
+          161,
+          168,
+          182
+        ],
+        "percent": 100.0,
+        "pixel_count": 199655
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#D8D9DB",
+        "rgb": [
+          216,
+          217,
+          219
+        ],
+        "percent": 47.4343,
+        "pixel_count": 94705
+      },
+      {
+        "rank": 2,
+        "hex": "#929EB5",
+        "rgb": [
+          146,
+          158,
+          181
+        ],
+        "percent": 26.4271,
+        "pixel_count": 52763
+      },
+      {
+        "rank": 3,
+        "hex": "#4C5873",
+        "rgb": [
+          76,
+          88,
+          115
+        ],
+        "percent": 26.1386,
+        "pixel_count": 52187
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#A1A8B6",
+          "rgb": [
+            161,
+            168,
+            182
+          ],
+          "percent": 100.0,
+          "pixel_count": 199655
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "winter2-710x375.jpg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /winter2-710x375.jpg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#9EAAEC",
+        "rgb": [
+          158,
+          170,
+          236
+        ],
+        "percent": 81.8802,
+        "pixel_count": 163658
+      },
+      {
+        "rank": 2,
+        "hex": "#B49AD4",
+        "rgb": [
+          180,
+          154,
+          212
+        ],
+        "percent": 18.1198,
+        "pixel_count": 36217
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#9EAAEC",
+        "rgb": [
+          158,
+          170,
+          236
+        ],
+        "percent": 81.8802,
+        "pixel_count": 163658
+      },
+      {
+        "rank": 2,
+        "hex": "#B49AD4",
+        "rgb": [
+          180,
+          154,
+          212
+        ],
+        "percent": 18.1198,
+        "pixel_count": 36217
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#9EAAEC",
+          "rgb": [
+            158,
+            170,
+            236
+          ],
+          "percent": 81.8802,
+          "pixel_count": 163658
+        },
+        {
+          "rank": 2,
+          "hex": "#B49AD4",
+          "rgb": [
+            180,
+            154,
+            212
+          ],
+          "percent": 18.1198,
+          "pixel_count": 36217
+        }
+      ],
+      "secondary": []
+    }
+  },
+  {
+    "file": "zdsc00613-2560x1440.jpeg",
+    "path": "/Users/isabellaprimo/Downloads/TopColor-master/nature finland /zdsc00613-2560x1440.jpeg",
+    "colors": [
+      {
+        "rank": 1,
+        "hex": "#493C36",
+        "rgb": [
+          73,
+          60,
+          54
+        ],
+        "percent": 72.7136,
+        "pixel_count": 145180
+      },
+      {
+        "rank": 2,
+        "hex": "#D9E5EF",
+        "rgb": [
+          217,
+          229,
+          239
+        ],
+        "percent": 27.2864,
+        "pixel_count": 54480
+      }
+    ],
+    "raw_colors": [
+      {
+        "rank": 1,
+        "hex": "#4D3F39",
+        "rgb": [
+          77,
+          63,
+          57
+        ],
+        "percent": 46.203,
+        "pixel_count": 92249
+      },
+      {
+        "rank": 2,
+        "hex": "#D9E5EF",
+        "rgb": [
+          217,
+          229,
+          239
+        ],
+        "percent": 27.2864,
+        "pixel_count": 54480
+      },
+      {
+        "rank": 3,
+        "hex": "#211817",
+        "rgb": [
+          33,
+          24,
+          23
+        ],
+        "percent": 18.8761,
+        "pixel_count": 37688
+      },
+      {
+        "rank": 4,
+        "hex": "#93806E",
+        "rgb": [
+          147,
+          128,
+          110
+        ],
+        "percent": 7.6345,
+        "pixel_count": 15243
+      }
+    ],
+    "semantic": {
+      "primary": [
+        {
+          "rank": 1,
+          "hex": "#493C36",
+          "rgb": [
+            73,
+            60,
+            54
+          ],
+          "percent": 72.7136,
+          "pixel_count": 145180
+        },
+        {
+          "rank": 2,
+          "hex": "#D9E5EF",
+          "rgb": [
+            217,
+            229,
+            239
+          ],
+          "percent": 27.2864,
+          "pixel_count": 54480
+        }
+      ],
+      "secondary": []
+    }
+  }
+]

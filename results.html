@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <script src="scripts/ambientMesh.js"></script>
+  <title>Your results — Climate, Color & Advertising</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/buffer_16px%20.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/buffer_32px.png" />
+  <link rel="icon" type="image/png" sizes="48x48" href="assets/buffer_48%20px.png" />
+  <link rel="icon" type="image/png" sizes="128x128" href="assets/buffer_128%20px%20.png" />
+  <link rel="apple-touch-icon" sizes="128x128" href="assets/buffer_128%20px%20.png" />
+  <link rel="stylesheet" href="css/fonts.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/layout.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/theme.css" />
+  <link rel="stylesheet" href="css/ambient-mesh.css" />
+  <link rel="stylesheet" href="css/results.css" />
+  <link rel="stylesheet" href="css/results-journey.css" />
+  <link rel="stylesheet" href="css/results-data-modules.css" />
+  <link rel="stylesheet" href="css/results-print-card.css" />
+  <style>
+    @media print {
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header no-print">
+    <div class="site-header__inner">
+      <div class="site-header__title">
+        <span class="site-header__label">Design Thesis</span>
+        <h1>
+          <a href="index.html" style="color: inherit; text-decoration: none;">
+            <span class="site-header__brand">
+              <img class="site-header__brand-mark" src="assets/buffer_32px.png" alt="" width="20" height="20" />
+              <span>Climate, Color & Advertising</span>
+            </span>
+          </a>
+        </h1>
+      </div>
+      <nav class="site-nav" aria-label="Primary">
+        <a class="site-nav__link" href="method.html">Method</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Staged journey (before dashboard) -->
+  <div id="results-journey" class="results-journey no-print" role="dialog" aria-modal="true" aria-labelledby="journey-dialog-title" style="--journey-steps: 6">
+    <div class="results-journey__top">
+      <span class="results-journey__brand" id="journey-dialog-title">Your results</span>
+      <button type="button" class="results-journey__skip" id="results-journey-skip">Skip to dashboard</button>
+    </div>
+    <div class="results-journey__progress" id="results-journey-progress" aria-hidden="true"></div>
+      <div class="results-journey__viewport">
+      <div class="results-journey__track" id="results-journey-track">
+        <!-- 1 · Your Color Profile -->
+        <article class="results-journey__slide results-journey__slide--active" data-journey-index="0" aria-label="Step 1 of 6: Your color profile">
+          <div class="results-journey__inner journey-interp">
+            <p class="results-journey__kicker">Step 1 of 6</p>
+            <h2 class="journey-interp__title">Your Color Profile</h2>
+            <p class="journey-interp__lede">
+              A comparison of dominant hues across three systems: your selected images, advertising palettes, and environmental color data. This positions your preferences between personal choice, commercial design, and the color world you grew up in.
+            </p>
+            <div class="journey-interp__visual">
+              <div class="data-profile-hero journey-profile-hero" id="journey-profile-hero">
+                <div class="data-profile-hero__atmosphere" aria-hidden="true">
+                  <span class="data-profile-hero__blob data-profile-hero__blob--env"></span>
+                  <span class="data-profile-hero__blob data-profile-hero__blob--ads"></span>
+                </div>
+                <div id="journey-profile-hero-swatches" class="data-profile-hero__swatches"></div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <!-- 2 · Zone vs closest color match -->
+        <article class="results-journey__slide" data-journey-index="1" aria-label="Step 2 of 6: Nature expected colors and closest advertising match">
+          <div class="results-journey__inner journey-interp">
+            <p class="results-journey__kicker">Step 2 of 6</p>
+            <h2 class="journey-interp__title">Nature expected &amp; ad match</h2>
+            <p class="journey-interp__note" id="journey-env-derived"></p>
+            <p class="journey-interp__narrative" id="journey-expected-narrative"></p>
+            <div class="journey-interp__visual journey-interp__visual--expected journey-expected-dual" id="journey-expected-stage">
+              <div class="journey-expected-field" aria-hidden="true"></div>
+              <div class="journey-expected-dual__grid">
+                <div class="journey-expected-dual__col">
+                  <p class="journey-expected-dual__label">Expected · nature</p>
+                  <p class="journey-expected-dual__hint">Dominant hues from environmental photography in your formative climate band</p>
+                  <div id="journey-env-zone-swatches" class="results-palette__swatches journey-interp__swatches"></div>
+                </div>
+                <div class="journey-expected-dual__col">
+                  <p class="journey-expected-dual__label">Closest match · advertising</p>
+                  <p class="journey-expected-dual__hint">Thesis advertising palette your selections align with most closely</p>
+                  <div id="journey-match-climate-swatches" class="results-palette__swatches journey-interp__swatches"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <!-- 3 · Nature, advertising & you (metrics) -->
+        <article class="results-journey__slide results-journey__slide--nature-vs" data-journey-index="2" aria-label="Step 3 of 6: Nature and advertising baselines versus your palette">
+          <div class="results-journey__inner journey-interp">
+            <p class="results-journey__kicker">Step 3 of 6</p>
+            <h2 class="journey-interp__title">Nature, advertising &amp; you</h2>
+            <p class="journey-interp__note" id="journey-nature-vs-intro"></p>
+            <div id="journey-nature-vs-grid" class="journey-nature-vs-wrap" aria-label="Nature, advertising, and your palette metric comparison"></div>
+          </div>
+        </article>
+        <!-- 4 · Palette metrics (editorial vertical bars) -->
+        <article class="results-journey__slide results-journey__slide--metrics-bars" data-journey-index="3" aria-label="Step 4 of 6: Palette metrics">
+          <div class="results-journey__inner journey-interp journey-interp--metrics-bars">
+            <p class="results-journey__kicker">Step 4 of 6</p>
+            <p class="journey-metrics-hero__eyebrow">Your palette, by the numbers</p>
+            <h2 class="journey-metrics-hero__title">
+              <span class="journey-metrics-hero__line">The mix is clear.</span>
+              <span class="journey-metrics-hero__line journey-metrics-hero__line--accent">The data fills in.</span>
+            </h2>
+            <div class="journey-metrics-bars" role="list">
+              <div class="journey-metric-bar" role="listitem">
+                <div class="journey-metric-bar__track">
+                  <div class="journey-metric-bar__fill" id="journey-metric-sat-fill" style="--metric-pct: 0">
+                    <span class="journey-metric-bar__value" id="journey-metric-sat-value">—</span>
+                  </div>
+                </div>
+                <p class="journey-metric-bar__caption">Average <em>saturation</em> — chroma across your swatches.</p>
+              </div>
+              <div class="journey-metric-bar" role="listitem">
+                <div class="journey-metric-bar__track">
+                  <div class="journey-metric-bar__fill" id="journey-metric-bri-fill" style="--metric-pct: 0">
+                    <span class="journey-metric-bar__value" id="journey-metric-bri-value">—</span>
+                  </div>
+                </div>
+                <p class="journey-metric-bar__caption">Average <em>brightness</em> — light versus dark.</p>
+              </div>
+              <div class="journey-metric-bar" role="listitem">
+                <div class="journey-metric-bar__track">
+                  <div class="journey-metric-bar__fill" id="journey-metric-warm-fill" style="--metric-pct: 0">
+                    <span class="journey-metric-bar__value" id="journey-metric-warm-value">—</span>
+                  </div>
+                </div>
+                <p class="journey-metric-bar__caption" id="journey-metric-warm-caption">Warm–cool <em>balance</em> along the hue axis.</p>
+              </div>
+              <div class="journey-metric-bar" role="listitem">
+                <div class="journey-metric-bar__track">
+                  <div class="journey-metric-bar__fill" id="journey-metric-neutral-fill" style="--metric-pct: 0">
+                    <span class="journey-metric-bar__value" id="journey-metric-neutral-value">—</span>
+                  </div>
+                </div>
+                <p class="journey-metric-bar__caption">Share of <em>neutral</em> and near-neutral tones.</p>
+              </div>
+            </div>
+          </div>
+        </article>
+        <!-- 5 · Closest match vs your palette -->
+        <article class="results-journey__slide results-journey__slide--palette-compare" data-journey-index="4" aria-label="Step 5 of 6: Closest match versus your palette">
+          <div class="results-journey__inner journey-interp">
+            <p class="results-journey__kicker">Step 5 of 6</p>
+            <h2 class="journey-interp__title">Closest match vs yours</h2>
+            <p class="journey-interp__note">The advertising palette your colors align with most closely, next to hues from your session.</p>
+            <div class="journey-interp__visual journey-compare-palettes">
+              <div class="journey-compare-palettes__col">
+                <p class="journey-compare-palettes__label">Closest match</p>
+                <div id="journey-match-swatches-compare" class="results-palette__swatches"></div>
+              </div>
+              <div class="journey-compare-palettes__bridge" aria-hidden="true">
+                <svg viewBox="0 0 48 24" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M4 12h36M34 6l8 6-8 6"/></svg>
+              </div>
+              <div class="journey-compare-palettes__col">
+                <p class="journey-compare-palettes__label">Yours</p>
+                <div id="journey-user-swatches-compare" class="results-palette__swatches"></div>
+              </div>
+            </div>
+          </div>
+        </article>
+        <!-- 6 · Difference (vs nature / zone baseline) -->
+        <article class="results-journey__slide" data-journey-index="5" aria-label="Step 6 of 6: Comparison to expected nature or climate baseline">
+          <div class="results-journey__inner journey-interp">
+            <p class="results-journey__kicker">Step 6 of 6</p>
+            <h2 class="journey-interp__title">Difference / comparison</h2>
+            <div id="journey-delta-strip" class="journey-delta-strip data-delta-strip" aria-label="Shifts versus nature photography baseline (or advertising zone fallback)"></div>
+            <p class="journey-interp__summary" id="journey-comparison-summary"></p>
+            <p class="journey-interp__interpret" id="journey-interpretation"></p>
+            <button type="button" class="results-journey__cta-final" id="results-journey-enter">Enter full results dashboard</button>
+          </div>
+        </article>
+      </div>
+    </div>
+    <nav class="results-journey__nav" aria-label="Journey steps">
+      <button type="button" class="results-journey__btn" id="results-journey-back">Back</button>
+      <button type="button" class="results-journey__btn results-journey__btn--primary" id="results-journey-next">Next</button>
+    </nav>
+  </div>
+
+  <main id="results-main-shell" class="results-main-shell" hidden>
+    <section id="results" class="section section--results" aria-labelledby="results-title">
+      <header class="section-header">
+        <p class="section-kicker">Phase III</p>
+        <h1 id="results-title"><a href="method.html" style="color: inherit; text-decoration: none;">Your color <em>profile</em></a></h1>
+      </header>
+
+      <div class="results-layout">
+        <div class="results-visual">
+          <!-- Dashboard: dense combined data view (full system) -->
+          <div class="results-dashboard-summary">
+            <div class="results-palettes-dashboard results-palettes-dashboard--hero-first" aria-label="Palette comparison overview">
+              <div class="results-dash-main-row">
+                <!-- Primary: your palette -->
+                <section class="results-dash-hero" aria-labelledby="profile-heading">
+                  <p class="results-dash-hero__eyebrow">Your palette</p>
+                  <h2 id="profile-heading" class="results-dash-hero__title"></h2>
+                  <div class="results-dash-hero__metrics">
+                    <section aria-label="Palette metrics" class="results-metrics results-metrics--hero">
+                      <h4 class="results-metrics__title results-sr-only">Palette metrics</h4>
+                      <div class="results-metrics-grid results-metrics-grid--hero">
+                        <div class="results-metric results-metric--chip">
+                          <p class="results-metric__label">Saturation</p>
+                          <p class="results-metric__value" id="results-metric-sat"></p>
+                        </div>
+                        <div class="results-metric results-metric--chip">
+                          <p class="results-metric__label">Brightness</p>
+                          <p class="results-metric__value" id="results-metric-bri"></p>
+                        </div>
+                        <div class="results-metric results-metric--chip">
+                          <p class="results-metric__label" id="results-metric-warm-label">Warm / cool</p>
+                          <p class="results-metric__value" id="results-metric-warm"></p>
+                        </div>
+                        <div class="results-metric results-metric--chip">
+                          <p class="results-metric__label">Neutral</p>
+                          <p class="results-metric__value" id="results-metric-neutral"></p>
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                  <div id="palette-swatches" class="results-palette__swatches results-dash-hero__swatches" aria-label="Your extracted palette swatches"></div>
+                  <p id="profile-text" class="results-dash-hero__lede"></p>
+                </section>
+
+                <!-- Stacked beside hero: metrics + advertising match -->
+                <div class="results-dash-cards results-dash-cards--beside-hero" aria-label="Reading, metric, advertising, and reference comparisons">
+                  <details class="results-dash-card">
+                    <summary class="results-dash-card__summary">
+                      <span class="results-dash-card__heading">
+                        <span class="results-dash-card__title">Reading</span>
+                        <span class="results-dash-card__meta">Summary &amp; interpretation</span>
+                      </span>
+                    </summary>
+                    <div class="results-dash-card__body">
+                      <div class="results-palette-bridge results-palette-bridge--card" aria-label="How these palettes compare">
+                        <p class="results-palette-bridge__text" id="results-comparison-summary"></p>
+                        <p class="results-palette-bridge__text results-palette-bridge__text--secondary" id="results-interpretation"></p>
+                      </div>
+                    </div>
+                  </details>
+
+                  <details class="results-dash-card">
+                    <summary class="results-dash-card__summary">
+                      <span class="results-dash-card__heading">
+                        <span class="results-dash-card__title">Metric comparison</span>
+                        <span class="results-dash-card__meta">Nature · ads · you</span>
+                      </span>
+                    </summary>
+                    <div class="results-dash-card__body">
+                      <div class="results-palette results-palette--nature-metrics results-palette--in-card" aria-label="Nature and advertising metrics versus your palette">
+                        <p class="results-palette__note results-palette__note--card" id="results-nature-vs-note"></p>
+                        <div id="results-nature-vs-grid" class="results-nature-vs-wrap"></div>
+                      </div>
+                    </div>
+                  </details>
+
+                  <details class="results-dash-card">
+                    <summary class="results-dash-card__summary">
+                      <span class="results-dash-card__heading">
+                        <span class="results-dash-card__title">Reference palettes</span>
+                        <span class="results-dash-card__meta">Nature · advertising</span>
+                      </span>
+                    </summary>
+                    <div class="results-dash-card__body">
+                      <div class="results-palette results-palette--environment results-palette--in-card" aria-label="Nature expected colors and closest advertising match">
+                        <p class="results-palette__note results-palette__note--card" id="env-palette-note"></p>
+                        <div class="results-palette-dual" role="group" aria-label="Nature expected and advertising match">
+                          <div class="results-palette-dual__block">
+                            <p class="results-palette__sublabel" id="env-zone-sublabel">Expected · nature</p>
+                            <div id="env-palette-zone-swatches" class="results-palette__swatches"></div>
+                          </div>
+                          <div class="results-palette-dual__block">
+                            <p class="results-palette__sublabel" id="env-match-sublabel">Closest match · advertising</p>
+                            <div id="env-palette-match-swatches" class="results-palette__swatches"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </details>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="results-open-analytical">
+              <button type="button" class="results-open-analytical__btn" id="results-open-analytical-btn">
+                Open raw data · scatterplot &amp; matrix
+              </button>
+            </div>
+          </div>
+
+          <!-- Deeper analytical layer: chart + matrix (unchanged logic, lazy-loaded) -->
+          <div id="results-analytical" class="results-analytical" hidden>
+            <div class="results-analytical__header no-print">
+              <span class="results-analytical__label">Raw visualization</span>
+            </div>
+            <div class="results-graph-row results-graph-row--analytical">
+              <section class="results-chart-key results-chart-key--side" aria-label="Chart key">
+                <p class="results-chart-key__title">Chart key</p>
+                <div class="results-chart-key__items">
+                  <p><span class="results-chart-key__swatch results-chart-key__swatch--nature"></span><strong>Nature</strong>: colors from environmental images.</p>
+                  <p><span class="results-chart-key__swatch results-chart-key__swatch--posters"></span><strong>Posters</strong>: colors from poster images.</p>
+                  <p><span class="results-chart-key__swatch results-chart-key__swatch--user"></span><strong>You</strong>: colors from your selections.</p>
+                  <p><span class="results-chart-key__dot results-chart-key__dot--small"></span><span class="results-chart-key__dot results-chart-key__dot--large"></span><strong>Dot size</strong>: bigger = more frequent.</p>
+                  <p><span class="results-chart-key__cross"></span><strong>Cross</strong>: panel average.</p>
+                </div>
+              </section>
+              <div id="results-graph-placeholder" class="results-graph-placeholder"></div>
+            </div>
+
+            <div id="results-bubble-tooltip" class="results-bubble-tooltip" hidden>
+              <img alt="" />
+            </div>
+
+            <section class="results-matrix" aria-label="Color amplification matrix">
+              <div class="results-matrix__header">
+                <p class="results-matrix__title">Amplification matrix</p>
+                <p class="results-matrix__note">Rows are color families. Columns are poster categories. Dot size shows delta relative to nature.</p>
+              </div>
+              <div id="results-matrix-grid" class="results-matrix__grid"></div>
+              <div id="results-matrix-tooltip" class="results-matrix__tooltip" hidden></div>
+            </section>
+          </div>
+        </div>
+
+        <aside class="results-profile no-print" aria-label="Results tools">
+          <div class="results-profile__mini-tab">
+            <button type="button" id="results-about-toggle" class="results-about__toggle">
+              Learn more <span class="results-about__toggle-note">(Climate &amp; Comfort)</span>
+            </button>
+            <button type="button" id="print-card-btn" class="button button--primary results-profile__print-btn">Print results card</button>
+          </div>
+
+          <div id="results-about-body" class="results-about__body" hidden>
+            <p>Color in advertising is not a direct reflection of the environment, but a transformation of it.</p>
+            <p>This project analyzes how color is translated from natural climates into advertising across polar, tropical, and arid regions. Differences in brightness, saturation, and neutrality reveal how designers adjust environmental color to construct specific visual atmospheres and align with viewer expectations.</p>
+            <p>These transformations vary by climate, producing distinct palette structures rather than universal solutions. By selectively drawing on environmental cues, advertising amplifies and simplifies color to increase legibility, recognition, and desirability.</p>
+            <p>An interactive system extends this work by allowing users to generate a personal palette and view the world through a recalibrated color lens.</p>
+          </div>
+        </aside>
+
+        <div class="results-print-card" id="results-print-card" data-print-climate="tropical">
+            <!-- Page 1 · A6 front -->
+            <section class="comfort-card comfort-card--front" aria-label="Comfort profile card front">
+              <div class="comfort-card__frame">
+                <p class="comfort-card__match" id="print-card-match-line"></p>
+                <h2 class="comfort-card__title">
+                  <span class="comfort-card__title-line">Your</span>
+                  <span class="comfort-card__title-line comfort-card__title-line--italic">Comfort</span>
+                  <span class="comfort-card__title-line">Profile</span>
+                </h2>
+                <div class="comfort-card__columns">
+                  <div class="comfort-card__col">
+                    <p class="comfort-card__label">Your swatches</p>
+                    <div class="comfort-card__swatches" id="print-card-swatches" aria-hidden="true"></div>
+                  </div>
+                  <div class="comfort-card__col">
+                    <p class="comfort-card__label">Your data</p>
+                    <div class="comfort-card__data" id="print-card-data"></div>
+                  </div>
+                </div>
+                <p class="comfort-card__footer-brackets" id="print-card-profile-brackets"></p>
+              </div>
+            </section>
+            <!-- Page 2 · A6 back -->
+            <section class="comfort-card comfort-card--back" aria-label="Comfort profile card back">
+              <div class="comfort-card__frame">
+                <p class="comfort-card__back-header" id="print-card-back-header"></p>
+                <div class="comfort-card__back-tagline">
+                  <span>See through</span><br />
+                  <span>your <em>comfort</em></span>
+                </div>
+                <img
+                  class="comfort-card__qr"
+                  id="print-card-qr"
+                  alt="QR code — link to this results page"
+                  width="200"
+                  height="200"
+                  src=""
+                />
+              </div>
+            </section>
+          </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer no-print">
+    <p>Climate, Color & Advertising — Design thesis project.</p>
+  </footer>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+<script src="scripts/colorUtils.js"></script>
+<script src="scripts/climateData.js"></script>
+<script src="scripts/editorialDotField.js"></script>
+<script src="scripts/results.js"></script>
+</html>
