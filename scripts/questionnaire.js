@@ -32,7 +32,9 @@
     "Which image feels most natural to you?"
   ];
 
-  const CLIMATE_API_BASE = "http://climateapi.scottpinkelman.com/api/v1/location";
+  const CLIMATE_API_BASE_HTTPS = "https://climateapi.scottpinkelman.com/api/v1/location";
+  const CLIMATE_API_BASE_HTTP = "http://climateapi.scottpinkelman.com/api/v1/location";
+  const CLIMATE_API_PROXY = "https://api.allorigins.win/raw?url=";
   const GEOCODE_URL = "https://geocoding-api.open-meteo.com/v1/search";
 
   const CLIMATES = ["brazil", "egypt", "finland"];
@@ -690,11 +692,36 @@
   }
 
   async function fetchClimateZone(lat, lon) {
-    const res = await fetch(CLIMATE_API_BASE + "/" + lat + "/" + lon);
-    if (!res.ok) return null;
-    const data = await res.json();
-    const r = data.return_values && data.return_values[0];
-    return r ? { code: r.koppen_geiger_zone, description: r.zone_description || "" } : null;
+    // HTTPS-hosted pages cannot call an HTTP endpoint (mixed-content block).
+    // Try HTTPS first; on HTTPS pages, use a secure proxy fallback for HTTP-only APIs.
+    const canUseHttpFallback =
+      typeof window !== "undefined" &&
+      window.location &&
+      window.location.protocol !== "https:";
+
+    const endpointPath = "/" + lat + "/" + lon;
+    const directHttps = CLIMATE_API_BASE_HTTPS + endpointPath;
+    const directHttp = CLIMATE_API_BASE_HTTP + endpointPath;
+    const proxyHttp = CLIMATE_API_PROXY + encodeURIComponent(directHttp);
+    const candidates = canUseHttpFallback
+      ? [directHttps, directHttp, proxyHttp]
+      : [directHttps, proxyHttp];
+
+    for (let i = 0; i < candidates.length; i++) {
+      const url = candidates[i];
+      try {
+        const res = await fetch(url);
+        if (!res.ok) continue;
+        const data = await res.json();
+        const r = data.return_values && data.return_values[0];
+        if (r) {
+          return { code: r.koppen_geiger_zone, description: r.zone_description || "" };
+        }
+      } catch (e) {
+        // Try next candidate endpoint.
+      }
+    }
+    return null;
   }
   
     function formatIndex(i) {
