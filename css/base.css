@@ -81,6 +81,29 @@ button {
   cursor: pointer;
 }
 
+/* Keep pointer cursor consistent on interactive controls */
+a[href],
+button,
+summary,
+label[for],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+input[type="checkbox"],
+input[type="radio"],
+select,
+[role="button"],
+[role="link"] {
+  cursor: pointer;
+}
+
+button:disabled,
+input:disabled,
+select:disabled,
+textarea:disabled {
+  cursor: not-allowed;
+}
+
 /* Focus visible for accessibility */
 :focus-visible {
   outline: 2px solid currentColor;
