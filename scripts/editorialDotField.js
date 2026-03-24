@@ -338,7 +338,8 @@
 
   function drawAxisUnitTicks(ctx) {
     const { plotX0, plotY0, plotY1, plotW, plotH, panelW } = panelGeometry();
-    const tickVals = [50, 100];
+    // Include 0 so the full axis scale is labeled (0/50/100).
+    const tickVals = [0, 50, 100];
     const tickLen = Math.round(5 * VIS);
 
     ctx.save();
@@ -357,7 +358,9 @@
       ctx.moveTo(plotX0, y);
       ctx.lineTo(plotX0 + tickLen, y);
       ctx.stroke();
-      ctx.fillText(String(v), plotX0 + Math.round(6 * VIS), y);
+      // Nudge the 0 label up a bit to avoid bottom edge clipping.
+      const yLabel = v === 0 ? y - Math.round(3 * VIS) : y;
+      ctx.fillText(String(v), plotX0 + Math.round(6 * VIS), yLabel);
     });
 
     // X axis (saturation): draw per panel so each panel has its own 50/100 scale.

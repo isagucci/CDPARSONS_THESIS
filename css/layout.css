@@ -191,7 +191,7 @@ body {
     border-radius: 8px;
   }
 
-  .question-shell .question-footer .question-controls {
+  .question-shell .question-footer .question-footer__trail {
     margin-left: auto;
   }
 
@@ -203,7 +203,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    /* Card centered on viewport midline (~50vh) with safe edge padding */
     padding: 1.5rem;
+    min-height: 100dvh;
+    box-sizing: border-box;
   }
 
   .climate-popup[hidden] {
@@ -221,95 +224,115 @@ body {
   .climate-popup__card {
     position: relative;
     width: 100%;
-  max-width: min(34rem, calc(100vw - 2.5rem));
+    max-width: min(26rem, calc(100vw - 2rem));
     min-height: 0;
-  padding: 2rem 1.75rem 1.5rem;
+    padding: 2.15rem 2.4rem 1.5rem 1.85rem;
     display: flex;
     flex-direction: column;
-  align-items: center;
-  gap: 1rem;
-  backdrop-filter: blur(16px) saturate(1.05);
-  -webkit-backdrop-filter: blur(16px) saturate(1.05);
-  background:
-    radial-gradient(85% 70% at 22% 0%, rgba(128, 191, 255, 0.26), transparent 68%),
-    radial-gradient(95% 70% at 85% 8%, rgba(200, 149, 255, 0.2), transparent 72%),
-    rgba(255, 255, 255, 0.16);
-  border-radius: 28px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  box-shadow:
-    0 22px 48px rgba(8, 18, 26, 0.22),
-    inset 0 1px 0 rgba(255, 255, 255, 0.38);
-}
+    align-items: stretch;
+    gap: 0;
+    backdrop-filter: blur(18px) saturate(1.06);
+    -webkit-backdrop-filter: blur(18px) saturate(1.06);
+    background:
+      radial-gradient(120% 85% at 0% 0%, rgba(128, 191, 255, 0.2), transparent 55%),
+      radial-gradient(100% 80% at 100% 12%, rgba(200, 149, 255, 0.16), transparent 58%),
+      rgba(255, 255, 255, 0.12);
+    border-radius: 22px;
+    border: 1px solid rgba(255, 255, 255, 0.26);
+    box-shadow:
+      0 24px 52px rgba(8, 18, 26, 0.24),
+      inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  }
 
-.climate-popup__brand {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  margin-bottom: 0.2rem;
-}
+  .climate-popup__brand {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 1.05rem;
+  }
 
-.climate-popup__brand-chip {
-  width: 4.25rem;
-  height: 4.25rem;
-  border-radius: 1.4rem;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.7);
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow:
-    0 10px 22px rgba(8, 18, 26, 0.16),
-    inset 0 1px 0 rgba(255, 255, 255, 0.95);
+  /* No solid “buffer” — logo sits on glass; drop-shadow for separation */
+  .climate-popup__brand-chip {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: auto;
+    border-radius: 0;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  .climate-popup__brand-chip img {
+    width: 2.5rem;
+    height: 2.5rem;
+    display: block;
+    filter: drop-shadow(0 2px 14px rgba(0, 0, 0, 0.32));
   }
 
   .climate-popup__body {
-  width: 100%;
+    width: 100%;
     display: flex;
     flex-direction: column;
-  gap: 0.45rem;
-  text-align: center;
+    align-items: center;
+    gap: 0.3rem;
+    text-align: center;
   }
 
-  .climate-popup__h1 {
+  .climate-popup__title {
     flex-shrink: 0;
     margin: 0;
   }
 
-  .climate-popup__h2 {
-    margin-top: 0.1rem;
+  .climate-popup__code {
+    margin-top: 0.15rem;
   }
 
-  .climate-popup__h2[hidden] {
+  .climate-popup__code[hidden] {
     display: none;
   }
 
   .climate-popup__meta {
-    margin-top: 0.2rem;
-    flex: 1;
-    max-width: 36ch;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0.45rem auto 0;
+    flex: 0 1 auto;
+    max-width: 42ch;
   }
 
-  .climate-popup__card .button {
-  width: min(17rem, 100%);
+  .climate-popup__actions {
+    margin-top: 1.4rem;
+    padding-top: 1.15rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.22);
+    display: flex;
+    justify-content: center;
     flex-shrink: 0;
-  margin-top: 0.65rem;
-  border-radius: 999px;
-}
+  }
+
+  .climate-popup__actions .button {
+    width: auto;
+    min-width: min(15.5rem, 100%);
+    margin: 0;
+    border-radius: 999px;
+  }
 
 @media (max-width: 640px) {
   .climate-popup__card {
-    border-radius: 22px;
-    padding: 1.65rem 1.15rem 1.25rem;
+    border-radius: 20px;
+    padding: 1.75rem 1.35rem 1.35rem 1.25rem;
+    max-width: calc(100vw - 1.75rem);
   }
 
-  .climate-popup__brand-chip {
-    width: 3.6rem;
-    height: 3.6rem;
-    border-radius: 1.1rem;
+  .climate-popup__brand-chip img {
+    width: 2.25rem;
+    height: 2.25rem;
   }
+
+  .climate-popup__actions {
+    margin-top: 1.15rem;
+    padding-top: 1rem;
   }
+}
 
   .question-shell {
     border-top: 1px solid rgba(255, 255, 255, 0.18);
@@ -362,22 +385,18 @@ body {
     grid-column: 1 / -1;
   }
 
-  /* Tighter stack so 5×3 refine grid fits in the viewport */
+  /* Refine step: space under prompt, grid height handled in components.css */
   .question-refine-view:not([hidden]) .question-body {
     margin-top: 0.35rem;
+    margin-bottom: clamp(0.5rem, 1.4vh, 0.95rem);
   }
 
   .question-refine-view:not([hidden]) .question-text {
-    margin-bottom: 0.15rem;
-  }
-
-  .question-refine-view__hint {
-    margin-top: 0.2rem;
     margin-bottom: 0;
   }
 
   .question-shell:has(.question-refine-view:not([hidden])) .question-footer {
-    margin-top: 0.65rem;
+    margin-top: 0.45rem;
   }
   
   .question-text {
@@ -414,6 +433,37 @@ body {
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
+  }
+
+  /* Köppen lookup: small buffer above Continue (city step) */
+  .question-footer__trail {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
+    min-width: 0;
+  }
+
+  /* Match button row width; center GIF over that span */
+  .koppen-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 2.75rem;
+  }
+
+  .koppen-loading[hidden] {
+    display: none !important;
+  }
+
+  .koppen-loading__gif {
+    display: block;
+    max-height: clamp(40px, 9vw, 56px);
+    max-width: min(88px, 22vw);
+    width: auto;
+    height: auto;
+    object-fit: contain;
   }
   
   /* Processing */
@@ -551,6 +601,49 @@ body {
   max-width: 66ch;
 }
 
+/* Metadata step: compact tag reference cards */
+.method-meta-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin-top: 1.1rem;
+  max-width: 52rem;
+}
+
+.method-meta-card {
+  margin: 0;
+  padding: 0.7rem 0.8rem 0.75rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.06);
+  box-sizing: border-box;
+  min-width: 0;
+}
+
+.method-meta-card__tags {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.method-meta-card__tags li {
+  margin: 0;
+  padding: 0;
+}
+
+.method-meta-card__tag {
+  display: inline-block;
+}
+
+@media (max-width: 720px) {
+  .method-meta-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
 .method-snapshot {
   margin-top: 0.8rem;
 }
@@ -606,7 +699,7 @@ body {
 
 .method-snapshot__swatches {
   display: grid;
-  grid-template-columns: repeat(6, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0.5rem;
 }
 
@@ -631,9 +724,96 @@ body {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-.method-snapshot__swatches span:nth-child(1),
-.method-snapshot__swatches span:nth-child(6) {
-  grid-column: span 3;
+/* Step 05 — three-set Venn (climate color fields) */
+.method-venn {
+  margin: 1.1rem 0 0;
+  max-width: 52rem;
+  overflow: visible;
+}
+
+.method-venn__frame {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.95fr);
+  gap: 1rem 1.25rem;
+  align-items: center;
+  padding: 1rem 1.1rem 1.05rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.04);
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.method-venn__svg-wrap {
+  overflow: visible;
+  padding: 0.35rem 0.25rem 0.5rem;
+  min-width: 0;
+}
+
+.method-venn__svg {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-inline: auto;
+  overflow: visible;
+}
+
+.method-venn__you {
+  fill: var(--ink);
+  stroke: color-mix(in srgb, var(--mesh-vignette) 55%, transparent);
+  stroke-width: 1.5;
+  filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.45));
+}
+
+.method-venn__legend {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.method-venn__legend-item {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  padding: 0.35rem 0 0.35rem 0.55rem;
+  border-left: 3px solid rgba(255, 255, 255, 0.25);
+}
+
+.method-venn__legend-item--tropical {
+  border-left-color: color-mix(in srgb, var(--mesh-ice-dim) 88%, transparent);
+}
+
+.method-venn__legend-item--arid {
+  border-left-color: color-mix(in srgb, var(--tropical-3) 82%, transparent);
+}
+
+.method-venn__legend-item--polar {
+  border-left-color: color-mix(in srgb, var(--mesh-glow-a) 92%, transparent);
+}
+
+.method-venn__legend-item--you {
+  border-left-color: color-mix(in srgb, var(--ink) 72%, transparent);
+}
+
+.method-venn__you-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background: var(--ink);
+  border: 1px solid color-mix(in srgb, var(--mesh-vignette) 50%, transparent);
+  flex-shrink: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+@media (max-width: 720px) {
+  .method-venn__frame {
+    grid-template-columns: 1fr;
+  }
 }
 
 .method-table-wrap {
@@ -737,11 +917,6 @@ body {
 
   .method-snapshot__swatches {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .method-snapshot__swatches span:nth-child(1),
-  .method-snapshot__swatches span:nth-child(6) {
-    grid-column: span 2;
   }
 }
   

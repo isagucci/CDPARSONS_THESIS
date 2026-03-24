@@ -694,7 +694,7 @@
 
 /* Center dashboard stack + CTA as one column (narrower than summary max when needed) */
 .results-dashboard-summary > .results-palettes-dashboard--hero-first,
-.results-dashboard-summary > .results-open-analytical {
+.results-dashboard-summary .results-open-analytical {
   width: min(100%, var(--results-dashboard-content-max, min(1120px, 100%)));
   max-width: var(--results-dashboard-content-max, min(1120px, 100%));
 }
@@ -728,6 +728,12 @@
   margin-inline: auto;
   margin-top: 1.75rem;
   box-sizing: border-box;
+}
+
+/* Button under Reference palettes in the right column: tighter vertical rhythm */
+.results-dash-cards--beside-hero > .results-open-analytical {
+  margin-top: 0.75rem;
+  max-width: 100%;
 }
 
 .results-open-analytical__btn {
@@ -766,7 +772,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  max-width: min(100%, 1320px);
+  max-width: min(100%, 1400px);
   margin: 0 auto 1rem;
   padding-inline: 0;
   box-sizing: border-box;

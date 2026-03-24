@@ -43,7 +43,7 @@
     <section id="questionnaire" class="section section--questionnaire" aria-labelledby="questionnaire-title" aria-live="polite">
       <header class="section-header">
         <p class="section-kicker">Phase I</p>
-        <h2 id="questionnaire-title">Visual comfort prompts</h2>
+        <h2 id="questionnaire-title">Visual Preference Prompts</h2>
         <p class="section-note">One question at a time. There are only a few.</p>
       </header>
 
@@ -56,13 +56,15 @@
             </span>
           </div>
           <div class="climate-popup__body">
-            <h1 id="climate-popup-title" class="climate-popup__h1">Climate zone identified</h1>
-            <h2 id="climate-popup-climate-name" class="climate-popup__h2" hidden></h2>
+            <h2 id="climate-popup-title" class="climate-popup__title">Climate Zone Identified</h2>
+            <h3 id="climate-popup-climate-name" class="climate-popup__code" hidden></h3>
             <p id="climate-popup-meta" class="climate-popup__meta"></p>
           </div>
-          <button type="button" id="climate-popup-continue" class="button button--primary">
-            See my results
-          </button>
+          <div class="climate-popup__actions">
+            <button type="button" id="climate-popup-continue" class="button button--primary">
+              See my results
+            </button>
+          </div>
         </div>
       </div>
 
@@ -75,12 +77,9 @@
 
         <div id="question-refine-view" class="question-refine-view" hidden>
           <div class="question-body">
-            <h3 class="question-text">Let’s refine your results</h3>
-            <p class="section-note question-refine-view__hint">
-              Multiple selection: choose as many images as you prefer.
-            </p>
+            <h3 class="question-text">Let’s refine your results (Multiple choice): </h3>
           </div>
-          <div id="refine-grid" class="refine-grid" aria-label="Refine your results image grid"></div>
+          <div id="refine-grid" class="refine-grid" aria-label="Refine your results, multiple choice"></div>
         </div>
 
         <div id="questionnaire-city-view" class="questionnaire-city-view" hidden>
@@ -104,20 +103,36 @@
 
         <div class="question-footer">
           <p id="question-progress" class="question-progress-text"></p>
-          <div class="question-controls">
-            <button id="prev-question" class="button button--ghost" type="button" disabled>Back</button>
-            <button id="next-question" class="button button--primary" type="button" disabled>Next</button>
+          <div class="question-footer__trail">
+            <div
+              id="koppen-loading"
+              class="koppen-loading"
+              hidden
+              aria-hidden="true"
+              aria-live="polite"
+              aria-busy="false"
+              role="status"
+            >
+              <img
+                id="koppen-loading-gif"
+                class="koppen-loading__gif"
+                src=""
+                alt=""
+                width="64"
+                height="64"
+                decoding="async"
+              />
+            </div>
+            <div class="question-controls">
+              <button id="prev-question" class="button button--ghost" type="button" disabled>Back</button>
+              <button id="next-question" class="button button--primary" type="button" disabled>Next</button>
+            </div>
           </div>
         </div>
       </div>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <p>Climate, Color & Advertising — Design thesis project.</p>
-  </footer>
-
-  <!-- Shown after “See my results”; GIF path: assets/buffer.gif -->
   <div
     id="results-buffer-overlay"
     class="results-buffer-overlay"

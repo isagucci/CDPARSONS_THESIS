@@ -72,12 +72,12 @@
                   <figcaption>Tropical · Brazil</figcaption>
                 </figure>
                 <figure class="method-snapshot__figure">
-                  <img class="method-snapshot__image" src="assets/images_egypt_nature/B-N1.webp" alt="Nature reference image from arid climate set" loading="lazy" decoding="async" />
-                  <figcaption>Arid · Egypt</figcaption>
-                </figure>
-                <figure class="method-snapshot__figure">
                   <img class="method-snapshot__image" src="assets/images_finland_nature/E-N1.jpg" alt="Nature reference image from polar climate set" loading="lazy" decoding="async" />
                   <figcaption>Polar · Finland</figcaption>
+                </figure>
+                <figure class="method-snapshot__figure">
+                  <img class="method-snapshot__image" src="assets/images_egypt_nature/B-N1.webp" alt="Nature reference image from arid climate set" loading="lazy" decoding="async" />
+                  <figcaption>Arid · Egypt</figcaption>
                 </figure>
               </div>
               <div class="method-snapshot__figures">
@@ -135,7 +135,7 @@
 
         <details class="method-step">
           <summary class="method-step__summary">
-            <span class="method-step__kicker">06</span>
+            <span class="method-step__kicker">02</span>
             <span class="method-step__title">Metadata Layer</span>
           </summary>
           <div class="method-step__content">
@@ -144,12 +144,41 @@
               These tags structure questionnaire rounds, support the refinement stage, and organize outputs
               such as the matrix columns and interpretive comparisons.
             </p>
+            <div class="method-meta-cards" aria-label="Example image metadata tags from the dataset">
+              <article class="method-meta-card">
+                <h3 class="method-meta-card__heading">Object / scene</h3>
+                <p class="method-meta-card__key">object_association</p>
+                <ul class="method-meta-card__tags">
+                  <li><span class="method-meta-card__tag">social / human</span></li>
+                  <li><span class="method-meta-card__tag">fruits</span></li>
+                  <li><span class="method-meta-card__tag">vegetation</span></li>
+                </ul>
+              </article>
+              <article class="method-meta-card">
+                <h3 class="method-meta-card__heading">Product type</h3>
+                <p class="method-meta-card__key">product_type</p>
+                <ul class="method-meta-card__tags">
+                  <li><span class="method-meta-card__tag">drink</span></li>
+                  <li><span class="method-meta-card__tag">cosmetic</span></li>
+                  <li><span class="method-meta-card__tag">food</span></li>
+                </ul>
+              </article>
+              <article class="method-meta-card">
+                <h3 class="method-meta-card__heading">Atmosphere</h3>
+                <p class="method-meta-card__key">atmosphere</p>
+                <ul class="method-meta-card__tags">
+                  <li><span class="method-meta-card__tag">saturated</span></li>
+                  <li><span class="method-meta-card__tag">neutral</span></li>
+                  <li><span class="method-meta-card__tag">bright</span></li>
+                </ul>
+              </article>
+            </div>
           </div>
         </details>
 
         <details class="method-step">
           <summary class="method-step__summary">
-            <span class="method-step__kicker">02</span>
+            <span class="method-step__kicker">03</span>
             <span class="method-step__title">Questionnaire Rounds + Refinement Grid</span>
           </summary>
           <div class="method-step__content">
@@ -166,8 +195,6 @@
                 <span style="background:#D8C8B8;" title="#D8C8B8"><i>#D8C8B8</i></span>
                 <span style="background:#284848;" title="#284848"><i>#284848</i></span>
                 <span style="background:#385848;" title="#385848"><i>#385848</i></span>
-                <span style="background:#687858;" title="#687858"><i>#687858</i></span>
-                <span style="background:#A82838;" title="#A82838"><i>#A82838</i></span>
               </div>
             </div>
           </div>
@@ -175,7 +202,7 @@
 
         <details class="method-step">
           <summary class="method-step__summary">
-            <span class="method-step__kicker">03</span>
+            <span class="method-step__kicker">04</span>
             <span class="method-step__title">Climate Lookup (Koppen API)</span>
           </summary>
           <div class="method-step__content">
@@ -195,7 +222,7 @@
 
         <details class="method-step">
           <summary class="method-step__summary">
-            <span class="method-step__kicker">04</span>
+            <span class="method-step__kicker">05</span>
             <span class="method-step__title">Matching &amp; Placement</span>
           </summary>
           <div class="method-step__content">
@@ -205,12 +232,56 @@
               field becomes your climate match, and your point is placed on the brightness-saturation map
               using your average values.
             </p>
+            <figure class="method-venn">
+              <p class="method-snapshot__label">Climate match (conceptual)</p>
+              <div class="method-venn__frame">
+                <div class="method-venn__svg-wrap">
+                <svg class="method-venn__svg" viewBox="-6 -6 432 338" xmlns="http://www.w3.org/2000/svg" focusable="false" aria-hidden="true" overflow="visible">
+                  <defs>
+                    <!-- Tropical = green (mesh sage); Arid = red/coral (theme + mesh rose); Polar = off-white (mesh cream) -->
+                    <linearGradient id="method-venn-tropical" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stop-color="var(--mesh-ice-dim)" stop-opacity="0.5" />
+                      <stop offset="100%" stop-color="var(--mesh-ice)" stop-opacity="0.44" />
+                    </linearGradient>
+                    <linearGradient id="method-venn-arid" x1="0%" y1="100%" x2="100%" y2="0%">
+                      <stop offset="0%" stop-color="var(--mesh-glow-b)" stop-opacity="0.5" />
+                      <stop offset="100%" stop-color="var(--tropical-3)" stop-opacity="0.42" />
+                    </linearGradient>
+                    <linearGradient id="method-venn-polar" x1="50%" y1="0%" x2="50%" y2="100%">
+                      <stop offset="0%" stop-color="var(--mesh-glow-a)" stop-opacity="0.38" />
+                      <stop offset="100%" stop-color="var(--mesh-l4)" stop-opacity="0.32" />
+                    </linearGradient>
+                  </defs>
+                  <!-- Tropical · Brazil -->
+                  <circle class="method-venn__circle method-venn__circle--tropical" cx="132" cy="128" r="96" fill="url(#method-venn-tropical)" stroke="var(--hairline)" stroke-width="1.25" />
+                  <!-- Arid · Egypt -->
+                  <circle class="method-venn__circle method-venn__circle--arid" cx="288" cy="128" r="96" fill="url(#method-venn-arid)" stroke="var(--hairline)" stroke-width="1.25" />
+                  <!-- Polar · Finland -->
+                  <circle class="method-venn__circle method-venn__circle--polar" cx="210" cy="218" r="96" fill="url(#method-venn-polar)" stroke="var(--hairline)" stroke-width="1.25" />
+                  <!-- Approximate triple-overlap: your palette vs closest band -->
+                  <circle class="method-venn__you" cx="210" cy="158" r="9" />
+                </svg>
+                </div>
+                <ul class="method-venn__legend">
+                  <li class="method-venn__legend-item method-venn__legend-item--tropical"><span>Tropical</span> <span class="method-venn__legend-note">Brazil</span></li>
+                  <li class="method-venn__legend-item method-venn__legend-item--arid"><span>Arid</span> <span class="method-venn__legend-note">Egypt</span></li>
+                  <li class="method-venn__legend-item method-venn__legend-item--polar"><span>Polar</span> <span class="method-venn__legend-note">Finland</span></li>
+                  <li class="method-venn__legend-item method-venn__legend-item--you">
+                    <span class="method-venn__you-dot" aria-hidden="true"></span>
+                    <span>Your palette</span> <span class="method-venn__legend-note">schematic</span>
+                  </li>
+                </ul>
+              </div>
+              <figcaption class="method-venn__caption">
+                Overlapping fields sketch how each climate dataset occupies shared color space; the model assigns your match to the <strong>closest</strong> distribution, then plots your averages on the map.
+              </figcaption>
+            </figure>
           </div>
         </details>
 
         <details class="method-step">
           <summary class="method-step__summary">
-            <span class="method-step__kicker">05</span>
+            <span class="method-step__kicker">06</span>
             <span class="method-step__title">Suggested Palette &amp; Card</span>
           </summary>
           <div class="method-step__content">

@@ -199,7 +199,7 @@
     <section id="results" class="section section--results" aria-labelledby="results-title">
       <header class="section-header">
         <p class="section-kicker">Phase III</p>
-        <h1 id="results-title"><a href="method.html" style="color: inherit; text-decoration: none;">Your color <em>profile</em></a></h1>
+        <h1 id="results-title"><a href="method.html" style="color: inherit; text-decoration: none;">Your Color <em>Profile</em></a></h1>
       </header>
 
       <div class="results-layout">
@@ -296,19 +296,19 @@
                       </div>
                     </div>
                   </details>
+
+                  <div class="results-open-analytical">
+                    <button type="button" class="results-open-analytical__btn" id="results-open-analytical-btn">
+                      Open raw data · scatterplot &amp; matrix
+                    </button>
+                  </div>
                 </div>
               </div>
 
             </div>
-
-            <div class="results-open-analytical">
-              <button type="button" class="results-open-analytical__btn" id="results-open-analytical-btn">
-                Open raw data · scatterplot &amp; matrix
-              </button>
-            </div>
           </div>
 
-          <!-- Deeper analytical layer: chart + matrix (unchanged logic, lazy-loaded) -->
+          <!-- Deeper analytical layer: chart + matrix (unchanged logic, lazy-loaded; full width below dashboard) -->
           <div id="results-analytical" class="results-analytical" hidden>
             <div class="results-analytical__header no-print">
               <span class="results-analytical__label">Raw visualization</span>
@@ -347,7 +347,10 @@
             <button type="button" id="results-about-toggle" class="results-about__toggle">
               Learn more <span class="results-about__toggle-note">(Climate &amp; Comfort)</span>
             </button>
-            <button type="button" id="print-card-btn" class="button button--primary results-profile__print-btn">Print results card</button>
+            <button type="button" id="print-card-btn" class="button button--primary results-profile__print-btn" aria-describedby="print-card-size-hint">Print results card</button>
+            <p id="print-card-size-hint" class="results-profile__print-hint">
+              Card is laid out for <strong>A6</strong> (105×148&nbsp;mm). The preview should match; if your dialog shows Letter or A4, choose paper size <strong>A6</strong> or “Actual size”.
+            </p>
           </div>
 
           <div id="results-about-body" class="results-about__body" hidden>

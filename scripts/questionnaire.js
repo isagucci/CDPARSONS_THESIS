@@ -23,13 +23,13 @@
   };
   const CLIMATE_TO_ID = { brazil: "tropical", egypt: "arid", finland: "polar" };
   const PROMPTS = [
-    "Which image draws you in most?",
-    "Which one feels most like you?",
-    "Which one would you keep on your wall?",
-    "Which image feels easiest to return to?",
-    "Which one has the mood you like best?",
-    "Which one would you choose first?",
-    "Which image feels most natural to you?"
+    "Which image feels most visually compelling to you?",
+    "Which one feels closest to your taste?",
+    "Which one feels most desirable to you?",
+    "Which image would you return to the most?",
+    "Which one has the kind of atmosphere you're drawn to?",
+    "Which one stands out to you first?",
+    "Which image feels most aligned with your world?"
   ];
 
   const CLIMATE_API_BASE_HTTPS = "https://climateapi.scottpinkelman.com/api/v1/location";
@@ -709,7 +709,6 @@
           return { code: r.koppen_geiger_zone, description: r.zone_description || "" };
         }
       } catch (e) {
-        // Try next candidate endpoint.
       }
     }
     return null;
@@ -746,7 +745,7 @@
     if (questionTotalEl) questionTotalEl.textContent = " / " + formatIndex(TOTAL_STEPS - 1);
     if (prevBtn) prevBtn.disabled = false;
     if (nextBtn) { nextBtn.disabled = false; nextBtn.textContent = "Continue"; }
-    if (progressTextEl) progressTextEl.textContent = "Select any images you like (multiple selection), then continue.";
+    if (progressTextEl) progressTextEl.textContent = "";
     renderProgressBar(NUM_ROUNDS + 1);
   }
 
@@ -883,8 +882,7 @@
     prevBtn.disabled = round === 0;
     nextBtn.disabled = !state.roundPick;
     nextBtn.textContent = "Next";
-    progressTextEl.textContent =
-      "Round " + (round + 1) + " of " + NUM_ROUNDS + ". Select an image, then click Next.";
+    if (progressTextEl) progressTextEl.textContent = "";
     renderProgressBar(round + 1);
   }
 
@@ -939,12 +937,26 @@
       return;
     }
     if (cityErrorEl) cityErrorEl.hidden = true;
-    if (nextBtn) { nextBtn.disabled = true; nextBtn.textContent = "Looking up…"; }
+
+    const loadingEl = document.getElementById("koppen-loading");
+    const loadingGif = document.getElementById("koppen-loading-gif");
+    if (nextBtn) {
+      nextBtn.disabled = true;
+      nextBtn.textContent = "Looking up…";
+    }
+    if (loadingEl) {
+      loadingEl.hidden = false;
+      loadingEl.setAttribute("aria-hidden", "false");
+      loadingEl.setAttribute("aria-busy", "true");
+      if (loadingGif && (!loadingGif.getAttribute("src") || loadingGif.getAttribute("src") === "")) {
+        loadingGif.src = BUFFER_GIF_URL;
+      }
+    }
+
     try {
       const coords = await geocodeCity(city);
       if (!coords) {
         if (cityErrorEl) { cityErrorEl.textContent = "We couldn't find that city. Try another spelling or name."; cityErrorEl.hidden = false; }
-        if (nextBtn) { nextBtn.disabled = false; nextBtn.textContent = "Continue"; }
         return;
       }
       const zoneInfo = await fetchClimateZone(coords.lat, coords.lon);
@@ -953,8 +965,17 @@
       showClimatePopup(koppenInfo);
     } catch (e) {
       if (cityErrorEl) { cityErrorEl.textContent = "Something went wrong. Please try again."; cityErrorEl.hidden = false; }
+    } finally {
+      if (loadingEl) {
+        loadingEl.hidden = true;
+        loadingEl.setAttribute("aria-hidden", "true");
+        loadingEl.setAttribute("aria-busy", "false");
+      }
+      if (nextBtn) {
+        nextBtn.disabled = false;
+        nextBtn.textContent = "Continue";
+      }
     }
-    if (nextBtn) { nextBtn.disabled = false; nextBtn.textContent = "Continue"; }
   }
 
   async function init() {

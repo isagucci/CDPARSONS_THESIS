@@ -612,6 +612,8 @@
   gap: clamp(1.75rem, 4vw, 2.5rem);
   margin-top: 0.25rem;
   align-items: end;
+  /* Room for percent labels when a bar reaches 100% (sits above the fill). */
+  padding-top: clamp(1.35rem, 2.8vw, 1.85rem);
 }
 
 @media (min-width: 620px) {
@@ -642,7 +644,8 @@
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: 12px;
-  overflow: hidden;
+  /* Visible so percent labels can sit above the fill (incl. 100% height). */
+  overflow: visible;
 }
 
 .journey-metric-bar__fill {
@@ -652,16 +655,11 @@
   right: 0;
   bottom: 0;
   height: 0%;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  /* Keep labels inside the bar even for very small values.
-     Vertical padding could push the percent text above the fill top,
-     where it gets clipped by the track. */
   padding: 0 0.55rem;
   box-sizing: border-box;
   transition: height 1.2s cubic-bezier(0.22, 1, 0.36, 1);
   border-top: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 0 0 11px 11px;
 }
 
 /* Grow to data height when the palette-metrics slide is active (class-based so step order can change) */
@@ -687,6 +685,11 @@
 }
 
 .journey-metric-bar__value {
+  position: absolute;
+  left: 0.55rem;
+  right: 0.55rem;
+  bottom: 100%;
+  margin-bottom: 0.2rem;
   font-family: var(--font-question);
   font-size: clamp(1.35rem, 2.8vw, 2.15rem);
   font-weight: 700;
@@ -698,8 +701,8 @@
     0 1px 8px rgba(0, 0, 0, 0.35);
   pointer-events: none;
   user-select: none;
-  /* Sit just inside the top edge of the filled bar */
-  margin-top: 0.15rem;
+  text-align: left;
+  white-space: nowrap;
 }
 
 .journey-metric-bar__caption {

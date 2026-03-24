@@ -1,18 +1,76 @@
 /**
  * Two-page A6 comfort profile card — screen preview + print.
- * Gradients shift by data-print-climate (tropical | arid | polar).
+ * Background matches site ambient mesh (css/ambient-mesh.css on html);
+ * --mesh-* tokens shift by data-print-climate (tropical | arid | polar).
  */
 
 .results-print-card {
   --print-a6-w: 105mm;
   --print-a6-h: 148mm;
   --print-frame-inset: 10mm;
+  /* Blob anchors — same as html[data-ambient-page="results"] */
+  --mesh-ax: 46%;
+  --mesh-ay: 44%;
+  --mesh-bx: 8%;
+  --mesh-by: 12%;
+  --mesh-cx: 94%;
+  --mesh-cy: 22%;
+  --mesh-dx: 52%;
+  --mesh-dy: 82%;
+  /* Default palette — :root in ambient-mesh (overridden per climate below) */
+  --mesh-glow-a: #e1cfa8;
+  --mesh-glow-b: #be8c85;
+  --mesh-ice: #a8c4b4;
+  --mesh-ice-dim: #4e8268;
+  --mesh-magenta: #c4a896;
+  --mesh-vignette: #2a2824;
+  --mesh-l1: #4e8268;
+  --mesh-l2: #5d7d6a;
+  --mesh-l3: #be8c85;
+  --mesh-l4: #e1cfa8;
   margin-top: 1.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1.25rem;
   max-width: 100%;
+}
+
+/* Same triples as html[data-mesh-climate] in ambient-mesh.css */
+.results-print-card[data-print-climate="tropical"] {
+  --mesh-glow-a: #edc868;
+  --mesh-glow-b: #a18c6d;
+  --mesh-ice: #c5d2b8;
+  --mesh-ice-dim: #4e8268;
+  --mesh-magenta: #c6a66e;
+  --mesh-l1: #4e8268;
+  --mesh-l2: #6f8a6e;
+  --mesh-l3: #a18c6d;
+  --mesh-l4: #edc868;
+}
+
+.results-print-card[data-print-climate="arid"] {
+  --mesh-glow-a: #ecd0c8;
+  --mesh-glow-b: #be8c85;
+  --mesh-ice: #caf4f4;
+  --mesh-ice-dim: #9ec8cc;
+  --mesh-magenta: #d4b8b0;
+  --mesh-l1: #9a7a72;
+  --mesh-l2: #be8c85;
+  --mesh-l3: #ecd0c8;
+  --mesh-l4: #caf4f4;
+}
+
+.results-print-card[data-print-climate="polar"] {
+  --mesh-glow-a: #e1cfa8;
+  --mesh-glow-b: #ccc1ac;
+  --mesh-ice: #a8c0dc;
+  --mesh-ice-dim: #3a7bb2;
+  --mesh-magenta: #b8c0c8;
+  --mesh-l1: #3a7bb2;
+  --mesh-l2: #6e8aad;
+  --mesh-l3: #ccc1ac;
+  --mesh-l4: #e1cfa8;
 }
 
 /* Keep print card hidden on screen; show only in print layout. */
@@ -192,46 +250,85 @@
   border-radius: 4px;
 }
 
-/* Climate gradients (front + back use same token) */
-.results-print-card[data-print-climate="tropical"] .comfort-card {
-  background: linear-gradient(
-    180deg,
-    #e6d5b8 0%,
-    #c4a09a 42%,
-    #3d5c48 100%
-  );
-}
-
-.results-print-card[data-print-climate="arid"] .comfort-card {
-  background: linear-gradient(
-    180deg,
-    #edd9b8 0%,
-    #c9956a 45%,
-    #6b4423 100%
-  );
-}
-
-.results-print-card[data-print-climate="polar"] .comfort-card {
-  background: linear-gradient(
-    180deg,
-    #d8e2ea 0%,
-    #9aacb8 48%,
-    #3d4f5c 100%
-  );
-}
-
-.results-print-card:not([data-print-climate]) .comfort-card,
-.results-print-card[data-print-climate=""] .comfort-card {
-  background: linear-gradient(180deg, #e6d5b8 0%, #b5838d 50%, #52735b 100%);
+/* Ambient mesh stack (mirrors html background in ambient-mesh.css); grain from :root */
+.results-print-card .comfort-card {
+  background-color: var(--mesh-vignette);
+  background-image:
+    var(--ambient-grain),
+    radial-gradient(
+      ellipse 105% 88% at var(--mesh-ax) var(--mesh-ay),
+      color-mix(in srgb, var(--mesh-glow-a) 58%, transparent) 0%,
+      color-mix(in srgb, var(--mesh-magenta) 28%, transparent) 44%,
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 85% 70% at var(--mesh-bx) var(--mesh-by),
+      color-mix(in srgb, var(--mesh-ice) 42%, transparent) 0%,
+      transparent 54%
+    ),
+    radial-gradient(
+      ellipse 70% 85% at var(--mesh-cx) var(--mesh-cy),
+      color-mix(in srgb, var(--mesh-ice-dim) 38%, transparent) 0%,
+      transparent 52%
+    ),
+    radial-gradient(
+      ellipse 65% 55% at var(--mesh-dx) var(--mesh-dy),
+      color-mix(in srgb, var(--mesh-glow-b) 40%, transparent) 0%,
+      transparent 56%
+    ),
+    conic-gradient(
+      from 228deg at 58% 48%,
+      color-mix(in srgb, var(--mesh-magenta) 14%, transparent) 0deg,
+      transparent 55deg,
+      transparent 200deg,
+      color-mix(in srgb, var(--mesh-glow-a) 10%, transparent) 300deg,
+      transparent 360deg
+    ),
+    linear-gradient(to bottom, var(--mesh-l1) 0%, var(--mesh-l2) 32%, var(--mesh-l3) 58%, var(--mesh-l4) 100%);
+  background-size:
+    160px 160px,
+    135% 135%,
+    125% 125%,
+    115% 115%,
+    130% 130%,
+    100% 100%,
+    100% 100%;
+  background-repeat: repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-position:
+    0 0,
+    50% 45%,
+    12% 88%,
+    88% 14%,
+    70% 72%,
+    center,
+    center;
+  background-blend-mode: overlay, normal, normal, normal, normal, soft-light, normal;
 }
 
 /* —— Print: exact A6, two sheets —— */
+/*
+ * Requests A6 (ISO 105×148 mm) in print preview. Browsers do not allow JS to
+ * force the system print dialog’s paper size; users may still need to pick A6
+ * if their default is Letter/A4. Named @page + page: improves Chromium behavior.
+ */
 @page {
-  size: A6 portrait;
+  size: 105mm 148mm;
+  margin: 0;
+}
+
+@page a6-comfort {
+  size: 105mm 148mm;
   margin: 0;
 }
 
 @media print {
+  html,
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+
   body * {
     visibility: hidden !important;
   }
@@ -255,6 +352,7 @@
   }
 
   .comfort-card {
+    page: a6-comfort;
     width: 105mm !important;
     height: 148mm !important;
     max-width: none !important;

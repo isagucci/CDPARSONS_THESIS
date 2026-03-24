@@ -92,16 +92,22 @@
     object-position: center;
   }
 
-  /* Refinement grid (15 images = 5×3) — fit without vertical scroll on typical viewports */
+  /* Refinement grid (15 images = 5×3) — fixed viewport budget, no page scroll */
   .refine-grid {
     display: grid;
     width: 100%;
     max-width: none;
     grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: clamp(4px, 1vw, 8px);
-    margin-top: 0.35rem;
+    grid-template-rows: repeat(3, minmax(0, 1fr));
+    /* Reserve header, section title, meta, progress, prompt gap, footer — compact grid */
+    height: clamp(160px, min(calc(100svh - 20.5rem), 38vh), calc(100dvh - 20.5rem));
+    max-height: min(calc(100svh - 20.5rem), 38vh);
+    gap: clamp(2px, 0.65vw, 5px);
+    margin-top: 0;
     margin-left: 0;
     margin-right: 0;
+    min-height: 0;
+    align-content: stretch;
   }
 
   /* Make refinement selection clearer than normal question options */
@@ -110,9 +116,18 @@
     border-width: 2px;
     max-width: none;
     width: 100%;
-    /* Shorter than 3/4 portrait so 3 rows fit above the fold */
-    aspect-ratio: 4 / 5;
+    height: 100%;
     min-height: 0;
+    aspect-ratio: unset;
+    padding: 0;
+    overflow: hidden;
+    /* Letterboxing from object-fit: contain */
+    background: rgba(255, 255, 255, 0.06);
+  }
+
+  .refine-grid .option-image img {
+    object-fit: contain;
+    object-position: center;
   }
 
   .refine-grid .option-image--selected {
@@ -122,15 +137,16 @@
     opacity: 1;
   }
 
-  /* Very narrow: still 5 columns so layout stays 3 rows (tiles shrink) */
+  /* Very narrow: still 5×3 inside same height budget */
   @media (max-width: 380px) {
     .refine-grid {
-      gap: 3px;
+      gap: 2px;
+      height: clamp(140px, min(calc(100svh - 19.5rem), 36vh), calc(100dvh - 19.5rem));
+      max-height: min(calc(100svh - 19.5rem), 36vh);
     }
 
     .refine-grid .option-image {
       border-radius: 8px;
-      aspect-ratio: 1 / 1;
     }
   }
 
