@@ -435,22 +435,23 @@ body {
     gap: 1rem;
   }
 
-  /* Köppen lookup: small buffer above Continue (city step) */
+  /* Köppen lookup: buffer GIF beside Continue (city step) */
   .question-footer__trail {
     display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 0.5rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem 0.75rem;
     min-width: 0;
   }
 
-  /* Match button row width; center GIF over that span */
   .koppen-loading {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    min-height: 2.75rem;
+    flex: 0 0 auto;
+    min-height: 0;
   }
 
   .koppen-loading[hidden] {
