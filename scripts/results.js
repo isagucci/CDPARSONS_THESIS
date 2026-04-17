@@ -1538,11 +1538,26 @@
     return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v);
   }
 
+  // GitHub Pages is static-only, so use a hosted form endpoint (Formspree).
+  // Replace with your real Formspree endpoint, e.g. "https://formspree.io/f/abcdwxyz".
+  const FORM_EMAIL_ENDPOINT = "";
+
   async function sendResultsLinkEmail(email, resultUrl) {
-    const res = await fetch("/api/send-results-link", {
+    if (!FORM_EMAIL_ENDPOINT) {
+      throw new Error("Form endpoint not configured.");
+    }
+    const res = await fetch(FORM_EMAIL_ENDPOINT, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email, resultUrl })
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json"
+      },
+      body: JSON.stringify({
+        email,
+        resultUrl,
+        subject: "Your Climate Comfort results",
+        message: "Here is your Climate Comfort results link:\n\n" + resultUrl
+      })
     });
     let data = null;
     try {
@@ -1551,7 +1566,7 @@
       data = null;
     }
     if (!res.ok || !data || !data.ok) {
-      const msg = (data && data.error) ? data.error : "Could not send email right now.";
+      const msg = (data && (data.error || data.message)) ? (data.error || data.message) : "Could not send email right now.";
       throw new Error(msg);
     }
   }
