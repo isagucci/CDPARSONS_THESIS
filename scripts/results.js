@@ -1,5 +1,5 @@
 /**
- * Results page — read URL params, render profile & card, run saturation–brightness chart (with optional user point), print card.
+ * Results page — read URL params, render profile & card, run saturation–brightness chart (with optional user point), and share by email.
  */
 
 (function () {
@@ -1532,12 +1532,82 @@
     initJourneyNav();
   }
 
-  function initPrint() {
-    const go = () => window.print();
+  function looksLikeEmail(value) {
+    const v = String(value || "").trim();
+    if (!v) return false;
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v);
+  }
+
+  async function sendResultsLinkEmail(email, resultUrl) {
+    const res = await fetch("/api/send-results-link", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email, resultUrl })
+    });
+    let data = null;
+    try {
+      data = await res.json();
+    } catch (e) {
+      data = null;
+    }
+    if (!res.ok || !data || !data.ok) {
+      const msg = (data && data.error) ? data.error : "Could not send email right now.";
+      throw new Error(msg);
+    }
+  }
+
+  function initEmailShare() {
     const btn = document.getElementById("print-card-btn");
     const btn2 = document.getElementById("print-card-btn-analytical");
-    if (btn) btn.addEventListener("click", go);
-    if (btn2) btn2.addEventListener("click", go);
+    if (!btn && !btn2) return;
+
+    const setBusy = (isBusy) => {
+      const label = isBusy ? "Sending..." : "Email me this result link";
+      [btn, btn2].forEach((el) => {
+        if (!el) return;
+        el.disabled = !!isBusy;
+        el.textContent = label;
+      });
+    };
+
+    const openMailtoFallback = (email, resultUrl) => {
+      const subject = "Your Climate Comfort results";
+      const body =
+        "Hi,\n\nHere is your Climate Comfort results link:\n" +
+        resultUrl +
+        "\n\nYou can reopen this exact result profile from this URL.";
+      const mailto =
+        "mailto:" +
+        encodeURIComponent(email) +
+        "?subject=" +
+        encodeURIComponent(subject) +
+        "&body=" +
+        encodeURIComponent(body);
+      window.location.href = mailto;
+    };
+
+    const onShare = async () => {
+      const entered = window.prompt("Enter your email to send this results link to yourself:");
+      if (entered == null) return;
+      const email = String(entered).trim();
+      if (!looksLikeEmail(email)) {
+        window.alert("Please enter a valid email address.");
+        return;
+      }
+      const resultUrl = window.location.href;
+      setBusy(true);
+      try {
+        await sendResultsLinkEmail(email, resultUrl);
+        window.alert("Sent. Check your inbox for your results link.");
+      } catch (e) {
+        openMailtoFallback(email, resultUrl);
+      } finally {
+        setBusy(false);
+      }
+    };
+
+    if (btn) btn.addEventListener("click", onShare);
+    if (btn2) btn2.addEventListener("click", onShare);
   }
 
   function initAboutToggle() {
@@ -1585,7 +1655,7 @@
     await renderFromParams();
     await initJourneyExperience();
     initOpenAnalytical();
-    initPrint();
+    initEmailShare();
     initAboutToggle();
     initRailToggle();
   }
