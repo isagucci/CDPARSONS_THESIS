@@ -1,11 +1,11 @@
 /**
  * Questionnaire: dynamic image choice from JSON metadata (converted from CSV).
- * Flow: load JSON → N rounds of 3-image choices (select, then Next to advance) → city → popup → results.
+ * Flow: load JSON → 4 rounds of 3-image choices (select, then Next to advance) → results.
  */
 
 (function () {
   const METADATA_URL = "data/image_metadata.json";
-  const NUM_ROUNDS = 7;
+  const NUM_ROUNDS = 4;
   const IMAGES_PER_ROUND = 3;
   const ASSETS_BASE = "assets";
   /** Buffer animation before results (place file in assets/). */
@@ -32,12 +32,22 @@
     "Which image feels most aligned with your world?"
   ];
 
-  const CLIMATE_API_BASE_HTTPS = "https://climateapi.scottpinkelman.com/api/v1/location";
-  const CLIMATE_API_PROXY = "https://api.allorigins.win/raw?url=";
+  /** Direct HTTP — use when the site is served over http:// (e.g. local python server). Fast, no proxy hop. */
+  const CLIMATE_API_BASE_HTTP = "http://climateapi.scottpinkelman.com/api/v1/location";
+  /**
+   * HTTPS + proxy — only for static hosting on https:// (e.g. GitHub Pages), where mixed content blocks HTTP.
+   * Uncomment in fetchClimateZone() if you deploy there; the allorigins hop is often slower.
+   */
+  // const CLIMATE_API_BASE_HTTPS = "https://climateapi.scottpinkelman.com/api/v1/location";
+  // const CLIMATE_API_PROXY = "https://api.allorigins.win/raw?url=";
   const GEOCODE_URL = "https://geocoding-api.open-meteo.com/v1/search";
+  /** Fail climate lookup after this ms so the UI does not hang if the API stalls (demo UX). */
+  const CLIMATE_FETCH_TIMEOUT_MS = 12000;
 
   const CLIMATES = ["brazil", "egypt", "finland"];
-  const TOTAL_STEPS = NUM_ROUNDS + 2; // image rounds + refine + city
+  const ENABLE_REFINEMENT_STEP = true;
+  const ENABLE_CITY_STEP = false;
+  const TOTAL_STEPS = NUM_ROUNDS + (ENABLE_REFINEMENT_STEP ? 1 : 0) + (ENABLE_CITY_STEP ? 1 : 0);
   const CLIMATE_RESULTS_URLS = {
     tropical: "data/results_brazil.json",
     arid: "data/results_egypt.json",
@@ -638,7 +648,7 @@
   let cityViewEl, imageViewEl, cityInputEl, cityErrorEl, popupEl, popupClimateNameEl, popupMetaEl, popupContinueBtn;
   let formativeCity = "";
   let koppenInfo = null;
-  const DISPLAY_STEPS = NUM_ROUNDS + 1; // rounds + (refine/city final step)
+  const DISPLAY_STEPS = TOTAL_STEPS;
 
   function ensureProgressBarDots() {
     if (!progressBarEl) return;
@@ -691,26 +701,42 @@
   }
 
   async function fetchClimateZone(lat, lon) {
-    // HTTPS-hosted pages cannot call an HTTP endpoint (mixed-content block).
-    // Try HTTPS first; on HTTPS pages, use a secure proxy fallback for HTTP-only APIs.
     const endpointPath = "/" + lat + "/" + lon;
-    const directHttps = CLIMATE_API_BASE_HTTPS + endpointPath;
-    const proxyHttp = CLIMATE_API_PROXY + encodeURIComponent("http://climateapi.scottpinkelman.com/api/v1/location" + endpointPath);
-    const candidates = [directHttps, proxyHttp];
+    const timeoutMs = CLIMATE_FETCH_TIMEOUT_MS;
+    const signal =
+      typeof AbortSignal !== "undefined" && typeof AbortSignal.timeout === "function"
+        ? AbortSignal.timeout(timeoutMs)
+        : undefined;
 
-    for (let i = 0; i < candidates.length; i++) {
-      const url = candidates[i];
-      try {
-        const res = await fetch(url);
-        if (!res.ok) continue;
-        const data = await res.json();
-        const r = data.return_values && data.return_values[0];
-        if (r) {
-          return { code: r.koppen_geiger_zone, description: r.zone_description || "" };
-        }
-      } catch (e) {
+    // —— Demo / local http:// server: single direct HTTP fetch (fastest path). ——
+    try {
+      const url = CLIMATE_API_BASE_HTTP + endpointPath;
+      const res = await fetch(url, signal ? { signal } : {});
+      if (!res.ok) return null;
+      const data = await res.json();
+      const r = data.return_values && data.return_values[0];
+      if (r) {
+        return { code: r.koppen_geiger_zone, description: r.zone_description || "" };
       }
+    } catch (e) {
+      /* timeout, network, CORS, or mixed-content if page is https */
     }
+
+    // —— GitHub Pages / https:// hosting: re-enable HTTPS then proxy (slower). Example:
+    // const httpsUrl = "https://climateapi.scottpinkelman.com/api/v1/location" + endpointPath;
+    // const proxyUrl =
+    //   "https://api.allorigins.win/raw?url=" +
+    //   encodeURIComponent("http://climateapi.scottpinkelman.com/api/v1/location" + endpointPath);
+    // for (const url of [httpsUrl, proxyUrl]) {
+    //   try {
+    //     const res = await fetch(url, signal ? { signal } : {});
+    //     if (!res.ok) continue;
+    //     const data = await res.json();
+    //     const r = data.return_values && data.return_values[0];
+    //     if (r) return { code: r.koppen_geiger_zone, description: r.zone_description || "" };
+    //   } catch (e) { /* try next */ }
+    // }
+
     return null;
   }
   
@@ -719,6 +745,7 @@
     }
   
   function showCityView() {
+    if (!ENABLE_CITY_STEP) return;
     if (cityViewEl) cityViewEl.hidden = false;
     if (imageViewEl) imageViewEl.hidden = true;
     if (refineViewEl) refineViewEl.hidden = true;
@@ -738,6 +765,7 @@
   }
 
   function showRefineView() {
+    if (!ENABLE_REFINEMENT_STEP) return;
     if (refineViewEl) refineViewEl.hidden = false;
     if (cityViewEl) cityViewEl.hidden = true;
     if (imageViewEl) imageViewEl.hidden = true;
@@ -792,6 +820,7 @@
 
   function getCombinedSelections() {
     const base = Array.isArray(state && state.selections) ? state.selections.slice() : [];
+    if (!ENABLE_REFINEMENT_STEP) return base;
     const refine = [];
     if (state && state.refineChoices && state.refineSelectedFiles) {
       state.refineChoices.forEach((img) => {
@@ -801,7 +830,7 @@
     return base.concat(refine);
   }
 
-  function commitRoundPickAndAdvance() {
+  async function commitRoundPickAndAdvance() {
     if (!state || !state.roundPick || state._choosing) return false;
     state._choosing = true;
     try {
@@ -810,8 +839,26 @@
       state.roundPick = null;
       state.roundIndex++;
       if (state.roundIndex >= NUM_ROUNDS) {
-        showRefineView();
-        renderRefineGrid();
+        if (ENABLE_REFINEMENT_STEP) {
+          showRefineView();
+          renderRefineGrid();
+          return true;
+        }
+        const combined = getCombinedSelections();
+        const profile = deriveProfileFromSelections(combined);
+        if (nextBtn) {
+          nextBtn.disabled = true;
+          nextBtn.textContent = "Calculating...";
+        }
+        const closest = await computeClosestClimateFromSelections(combined);
+        showBufferThenGoToResults(
+          profile,
+          closest.matchPct,
+          "",
+          closest.userHexes,
+          closest.allUserHexes,
+          closest.climateId
+        );
         return true;
       }
       state.currentChoices = getNextImageSet(metadata, state);
@@ -841,7 +888,7 @@
     const prompt = PROMPTS[round % PROMPTS.length];
 
     questionIndexEl.textContent = formatIndex(round);
-    questionTotalEl.textContent = " / " + formatIndex(TOTAL_STEPS - 1);
+    questionTotalEl.textContent = " / " + formatIndex(TOTAL_STEPS);
     questionTextEl.textContent = prompt;
     optionsListEl.innerHTML = "";
 
@@ -1027,7 +1074,7 @@
     recordRoundDisplayedFiles(0, state.currentChoices);
     renderRound();
 
-    if (popupContinueBtn) {
+    if (popupContinueBtn && ENABLE_CITY_STEP) {
       popupContinueBtn.addEventListener("click", async () => {
         hideClimatePopup();
         const combined = getCombinedSelections();
@@ -1052,12 +1099,16 @@
     if (backdrop) backdrop.addEventListener("click", () => hideClimatePopup());
 
     prevBtn.addEventListener("click", () => {
+      if (!ENABLE_CITY_STEP && !ENABLE_REFINEMENT_STEP) {
+        goBackRound();
+        return;
+      }
       if (cityViewEl && !cityViewEl.hidden) {
         // Back from city -> refine step
         cityViewEl.hidden = true;
         showRefineView();
         renderRefineGrid();
-      } else if (refineViewEl && !refineViewEl.hidden) {
+      } else if (ENABLE_REFINEMENT_STEP && refineViewEl && !refineViewEl.hidden) {
         // Back from refine -> last image round (restore same options, do not re-roll)
         refineViewEl.hidden = true;
         imageViewEl.hidden = false;
@@ -1080,17 +1131,33 @@
       }
     });
 
-    nextBtn.addEventListener("click", () => {
+    nextBtn.addEventListener("click", async () => {
       if (cityViewEl && !cityViewEl.hidden) {
         doCitySubmit();
         return;
       }
-      if (refineViewEl && !refineViewEl.hidden) {
+      if (ENABLE_REFINEMENT_STEP && refineViewEl && !refineViewEl.hidden) {
+        if (!ENABLE_CITY_STEP) {
+          const combined = getCombinedSelections();
+          const profile = deriveProfileFromSelections(combined);
+          nextBtn.disabled = true;
+          nextBtn.textContent = "Calculating...";
+          const closest = await computeClosestClimateFromSelections(combined);
+          showBufferThenGoToResults(
+            profile,
+            closest.matchPct,
+            "",
+            closest.userHexes,
+            closest.allUserHexes,
+            closest.climateId
+          );
+          return;
+        }
         showCityView();
         return;
       }
       if (imageViewEl && !imageViewEl.hidden && state && state.currentChoices && state.currentChoices.length) {
-        commitRoundPickAndAdvance();
+        await commitRoundPickAndAdvance();
       }
     });
   }
